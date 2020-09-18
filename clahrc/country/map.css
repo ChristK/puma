@@ -1,0 +1,11 @@
+/* --- Map --- */
+/*
+  Overide main css style > this is important for removing the padding round
+  the main content box
+*/
+
+
+div#map_canvas{
+  width:100%;
+  height:calc( 500px );
+}
