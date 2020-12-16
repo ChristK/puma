@@ -1,0 +1,1211 @@
+{
+    "IDs": {
+        "zotero": "RZNTJVK5",
+        "DOI": "10.1136/bmjopen-2017-015868",
+        "DOI_filename": "5efe506da1e5cdaa762e8f3b4a0e3161",
+        "PMID": "28698335",
+        "scopus": "2-s2.0-85023749290",
+        "hash": "994cd98e1a243399b766f48f78203fd6"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "RZNTJVK5",
+            "version": 179,
+            "itemType": "journalArticle",
+            "title": "Risk of a seizure recurrence after a breakthrough seizure and the implications for driving: further analysis of the standard versus new antiepileptic drugs (SANAD) randomised controlled trial",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "L J",
+                    "lastName": "Bonnett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "G A",
+                    "lastName": "Powell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ag",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMJ Open",
+            "volume": "7",
+            "issue": "7",
+            "pages": "e015868",
+            "date": "07/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2017-015868",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Risk of a seizure recurrence after a breakthrough seizure and the implications for driving",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2017-015868",
+            "accessDate": "2020-09-10T17:09:29Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28698335",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:29Z",
+            "dateModified": "2020-09-15T14:25:48Z",
+            "pmid": "28698335"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T22:44:22Z",
+                "timestamp": 1588891462094
+            },
+            "reference-count": 36,
+            "publisher": "BMJ",
+            "issue": "7",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000659",
+                    "name": "Research Trainees Coordinating Centre",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        7
+                    ]
+                ]
+            },
+            "DOI": "10.1136/bmjopen-2017-015868",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        12
+                    ]
+                ],
+                "date-time": "2017-07-12T00:10:16Z",
+                "timestamp": 1499818216000
+            },
+            "page": "e015868",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 7,
+            "title": "Risk of a seizure recurrence after a breakthrough seizure and the implications for driving: further analysis of the standard versus new antiepileptic drugs (SANAD) randomised controlled trial",
+            "prefix": "10.1136",
+            "volume": "7",
+            "author": [
+                {
+                    "given": "L J",
+                    "family": "Bonnett",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "G A",
+                    "family": "Powell",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "C",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "AG",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        10
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-1",
+                    "year": "2013",
+                    "volume-title": "The Motor Vehicles (Driving licences) (Amendment) Regulations"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-2",
+                    "author": "Driver and Vehicle Licensing Agency",
+                    "year": "2016",
+                    "volume-title": "Assessing fitness to drive - a guide for medical professionals"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-3",
+                    "first-page": "68",
+                    "article-title": "Epilepsy and driving in Belgium: proposals and justification",
+                    "volume": "104",
+                    "author": "Schmedding",
+                    "year": "2004",
+                    "journal-title": "Acta Neurol Belg"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1780",
+                    "DOI": "10.1212/WNL.57.10.1780",
+                    "article-title": "Individual state driving restrictions for people with epilepsy in the US",
+                    "volume": "57",
+                    "author": "Krauss",
+                    "year": "2001",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "317",
+                    "DOI": "10.1016/S1474-4422(06)70383-0",
+                    "article-title": "Prediction of risk of seizure recurrence after a single seizure and early epilepsy: further results from the MESS trial",
+                    "volume": "5",
+                    "author": "Kim",
+                    "year": "2006",
+                    "journal-title": "Lancet Neurol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-6",
+                    "volume": "33",
+                    "first-page": "45",
+                    "year": "1992",
+                    "article-title": "Prognosis of epilepsy in newly referred patients: a multicenter prospective study of the effects of monotherapy on the long-term course of epilepsy. Collaborative Group for the study of Epilepsy",
+                    "journal-title": "Epilepsia",
+                    "DOI": "10.1111/j.1528-1157.1992.tb02281.x",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c6477",
+                    "DOI": "10.1136/bmj.c6477",
+                    "article-title": "Risk of recurrence after a first seizure and implications for driving: further analysis of the Multicentre study of early Epilepsy and single seizures",
+                    "volume": "341",
+                    "author": "Bonnett",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1328",
+                    "DOI": "10.1136/jnnp.2010.222885",
+                    "article-title": "Seizure recurrence after antiepileptic drug withdrawal and the implications for driving: further results from the MRC Antiepileptic Drug Withdrawal Study and a systematic review",
+                    "volume": "82",
+                    "author": "Bonnett",
+                    "year": "2011",
+                    "journal-title": "J Neurol Neurosurg Psychiatry"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1016",
+                    "DOI": "10.1016/S0140-6736(07)60461-9",
+                    "article-title": "The SANAD study of effectiveness of valproate, lamotrigine, or topiramate for generalised and unclassifiable epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-11",
+                    "year": "2006",
+                    "volume-title": "Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licenses (Recast)"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-12",
+                    "unstructured": "Angloinfo. Hungarian Driving Licences. 2016 https://www.angloinfo.com/hungary/how-to/page/hungary-transport-driving-licences-driving-test."
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-13",
+                    "unstructured": "Citizens Information. Categories of motor vehicles and minimum age of drivers. 2016 http://www.citizensinformation.ie/en/travel_and_recreation/motoring_1/driver_licensing/categories_of_motor_vehicles_and_minimum_age_of_drivers_in_ireland.html."
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-14",
+                    "author": "Cox",
+                    "year": "1984",
+                    "volume-title": "Analysis of Survival Data"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "485",
+                    "DOI": "10.1002/(SICI)1097-0142(19990115)85:2<485::AID-CNCR29>3.0.CO;2-L",
+                    "article-title": "The conditional probability of survival of patients with primary malignant brain tumors: surveillance, epidemiology, and end results (SEER) data",
+                    "volume": "85",
+                    "author": "Davis",
+                    "year": "1999",
+                    "journal-title": "Cancer"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "402",
+                    "DOI": "10.1016/S0090-3019(03)00322-7",
+                    "article-title": "The conditional probabilities of survival in patients with anaplastic astrocytoma or glioblastoma multiforme",
+                    "volume": "60",
+                    "author": "Lin",
+                    "year": "2003",
+                    "journal-title": "Surg Neurol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "716",
+                    "DOI": "10.1109/TAC.1974.1100705",
+                    "article-title": "A new look at the statistical model identification",
+                    "volume": "19",
+                    "author": "Akaike",
+                    "year": "1974",
+                    "journal-title": "IEEE Trans Automat Contr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-18",
+                    "author": "Collett",
+                    "year": "2003",
+                    "volume-title": "Modelling Survival Data in Medical Research. Boca Raton, Fla.: chapman & Hall/CRC"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "964",
+                    "DOI": "10.1093/ije/28.5.964",
+                    "article-title": "The use of fractional polynomials to model continuous risk variables in epidemiology",
+                    "volume": "28",
+                    "author": "Royston",
+                    "year": "1999",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-20",
+                    "first-page": "429",
+                    "article-title": "Regression using fractional polynomials of continuous covariates - Parsimonious Parametric modeling",
+                    "volume": "43",
+                    "author": "Royston",
+                    "year": "1994",
+                    "journal-title": "Applied Statistics-Journal of the Royal Statistical Society Series C"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-21",
+                    "author": "Royston",
+                    "year": "2008",
+                    "volume-title": "Multivariable Model-Building - A pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables: wiley"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "561",
+                    "DOI": "10.1055/s-0038-1634008",
+                    "article-title": "Building multivariable regression models with continuous covariates in clinical epidemiology--with an emphasis on fractional polynomials",
+                    "volume": "44",
+                    "author": "Royston",
+                    "year": "2005",
+                    "journal-title": "Methods Inf Med"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.1214/ss/1177013607",
+                    "article-title": "Comment: generalized additive models",
+                    "volume": "1",
+                    "author": "Stone",
+                    "year": "1986",
+                    "journal-title": "Statistical Science"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "239",
+                    "DOI": "10.1093/biomet/69.1.239",
+                    "article-title": "Partial residuals for the proportional hazards regression model",
+                    "volume": "69",
+                    "author": "Schoenfeld",
+                    "year": "1982",
+                    "journal-title": "Biometrika"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "361",
+                    "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+                    "article-title": "Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors",
+                    "volume": "15",
+                    "author": "Harrell",
+                    "year": "1996",
+                    "journal-title": "Stat Med"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "801",
+                    "DOI": "10.1001/archneur.1992.00530320025008",
+                    "article-title": "The National General Practice Study of Epilepsy. the syndromic classification of the International League against Epilepsy applied to epilepsy in a general population",
+                    "volume": "49",
+                    "author": "Manford",
+                    "year": "1992",
+                    "journal-title": "Arch Neurol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-27",
+                    "author": "Hosmer",
+                    "year": "2000",
+                    "edition": "0",
+                    "volume-title": "Applied Logistic regression",
+                    "DOI": "10.1002/0471722146",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1002/sim.4780030207",
+                    "article-title": "Regression modelling strategies for improved prognostic prediction",
+                    "volume": "3",
+                    "author": "Harrell",
+                    "year": "1984",
+                    "journal-title": "Stat Med"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-29",
+                    "unstructured": "Al-Kattan M , Afifi L , Shamloul R , et al . Assessment of precipitating factors of breakthrough seizures in epileptic patients. 2015 2015:165\u201371.",
+                    "DOI": "10.4103/1110-1083.162002",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/1471-2377-13-182",
+                    "article-title": "The frequency and precipitating factors for breakthrough seizures among patients with epilepsy in Uganda",
+                    "volume": "13",
+                    "author": "Kaddumukasa",
+                    "year": "2013",
+                    "journal-title": "BMC Neurol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "552",
+                    "DOI": "10.1212/WNL.0000000000000673",
+                    "article-title": "Treatment outcome after failure of a first antiepileptic drug",
+                    "volume": "83",
+                    "author": "Bonnett",
+                    "year": "2014",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "60",
+                    "DOI": "10.1136/jnnp-2013-307529",
+                    "article-title": "When is it safe to return to driving following first-ever seizure?",
+                    "volume": "86",
+                    "author": "Brown",
+                    "year": "2015",
+                    "journal-title": "J Neurol Neurosurg Psychiatry"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "829",
+                    "DOI": "10.1093/jnci/86.11.829",
+                    "article-title": "Dangers of using \"optimal\" cutpoints in the evaluation of prognostic factors",
+                    "volume": "86",
+                    "author": "Altman",
+                    "year": "1994",
+                    "journal-title": "J Natl Cancer Inst"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "469",
+                    "DOI": "10.1111/j.1528-1157.1992.tb01693.x",
+                    "article-title": "Epilepsy, driving laws, and patient disclosure to physicians",
+                    "volume": "33",
+                    "author": "Salinsky",
+                    "year": "1992",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-35",
+                    "author": "Tudur Smith",
+                    "volume": "8",
+                    "year": "2007",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "journal-title": "Trials",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2017-015868-36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "111",
+                    "DOI": "10.1016/j.yebeh.2015.04.016",
+                    "article-title": "Do drivers with epilepsy have higher rates of motor vehicle accidents than those without epilepsy?",
+                    "volume": "47",
+                    "author": "Naik",
+                    "year": "2015",
+                    "journal-title": "Epilepsy Behav"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2017-015868",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        29
+                    ]
+                ],
+                "date-time": "2019-09-29T16:11:10Z",
+                "timestamp": 1569773470000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 36,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            10
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "7"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2017-015868"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2017-015868",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "adults",
+                        "breakthrough seizures",
+                        "driving",
+                        "epilepsy"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28698335",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "05",
+                    "Day": "01"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2017-015868"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "07",
+                            "Day": "10"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "Issue": "7",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jul",
+                                "Day": "10"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Risk of a seizure recurrence after a breakthrough seizure and the implications for driving: further analysis of the standard versus new antiepileptic drugs (SANAD) randomised controlled trial.",
+                    "Pagination": {
+                        "MedlinePgn": "e015868"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "A breakthrough seizure is one occurring after at least 12 months seizure freedom while on treatment. The Driver and Vehicle Licensing Agency (DVLA) allows an individual to return to driving once they have been seizure free for 12 months following a breakthrough seizure. This is based on the assumption that the risk of a further seizure in the next 12 months has dropped <20%. This analysis considers whether the prescribed 1 year off driving following a breakthrough seizure is sufficient for this and stratifies risk according to clinical characteristics. DESIGN, SETTING, PARTICIPANTS, INTERVENTIONS AND MAIN OUTCOME MEASURES: The multicentre UK-based Standard versus New Antiepileptic Drugs (SANAD) study was a randomised controlled trial assessing standard and new antiepileptic drugs for patients with newly diagnosed epilepsy. For participants aged at least 16 with a breakthrough seizure, data have been analysed to estimate the annual seizure recurrence risk following a period of 6, 9 and 12 months seizure freedom. Regression modelling was used to investigate how antiepileptic drug treatment and a number of clinical factors influence the risk of seizure recurrence.",
+                            "At 12 months following a breakthrough seizure, the overall unadjusted risk of a recurrence over the next 12 months is lower than 20%, risk 17% (95% CI 15% to 19%). However, some patient subgroups have been identified which have an annual recurrence risk significantly greater than 20% after an initial 12-month seizure-free period following a breakthrough seizure.",
+                            "This reanalysis of SANAD provides estimates of seizure recurrence risks following a breakthrough seizure that will inform policy and guidance about regaining an ordinary driving licence. Further guidance is needed as to how such data should be used.",
+                            "SANAD is registered with the International Standard Randomised Controlled Trial Number Register ISRCTN38354748."
+                        ],
+                        "CopyrightInformation": "\u00a9 Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2017. All rights reserved. No commercial use is permitted unless otherwise expressly granted."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bonnett",
+                            "ForeName": "L J",
+                            "Initials": "LJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Powell",
+                            "ForeName": "G A",
+                            "Initials": "GA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "C",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "A G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "PDF-2015-08-044",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "RP-PG-0606-1062",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Multicenter Study",
+                        "Randomized Controlled Trial"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Automobile Driving",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Kaplan-Meier Estimate",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Proportional Hazards Models",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Recurrence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remission Induction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Assessment",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Trials. 2007 Nov 05;8:34",
+                                "ArticleIdList": [
+                                    "17983480"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2011 Dec;82(12):1328-33",
+                                "ArticleIdList": [
+                                    "21233143"
+                                ]
+                            },
+                            {
+                                "Citation": "Methods Inf Med. 2005;44(4):561-71",
+                                "ArticleIdList": [
+                                    "16342923"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2014 Aug 5;83(6):552-60",
+                                "ArticleIdList": [
+                                    "24994842"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1996 Feb 28;15(4):361-87",
+                                "ArticleIdList": [
+                                    "8668867"
+                                ]
+                            },
+                            {
+                                "Citation": "J Natl Cancer Inst. 1994 Jun 1;86(11):829-35",
+                                "ArticleIdList": [
+                                    "8182763"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2015 Jun;47:111-4",
+                                "ArticleIdList": [
+                                    "25960422"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1984 Apr-Jun;3(2):143-52",
+                                "ArticleIdList": [
+                                    "6463451"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Belg. 2004 Jun;104(2):68-79",
+                                "ArticleIdList": [
+                                    "15508270"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 1999 Oct;28(5):964-74",
+                                "ArticleIdList": [
+                                    "10597998"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Neurol. 2013 Nov 21;13:182",
+                                "ArticleIdList": [
+                                    "24261551"
+                                ]
+                            },
+                            {
+                                "Citation": "Surg Neurol. 2003 Nov;60(5):402-6; discussion 406",
+                                "ArticleIdList": [
+                                    "14572960"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1016-26",
+                                "ArticleIdList": [
+                                    "17382828"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 1992 Aug;49(8):801-8",
+                                "ArticleIdList": [
+                                    "1524512"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1992 May-Jun;33(3):469-72",
+                                "ArticleIdList": [
+                                    "1592021"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2001 Nov 27;57(10):1780-5",
+                                "ArticleIdList": [
+                                    "11723263"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2006 Apr;5(4):317-22",
+                                "ArticleIdList": [
+                                    "16545748"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Dec 07;341:c6477",
+                                "ArticleIdList": [
+                                    "21147743"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2015 Jan;86(1):60-4",
+                                "ArticleIdList": [
+                                    "24769470"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer. 1999 Jan 15;85(2):485-91",
+                                "ArticleIdList": [
+                                    "10023719"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1992 Jan-Feb;33(1):45-51",
+                                "ArticleIdList": [
+                                    "1733759"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "28698335",
+                    "bmjopen-2017-015868",
+                    "10.1136/bmjopen-2017-015868",
+                    "PMC5726069"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28698335)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828698335%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828698335%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023749290"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023749290?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85023749290&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85023749290&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85023749290",
+                        "dc:identifier": "SCOPUS_ID:85023749290",
+                        "eid": "2-s2.0-85023749290",
+                        "dc:title": "Risk of a seizure recurrence after a breakthrough seizure and the implications for driving: Further analysis of the standard versus new antiepileptic drugs (SANAD) randomised controlled trial",
+                        "dc:creator": "Bonnett L.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "7",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-07-01",
+                        "prism:coverDisplayDate": "1 July 2017",
+                        "prism:doi": "10.1136/bmjopen-2017-015868",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28698335",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e015868",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "RZNTJVK5.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28698335"
+            }
+        },
+        "title": "Risk of a seizure recurrence after a breakthrough seizure and the implications for driving: further analysis of the standard versus new antiepileptic drugs (SANAD) randomised controlled trial.",
+        "full_author_list": [
+            {
+                "clean": "Bonnett L",
+                "family": "Bonnett",
+                "given": "L J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Powell G",
+                "family": "Powell",
+                "given": "G A",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "C",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "A G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Bonnett L",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Automobile Driving",
+                    "major": "Y"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Kaplan-Meier Estimate",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Proportional Hazards Models",
+                    "major": "N"
+                },
+                {
+                    "term": "Recurrence",
+                    "major": "N"
+                },
+                {
+                    "term": "Remission Induction",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Assessment",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Time Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "7",
+            "issue": "7"
+        },
+        "abstract": "['A breakthrough seizure is one occurring after at least 12 months seizure freedom while on treatment. The Driver and Vehicle Licensing Agency (DVLA) allows an individual to return to driving once they have been seizure free for 12 months following a breakthrough seizure. This is based on the assumption that the risk of a further seizure in the next 12 months has dropped <20%. This analysis considers whether the prescribed 1 year off driving following a breakthrough seizure is sufficient for this and stratifies risk according to clinical characteristics. DESIGN, SETTING, PARTICIPANTS, INTERVENTIONS AND MAIN OUTCOME MEASURES: The multicentre UK-based Standard versus New Antiepileptic Drugs (SANAD) study was a randomised controlled trial assessing standard and new antiepileptic drugs for patients with newly diagnosed epilepsy. For participants aged at least 16 with a breakthrough seizure, data have been analysed to estimate the annual seizure recurrence risk following a period of 6, 9 and 12 months seizure freedom. Regression modelling was used to investigate how antiepileptic drug treatment and a number of clinical factors influence the risk of seizure recurrence.', 'At 12 months following a breakthrough seizure, the overall unadjusted risk of a recurrence over the next 12 months is lower than 20%, risk 17% (95% CI 15% to 19%). However, some patient subgroups have been identified which have an annual recurrence risk significantly greater than 20% after an initial 12-month seizure-free period following a breakthrough seizure.', 'This reanalysis of SANAD provides estimates of seizure recurrence risks following a breakthrough seizure that will inform policy and guidance about regaining an ordinary driving licence. Further guidance is needed as to how such data should be used.', 'SANAD is registered with the International Standard Randomised Controlled Trial Number Register ISRCTN38354748.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

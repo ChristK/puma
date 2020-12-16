@@ -1,0 +1,412 @@
+{
+    "IDs": {
+        "zotero": "APB6WWU2",
+        "DOI": "10.1108/MHSI-10-2017-0043",
+        "DOI_filename": "aa361b30cc0f9c2a72514bce5e885c60",
+        "PMID": "",
+        "scopus": "2-s2.0-85041599462",
+        "hash": "f7f6d3cdd16e59501929cf1595cb9943"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "APB6WWU2",
+            "version": 86,
+            "itemType": "journalArticle",
+            "title": "Why make the effort? Exploring recovery college engagement",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Leanne",
+                    "lastName": "Harper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mick",
+                    "lastName": "McKeown"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Mental Health and Social Inclusion",
+            "volume": "22",
+            "issue": "1",
+            "pages": "27-33",
+            "date": "2018-02-12",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Mental Health Social Inclusion",
+            "language": "en",
+            "DOI": "10.1108/MHSI-10-2017-0043",
+            "ISSN": "2042-8308",
+            "shortTitle": "Why make the effort?",
+            "url": "https://www.emerald.com/insight/content/doi/10.1108/MHSI-10-2017-0043/full/html",
+            "accessDate": "2020-09-10T17:08:38Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:38Z",
+            "dateModified": "2020-09-10T17:08:38Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        28
+                    ]
+                ],
+                "date-time": "2020-05-28T14:51:11Z",
+                "timestamp": 1590677471785
+            },
+            "reference-count": 12,
+            "publisher": "Emerald",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://www.emeraldinsight.com/page/tdm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                2,
+                                12
+                            ]
+                        ],
+                        "date-time": "2018-02-12T00:00:00Z",
+                        "timestamp": 1518393600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1108/mhsi-10-2017-0043",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        28
+                    ]
+                ],
+                "date-time": "2017-12-28T12:12:09Z",
+                "timestamp": 1514463129000
+            },
+            "page": "27-33",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Why make the effort? Exploring recovery college engagement",
+            "prefix": "10.1108",
+            "volume": "22",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7921-2142",
+                    "authenticated-orcid": false,
+                    "given": "Leanne",
+                    "family": "Harper",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Cheshire and Wirral Partnership NHS Foundation Trust, Chester, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mick",
+                    "family": "McKeown",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "140",
+            "reference": [
+                {
+                    "key": "ref001",
+                    "DOI": "10.1108/MHSI-08-2016-0025",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref004",
+                    "DOI": "10.1108/JMHTEP-04-2013-0017",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref006",
+                    "DOI": "10.1108/MHSI-05-2014-0016",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref007",
+                    "DOI": "10.1108/MHSI-08-2015-0035",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref005",
+                    "author": "Meddings S.",
+                    "issue": "268",
+                    "first-page": "32",
+                    "year": "2015",
+                    "journal-title": "Clinical Psychology Forum"
+                },
+                {
+                    "key": "ref008",
+                    "DOI": "10.1037/prj0000179",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref009",
+                    "author": "Perkins R.",
+                    "year": "2012",
+                    "volume-title": "Recovery Colleges"
+                },
+                {
+                    "key": "ref010",
+                    "DOI": "10.1007/978-1-137-35889-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref011",
+                    "author": "Ritchie J.",
+                    "year": "2014",
+                    "volume-title": "Qualitative Research Practice: A Guide for Social Science Students and Researchers"
+                },
+                {
+                    "key": "ref012",
+                    "DOI": "10.1108/JMHTEP-12-2015-0052",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref013",
+                    "DOI": "10.1108/MHSI-07-2013-0023",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref014",
+                    "author": "Creswell J.W.",
+                    "year": "2011",
+                    "edition": "2",
+                    "volume-title": "Designing and Conducting Mixed Methods Research"
+                }
+            ],
+            "container-title": "Mental Health and Social Inclusion",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.emeraldinsight.com/doi/full-xml/10.1108/MHSI-10-2017-0043",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://www.emeraldinsight.com/doi/full/10.1108/MHSI-10-2017-0043",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        3
+                    ]
+                ],
+                "date-time": "2019-09-03T21:03:24Z",
+                "timestamp": 1567544604000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 12,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            2,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1108/MHSI-10-2017-0043"
+            ],
+            "URL": "http://dx.doi.org/10.1108/MHSI-10-2017-0043",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2042-8308"
+            ],
+            "container-title-short": "Mental Health Social Inclusion"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1108/MHSI-10-2017-0043)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1108%2FMHSI-10-2017-0043%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1108%2FMHSI-10-2017-0043%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041599462"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041599462?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041599462&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041599462&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041599462",
+                        "dc:identifier": "SCOPUS_ID:85041599462",
+                        "eid": "2-s2.0-85041599462",
+                        "dc:title": "Why make the effort? Exploring recovery college engagement",
+                        "dc:creator": "Harper L.",
+                        "prism:publicationName": "Mental Health and Social Inclusion",
+                        "prism:eIssn": "20428308",
+                        "prism:volume": "22",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "27-33",
+                        "prism:coverDate": "2018-01-01",
+                        "prism:coverDisplayDate": "2018",
+                        "prism:doi": "10.1108/MHSI-10-2017-0043",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Cheshire and Wirral Partnership NHS Foundation Trust",
+                                "affiliation-city": "Chester",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19700175275",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "APB6WWU2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Why make the effort? Exploring recovery college engagement",
+        "full_author_list": [
+            {
+                "clean": "Harper L",
+                "family": "Harper",
+                "given": "Leanne",
+                "affiliation": {
+                    "name": "Cheshire and Wirral Partnership NHS Foundation Trust, Chester, UK"
+                }
+            },
+            {
+                "clean": "McKeown M",
+                "family": "McKeown",
+                "given": "Mick",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            }
+        ],
+        "first_author": "Harper L",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Mental Health and Social Inclusion",
+            "volume": "22",
+            "issue": "1"
+        },
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Cheshire and Wirral Partnership NHS Foundation Trust, Chester, UK"
+        }
+    }
+}

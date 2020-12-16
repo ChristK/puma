@@ -1,0 +1,1256 @@
+{
+    "IDs": {
+        "zotero": "VTCY3LW9",
+        "DOI": "10.1136/bmjopen-2017-021246",
+        "DOI_filename": "d3562e5a934cb8617cb2e15723fa94b5",
+        "PMID": "30269063",
+        "scopus": "2-s2.0-85054431892",
+        "hash": "e910771f7eb0f657b6155c4b1693907b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "VTCY3LW9",
+            "version": 194,
+            "itemType": "journalArticle",
+            "title": "Perceptions of emergency care using a seizure care pathway for patients presenting to emergency departments in the North West of England following a seizure: a qualitative study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Leanne Rachel",
+                    "lastName": "Male"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Adam",
+                    "lastName": "Noble"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Darlene Ann",
+                    "lastName": "Snape"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Dixon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tony",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "Objectives\n              To establish the appropriateness of a previously developed seizure care pathway by exploring to what extent patients valued the intervention and perceived it as being helpful or not.\n            \n            \n              Design\n              Qualitative descriptive study, using semistructured, in-depth interviews and thematic template analysis, theoretically informed by critical realism.\n            \n            \n              Setting\n              In North West England, a seizure care pathway has been developed in collaboration with a specialist neurology hospital to support clinical management of seizure patients on initial presentation to the emergency department (ED), as well as access to follow-up services on discharge, with the aim of improving patient experience. Three National Health Service (NHS) EDs and a specialist neurology hospital provided the setting for participant recruitment to this study.\n            \n            \n              Participants\n              181 patients fulfilled the inclusion criterion with 27 participants taking part following their experience of an ED attendance and outpatient follow-up appointment after a seizure.\n            \n            \n              Results\n              Five main themes emerged from the data: decision to seek care, responsiveness of services, waiting and efficiency, information and support, and care continuity. Two integrative themes spanned the whole study: lived experience and communication. This paper reports on two of the main themes: care continuity, and waiting and efficiency. The average time between ED presentation and interview completion was 100 days.\n            \n            \n              Conclusions\n              Implementation of a care pathway is a complex intervention, requiring long-term follow-up to assess its integration into practice and effectiveness in service improvement. The seizure care pathway has the potential to enhance the care of seizure patients in the ED and at follow-up by improving continuity and management of care. The study demonstrates good aspects of the seizure care pathway as observed by patients and also recognises shortcomings within current service provision and questions what the NHS should and should not be delivering. Our study suggests various ways to enhance the pathway at service level to potentially drive improved patient experience.",
+            "publicationTitle": "BMJ Open",
+            "volume": "8",
+            "issue": "9",
+            "pages": "e021246",
+            "date": "09/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2017-021246",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Perceptions of emergency care using a seizure care pathway for patients presenting to emergency departments in the North West of England following a seizure",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2017-021246",
+            "accessDate": "2020-09-10T17:09:48Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30269063",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:48Z",
+            "dateModified": "2020-09-15T14:36:27Z",
+            "pmid": "30269063"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T22:40:26Z",
+                "timestamp": 1588891226785
+            },
+            "reference-count": 50,
+            "publisher": "BMJ",
+            "issue": "9",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>To establish the appropriateness of a previously developed seizure care pathway by exploring to what extent patients valued the intervention and perceived it as being helpful or not.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>Qualitative descriptive study, using semistructured, in-depth interviews and thematic template analysis, theoretically informed by critical realism.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>In North West England, a seizure care pathway has been developed in collaboration with a specialist neurology hospital to support clinical management of seizure patients on initial presentation to the emergency department (ED), as well as access to follow-up services on discharge, with the aim of improving patient experience. Three National Health Service (NHS) EDs and a specialist neurology hospital provided the setting for participant recruitment to this study.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>181 patients fulfilled the inclusion criterion with 27 participants taking part following their experience of an ED attendance and outpatient follow-up appointment after a seizure.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Five main themes emerged from the data: decision to seek care, responsiveness of services, waiting and efficiency, information and support, and care continuity. Two integrative themes spanned the whole study: lived experience and communication. This paper reports on two of the main themes: care continuity, and waiting and efficiency. The average time between ED presentation and interview completion was 100 days.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Implementation of a care pathway is a complex intervention, requiring long-term follow-up to assess its integration into practice and effectiveness in service improvement. The seizure care pathway has the potential to enhance the care of seizure patients in the ED and at follow-up by improving continuity and management of care. The study demonstrates good aspects of the seizure care pathway as observed by patients and also recognises shortcomings within current service provision and questions what the NHS should and should not be delivering. Our study suggests various ways to enhance the pathway at service level to potentially drive improved patient experience.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2017-021246",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        29
+                    ]
+                ],
+                "date-time": "2018-09-29T06:52:50Z",
+                "timestamp": 1538203970000
+            },
+            "page": "e021246",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Perceptions of emergency care using a seizure care pathway for patients presenting to emergency departments in the North West of England following a seizure: a qualitative study",
+            "prefix": "10.1136",
+            "volume": "8",
+            "author": [
+                {
+                    "given": "Leanne Rachel",
+                    "family": "Male",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Adam",
+                    "family": "Noble",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Darlene Ann",
+                    "family": "Snape",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "Dixon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tony",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        28
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050713401492000_8.9.e021246.1",
+                    "unstructured": "House of Commons Committee of Public Accounts. Financial sustainability of the NHS: Forty-third Report of Session 2016-17, 2017."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.2",
+                    "unstructured": "England NHS. NHS Five Year Forward View. London: NHS England, 2014."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.3",
+                    "DOI": "10.1136/bmjopen-2015-010573",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.4",
+                    "DOI": "10.1136/bmjopen-2014-007325",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.5",
+                    "unstructured": "Hiller M . Great Britain: Parliament: House of Commons: Committee of Public Accounts. HC 502 - Services to People with Neurological Conditions: Progress Review: Stationery Office, 2016."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.6",
+                    "DOI": "10.1016/j.yebeh.2012.09.034",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.7",
+                    "DOI": "10.1136/bmjopen-2016-015696",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.8",
+                    "DOI": "10.1053/seiz.2000.0386",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "Supplement C",
+                    "key": "2020050713401492000_8.9.e021246.9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2015.02.017",
+                    "article-title": "Use of emergency departments by known epileptic patients: An underestimated problem?",
+                    "volume": "113",
+                    "author": "Girot",
+                    "year": "2015",
+                    "journal-title": "Epilepsy Res"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.10",
+                    "unstructured": "National Institute for Health and Care Excellence. Epilepsies: diagnosis and management: NICE Guideline [CG137], 2016."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.11",
+                    "DOI": "10.1002/ana.21064",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e017",
+                    "DOI": "10.5334/ijic.976",
+                    "article-title": "Development of integrated care pathways: toward a care management system to meet the needs of frail and disabled community-dwelling older people",
+                    "volume": "13",
+                    "author": "Dubuc",
+                    "year": "2013",
+                    "journal-title": "Int J Integr Care"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1155/2012/273175",
+                    "article-title": "A seizure care pathway in the emergency department: preliminary quality and safety improvements",
+                    "volume": "2012",
+                    "author": "Iyer",
+                    "year": "2012",
+                    "journal-title": "Epilepsy Res Treat"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.14",
+                    "DOI": "10.1136/bmj.325.7375.1263",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.15",
+                    "unstructured": "Foot C , Gilbert H , Dunn P , et al , 2014. People in control of their own health and care. The state of involvement https://www.kingsfund.org.uk/sites/files/kf/field/field_publication_file/people-in-control-of-their-own-health-and-care-the-state-of-involvement-november-2014.pdf."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.16",
+                    "DOI": "10.1007/s10488-013-0528-y",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.17",
+                    "unstructured": "Patton MQ . Qualitative research and evaluation methods. Thousand Oaks, CA: Sage Publications, 2002."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.18",
+                    "DOI": "10.1177/1356389016638615",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.19",
+                    "unstructured": "King N . \u2019Doing template analysis'. In: Symon G , Cassell C , Qualitative Organizational Research: Core Methods and Current Challenges. London: SAGE, 2012:426\u201350."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.20",
+                    "unstructured": "QSR. NVivo qualitative data analysis Software: QSR International Pty Ltd, 2012."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "202",
+                    "DOI": "10.1080/14780887.2014.955224",
+                    "article-title": "The utility of template analysis in qualitative psychology research",
+                    "volume": "12",
+                    "author": "Brooks",
+                    "year": "2015",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "107-15",
+                    "DOI": "10.1111/j.1365-2648.2007.04569.x",
+                    "article-title": "The qualitative content analysis process",
+                    "volume": "62",
+                    "author": "Elo",
+                    "year": "2008",
+                    "journal-title": "J Adv Nurs"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.23",
+                    "DOI": "10.1177/0038038597031003015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.24",
+                    "unstructured": "Ritchie J , Spencer L . In: Bryman A , Burgess R , eds. Qualitative Data Analysis for Applied Policy Research. Analyzing Qualitative Data. London: Routledge, 1994."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.25",
+                    "DOI": "10.1136/bmj.320.7227.114",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.26",
+                    "DOI": "10.1186/1472-6963-7-31",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.27",
+                    "DOI": "10.1007/BF02850102",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.28",
+                    "first-page": "393",
+                    "article-title": "Wait times, patient satisfaction scores, and the perception of care",
+                    "volume": "20",
+                    "author": "Bleustein",
+                    "year": "2014",
+                    "journal-title": "Am J Manag Care"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.29",
+                    "unstructured": "Office NA. Emergency admissions to hospital: managing the demand. London: The Stationery Office, 2013."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.30",
+                    "DOI": "10.1136/bmjopen-2016-014022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.31",
+                    "unstructured": "Purdy S . Avoiding hospitaladmissionsWhat does the researchevidence say? The Kings Fund 2010."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "64",
+                    "DOI": "10.1016/j.yebeh.2017.05.023",
+                    "article-title": "Process evaluation of a multi-component self-management intervention for adults with epilepsy (ZMILE study)",
+                    "volume": "73",
+                    "author": "Leenen",
+                    "year": "2017",
+                    "journal-title": "Epilepsy Behav"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.33",
+                    "unstructured": "NHS Institute for Innovation and Improvement. The Productive Ward: Releasing time to care. Learning and Impact Review. Executive Summary. NHS Institute for Innovation and Improvement: Coventry, 2010."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.34",
+                    "DOI": "10.1111/j.1365-2834.2009.01026.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.35",
+                    "first-page": "22",
+                    "article-title": "How effective is Productive Ward?",
+                    "volume": "111",
+                    "author": "White",
+                    "year": "2015",
+                    "journal-title": "Nursing Times"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "i39",
+                    "DOI": "10.1136/bmjqs-2012-001165",
+                    "article-title": "Are patients discharged with care? A qualitative study of perceptions and experiences of patients, family members and care providers",
+                    "volume": "21 Suppl 1",
+                    "author": "Hesselink",
+                    "year": "2012",
+                    "journal-title": "BMJ Qual Saf"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.37",
+                    "DOI": "10.1093/fampra/15.5.437",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.38",
+                    "DOI": "10.1186/1471-2296-6-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.39",
+                    "DOI": "10.1136/bmj.314.7098.1870",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.40",
+                    "unstructured": "Freeman G , Hughes J . Continuity of care and patient experience, 2011."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.41",
+                    "DOI": "10.1016/S1059-1311(02)00137-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.42",
+                    "DOI": "10.1016/S1059-1311(03)00149-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.43",
+                    "unstructured": "England NHS. New Care Models: Vanguards- developing a blueprint for the future of NHS and care services. London: NHS England, 2016."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1820",
+                    "DOI": "10.1111/j.1528-1167.2012.03586.x",
+                    "article-title": "Characteristics of people with epilepsy who attend emergency departments: prospective study of metropolitan hospital attendees",
+                    "volume": "53",
+                    "author": "Noble",
+                    "year": "2012",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "192",
+                    "DOI": "10.1016/j.yebeh.2017.01.017",
+                    "article-title": "Frequency and factors associated with emergency department attendance for people with epilepsy in a rural UK population",
+                    "volume": "68",
+                    "author": "Allard",
+                    "year": "2017",
+                    "journal-title": "Epilepsy Behav"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.46",
+                    "unstructured": "Seddon N . Quite like heaven? Options for the NHS in a consumer age. London: Civitas, 2007."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.47",
+                    "unstructured": "Department of Health. The NHS Improvement Plan- Putting People at the Heart of Public Services. London: The Stationery Office, 2004."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "72",
+                    "DOI": "10.1016/j.yebeh.2017.04.022",
+                    "article-title": "Moving evidence based guidelines for seizures into practice in the emergency department: What\u2019s stopping us?",
+                    "volume": "72",
+                    "author": "Williams",
+                    "year": "2017",
+                    "journal-title": "Epilepsy Behav"
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.49",
+                    "unstructured": "Department of Health. The NHS Constitution. London: Williams Lea, 2015."
+                },
+                {
+                    "key": "2020050713401492000_8.9.e021246.50",
+                    "unstructured": "The Co-ordination Centre, 2016. Nhs emergency department questionnaire the co-ordination centre: care quality commission http://www.nhssurveys.org/Filestore/AE16/AE16_Questionnaire_v1.pdf."
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2017-021246",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T22:09:15Z",
+                "timestamp": 1588889355000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "references-count": 50,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            9,
+                            4
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            9
+                        ]
+                    ]
+                },
+                "issue": "9"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2017-021246"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2017-021246",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "epilepsy",
+                        "organisation of health services",
+                        "qualitative research",
+                        "quality in health care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30269063",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "25"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "25"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2017-021246"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "09",
+                            "Day": "28"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "8",
+                            "Issue": "9",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "09",
+                                "Day": "28"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Perceptions of emergency care using a seizure care pathway for patients presenting to emergency departments in the North West of England following a seizure: a qualitative study.",
+                    "Pagination": {
+                        "MedlinePgn": "e021246"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To establish the appropriateness of a previously developed seizure care pathway by exploring to what extent patients valued the intervention and perceived it as being helpful or not.",
+                            "Qualitative descriptive study, using semistructured, in-depth interviews and thematic template analysis, theoretically informed by critical realism.",
+                            "In North West England, a seizure care pathway has been developed in collaboration with a specialist neurology hospital to support clinical management of seizure patients on initial presentation to the emergency department (ED), as well as access to follow-up services on discharge, with the aim of improving patient experience. Three National Health Service (NHS) EDs and a specialist neurology hospital provided the setting for participant recruitment to this study.",
+                            "181 patients fulfilled the inclusion criterion with 27 participants taking part following their experience of an ED attendance and outpatient follow-up appointment after a seizure.",
+                            "Five main themes emerged from the data: decision to seek care, responsiveness of services, waiting and efficiency, information and support, and care continuity. Two integrative themes spanned the whole study: lived experience and communication. This paper reports on two of the main themes: care continuity, and waiting and efficiency. The average time between ED presentation and interview completion was 100 days.",
+                            "Implementation of a care pathway is a complex intervention, requiring long-term follow-up to assess its integration into practice and effectiveness in service improvement. The seizure care pathway has the potential to enhance the care of seizure patients in the ED and at follow-up by improving continuity and management of care. The study demonstrates good aspects of the seizure care pathway as observed by patients and also recognises shortcomings within current service provision and questions what the NHS should and should not be delivering. Our study suggests various ways to enhance the pathway at service level to potentially drive improved patient experience."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2018. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Male",
+                            "ForeName": "Leanne Rachel",
+                            "Initials": "LR"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Noble",
+                            "ForeName": "Adam",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Snape",
+                            "ForeName": "Darlene Ann",
+                            "Initials": "DA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dixon",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Tony",
+                            "Initials": "T"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Continuity of Patient Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Critical Pathways",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration",
+                            "standards"
+                        ],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Emergency Treatment",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Interviews as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Acceptance of Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Education as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Perception",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time-to-Treatment",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Seizure. 2002 Dec;11(8):494-9",
+                                "ArticleIdList": [
+                                    "12464509"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res Treat. 2012;2012:273175",
+                                "ArticleIdList": [
+                                    "22953060"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2012 Dec;21 Suppl 1:i39-49",
+                                "ArticleIdList": [
+                                    "23118410"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2007 Oct;62(4):375-81",
+                                "ArticleIdList": [
+                                    "17253624"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2000 Apr;9(3):216-20",
+                                "ArticleIdList": [
+                                    "10775519"
+                                ]
+                            },
+                            {
+                                "Citation": "Fam Pract. 1998 Oct;15(5):437-42",
+                                "ArticleIdList": [
+                                    "9848430"
+                                ]
+                            },
+                            {
+                                "Citation": "Adm Policy Ment Health. 2015 Sep;42(5):533-44",
+                                "ArticleIdList": [
+                                    "24193818"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2000 Jan 8;320(7227):114-6",
+                                "ArticleIdList": [
+                                    "10625273"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2017 Jul 13;7(7):e015696",
+                                "ArticleIdList": [
+                                    "28706099"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2015 Jul;113:1-4",
+                                "ArticleIdList": [
+                                    "25986185"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2017 Aug;73:64-70",
+                                "ArticleIdList": [
+                                    "28623752"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2008 Apr;62(1):107-15",
+                                "ArticleIdList": [
+                                    "18352969"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Ther. 2004 Nov-Dec;21(6):380-8",
+                                "ArticleIdList": [
+                                    "15856861"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2012 Oct;53(10):1820-8",
+                                "ArticleIdList": [
+                                    "22779409"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Fam Pract. 2005 Mar 01;6(1):9",
+                                "ArticleIdList": [
+                                    "15740630"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Manag Care. 2014 May;20(5):393-400",
+                                "ArticleIdList": [
+                                    "25181568"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1997 Jun 28;314(7098):1870-3",
+                                "ArticleIdList": [
+                                    "9224130"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2012 Dec;25(4):529-33",
+                                "ArticleIdList": [
+                                    "23159376"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2002 Nov 30;325(7375):1263",
+                                "ArticleIdList": [
+                                    "12458240"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2017 Mar;68:192-195",
+                                "ArticleIdList": [
+                                    "28219054"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Integr Care. 2013 May 17;13:e017",
+                                "ArticleIdList": [
+                                    "23882166"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2017 Jul;72:72-77",
+                                "ArticleIdList": [
+                                    "28575771"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Feb 23;6(2):e010573",
+                                "ArticleIdList": [
+                                    "26908532"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Res Psychol. 2015 Apr 3;12(2):202-222",
+                                "ArticleIdList": [
+                                    "27499705"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Nov 9;6(11):e014022",
+                                "ArticleIdList": [
+                                    "28186950"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2015 Mar 31;5(3):e007325",
+                                "ArticleIdList": [
+                                    "25829372"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2007 Feb 28;7:31",
+                                "ArticleIdList": [
+                                    "17328807"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nurs Manag. 2009 Jul;17(5):647-54",
+                                "ArticleIdList": [
+                                    "19575723"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2004 Mar;13(2):87-94",
+                                "ArticleIdList": [
+                                    "15129836"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "11",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "30269063",
+                    "bmjopen-2017-021246",
+                    "10.1136/bmjopen-2017-021246",
+                    "PMC6169770"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30269063)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830269063%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830269063%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054431892"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054431892?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054431892&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054431892&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054431892",
+                        "dc:identifier": "SCOPUS_ID:85054431892",
+                        "eid": "2-s2.0-85054431892",
+                        "dc:title": "Perceptions of emergency care using a seizure care pathway for patients presenting to emergency departments in the North West of England following a seizure: A qualitative study",
+                        "dc:creator": "Male L.R.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "8",
+                        "prism:issueIdentifier": "9",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-01-01",
+                        "prism:coverDisplayDate": "2018",
+                        "prism:doi": "10.1136/bmjopen-2017-021246",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30269063",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e021246",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "VTCY3LW9.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30269063"
+            }
+        },
+        "title": "Perceptions of emergency care using a seizure care pathway for patients presenting to emergency departments in the North West of England following a seizure: a qualitative study.",
+        "full_author_list": [
+            {
+                "clean": "Male L",
+                "family": "Male",
+                "given": "Leanne Rachel",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Noble A",
+                "family": "Noble",
+                "given": "Adam",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Snape D",
+                "family": "Snape",
+                "given": "Darlene Ann",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Dixon P",
+                "family": "Dixon",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Marson T",
+                "family": "Marson",
+                "given": "Tony",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Male L",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Continuity of Patient Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Critical Pathways",
+                    "major": "Y"
+                },
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "Emergency Treatment",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Interviews as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Acceptance of Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Education as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Perception",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Time-to-Treatment",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "8",
+            "issue": "9"
+        },
+        "abstract": "['To establish the appropriateness of a previously developed seizure care pathway by exploring to what extent patients valued the intervention and perceived it as being helpful or not.', 'Qualitative descriptive study, using semistructured, in-depth interviews and thematic template analysis, theoretically informed by critical realism.', 'In North West England, a seizure care pathway has been developed in collaboration with a specialist neurology hospital to support clinical management of seizure patients on initial presentation to the emergency department (ED), as well as access to follow-up services on discharge, with the aim of improving patient experience. Three National Health Service (NHS) EDs and a specialist neurology hospital provided the setting for participant recruitment to this study.', '181 patients fulfilled the inclusion criterion with 27 participants taking part following their experience of an ED attendance and outpatient follow-up appointment after a seizure.', 'Five main themes emerged from the data: decision to seek care, responsiveness of services, waiting and efficiency, information and support, and care continuity. Two integrative themes spanned the whole study: lived experience and communication. This paper reports on two of the main themes: care continuity, and waiting and efficiency. The average time between ED presentation and interview completion was 100 days.', 'Implementation of a care pathway is a complex intervention, requiring long-term follow-up to assess its integration into practice and effectiveness in service improvement. The seizure care pathway has the potential to enhance the care of seizure patients in the ED and at follow-up by improving continuity and management of care. The study demonstrates good aspects of the seizure care pathway as observed by patients and also recognises shortcomings within current service provision and questions what the NHS should and should not be delivering. Our study suggests various ways to enhance the pathway at service level to potentially drive improved patient experience.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

@@ -1,0 +1,1025 @@
+{
+    "IDs": {
+        "zotero": "6HQVXVM6",
+        "DOI": "10.1186/s12889-017-4892-5",
+        "DOI_filename": "0d8db25a11a636544dcb8f13d3ff360c",
+        "PMID": "29141600",
+        "scopus": "2-s2.0-85034450685",
+        "hash": "e9a9229a997226ffe9abe31b87f976c0"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "6HQVXVM6",
+            "version": 123,
+            "itemType": "journalArticle",
+            "title": "Quantifying the need for enhanced case management for TB patients as part of TB cohort audit in the North West of England: a descriptive study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Angela",
+                    "lastName": "Tucker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jeniffer",
+                    "lastName": "Mithoo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Cleary"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Woodhead"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "MacPherson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tom",
+                    "lastName": "Wingfield"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stefanie",
+                    "lastName": "Davies"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carolyn",
+                    "lastName": "Wake"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paddy",
+                    "lastName": "McMaster"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.",
+                    "lastName": "Bertel Squire"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMC Public Health",
+            "volume": "17",
+            "issue": "1",
+            "pages": "881",
+            "date": "12/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-017-4892-5",
+            "ISSN": "1471-2458",
+            "shortTitle": "Quantifying the need for enhanced case management for TB patients as part of TB cohort audit in the North West of England",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4892-5",
+            "accessDate": "2020-09-10T17:10:01Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29141600",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:01Z",
+            "dateModified": "2020-09-11T14:58:11Z",
+            "pmid": "29141600"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2020-03-29T11:57:12Z",
+                "timestamp": 1585483032293
+            },
+            "reference-count": 15,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12889-017-4892-5",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        15
+                    ]
+                ],
+                "date-time": "2017-11-15T13:46:59Z",
+                "timestamp": 1510753619000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Quantifying the need for enhanced case management for TB patients as part of TB cohort audit in the North West of England: a descriptive study",
+            "prefix": "10.1186",
+            "volume": "17",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-2775-5297",
+                    "authenticated-orcid": false,
+                    "given": "Angela",
+                    "family": "Tucker",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jeniffer",
+                    "family": "Mithoo",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paul",
+                    "family": "Cleary",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Woodhead",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "MacPherson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tom",
+                    "family": "Wingfield",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stefanie",
+                    "family": "Davies",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carolyn",
+                    "family": "Wake",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paddy",
+                    "family": "McMaster",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "S.",
+                    "family": "Bertel Squire",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "4892_CR1",
+                    "unstructured": "World Health Organisation. Global Tuberculosis Report 2016. 2016. \nhttp://www.who.int/tb/publications/global_report/gtbr2016_executive_summary.pdf\n\n. Accessed 18 Jan 2017."
+                },
+                {
+                    "key": "4892_CR2",
+                    "unstructured": "Public Health England. Tuberculosis in England 2016 Report. 2016. \nhttps://www.gov.uk/government/publications/tuberculosis-in-england-annual-report\n\n. Accessed 18 Jan 2017."
+                },
+                {
+                    "key": "4892_CR3",
+                    "author": "European Centre for Disease Prevention and Control",
+                    "year": "2016",
+                    "unstructured": "European Centre for Disease Prevention and Control, World Health Organisation regional Office for Europe. Tuberculosis surveillance and monitoring in Europe. 2016. \nhttp://ecdc.europa.eu/en/publications/Publications/ecdc-tuberculosis-surveillance-monitoring-Europe-2016.pdf\n\n. Accessed 18 Jan 2017.",
+                    "volume-title": "World Health Organisation regional Office for Europe. Tuberculosis surveillance and monitoring in Europe"
+                },
+                {
+                    "key": "4892_CR4",
+                    "unstructured": "Centers for Disease Control and Prevention. Reported tuberculosis in the United States, 2015. 2016. \nhttps://www.cdc.gov/tb/statistics/reports/2015/pdfs/2015_surveillance_report_fullreport.pdf\n\n. Accessed 18 Jan 2017."
+                },
+                {
+                    "key": "4892_CR5",
+                    "unstructured": "Public Health England. Collaborative tuberculosis strategy for England 2015\u20132020. 2015. \nhttps://www.gov.uk/government/publications/collaborative-tuberculosis-strategy-for-england\n\n. Accessed 8 Feb 2017."
+                },
+                {
+                    "key": "4892_CR6",
+                    "unstructured": "Centers for Disease Control and Prevention. Understanding the TB Cohort Review Process: Instruction Guide. 2006. \nhttps://www.cdc.gov/tb/publications/guidestoolkits/cohort/\n\n. Accessed 8 Feb 2017."
+                },
+                {
+                    "key": "4892_CR7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "187",
+                    "DOI": "10.1136/thoraxjnl-2013-203751",
+                    "volume": "69",
+                    "author": "C Anderson",
+                    "year": "2014",
+                    "unstructured": "Anderson C, White J, Abubakar I, Lipman M, Tamne S, Anderson SR, et al. Raising standards in UK TB control: introducing cohort review. Thorax. 2014;69:187\u20139.",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "key": "4892_CR8",
+                    "unstructured": "National Institute for Health and Care Excellence. Tuberculosis: identification and management in under-served groups. 2012. \nhttps://www.nice.org.uk/guidance/ph37\n\n. Accessed 8 Feb 2017."
+                },
+                {
+                    "key": "4892_CR9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "782",
+                    "DOI": "10.1186/1471-2458-13-782",
+                    "volume": "13",
+                    "author": "S Hirpa",
+                    "year": "2013",
+                    "unstructured": "Hirpa S, Medhin G, Girma B, Melese M, Mekonen A, Suarez P, et al. Determinants of multidrug-resistant tuberculosis in patients who underwent first-line treatment in Addis Ababa: a case control study. BMC Public Health. 2013;13:782.",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "4892_CR10",
+                    "unstructured": "World Health Organisation Regional Office for Europe. Treatment of tuberculosis guidelines, fourth edition. 2010. \nhttp://www.who.int/tb/publications/2010/9789241547833/en/\n\n. Accessed 8 Feb 2017."
+                },
+                {
+                    "key": "4892_CR11",
+                    "unstructured": "RCN. Tuberculosis Case Management and Cohort Review. 2012. \nhttps://my.rcn.org.uk/__data/assets/pdf_file/0010/439129/004204.pdf\n\n. Accessed 9 Jan 2017."
+                },
+                {
+                    "key": "4892_CR12",
+                    "unstructured": "National Institute for Health and Care Excellence. Tuberculosis NICE guideline NG33. 2016. \nhttps://www.nice.org.uk/guidance/ng33/\n\n. Accessed 8 Feb 2017."
+                },
+                {
+                    "key": "4892_CR13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e010536",
+                    "DOI": "10.1136/bmjopen-2015-010536",
+                    "volume": "6",
+                    "author": "SK Wallis",
+                    "year": "2016",
+                    "unstructured": "Wallis SK, Jehan K, Woodhead M, Cleary P, Dee K, Farrow S, et al. Health professionals\u2019 experiences of tuberculosis cohort audit in the north west of England: a qualitative study. BMJ Open. 2016;6:e010536.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "4892_CR14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "A88",
+                    "DOI": "10.1136/thoraxjnl-2012-202678.201",
+                    "volume": "67",
+                    "author": "A Gebril",
+                    "year": "2012",
+                    "unstructured": "Gebril A, Bell C, Woodhead M. P60 how often do patients with tuberculosis require enhanced case management? Thorax. 2012;67:A88\u20139.",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "key": "4892_CR15",
+                    "unstructured": "Karumbi J, Garner P. Directly observed therapy for treating tuberculosis. Cochrane Database Syst Rev. 2015:1\u201356.",
+                    "DOI": "10.1002/14651858.CD003343.pub4",
+                    "doi-asserted-by": "crossref"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-017-4892-5.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        15
+                    ]
+                ],
+                "date-time": "2017-11-15T13:47:15Z",
+                "timestamp": 1510753635000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 15,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "4892"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-017-4892-5",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "container-title-short": "BMC Public Health",
+            "article-number": "881"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Cohort audit",
+                        "Cohort review",
+                        "ECM",
+                        "Enhanced case management",
+                        "Social factors",
+                        "TB",
+                        "Treatment completion",
+                        "Tuberculosis"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29141600",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "03",
+                    "Day": "22"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-017-4892-5"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "15"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "17",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "11",
+                                "Day": "15"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "Quantifying the need for enhanced case management for TB patients as part of TB cohort audit in the North West of England: a descriptive study.",
+                    "Pagination": {
+                        "MedlinePgn": "881"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Patients with TB have diverse and often challenging clinical and social needs that may hamper successful treatment outcomes. Understanding the need for additional support during treatment (enhanced case management, or ECM) is important for workforce capacity planning. North West England TB Cohort Audit (TBCA) has introduced a 4-level ECM classification system (ECM 0-3) to quantify the need for ECM in the region. This study describes the data from the first 2\u00a0years of ECM classification.",
+                            "Data collected between April 2013 and July 2015 were used to analyse the proportions of patients allocated to each ECM level and the prevalence of social and clinical factors indicating need for ECM. Single variable and multivariable logistic regression models were constructed to examine the association between ECM level and treatment outcome.",
+                            "Of 1714 notified cases 99.8% were assigned an ECM level: 31% ECM1, 19% ECM2 and 14% ECM3. The most common factors indicating need for ECM were language barriers (20.3%) and clinical complexity (16.9%). 1342/1493 (89.9%) of drug-sensitive, non-CNS cases completed treatment within 12\u00a0months. Patients in ECM2 and 3 were less likely to complete treatment at 12\u00a0months than patients in ECM0 (adjusted OR 0.47 [95% CI 0.27-0.84] and 0.23 [0.13-0.41] respectively).",
+                            "Use of TBCA to quantify different levels of need for ECM is feasible and has demonstrated that social and clinical complexity is common in the region. Results will inform regional workforce planning and assist development of innovative methods to improve treatment outcomes in these vulnerable groups."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK. angelatucker1@nhs.net."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Centre for Epidemiology, University of Manchester, Manchester, UK. angelatucker1@nhs.net."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Public Health England Centre, Liverpool, UK. angelatucker1@nhs.net."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-2775-5297"
+                            ],
+                            "LastName": "Tucker",
+                            "ForeName": "Angela",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mithoo",
+                            "ForeName": "Jeniffer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health England Field Epidemiology Service North West, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cleary",
+                            "ForeName": "Paul",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Respiratory Medicine, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Medical and Human Sciences, University of Manchester, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Woodhead",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Public Health England Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "MacPherson",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Social Medicine, Karolinska Institutet, Stockholm, Sweden."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Infection and Global Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Tropical and Infectious Diseases Unit, Royal Liverpool and Broadgreen University Hospitals, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wingfield",
+                            "ForeName": "Tom",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health England Field Epidemiology Service North West, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Davies",
+                            "ForeName": "Stefanie",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Public Health England Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wake",
+                            "ForeName": "Carolyn",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Paediatric Infectious Diseases, Pennine Acute Hospitals Trust, Bury, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McMaster",
+                            "ForeName": "Paddy",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bertel Squire",
+                            "ForeName": "S",
+                            "Initials": "S"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/K007467/1",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Case Management",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cohort Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Medical Audit",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Needs Assessment",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Treatment Outcome",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Tuberculosis",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Thorax. 2014 Feb;69(2):187-9",
+                                "ArticleIdList": [
+                                    "23868330"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2013 Aug 28;13:782",
+                                "ArticleIdList": [
+                                    "23981845"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 May 29;(5):CD003343",
+                                "ArticleIdList": [
+                                    "26022367"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Mar 16;6(3):e010536",
+                                "ArticleIdList": [
+                                    "26983949"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "02",
+                        "Day": "14"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29141600",
+                    "10.1186/s12889-017-4892-5",
+                    "10.1186/s12889-017-4892-5",
+                    "PMC5688729"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29141600)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829141600%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829141600%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034450685"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034450685?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034450685&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034450685&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034450685",
+                        "dc:identifier": "SCOPUS_ID:85034450685",
+                        "eid": "2-s2.0-85034450685",
+                        "dc:title": "Quantifying the need for enhanced case management for TB patients as part of TB cohort audit in the North West of England: A descriptive study",
+                        "dc:creator": "Tucker A.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "17",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-11-15",
+                        "prism:coverDisplayDate": "15 November 2017",
+                        "prism:doi": "10.1186/s12889-017-4892-5",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Public Health England",
+                                "affiliation-city": "London",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Liverpool School of Tropical Medicine",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "The University of Manchester",
+                                "affiliation-city": "Manchester",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29141600",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "881",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "6HQVXVM6.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29141600"
+            }
+        },
+        "title": "Quantifying the need for enhanced case management for TB patients as part of TB cohort audit in the North West of England: a descriptive study.",
+        "full_author_list": [
+            {
+                "clean": "Tucker A",
+                "family": "Tucker",
+                "given": "Angela",
+                "affiliation": {
+                    "name": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK. angelatucker1@nhs.net."
+                }
+            },
+            {
+                "clean": "Mithoo J",
+                "family": "Mithoo",
+                "given": "Jeniffer",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cleary P",
+                "family": "Cleary",
+                "given": "Paul",
+                "affiliation": {
+                    "name": "Public Health England Field Epidemiology Service North West, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Woodhead M",
+                "family": "Woodhead",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Respiratory Medicine, Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK."
+                }
+            },
+            {
+                "clean": "MacPherson P",
+                "family": "MacPherson",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wingfield T",
+                "family": "Wingfield",
+                "given": "Tom",
+                "affiliation": {
+                    "name": "Department of Social Medicine, Karolinska Institutet, Stockholm, Sweden."
+                }
+            },
+            {
+                "clean": "Davies S",
+                "family": "Davies",
+                "given": "Stefanie",
+                "affiliation": {
+                    "name": "Public Health England Field Epidemiology Service North West, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wake C",
+                "family": "Wake",
+                "given": "Carolyn",
+                "affiliation": {
+                    "name": "North West Public Health England Centre, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "McMaster P",
+                "family": "McMaster",
+                "given": "Paddy",
+                "affiliation": {
+                    "name": "Paediatric Infectious Diseases, Pennine Acute Hospitals Trust, Bury, UK."
+                }
+            },
+            {
+                "clean": "Bertel Squire S",
+                "family": "Bertel Squire",
+                "given": "S",
+                "affiliation": {
+                    "name": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Tucker A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Case Management",
+                    "major": "N"
+                },
+                {
+                    "term": "Cohort Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Medical Audit",
+                    "major": "Y"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Needs Assessment",
+                    "major": "Y"
+                },
+                {
+                    "term": "Treatment Outcome",
+                    "major": "N"
+                },
+                {
+                    "term": "Tuberculosis",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "17",
+            "issue": "1"
+        },
+        "abstract": "['Patients with TB have diverse and often challenging clinical and social needs that may hamper successful treatment outcomes. Understanding the need for additional support during treatment (enhanced case management, or ECM) is important for workforce capacity planning. North West England TB Cohort Audit (TBCA) has introduced a 4-level ECM classification system (ECM 0-3) to quantify the need for ECM in the region. This study describes the data from the first 2\\xa0years of ECM classification.', 'Data collected between April 2013 and July 2015 were used to analyse the proportions of patients allocated to each ECM level and the prevalence of social and clinical factors indicating need for ECM. Single variable and multivariable logistic regression models were constructed to examine the association between ECM level and treatment outcome.', 'Of 1714 notified cases 99.8% were assigned an ECM level: 31% ECM1, 19% ECM2 and 14% ECM3. The most common factors indicating need for ECM were language barriers (20.3%) and clinical complexity (16.9%). 1342/1493 (89.9%) of drug-sensitive, non-CNS cases completed treatment within 12\\xa0months. Patients in ECM2 and 3 were less likely to complete treatment at 12\\xa0months than patients in ECM0 (adjusted OR 0.47 [95% CI 0.27-0.84] and 0.23 [0.13-0.41] respectively).', 'Use of TBCA to quantify different levels of need for ECM is feasible and has demonstrated that social and clinical complexity is common in the region. Results will inform regional workforce planning and assist development of innovative methods to improve treatment outcomes in these vulnerable groups.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Clinical Sciences Liverpool School of Tropical Medicine, Liverpool, UK. angelatucker1@nhs.net.",
+            "clean_institute": "Liverpool School of Tropical Medicine",
+            "latitude": "53.4086",
+            "longitude": "-2.9699",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

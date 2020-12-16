@@ -1,0 +1,1928 @@
+{
+    "IDs": {
+        "zotero": "C4QQDRNP",
+        "DOI": "10.1002/14651858.CD001904.pub4",
+        "DOI_filename": "26a900a02b1487c34738488d1b6728f0",
+        "PMID": "30353945",
+        "scopus": "2-s2.0-85055575408",
+        "hash": "86dd0ed8dfbef590e51c1ca36d0901a5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "C4QQDRNP",
+            "version": 137,
+            "itemType": "journalArticle",
+            "title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2018-10-24",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD001904.pub4",
+            "ISSN": "14651858",
+            "shortTitle": "Carbamazepine versus phenobarbitone monotherapy for epilepsy",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD001904.pub4",
+            "accessDate": "2020-09-10T17:09:51Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30353945",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:51Z",
+            "dateModified": "2020-09-11T15:07:31Z",
+            "pmid": "30353945"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        17
+                    ]
+                ],
+                "date-time": "2020-04-17T06:49:00Z",
+                "timestamp": 1587106140583
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2018,
+                                10,
+                                24
+                            ]
+                        ],
+                        "date-time": "2018-10-24T00:00:00Z",
+                        "timestamp": 1540339200000
+                    },
+                    "DOI": "10.1002/14651858.cd001904.pub3",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 82,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd001904.pub4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        24
+                    ]
+                ],
+                "date-time": "2018-10-24T19:20:19Z",
+                "timestamp": 1540408819000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        24
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "7605",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1207",
+                    "DOI": "10.1136/bmj.39022.436389.BE",
+                    "article-title": "Side effects of phenobarbital and carbamazepine in childhood epilepsy: randomised controlled trial",
+                    "volume": "334",
+                    "author": "Banu",
+                    "year": "2007",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0002|cit2",
+                    "first-page": "167",
+                    "article-title": "Comparison of the effects of phenobarbital versus carbamazepine as single drug therapy in partial seizure with secondary generalization in children",
+                    "volume": "50 Suppl 10",
+                    "author": "Bidabadi",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "401",
+                    "DOI": "10.1212/WNL.24.5.401",
+                    "article-title": "Carbamazepine for epilepsy. A controlled prospective evaluation",
+                    "volume": "24",
+                    "author": "Cereghino",
+                    "year": "1974",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1212/WNL.23.4.357",
+                    "article-title": "Evaluation of carbamazepine in epileptic patients",
+                    "volume": "23",
+                    "author": "Cereghino",
+                    "year": "1973",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "81",
+                    "DOI": "10.1111/j.1528-1157.1996.tb00516.x",
+                    "article-title": "Comparison of antiepileptic drugs on cognitive function in newly diagnosed epileptic children: a psychometric and neurophysiological study",
+                    "volume": "37",
+                    "author": "Chen",
+                    "year": "1996",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0006|cit6",
+                    "first-page": "377",
+                    "article-title": "Short-term therapy with carbamazepine and phenobarbital: effects on cognitive functioning in temporal lobe epilepsy",
+                    "volume": "45/46",
+                    "author": "Cossu",
+                    "year": "1984",
+                    "journal-title": "Bollettino Lega Italiana contro l'Epilessia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0007|cit7",
+                    "first-page": "42",
+                    "article-title": "Randomised 36-month comparative study of valproic acid, phenytoin, phenobarbital and carbamazepine efficacy in patients with newly diagnosed epilepsy with partial complex seizures",
+                    "volume": "38 Suppl",
+                    "author": "Czapinski",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9003",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "709",
+                    "DOI": "10.1016/S0140-6736(96)90074-4",
+                    "article-title": "Randomised comparative monotherapy trial of phenobarbitone, phenytoin, carbamazepine, or sodium valproate for newly diagnosed childhood epilepsy",
+                    "volume": "347",
+                    "author": "Silva",
+                    "year": "1996",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "16",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "406",
+                    "DOI": "10.1016/0140-6736(91)91176-U",
+                    "article-title": "Comprehensive primary health care antiepileptic drug treatment programme in rural and semi-urban Kenya. ICBERG (International Community-based Epilepsy Research Group)",
+                    "volume": "337",
+                    "author": "Feksi",
+                    "year": "1991",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "44",
+                    "DOI": "10.1136/jnnp.58.1.44",
+                    "article-title": "Phenobarbitone, phenytoin, or sodium valproate for newly diagnosed epilepsy: a randomized comparative monotherapy trial",
+                    "volume": "58",
+                    "author": "Heller",
+                    "year": "1995",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "145",
+                    "DOI": "10.1056/NEJM198507183130303",
+                    "article-title": "Comparison of carbamazepine, phenobarbital, phenytoin, and primidone in partial and secondarily generalized tonic-clonic seizures",
+                    "volume": "313",
+                    "author": "Mattson",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "50",
+                    "DOI": "10.1111/j.1528-1157.1987.tb05778.x",
+                    "article-title": "Results of a nationwide Veterans Administration Cooperative Study comparing the efficacy and toxicity of carbamazepine, phenobarbital, phenytoin, and primidone",
+                    "volume": "28",
+                    "author": "Smith",
+                    "year": "1987",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "56",
+                    "DOI": "10.1111/j.1528-1157.1987.tb03623.x",
+                    "article-title": "Carbamazepine versus phenobarbital for partial onset seizures in children",
+                    "volume": "28",
+                    "author": "Mitchell",
+                    "year": "1987",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0014|cit14",
+                    "first-page": "18",
+                    "article-title": "Cognitive effects of anti-epileptic drugs in Nigerians with epilepsy",
+                    "volume": "24",
+                    "author": "Ogunrin",
+                    "year": "2005",
+                    "journal-title": "African Journal of Neurological Sciences"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "237",
+                    "DOI": "10.1016/0920-1211(93)90048-C",
+                    "article-title": "Antiepileptic drug treatment in a community health care setting in northern Ecuador: a prospective 12-month assessment",
+                    "volume": "14",
+                    "author": "Placencia",
+                    "year": "1993",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "737",
+                    "DOI": "10.1192/bjp.112.488.737",
+                    "article-title": "Tegretol (carbamazepine): a controlled trial of a new anti-convulsant",
+                    "volume": "112",
+                    "author": "Bird",
+                    "year": "1966",
+                    "journal-title": "British Journal of Psychiatry"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "546",
+                    "DOI": "10.1177/088307389801301104",
+                    "article-title": "Serum carnitine levels in epileptic children before and during treatment with valproic acid, carbamazepine, and phenobarbital",
+                    "volume": "13",
+                    "author": "Castro-Gago",
+                    "year": "1998",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "357",
+                    "DOI": "10.1111/j.1600-0404.1980.tb01505.x",
+                    "article-title": "Influence of dextropropoxyphene on steady state serum levels and protein binding of three anti-epileptic drugs in man",
+                    "volume": "61",
+                    "author": "Hansen",
+                    "year": "1980",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0019|cit19",
+                    "first-page": "61",
+                    "article-title": "Effect of anti-epileptic drugs on serum zinc and copper concentrations in epileptic patients",
+                    "volume": "31",
+                    "author": "Kuzuya",
+                    "year": "1993",
+                    "journal-title": "International Journal of Clinical Pharmacology, Therapy, & Toxicology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0020|cit20",
+                    "first-page": "133",
+                    "article-title": "Carbamazepine: behavioral, anticonvulsant and EEG effects in chronically-hospitalized epileptics",
+                    "volume": "29",
+                    "author": "Marjerrison",
+                    "year": "1968",
+                    "journal-title": "Diseases of the Nervous System"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "391",
+                    "DOI": "10.1212/WNL.40.3_Part_1.391",
+                    "article-title": "Comparative cognitive effects of anticonvulsants",
+                    "volume": "40",
+                    "author": "Meador",
+                    "year": "1990",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1111/j.1600-0404.1995.tb00461.x",
+                    "article-title": "Cognitive function and anticonvulsant therapy: effect of monotherapy in epilepsy",
+                    "volume": "92",
+                    "author": "Sabers",
+                    "year": "1995",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "502",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00748.x",
+                    "article-title": "The incidence of epilepsy and unprovoked seizures in multiethnic, urban health maintenance organizations",
+                    "volume": "40",
+                    "author": "Annegers",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0024|cit24",
+                    "author": "Baulac",
+                    "first-page": "528",
+                    "year": "2002",
+                    "article-title": "Phenobarbital and other barbiturates: adverse effects",
+                    "volume-title": "Antiepileptic Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0025|cit25",
+                    "author": "Bromley",
+                    "issue": "10",
+                    "year": "2014",
+                    "article-title": "Treatment for epilepsy in pregnancy: neurodevelopmental outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010236.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "489",
+                    "DOI": "10.1111/j.1528-1157.1981.tb06159.x",
+                    "article-title": "Proposal for revised clinical and electroencephalographic classification of epileptic seizures",
+                    "volume": "22",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1981",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "389",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05316.x",
+                    "article-title": "Proposal for revised classification of epilepsies and epileptic syndromes",
+                    "volume": "30",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "23",
+                    "DOI": "10.1002/cpt19623123",
+                    "article-title": "Comparison of the effectiveness of phenobarbital, mephobarbital, primidone, dipheylhydantoin, ethotoin, metharbital, and methylphenylhydantion in motor seizures",
+                    "volume": "3",
+                    "author": "Gruber",
+                    "year": "1962",
+                    "journal-title": "Clinical Pharmacology and Therapeutics"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota 1935 - 1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "557",
+                    "DOI": "10.1136/bmj.327.7414.557",
+                    "article-title": "Measuring inconsistency in meta-analyses",
+                    "volume": "327",
+                    "author": "Higgins",
+                    "year": "2003",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0032|cit32",
+                    "unstructured": "Higgins JP Altman DG Sterne JA (editors) Chapter 8: Assessing risk of bias in included studies. In: Higgins JPT, Churchill R, Chandler J, Cumpston MS (editors), Cochrane Handbook for Systematic Reviews of Interventions version 5.2.0 (updated June 2017), Cochrane, 2017 Available from www.training.cochrane.org/handbook"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "326",
+                    "DOI": "10.1212/01.wnl.0000252807.38124.a3",
+                    "article-title": "How common are the \"common\" neurologic disorders?",
+                    "volume": "68",
+                    "author": "Hirtz",
+                    "year": "2007",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "799",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01167.x",
+                    "article-title": "Considerations on designing clinical trials to evaluate the place of new antiepileptic drugs in the treatment of newly diagnosed and chronic patients with epilepsy",
+                    "volume": "39",
+                    "author": "ILAE Commission on Antiepileptic Drugs",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1094",
+                    "DOI": "10.1111/j.1528-1167.2006.00585.x",
+                    "article-title": "ILAE treatment guidelines: evidence based analysis of antiepileptic drug efficacy and effectiveness as initial monotherapy for epileptic seizures and syndromes",
+                    "volume": "47",
+                    "author": "Glauser",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7048",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "36",
+                    "DOI": "10.1136/bmj.313.7048.36",
+                    "article-title": "Trials to assess equivalence: the importance of rigorous methods",
+                    "volume": "313",
+                    "author": "Jones",
+                    "year": "1996",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "297",
+                    "DOI": "10.1111/j.1528-1157.1983.tb04893.x",
+                    "article-title": "Natural history of epileptic seizures",
+                    "volume": "24",
+                    "author": "Juul-Jenson",
+                    "year": "1983",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "314",
+                    "DOI": "10.1056/NEJM200002033420503",
+                    "article-title": "Early identification of refractory epilepsy",
+                    "volume": "342",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0040|cit40",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JP, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1026",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02549.x",
+                    "article-title": "Absence seizures and carbamazepine in adults",
+                    "volume": "35",
+                    "author": "Liporace",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S2",
+                    "DOI": "10.1111/j.1528-1157.1995.tb05996.x",
+                    "article-title": "Antiepileptic drug mechanisms of action",
+                    "volume": "36",
+                    "author": "MacDonald",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "833",
+                    "DOI": "10.1002/1531-8249(200012)48:6<833::AID-ANA3>3.0.CO;2-U",
+                    "article-title": "Factors predicting prognosis of epilepsy after presentation with seizures",
+                    "volume": "48",
+                    "author": "MacDonald",
+                    "year": "2000",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0044|cit44",
+                    "author": "Malfosse",
+                    "year": "1994",
+                    "volume-title": "Idiopathic Generalised Epilepsies: Clinical, Experimental and Genetic"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0045|cit45",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0046|cit46",
+                    "first-page": "163",
+                    "article-title": "Is carbamazepine safe to take during pregnancy?",
+                    "volume": "58",
+                    "author": "Matlow",
+                    "year": "2012",
+                    "journal-title": "Canadian Family Physician"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0047|cit47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2008.04.022",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: a systematic reviews and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "81",
+                    "author": "Meador",
+                    "year": "2008",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0048|cit48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2535",
+                    "DOI": "10.1136/bmj.b2535",
+                    "article-title": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement",
+                    "volume": "339",
+                    "author": "Moher",
+                    "year": "2009",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "DOI": "10.1136/jnnp.2005.074203",
+                    "article-title": "Malformation risks of antiepileptic drugs in pregnancy: a prospective study from the UK Epilepsy and Pregnancy Register",
+                    "volume": "77",
+                    "author": "Morrow",
+                    "year": "2006",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Neuropsychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0050|cit50",
+                    "unstructured": "Murray CJL Lopez AD Global comparative assessments in the health sector World Health Organization 1994"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0051|cit51",
+                    "author": "Nevitt",
+                    "issue": "12",
+                    "year": "2017",
+                    "article-title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis of individual participant data",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011412.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0052|cit52",
+                    "author": "Nevitt",
+                    "issue": "2",
+                    "year": "2017",
+                    "article-title": "Carbamazepine versus phenytoin monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001911.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0053|cit53",
+                    "author": "Nevitt",
+                    "issue": "6",
+                    "year": "2018",
+                    "article-title": "Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001031.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0054|cit54",
+                    "author": "Nevitt",
+                    "issue": "8",
+                    "year": "2018",
+                    "article-title": "Sodium valproate versus phenytoin monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0055|cit55",
+                    "author": "Nolan",
+                    "issue": "10",
+                    "year": "2018",
+                    "article-title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD003615.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1111/j.1528-1167.2009.02481.x",
+                    "article-title": "Estimation of the burden of active and life-time epilepsy: a meta-analytic approach",
+                    "volume": "51",
+                    "author": "Ngugi",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0057|cit57",
+                    "author": "National Institute for Health and Care Excellence",
+                    "year": "2012",
+                    "volume-title": "The epilepsies: the diagnosis and management of the epilepsies in adults and children in primary and secondary care; Clinical Guidance 137"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0058|cit58",
+                    "unstructured": "Nolan SJ Sutton L Marson A Tudur Smith C Consistency of outcome and statistical reporting of time-to-event data: the impact on Cochrane Reviews and meta-analyses in epilepsy. 21st Cochrane Colloquium: Better Knowledge for Better Health Quebec City 2013 114 5"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0059|cit59",
+                    "author": "Nolan",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Phenobarbitone versus phenytoin monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002217.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0060|cit60",
+                    "author": "Nolan",
+                    "issue": "12",
+                    "year": "2016",
+                    "article-title": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD012065.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0061|cit61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "627",
+                    "DOI": "10.1016/S1474-4422(05)70172-1",
+                    "article-title": "Incidence of unprovoked seizures and epilepsy in Iceland and assessment of the epilepsy syndrome classification: a prospective study",
+                    "volume": "4",
+                    "author": "Olafsson",
+                    "year": "2005",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "9095",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0062|cit62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1016/S0140-6736(97)06250-8",
+                    "article-title": "Randomised controlled trial to assess acceptability of phenobarbital for childhood epilepsy in rural India",
+                    "volume": "351",
+                    "author": "Pal",
+                    "year": "1998",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "24",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0063|cit63",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2815",
+                    "DOI": "10.1002/(SICI)1097-0258(19981230)17:24<2815::AID-SIM110>3.0.CO;2-8",
+                    "article-title": "Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints",
+                    "volume": "17",
+                    "author": "Parmar",
+                    "year": "1998",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0064|cit64",
+                    "first-page": "756",
+                    "article-title": "Frequency and voltage dependent inhibition of type hA Na\u0131 channels, expressed in a mammalian cell line, by local anesthetic, antiarrhythmic, and anticonvulsant drugs",
+                    "volume": "40",
+                    "author": "Ragsdale",
+                    "year": "1991",
+                    "journal-title": "Molecular Pharmacology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0065|cit65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "509",
+                    "DOI": "10.1113/jphysiol.1996.sp021784",
+                    "article-title": "Direct activation of GABAA receptors by barbiturates in cultured rat hippocampal neurons",
+                    "volume": "497",
+                    "author": "Rho",
+                    "year": "1996",
+                    "journal-title": "The Journal of Physiology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0066|cit66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1136/jnnp.61.5.433",
+                    "article-title": "Epidemiology of the epilepsies",
+                    "volume": "61",
+                    "author": "Sander",
+                    "year": "1996",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0067|cit67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "28",
+                    "DOI": "10.1111/j.0013-9580.2004.455005.x",
+                    "article-title": "The use of anti-epileptic drugs - principles and practice",
+                    "volume": "45",
+                    "author": "Sander",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0068|cit68",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "512",
+                    "DOI": "10.1111/epi.13709",
+                    "article-title": "ILAE classification of the epilepsies: Position paper of the ILAE Commission for Classification and Terminology",
+                    "volume": "58",
+                    "author": "Scheffer",
+                    "year": "2017",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0069|cit69",
+                    "author": "Shakir",
+                    "first-page": "7",
+                    "year": "1980",
+                    "article-title": "Sodium valproate, phenytoin and carbamazepine as sole anticonvulsants",
+                    "volume-title": "The place of sodium valproate in the treatment of epilepsy"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0070|cit70",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1487",
+                    "DOI": "10.1212/WNL.33.11.1487",
+                    "article-title": "Myoclonic, atonic, and absence seizures following institution of carbamazepine therapy in children",
+                    "volume": "33",
+                    "author": "Shields",
+                    "year": "1983",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0071|cit71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "916",
+                    "DOI": "10.1056/NEJM198510103131503",
+                    "article-title": "Exacerbation of seizures in children by carbamazepine",
+                    "volume": "313",
+                    "author": "Snead",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0072|cit72",
+                    "unstructured": "StataCorp LP Stata Statistical Software 2015"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0073|cit73",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S15",
+                    "DOI": "10.1111/j.1528-1157.1988.tb05805.x",
+                    "article-title": "Children of school age: the influence of antiepileptic drugs on behavior and intellect",
+                    "volume": "29",
+                    "author": "Trimble",
+                    "year": "1988",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0074|cit74",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "volume": "5",
+                    "author": "Tudur Smith",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0075|cit75",
+                    "author": "Wallace",
+                    "year": "1997",
+                    "volume-title": "Guidelines for the Clinical Management of Adults with Poorly Controlled Epilepsy"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0076|cit76",
+                    "author": "Weston",
+                    "issue": "11",
+                    "year": "2016",
+                    "article-title": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010224.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0077|cit77",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "205",
+                    "DOI": "10.1046/j.1365-2753.2000.00236.x",
+                    "article-title": "Individual patient data meta-analysis of randomized anti-epileptic drug monotherapy trials",
+                    "volume": "6",
+                    "author": "Williamson",
+                    "year": "2000",
+                    "journal-title": "Journal of Evaluation in Clinical Practice"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0078|cit78",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3337",
+                    "DOI": "10.1002/sim.1303",
+                    "article-title": "Aggregate data meta-analysis with time-to-event outcomes",
+                    "volume": "21",
+                    "author": "Williamson",
+                    "year": "2002",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0079|cit79",
+                    "author": "Nolan",
+                    "issue": "7",
+                    "year": "2015",
+                    "article-title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0080|cit80",
+                    "author": "Nolan",
+                    "issue": "12",
+                    "year": "2016",
+                    "article-title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0081|cit81",
+                    "author": "Tudur",
+                    "issue": "1",
+                    "year": "2000",
+                    "article-title": "Carbamazepine vs phenobarbitone monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001904.pub4-BIB0082|cit82",
+                    "author": "Tudur Smith",
+                    "issue": "1",
+                    "year": "2003",
+                    "article-title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        9
+                    ]
+                ],
+                "date-time": "2020-03-09T15:49:09Z",
+                "timestamp": 1583768949000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        24
+                    ]
+                ]
+            },
+            "references-count": 82,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD001904.pub4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30353945",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "11"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD001904.pub4"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "10",
+                            "Day": "24"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "10",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "10",
+                                "Day": "24"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review.",
+                    "Pagination": {
+                        "MedlinePgn": "CD001904"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the Cochrane Review previously published in 2016. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.Worldwide, carbamazepine and phenobarbitone are commonly used broad-spectrum antiepileptic drugs, suitable for most epileptic seizure types. Carbamazepine is a current first-line treatment for focal onset seizures, and is used in the USA and Europe. Phenobarbitone is no longer considered a first-line treatment because of concerns over associated adverse events, particularly documented behavioural adverse events in children treated with the drug. However, phenobarbitone is still commonly used in low- and middle-income countries because of its low cost. No consistent differences in efficacy have been found between carbamazepine and phenobarbitone in individual trials; however, the confidence intervals generated by these trials are wide, and therefore, synthesising the data of the individual trials may show differences in efficacy.",
+                            "To review the time to treatment failure, remission and first seizure with carbamazepine compared with phenobarbitone when used as monotherapy in people with focal onset seizures (simple or complex focal and secondarily generalised), or generalised onset tonic-clonic seizures (with or without other generalised seizure types).",
+                            "For the latest update, we searched the following databases on 24 May 2018: the Cochrane Register of Studies (CRS Web), which includes Cochrane Epilepsy's Specialized Register and CENTRAL; MEDLINE; the US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov); and the World Health Organization International Clinical Trials Registry Platform (ICTRP). We handsearched relevant journals and contacted pharmaceutical companies, original trial investigators, and experts in the field.",
+                            "Randomised controlled trials comparing monotherapy with either carbamazepine or phenobarbitone in children or adults with focal onset seizures or generalised onset tonic-clonic seizures.",
+                            "This was an individual participant data (IPD), review. Our primary outcome was time to treatment failure. Our secondary outcomes were time to first seizure post-randomisation, time to six-month remission, time to 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs), with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI.",
+                            "We included 13 trials in this review and IPD were available for 836 individuals out of 1455 eligible individuals from six trials, 57% of the potential data. For remission outcomes, a HR of less than 1 indicates an advantage for phenobarbitone and for first seizure and treatment failure outcomes a HR of less than 1 indicates an advantage for carbamazepine.Results for the primary outcome of the review were: time to treatment failure for any reason related to treatment (pooled HR adjusted for seizure type for 676 participants: 0.66, 95% CI 0.50 to 0.86, moderate-quality evidence), time to treatment failure due to adverse events (pooled HR adjusted for seizure type for 619 participants: 0.69, 95% CI 0.49 to 0.97, low-quality evidence), time to treatment failure due to lack of efficacy (pooled HR adjusted for seizure type for 487 participants: 0.54, 95% CI 0.38 to 0.78, moderate-quality evidence), showing a statistically significant advantage for carbamazepine compared to phenobarbitone.For our secondary outcomes, we did not find any statistically significant differences between carbamazepine and phenobarbitone: time to first seizure post-randomisation (pooled HR adjusted for seizure type for 822 participants: 1.13, 95% CI 0.93 to 1.38, moderate-quality evidence), time to 12-month remission (pooled HR adjusted for seizure type for 683 participants: 1.09, 95% CI 0.84 to 1.40, low-quality evidence), and time to six-month remission pooled HR adjusted for seizure type for 683 participants: 1.01, 95% CI 0.81 to 1.24, low-quality evidence).Results of these secondary outcomes suggest that there may be an association between treatment effect in terms of efficacy and seizure type; that is, that participants with focal onset seizures experience seizure recurrence later and hence remission of seizures earlier on phenobarbitone than carbamazepine, and vice versa for individuals with generalised seizures. It is likely that the analyses of these outcomes were confounded by several methodological issues and misclassification of seizure type, which could have introduced the heterogeneity and bias into the results of this review.Limited information was available regarding adverse events in the trials and we could not compare the rates of adverse events between carbamazepine and phenobarbitone. Some adverse events reported on both drugs were abdominal pain, nausea, and vomiting, drowsiness, motor and cognitive disturbances, dysmorphic side effects (such as rash), and behavioural side effects in three paediatric trials.",
+                            "Moderate-quality evidence from this review suggests that carbamazepine is likely to be a more effective drug than phenobarbitone in terms of treatment retention (treatment failures due to lack of efficacy or adverse events or both). Moderate- to low-quality evidence from this review also suggests an association between treatment efficacy and seizure type in terms of seizure recurrence and seizure remission, with an advantage for phenobarbitone for focal onset seizures and an advantage for carbamazepine for generalised onset seizures.However, some of the trials contributing to the analyses had methodological inadequacies and inconsistencies that may have impacted upon the results of this review. Therefore, we do not suggest that results of this review alone should form the basis of a treatment choice for a patient with newly onset seizures. We recommend that future trials should be designed to the highest quality possible with consideration of masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Nevitt",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "33CM23913M",
+                        "NameOfSubstance": "Carbamazepine"
+                    },
+                    {
+                        "RegistryNumber": "YQE403BP4D",
+                        "NameOfSubstance": "Phenobarbital"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2016 Dec 15;12:CD001904",
+                        "PMID": "27976799"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Carbamazepine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Generalized",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Tonic-Clonic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Phenobarbital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Recurrence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remission Induction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Treatment Failure",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Int J Clin Pharmacol Ther Toxicol. 1993 Feb;31(2):61-5",
+                                "ArticleIdList": [
+                                    "8458677"
+                                ]
+                            },
+                            {
+                                "Citation": "Can Fam Physician. 2012 Feb;58(2):163-4",
+                                "ArticleIdList": [
+                                    "22337738"
+                                ]
+                            },
+                            {
+                                "Citation": "Dis Nerv Syst. 1968 Feb;29(2):133-6",
+                                "ArticleIdList": [
+                                    "5637595"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2002 Nov 30;21(22):3337-51",
+                                "ArticleIdList": [
+                                    "12407676"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001030",
+                                "ArticleIdList": [
+                                    "10908558"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2006 Jul;47(7):1094-120",
+                                "ArticleIdList": [
+                                    "16886973"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2007 Jun 9;334(7605):1207",
+                                "ArticleIdList": [
+                                    "17145735"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999 Apr;40(4):502-6",
+                                "ArticleIdList": [
+                                    "10219279"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1983 Jun;24(3):297-312",
+                                "ArticleIdList": [
+                                    "6406213"
+                                ]
+                            },
+                            {
+                                "Citation": "Trials. 2007 Nov 05;8:34",
+                                "ArticleIdList": [
+                                    "17983480"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2017 Dec 15;12:CD011412",
+                                "ArticleIdList": [
+                                    "29243813"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1985 Oct 10;313(15):916-21",
+                                "ArticleIdList": [
+                                    "3929090"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1998 Jan 3;351(9095):19-23",
+                                "ArticleIdList": [
+                                    "9433424"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1996 Nov;61(5):433-43",
+                                "ArticleIdList": [
+                                    "8965090"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1983 Nov;33(11):1487-9",
+                                "ArticleIdList": [
+                                    "6415512"
+                                ]
+                            },
+                            {
+                                "Citation": "J Physiol. 1996 Dec 1;497 ( Pt 2):509-22",
+                                "ArticleIdList": [
+                                    "8961191"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1995 Jul;92(1):19-27",
+                                "ArticleIdList": [
+                                    "7572056"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 May;51(5):883-90",
+                                "ArticleIdList": [
+                                    "20067507"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2005 Oct;4(10):627-34",
+                                "ArticleIdList": [
+                                    "16168931"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1987;28 Suppl 3:S50-8",
+                                "ArticleIdList": [
+                                    "3319543"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1996 Jul 6;313(7048):36-9",
+                                "ArticleIdList": [
+                                    "8664772"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Nov 07;11:CD010224",
+                                "ArticleIdList": [
+                                    "27819746"
+                                ]
+                            },
+                            {
+                                "Citation": "Mol Pharmacol. 1991 Nov;40(5):756-65",
+                                "ArticleIdList": [
+                                    "1658608"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Pharmacol Ther. 1962 Jan-Feb;3:23-8",
+                                "ArticleIdList": [
+                                    "13902356"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1996 Mar 16;347(9003):709-13",
+                                "ArticleIdList": [
+                                    "8601999"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2017 Feb 27;2:CD001911",
+                                "ArticleIdList": [
+                                    "28240353"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004;45 Suppl 6:28-34",
+                                "ArticleIdList": [
+                                    "15315513"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1985 Jul 18;313(3):145-51",
+                                "ArticleIdList": [
+                                    "3925335"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Oct 30;(10):CD010236",
+                                "ArticleIdList": [
+                                    "25354543"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1981 Aug;22(4):489-501",
+                                "ArticleIdList": [
+                                    "6790275"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2007 Jan 30;68(5):326-37",
+                                "ArticleIdList": [
+                                    "17261678"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1995 Jan;58(1):44-50",
+                                "ArticleIdList": [
+                                    "7823066"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Aug 09;8:CD001769",
+                                "ArticleIdList": [
+                                    "30091458"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1974 May;24(5):401-10",
+                                "ArticleIdList": [
+                                    "4207990"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1998 Jul;39(7):799-803",
+                                "ArticleIdList": [
+                                    "9670910"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1991 Feb 16;337(8738):406-9",
+                                "ArticleIdList": [
+                                    "1671434"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1995;36 Suppl 2:S2-12",
+                                "ArticleIdList": [
+                                    "8784210"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1980 Jun;61(6):357-67",
+                                "ArticleIdList": [
+                                    "6998251"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2017 Apr;58(4):512-521",
+                                "ArticleIdList": [
+                                    "28276062"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Oct 23;10:CD003615",
+                                "ArticleIdList": [
+                                    "30350354"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1993 Mar;14(3):237-44",
+                                "ArticleIdList": [
+                                    "8504794"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1996 Jan;37(1):81-6",
+                                "ArticleIdList": [
+                                    "8603630"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994 Sep-Oct;35(5):1026-8",
+                                "ArticleIdList": [
+                                    "7925146"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2008 Sep;81(1):1-13",
+                                "ArticleIdList": [
+                                    "18565732"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1989 Jul-Aug;30(4):389-99",
+                                "ArticleIdList": [
+                                    "2502382"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Dec 06;12:CD012065",
+                                "ArticleIdList": [
+                                    "27922722"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Jan 31;(1):CD002217",
+                                "ArticleIdList": [
+                                    "23440786"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2009 Jul 21;339:b2535",
+                                "ArticleIdList": [
+                                    "19622551"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2000 Dec;48(6):833-41",
+                                "ArticleIdList": [
+                                    "11117539"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Neurol. 1998 Nov;13(11):546-9",
+                                "ArticleIdList": [
+                                    "9853647"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1988;29 Suppl 3:S15-9",
+                                "ArticleIdList": [
+                                    "3066616"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1987 Jan-Feb;28(1):56-60",
+                                "ArticleIdList": [
+                                    "3098555"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2006 Feb;77(2):193-8",
+                                "ArticleIdList": [
+                                    "16157661"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1998 Dec 30;17(24):2815-34",
+                                "ArticleIdList": [
+                                    "9921604"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Dec 15;12:CD001904",
+                                "ArticleIdList": [
+                                    "27976799"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2003;(1):CD001904",
+                                "ArticleIdList": [
+                                    "12535420"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Jul 23;(7):CD001904",
+                                "ArticleIdList": [
+                                    "26204241"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1990 Mar;40(3 Pt 1):391-4",
+                                "ArticleIdList": [
+                                    "2314578"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "J Eval Clin Pract. 2000 May;6(2):205-14",
+                                "ArticleIdList": [
+                                    "10970014"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Jun 28;6:CD001031",
+                                "ArticleIdList": [
+                                    "29952431"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2000 Feb 3;342(5):314-9",
+                                "ArticleIdList": [
+                                    "10660394"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2003 Sep 6;327(7414):557-60",
+                                "ArticleIdList": [
+                                    "12958120"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "30353945",
+                    "10.1002/14651858.CD001904.pub4",
+                    "PMC6517155"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30353945)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830353945%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830353945%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055575408"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055575408?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055575408&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055575408&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055575408",
+                        "dc:identifier": "SCOPUS_ID:85055575408",
+                        "eid": "2-s2.0-85055575408",
+                        "dc:title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: An individual participant data review",
+                        "dc:creator": "Nevitt S.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2018",
+                        "prism:issueIdentifier": "10",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-10-24",
+                        "prism:coverDisplayDate": "24 October 2018",
+                        "prism:doi": "10.1002/14651858.CD001904.pub4",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30353945",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD001904",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "C4QQDRNP.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30353945"
+            }
+        },
+        "title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review.",
+        "full_author_list": [
+            {
+                "clean": "Nevitt S",
+                "family": "Nevitt",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Nevitt S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Carbamazepine",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Generalized",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Tonic-Clonic",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Phenobarbital",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Recurrence",
+                    "major": "N"
+                },
+                {
+                    "term": "Remission Induction",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Time Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Treatment Failure",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "10",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the Cochrane Review previously published in 2016. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.Worldwide, carbamazepine and phenobarbitone are commonly used broad-spectrum antiepileptic drugs, suitable for most epileptic seizure types. Carbamazepine is a current first-line treatment for focal onset seizures, and is used in the USA and Europe. Phenobarbitone is no longer considered a first-line treatment because of concerns over associated adverse events, particularly documented behavioural adverse events in children treated with the drug. However, phenobarbitone is still commonly used in low- and middle-income countries because of its low cost. No consistent differences in efficacy have been found between carbamazepine and phenobarbitone in individual trials; however, the confidence intervals generated by these trials are wide, and therefore, synthesising the data of the individual trials may show differences in efficacy.', 'To review the time to treatment failure, remission and first seizure with carbamazepine compared with phenobarbitone when used as monotherapy in people with focal onset seizures (simple or complex focal and secondarily generalised), or generalised onset tonic-clonic seizures (with or without other generalised seizure types).', \"For the latest update, we searched the following databases on 24 May 2018: the Cochrane Register of Studies (CRS Web), which includes Cochrane Epilepsy's Specialized Register and CENTRAL; MEDLINE; the US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov); and the World Health Organization International Clinical Trials Registry Platform (ICTRP). We handsearched relevant journals and contacted pharmaceutical companies, original trial investigators, and experts in the field.\", 'Randomised controlled trials comparing monotherapy with either carbamazepine or phenobarbitone in children or adults with focal onset seizures or generalised onset tonic-clonic seizures.', 'This was an individual participant data (IPD), review. Our primary outcome was time to treatment failure. Our secondary outcomes were time to first seizure post-randomisation, time to six-month remission, time to 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs), with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI.', 'We included 13 trials in this review and IPD were available for 836 individuals out of 1455 eligible individuals from six trials, 57% of the potential data. For remission outcomes, a HR of less than 1 indicates an advantage for phenobarbitone and for first seizure and treatment failure outcomes a HR of less than 1 indicates an advantage for carbamazepine.Results for the primary outcome of the review were: time to treatment failure for any reason related to treatment (pooled HR adjusted for seizure type for 676 participants: 0.66, 95% CI 0.50 to 0.86, moderate-quality evidence), time to treatment failure due to adverse events (pooled HR adjusted for seizure type for 619 participants: 0.69, 95% CI 0.49 to 0.97, low-quality evidence), time to treatment failure due to lack of efficacy (pooled HR adjusted for seizure type for 487 participants: 0.54, 95% CI 0.38 to 0.78, moderate-quality evidence), showing a statistically significant advantage for carbamazepine compared to phenobarbitone.For our secondary outcomes, we did not find any statistically significant differences between carbamazepine and phenobarbitone: time to first seizure post-randomisation (pooled HR adjusted for seizure type for 822 participants: 1.13, 95% CI 0.93 to 1.38, moderate-quality evidence), time to 12-month remission (pooled HR adjusted for seizure type for 683 participants: 1.09, 95% CI 0.84 to 1.40, low-quality evidence), and time to six-month remission pooled HR adjusted for seizure type for 683 participants: 1.01, 95% CI 0.81 to 1.24, low-quality evidence).Results of these secondary outcomes suggest that there may be an association between treatment effect in terms of efficacy and seizure type; that is, that participants with focal onset seizures experience seizure recurrence later and hence remission of seizures earlier on phenobarbitone than carbamazepine, and vice versa for individuals with generalised seizures. It is likely that the analyses of these outcomes were confounded by several methodological issues and misclassification of seizure type, which could have introduced the heterogeneity and bias into the results of this review.Limited information was available regarding adverse events in the trials and we could not compare the rates of adverse events between carbamazepine and phenobarbitone. Some adverse events reported on both drugs were abdominal pain, nausea, and vomiting, drowsiness, motor and cognitive disturbances, dysmorphic side effects (such as rash), and behavioural side effects in three paediatric trials.', 'Moderate-quality evidence from this review suggests that carbamazepine is likely to be a more effective drug than phenobarbitone in terms of treatment retention (treatment failures due to lack of efficacy or adverse events or both). Moderate- to low-quality evidence from this review also suggests an association between treatment efficacy and seizure type in terms of seizure recurrence and seizure remission, with an advantage for phenobarbitone for focal onset seizures and an advantage for carbamazepine for generalised onset seizures.However, some of the trials contributing to the analyses had methodological inadequacies and inconsistencies that may have impacted upon the results of this review. Therefore, we do not suggest that results of this review alone should form the basis of a treatment choice for a patient with newly onset seizures. We recommend that future trials should be designed to the highest quality possible with consideration of masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

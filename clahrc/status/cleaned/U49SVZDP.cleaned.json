@@ -1,0 +1,512 @@
+{
+    "IDs": {
+        "zotero": "U49SVZDP",
+        "DOI": "10.1080/15710882.2017.1340484",
+        "DOI_filename": "384811d2ca715e9d54f113060d22ad94",
+        "PMID": "",
+        "scopus": "2-s2.0-85021130661",
+        "hash": "19cc5ec3f76803e54f47338bb35098a1"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "U49SVZDP",
+            "version": 85,
+            "itemType": "journalArticle",
+            "title": "The psychological benefits of cooperative place-making: a mixed methods analyses of co-design workshops",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham",
+                    "lastName": "Marshall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Erin",
+                    "lastName": "Walsh"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "CoDesign",
+            "volume": "14",
+            "issue": "4",
+            "pages": "314-328",
+            "date": "2018-10-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "CoDesign",
+            "language": "en",
+            "DOI": "10.1080/15710882.2017.1340484",
+            "ISSN": "1571-0882, 1745-3755",
+            "shortTitle": "The psychological benefits of cooperative place-making",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/15710882.2017.1340484",
+            "accessDate": "2020-09-10T17:08:33Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:33Z",
+            "dateModified": "2020-09-10T17:08:33Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        24
+                    ]
+                ],
+                "date-time": "2020-06-24T11:04:44Z",
+                "timestamp": 1592996684864
+            },
+            "reference-count": 20,
+            "publisher": "Informa UK Limited",
+            "issue": "4",
+            "funder": [
+                {
+                    "name": "Arts and Humanties Research Council",
+                    "award": [
+                        "AH/L004674/1"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/15710882.2017.1340484",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        21
+                    ]
+                ],
+                "date-time": "2017-06-21T14:23:51Z",
+                "timestamp": 1498055031000
+            },
+            "page": "314-328",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "The psychological benefits of cooperative place-making: a mixed methods analyses of co-design workshops",
+            "prefix": "10.1080",
+            "volume": "14",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8900-9199",
+                    "authenticated-orcid": false,
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "Centre for Research into Literature and Society, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "Heseltine Institute of Public Policy and Practice, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Graham",
+                    "family": "Marshall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "Heseltine Institute of Public Policy and Practice, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "Prosocial Place, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Erin",
+                    "family": "Walsh",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Future Cities Catapult, London, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1186/1471-244X-7-20",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "DOH (Department of Health)",
+                    "year": "2002",
+                    "volume-title": "A Guide to NHS Foundation Trusts"
+                },
+                {
+                    "key": "CIT0004",
+                    "author": "DOH (Department of Health)",
+                    "year": "2003",
+                    "volume-title": "Strengthening Accountability: Involving Patients and the Public"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1111/j.0008-3658.2005.00092.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1080/00420980220080201",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1136/medhum-2015-010704",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "author": "Lovibond S. H.",
+                    "year": "1995",
+                    "volume-title": "Manual for the Depression Anxiety Stress Scales"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1080/09540962.2010.492180",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1016/S0016-7185(02)00007-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "author": "Pawson R.",
+                    "year": "1997",
+                    "volume-title": "Realistic Evaluation"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1111/tran.2010.36.issue-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1177/1466138108089467",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1007/978-94-007-7031-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1037/0022-3514.57.6.1069",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1080/15710880701875068",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1006/jevp.2001.0251",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1186/1477-7525-5-63",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "author": "Tuan Y.",
+                    "year": "1977",
+                    "volume-title": "Space and Place: The Perspective of Experience"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1037/0022-3514.54.6.1063",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.2753/JEC1086-4415150101",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "CoDesign",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/15710882.2017.1340484",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        9
+                    ]
+                ],
+                "date-time": "2018-11-09T15:18:40Z",
+                "timestamp": 1541776720000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        21
+                    ]
+                ]
+            },
+            "references-count": 20,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            9,
+                            25
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            10,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1080/15710882.2017.1340484"
+            ],
+            "URL": "http://dx.doi.org/10.1080/15710882.2017.1340484",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1571-0882",
+                "1745-3755"
+            ],
+            "container-title-short": "CoDesign",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ncdn20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ncdn20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                }
+            ]
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1080/15710882.2017.1340484)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F15710882.2017.1340484%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F15710882.2017.1340484%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021130661"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021130661?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021130661&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021130661&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021130661",
+                        "dc:identifier": "SCOPUS_ID:85021130661",
+                        "eid": "2-s2.0-85021130661",
+                        "dc:title": "The psychological benefits of cooperative place-making: a mixed methods analyses of co-design workshops",
+                        "dc:creator": "Corcoran R.",
+                        "prism:publicationName": "CoDesign",
+                        "prism:issn": "15710882",
+                        "prism:eIssn": "17453755",
+                        "prism:volume": "14",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "314-328",
+                        "prism:coverDate": "2018-10-02",
+                        "prism:coverDisplayDate": "2 October 2018",
+                        "prism:doi": "10.1080/15710882.2017.1340484",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19700201037",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "U49SVZDP.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "The psychological benefits of cooperative place-making: a mixed methods analyses of co-design workshops",
+        "full_author_list": [
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Marshall G",
+                "family": "Marshall",
+                "given": "Graham",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Walsh E",
+                "family": "Walsh",
+                "given": "Erin",
+                "affiliation": {
+                    "name": "Future Cities Catapult, London, UK"
+                }
+            }
+        ],
+        "first_author": "Corcoran R",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "CoDesign",
+            "volume": "14",
+            "issue": "4"
+        },
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

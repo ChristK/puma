@@ -1,0 +1,540 @@
+{
+    "IDs": {
+        "zotero": "JMBV4YLZ",
+        "DOI": "10.1371/journal.pone.0199514",
+        "DOI_filename": "23443648444cf98258d99edda6c410a5",
+        "PMID": "29920541",
+        "scopus": "2-s2.0-85048761457",
+        "hash": "29ddcfaeaaf820d3a7cf52003b1d5bda"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JMBV4YLZ",
+            "version": 158,
+            "itemType": "journalArticle",
+            "title": "Correction: Relative solidarity: Conceptualising communal participation in genomic research among potential research participants in a developing Sub-Saharan African setting",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Olubunmi",
+                    "lastName": "Ogunrin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kerry",
+                    "lastName": "Woolfall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lucy",
+                    "lastName": "Frith"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "PLOS ONE",
+            "volume": "13",
+            "issue": "6",
+            "pages": "e0199514",
+            "date": "2018-6-19",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLoS ONE",
+            "language": "en",
+            "DOI": "10.1371/journal.pone.0199514",
+            "ISSN": "1932-6203",
+            "shortTitle": "Correction",
+            "url": "https://dx.plos.org/10.1371/journal.pone.0199514",
+            "accessDate": "2020-09-10T17:09:17Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29920541",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:17Z",
+            "dateModified": "2020-09-15T13:01:45Z",
+            "pmid": "29920541"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        2
+                    ]
+                ],
+                "date-time": "2020-03-02T05:43:25Z",
+                "timestamp": 1583127805845
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2018,
+                                6,
+                                19
+                            ]
+                        ],
+                        "date-time": "2018-06-19T00:00:00Z",
+                        "timestamp": 1529366400000
+                    },
+                    "DOI": "10.1371/journal.pone.0195171",
+                    "type": "correction",
+                    "label": "Correction"
+                }
+            ],
+            "reference-count": 1,
+            "publisher": "Public Library of Science (PLoS)",
+            "issue": "6",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                6,
+                                19
+                            ]
+                        ],
+                        "date-time": "2018-06-19T00:00:00Z",
+                        "timestamp": 1529366400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.plosone.org"
+                ],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.1371/journal.pone.0199514",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        19
+                    ]
+                ],
+                "date-time": "2018-06-19T17:25:39Z",
+                "timestamp": 1529429139000
+            },
+            "page": "e0199514",
+            "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Correction: Relative solidarity: Conceptualising communal participation in genomic research among potential research participants in a developing Sub-Saharan African setting",
+            "prefix": "10.1371",
+            "volume": "13",
+            "author": [
+                {
+                    "given": "Olubunmi",
+                    "family": "Ogunrin",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kerry",
+                    "family": "Woolfall",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lucy",
+                    "family": "Frith",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "340",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        19
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "4",
+                    "key": "ref1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0195171",
+                    "DOI": "10.1371/journal.pone.0195171",
+                    "article-title": "Relative solidarity: Conceptualising communal participation in genomic research among potential research participants in a developing Sub-Saharan African setting",
+                    "volume": "13",
+                    "author": "O Ogunrin",
+                    "year": "2018",
+                    "journal-title": "PLoS ONE"
+                }
+            ],
+            "container-title": "PLOS ONE",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://dx.plos.org/10.1371/journal.pone.0199514",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        22
+                    ]
+                ],
+                "date-time": "2018-10-22T18:23:53Z",
+                "timestamp": 1540232633000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        19
+                    ]
+                ]
+            },
+            "references-count": 1,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            6,
+                            19
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "URL": "http://dx.doi.org/10.1371/journal.pone.0199514",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1932-6203"
+            ],
+            "subject": [
+                "General Biochemistry, Genetics and Molecular Biology",
+                "General Agricultural and Biological Sciences",
+                "General Medicine"
+            ],
+            "container-title-short": "PLoS ONE"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29920541",
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "20"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1371/journal.pone.0199514"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "06",
+                            "Day": "19"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1932-6203",
+                        "JournalIssue": {
+                            "Volume": "13",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "2018"
+                            }
+                        },
+                        "Title": "PloS one",
+                        "ISOAbbreviation": "PLoS ONE"
+                    },
+                    "ArticleTitle": "Correction: Relative solidarity: Conceptualising communal participation in genomic research among potential research participants in a developing Sub-Saharan African setting.",
+                    "Pagination": {
+                        "MedlinePgn": "e0199514"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "[This corrects the article DOI: 10.1371/journal.pone.0195171.]."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Ogunrin",
+                            "ForeName": "Olubunmi",
+                            "Initials": "O"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Woolfall",
+                            "ForeName": "Kerry",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Frith",
+                            "ForeName": "Lucy",
+                            "Initials": "L"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Published Erratum"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "PLoS One",
+                    "NlmUniqueID": "101285081",
+                    "ISSNLinking": "1932-6203"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "PLoS One. 2018 Apr 5;13(4):e0195171",
+                        "PMID": "29621313"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "PLoS One. 2018 Apr 5;13(4):e0195171",
+                                "ArticleIdList": [
+                                    "29621313"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29920541",
+                    "10.1371/journal.pone.0199514",
+                    "PONE-D-18-17501",
+                    "PMC6007826"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29920541)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829920541%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829920541%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048761457"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048761457?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048761457&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048761457&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048761457",
+                        "dc:identifier": "SCOPUS_ID:85048761457",
+                        "eid": "2-s2.0-85048761457",
+                        "dc:title": "Correction: Relative solidarity: Conceptualising communal participation in genomic research among potential research participants in a developing sub-saharan african setting(PLoS ONE (2018)13: 4 (e0195171) DOI: 10.1371/journal.pone.0195171)",
+                        "dc:creator": "Ogunrin O.",
+                        "prism:publicationName": "PLoS ONE",
+                        "prism:eIssn": "19326203",
+                        "prism:volume": "13",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-06-01",
+                        "prism:coverDisplayDate": "June 2018",
+                        "prism:doi": "10.1371/journal.pone.0199514",
+                        "citedby-count": "2",
+                        "pubmed-id": "29920541",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "er",
+                        "subtypeDescription": "Erratum",
+                        "article-number": "0199514",
+                        "source-id": "10600153309",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JMBV4YLZ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29920541"
+            }
+        },
+        "title": "Correction: Relative solidarity: Conceptualising communal participation in genomic research among potential research participants in a developing Sub-Saharan African setting.",
+        "full_author_list": [
+            {
+                "clean": "Ogunrin O",
+                "family": "Ogunrin",
+                "given": "Olubunmi",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Woolfall K",
+                "family": "Woolfall",
+                "given": "Kerry",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Frith L",
+                "family": "Frith",
+                "given": "Lucy",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Ogunrin O",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "PLoS ONE",
+            "volume": "13",
+            "issue": "6"
+        },
+        "abstract": "['[This corrects the article DOI: 10.1371/journal.pone.0195171.].']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {}
+    }
+}

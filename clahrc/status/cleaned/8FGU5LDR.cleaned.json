@@ -1,0 +1,723 @@
+{
+    "IDs": {
+        "zotero": "8FGU5LDR",
+        "DOI": "10.1016/j.jclinepi.2018.08.008",
+        "DOI_filename": "6423cf8bc59094c0ac21e854f68be6e9",
+        "PMID": "30125710",
+        "scopus": "2-s2.0-85054039926",
+        "hash": "67184a36a6f2a65b22eaf134550d0181"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "8FGU5LDR",
+            "version": 128,
+            "itemType": "journalArticle",
+            "title": "Toward a theory-led metaframework for considering socioeconomic health inequalities within systematic reviews",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Maden"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Naoimh",
+                    "lastName": "McMahon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Booth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rumona",
+                    "lastName": "Dickson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Suzy",
+                    "lastName": "Paisley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Clinical Epidemiology",
+            "volume": "104",
+            "issue": "",
+            "pages": "84-94",
+            "date": "12/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Clinical Epidemiology",
+            "language": "en",
+            "DOI": "10.1016/j.jclinepi.2018.08.008",
+            "ISSN": "08954356",
+            "shortTitle": "",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0895435618301689",
+            "accessDate": "2020-09-10T17:10:17Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30125710",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:17Z",
+            "dateModified": "2020-09-11T15:02:01Z",
+            "pmid": "30125710"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        23
+                    ]
+                ],
+                "date-time": "2020-03-23T22:38:36Z",
+                "timestamp": 1585003116429
+            },
+            "reference-count": 39,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                12,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-12-01T00:00:00Z",
+                        "timestamp": 1543622400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "jclinepi.com",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.jclinepi.2018.08.008",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        17
+                    ]
+                ],
+                "date-time": "2018-08-17T17:19:57Z",
+                "timestamp": 1534526397000
+            },
+            "page": "84-94",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Toward a theory-led metaframework for considering socioeconomic health inequalities within systematic reviews",
+            "prefix": "10.1016",
+            "volume": "104",
+            "author": [
+                {
+                    "given": "Michelle",
+                    "family": "Maden",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6319-2263",
+                    "authenticated-orcid": false,
+                    "given": "Naoimh",
+                    "family": "McMahon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Booth",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rumona",
+                    "family": "Dickson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Suzy",
+                    "family": "Paisley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Journal of Clinical Epidemiology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0895435618301689?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0895435618301689?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        7
+                    ]
+                ],
+                "date-time": "2018-11-07T16:31:59Z",
+                "timestamp": 1541608319000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 39,
+            "alternative-id": [
+                "S0895435618301689"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.jclinepi.2018.08.008",
+            "relation": {},
+            "ISSN": [
+                "0895-4356"
+            ],
+            "subject": [
+                "Epidemiology"
+            ],
+            "container-title-short": "Journal of Clinical Epidemiology",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Toward a theory-led metaframework for considering socioeconomic health inequalities within systematic reviews",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Journal of Clinical Epidemiology",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.jclinepi.2018.08.008",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "Crown Copyright \u00a9 2018 Published by Elsevier Inc. All rights reserved.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Equity",
+                        "Framework",
+                        "Methodology",
+                        "Program theory",
+                        "Systematic review"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30125710",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "09",
+                    "Day": "19"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "09",
+                    "Day": "19"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0895-4356(18)30168-9",
+                        "10.1016/j.jclinepi.2018.08.008"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "08",
+                            "Day": "17"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1878-5921",
+                        "JournalIssue": {
+                            "Volume": "104",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "12"
+                            }
+                        },
+                        "Title": "Journal of clinical epidemiology",
+                        "ISOAbbreviation": "J Clin Epidemiol"
+                    },
+                    "ArticleTitle": "Toward a theory-led metaframework for considering socioeconomic health inequalities within systematic reviews.",
+                    "Pagination": {
+                        "MedlinePgn": "84-94"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To develop a theory-led framework to inform reviewers' understanding of what, how, and why health care interventions may lead to differential effects across socioeconomic groups.",
+                            "A metaframework approach combined two theoretical perspectives (socioeconomic health inequalities and complex interventions) into a single framework to inform socioeconomic health inequality considerations in systematic reviews.",
+                            "Four theories relating to complexity within systematic reviews and 16 health inequalities intervention theories informed the development of a metaframework. Factors relating to the type of intervention, implementation, context, participant response, and mechanisms associated with differential effects across socioeconomic groups were identified. The metaframework can inform; reviewer discussions around how socioeconomic status (SES) can moderate intervention effectiveness during question formulation, approaches to data extraction and help identify a priori analysis considerations.",
+                            "The metaframework offers a transparent, practical, theory-led approach to inform a program theory for what, how, and why interventions work for different SES groups in systematic reviews. It can enhance existing guidance on conducting systematic reviews that consider health inequalities, increase awareness of how SES can moderate intervention effectiveness, and encourage a greater engagement with theory throughout the review process."
+                        ],
+                        "CopyrightInformation": "Crown Copyright \u00a9 2018. Published by Elsevier Inc. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool L69 3GB, UK. Electronic address: Michelle.Maden@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maden",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, Brook Building, University of Central Lancashire, Preston PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McMahon",
+                            "ForeName": "Naoimh",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Reader in Evidence Based Information Practice, School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield S1 4DA, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Booth",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Director, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dickson",
+                            "ForeName": "Rumona",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Director of Innovation and Knowledge Transfer (IKT), Senior Research Fellow, ScHARR, University of Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Paisley",
+                            "ForeName": "Suzy",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Professor of General Practice, Director NIHR CLAHRC NWC, University of Liverpool, Block B Waterhouse Building, 1-5 Brownlow St., Liverpool L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "J Clin Epidemiol",
+                    "NlmUniqueID": "8801383",
+                    "ISSNLinking": "0895-4356"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Guidelines as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Research Design",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Class",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Systematic Reviews as Topic",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "02",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "07",
+                        "Day": "08"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "08",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "9",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30125710",
+                    "S0895-4356(18)30168-9",
+                    "10.1016/j.jclinepi.2018.08.008"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30125710)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830125710%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830125710%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054039926"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054039926?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054039926&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054039926&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0895435618301689"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054039926",
+                        "dc:identifier": "SCOPUS_ID:85054039926",
+                        "eid": "2-s2.0-85054039926",
+                        "dc:title": "Toward a theory-led metaframework for considering socioeconomic health inequalities within systematic reviews",
+                        "dc:creator": "Maden M.",
+                        "prism:publicationName": "Journal of Clinical Epidemiology",
+                        "prism:issn": "08954356",
+                        "prism:eIssn": "18785921",
+                        "prism:volume": "104",
+                        "prism:pageRange": "84-94",
+                        "prism:coverDate": "2018-12-01",
+                        "prism:coverDisplayDate": "December 2018",
+                        "prism:doi": "10.1016/j.jclinepi.2018.08.008",
+                        "pii": "S0895435618301689",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30125710",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "15857",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "8FGU5LDR.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30125710"
+            }
+        },
+        "title": "Toward a theory-led metaframework for considering socioeconomic health inequalities within systematic reviews.",
+        "full_author_list": [
+            {
+                "clean": "Maden M",
+                "family": "Maden",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool L69 3GB, UK. Electronic address: Michelle.Maden@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "McMahon N",
+                "family": "McMahon",
+                "given": "Naoimh",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, Brook Building, University of Central Lancashire, Preston PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Booth A",
+                "family": "Booth",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Reader in Evidence Based Information Practice, School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield S1 4DA, UK."
+                }
+            },
+            {
+                "clean": "Dickson R",
+                "family": "Dickson",
+                "given": "Rumona",
+                "affiliation": {
+                    "name": "Director, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                }
+            },
+            {
+                "clean": "Paisley S",
+                "family": "Paisley",
+                "given": "Suzy",
+                "affiliation": {
+                    "name": "Director of Innovation and Knowledge Transfer (IKT), Senior Research Fellow, ScHARR, University of Sheffield, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Professor of General Practice, Director NIHR CLAHRC NWC, University of Liverpool, Block B Waterhouse Building, 1-5 Brownlow St., Liverpool L69 3GL, UK."
+                }
+            }
+        ],
+        "first_author": "Maden M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Guidelines as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Research Design",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Class",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Systematic Reviews as Topic",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Clin Epidemiol",
+            "volume": "104",
+            "issue": ""
+        },
+        "abstract": "[\"To develop a theory-led framework to inform reviewers' understanding of what, how, and why health care interventions may lead to differential effects across socioeconomic groups.\", 'A metaframework approach combined two theoretical perspectives (socioeconomic health inequalities and complex interventions) into a single framework to inform socioeconomic health inequality considerations in systematic reviews.', 'Four theories relating to complexity within systematic reviews and 16 health inequalities intervention theories informed the development of a metaframework. Factors relating to the type of intervention, implementation, context, participant response, and mechanisms associated with differential effects across socioeconomic groups were identified. The metaframework can inform; reviewer discussions around how socioeconomic status (SES) can moderate intervention effectiveness during question formulation, approaches to data extraction and help identify a priori analysis considerations.', 'The metaframework offers a transparent, practical, theory-led approach to inform a program theory for what, how, and why interventions work for different SES groups in systematic reviews. It can enhance existing guidance on conducting systematic reviews that consider health inequalities, increase awareness of how SES can moderate intervention effectiveness, and encourage a greater engagement with theory throughout the review process.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, University of Liverpool, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool L69 3GB, UK. Electronic address: Michelle.Maden@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

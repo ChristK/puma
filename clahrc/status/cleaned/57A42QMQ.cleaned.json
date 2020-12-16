@@ -1,0 +1,1238 @@
+{
+    "IDs": {
+        "zotero": "57A42QMQ",
+        "DOI": "10.1111/jar.12596",
+        "DOI_filename": "ee2efdc9074ed614c49d880d482d81e7",
+        "PMID": "30983088",
+        "scopus": "2-s2.0-85064509784",
+        "hash": "fbdcdc90d6cde020b069d251566b9ca0"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "57A42QMQ",
+            "version": 117,
+            "itemType": "journalArticle",
+            "title": "Healthcare practitioners' views and experiences of barriers and facilitators to weight management interventions for adults with intellectual disabilities",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Alison J.",
+                    "lastName": "Doherty"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephanie P.",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Umesh",
+                    "lastName": "Chauhan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine M. E.",
+                    "lastName": "Gibson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Applied Research in Intellectual Disabilities",
+            "volume": "",
+            "issue": "",
+            "pages": "jar.12596",
+            "date": "2019-04-15",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Appl Res Intellect Disabil",
+            "language": "en",
+            "DOI": "10.1111/jar.12596",
+            "ISSN": "1360-2322, 1468-3148",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jar.12596",
+            "accessDate": "2020-09-10T17:09:37Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30983088",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:37Z",
+            "dateModified": "2020-09-11T14:53:39Z",
+            "pmid": "30983088"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        14
+                    ]
+                ],
+                "date-time": "2020-04-14T23:55:30Z",
+                "timestamp": 1586908530149
+            },
+            "reference-count": 52,
+            "publisher": "Wiley",
+            "license": [
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                4,
+                                15
+                            ]
+                        ],
+                        "date-time": "2019-04-15T00:00:00Z",
+                        "timestamp": 1555286400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1111/jar.12596",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        15
+                    ]
+                ],
+                "date-time": "2019-04-15T07:32:14Z",
+                "timestamp": 1555313534000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Healthcare practitioners' views and experiences of barriers and facilitators to weight management interventions for adults with intellectual disabilities",
+            "prefix": "10.1111",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-3593-8069",
+                    "authenticated-orcid": false,
+                    "given": "Alison J.",
+                    "family": "Doherty",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-9149-8606",
+                    "authenticated-orcid": false,
+                    "given": "Stephanie P.",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0747-591X",
+                    "authenticated-orcid": false,
+                    "given": "Umesh",
+                    "family": "Chauhan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-3051-1237",
+                    "authenticated-orcid": false,
+                    "given": "Josephine M. E.",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire Preston UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_9_2_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "273",
+                    "DOI": "10.1146/annurev.publhealth.29.020907.090954",
+                    "article-title": "Why is the developed world obese?",
+                    "volume": "29",
+                    "author": "Bleich S.",
+                    "year": "2008",
+                    "journal-title": "Annual Review of Public Health"
+                },
+                {
+                    "issue": "5",
+                    "key": "e_1_2_9_3_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "435",
+                    "DOI": "10.1111/jir.12369",
+                    "article-title": "Improving diabetes care for people with intellectual disabilities: A qualitative study exploring the perceptions and experiences of professionals in diabetes and intellectual disability services",
+                    "volume": "61",
+                    "author": "Brown M.",
+                    "year": "2017",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "key": "e_1_2_9_4_1",
+                    "author": "Butland B.",
+                    "year": "2007",
+                    "volume-title": "Tackling obesities: Future choices \u2013 Project report"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_5_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "56",
+                    "DOI": "10.1111/bld.12175",
+                    "article-title": "Barriers to increasing the physical activity of people with intellectual disabilities",
+                    "volume": "45",
+                    "author": "Cartwright L.",
+                    "year": "2017",
+                    "journal-title": "British Journal of Learning Disabilities"
+                },
+                {
+                    "issue": "2",
+                    "key": "e_1_2_9_6_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "345",
+                    "DOI": "10.1111/jar.12246",
+                    "article-title": "Review of interventions to enhance the health communication of people with intellectual disabilities: A communicative health literacy perspective",
+                    "volume": "30",
+                    "author": "Chinn D.",
+                    "year": "2017",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_9_7_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "93",
+                    "DOI": "10.1257/089533003769204371",
+                    "article-title": "Why have Americans become more obese?",
+                    "volume": "17",
+                    "author": "Cutler D. M.",
+                    "year": "2003",
+                    "journal-title": "Journal of Economic Perspectives"
+                },
+                {
+                    "issue": "5",
+                    "key": "e_1_2_9_8_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "897",
+                    "DOI": "10.1016/j.pec.2016.12.017",
+                    "article-title": "Physicians\u2019 views and experiences of discussing weight management within routine clinical consultations: A thematic synthesis",
+                    "volume": "100",
+                    "author": "Dewhurst A.",
+                    "year": "2017",
+                    "journal-title": "Patient Education and Counseling"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_9_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "39",
+                    "DOI": "10.1111/jar.12367",
+                    "article-title": "An integrative review of multi-component weight management interventions for adults with intellectual disabilities",
+                    "volume": "31",
+                    "author": "Doherty A. J.",
+                    "year": "2018",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_9_10_1",
+                    "author": "Doherty A.",
+                    "year": "2018",
+                    "article-title": "Eating well, living well and weight management: A co\u2010produced semi\u2010qualitative study of barriers and facilitators experienced by adults with intellectual disabilities",
+                    "journal-title": "Journal of Intellectual Disabilities",
+                    "DOI": "10.1177/1744629518773938",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_11_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "385",
+                    "DOI": "10.1046/j.1365-2788.2003.00498.x",
+                    "article-title": "Mothers of children and adolescents with intellectual disability: Social and economic situation, mental health status, and the self\u2010assessed social and psychological impact of the child\u2019s difficulties",
+                    "volume": "47",
+                    "author": "Emerson E.",
+                    "year": "2003",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "key": "e_1_2_9_12_1",
+                    "author": "Emerson E.",
+                    "year": "2014",
+                    "volume-title": "Health inequalities and people with intellectual disabilities"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_13_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "241",
+                    "DOI": "10.1352/0047-6765(2005)43[241:IRWTAE]2.0.CO;2",
+                    "article-title": "\u201cI'd Rather Watch TV\u201d: An examination of physical activity in adults with mental retardation",
+                    "volume": "43",
+                    "author": "Frey G. C.",
+                    "year": "2005",
+                    "journal-title": "Mental Retardation"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_14_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "339",
+                    "DOI": "10.1111/j.1467-789X.2006.00307.x",
+                    "article-title": "A review of weight loss interventions for adults with intellectual disabilities",
+                    "volume": "8",
+                    "author": "Hamilton S.",
+                    "year": "2007",
+                    "journal-title": "Obesity Reviews"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_15_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "211",
+                    "DOI": "10.1146/annurev.publhealth.031308.100304",
+                    "article-title": "A crisis in the marketplace: How food marketing contributes to childhood obesity and what can be done",
+                    "volume": "30",
+                    "author": "Harris J. L.",
+                    "year": "2009",
+                    "journal-title": "Annual Review of Public Health"
+                },
+                {
+                    "issue": "2018",
+                    "key": "e_1_2_9_16_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "42",
+                    "DOI": "10.1016/j.ridd.2017.10.021",
+                    "article-title": "The effects of multi\u2010component weight management interventions on weight loss in adults with intellectual disabilities and obesity: A systematic review and meta\u2010analysis of randomised controlled trials",
+                    "volume": "72",
+                    "author": "Harris L.",
+                    "year": "2018",
+                    "journal-title": "Research in Developmental Disabilities"
+                },
+                {
+                    "key": "e_1_2_9_17_1",
+                    "author": "Hatton C.",
+                    "year": "2011",
+                    "volume-title": "Reasonable adjustments for people with learning disabilities in England: A National Survey of NHS Trust"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_18_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "887",
+                    "DOI": "10.1016/j.ridd.2014.01.010",
+                    "article-title": "Carer\u2010led health interventions to monitor, promote and improve the health of adults with intellectual disabilities in the community: A systematic review",
+                    "volume": "35",
+                    "author": "Hithersay R.",
+                    "year": "2014",
+                    "journal-title": "Research in Developmental Disabilities"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_9_19_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "460",
+                    "DOI": "10.1111/j.1365-2648.2010.05508.x",
+                    "article-title": "Obesity interventions for people with a learning disability: An integrative literature review",
+                    "volume": "67",
+                    "author": "Jinks A.",
+                    "year": "2011",
+                    "journal-title": "Journal of Advanced Nursing"
+                },
+                {
+                    "key": "e_1_2_9_20_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "49",
+                    "DOI": "10.1186/s40608-015-0080-2",
+                    "article-title": "A qualitative study exploring why adults with intellectual disabilities and obesity want to lose weight and views of their carers",
+                    "volume": "2",
+                    "author": "Jones N.",
+                    "year": "2015",
+                    "journal-title": "BMC Obesity"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_21_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "531",
+                    "DOI": "10.2501/S0021849908080513",
+                    "article-title": "Integrated marketing communications: Practice leads theory",
+                    "volume": "48",
+                    "author": "Kitchen P. J.",
+                    "year": "2008",
+                    "journal-title": "Journal of Advertising Research"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_9_22_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "425",
+                    "DOI": "10.1038/sj.ijo.0801938",
+                    "article-title": "Obesity prevention: The case for action",
+                    "volume": "26",
+                    "author": "Kumanyika S.",
+                    "year": "2002",
+                    "journal-title": "International Journal of Obesity & Related Metabolic Disorders"
+                },
+                {
+                    "issue": "2",
+                    "key": "e_1_2_9_23_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "169",
+                    "DOI": "10.1080/09687590500059267",
+                    "article-title": "Making sense in primary care: Levelling the playing field for people with communication difficulties",
+                    "volume": "20",
+                    "author": "Law J.",
+                    "year": "2005",
+                    "journal-title": "Disability & Society"
+                },
+                {
+                    "issue": "9",
+                    "key": "e_1_2_9_24_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1978",
+                    "DOI": "10.1016/j.ridd.2014.04.029",
+                    "article-title": "Health information exchange in general practice care for people with intellectual disabilities \u2013 A qualitative review of the literature",
+                    "volume": "35",
+                    "author": "Mastebroek M.",
+                    "year": "2014",
+                    "journal-title": "Research in Developmental Disabilities"
+                },
+                {
+                    "issue": "5",
+                    "key": "e_1_2_9_25_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "361",
+                    "DOI": "10.1016/j.ypmed.2011.02.001",
+                    "article-title": "Agreement of accelerometer and a physical activity questionnaire in adults with intellectual disabilities",
+                    "volume": "52",
+                    "author": "Matthews L.",
+                    "year": "2011",
+                    "journal-title": "Preventative Medicine"
+                },
+                {
+                    "issue": "7226",
+                    "key": "e_1_2_9_26_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "50",
+                    "DOI": "10.1136/bmj.320.7226.50",
+                    "article-title": "Assessing quality in qualitative research",
+                    "volume": "320",
+                    "author": "Mays N.",
+                    "year": "2000",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "issue": "7",
+                    "key": "e_1_2_9_27_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "497",
+                    "DOI": "10.1111/j.1365-2788.2006.00915.x",
+                    "article-title": "Lifestyle and health behaviours of adults with an intellectual disability",
+                    "volume": "51",
+                    "author": "McGuire B. E.",
+                    "year": "2007",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_9_28_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "298",
+                    "DOI": "10.1111/j.1468-3148.2008.00462.x",
+                    "article-title": "Carer knowledge and perceptions of healthy lifestyles for adults with intellectual disabilities",
+                    "volume": "22",
+                    "author": "Melville C. A.",
+                    "year": "2009",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_9_29_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "424",
+                    "DOI": "10.3109/09638289809166104",
+                    "article-title": "Daily physical activity in adults with mild and moderate learning disabilities: Is there enough?",
+                    "volume": "20",
+                    "author": "Messent P. R.",
+                    "year": "1998",
+                    "journal-title": "Disability and Rehabilitation"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_30_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "49",
+                    "DOI": "10.1111/j.1369-7625.2006.00366.x",
+                    "article-title": "Perceptions of communication between people with communication disability and general practice staff",
+                    "volume": "9",
+                    "author": "Murphy J.",
+                    "year": "2006",
+                    "journal-title": "Health Expectations"
+                },
+                {
+                    "key": "e_1_2_9_31_1",
+                    "unstructured": "NHS Digital(2017).Health and care of people with learning disabilities. Retrieved fromhttp://content.digital.nhs.uk/article/7543/Health-and-Care-of-People-with-Learning-Disabilities"
+                },
+                {
+                    "key": "e_1_2_9_32_1",
+                    "unstructured": "NICE (National Institute for Health and Care Excellence) Clinical Guidance PH53(2014a).Managing overweight and obesity in adults \u2013 Lifestyle weight management services. Retrieved fromhttp://www.nice.org.uk/guidance/ph53"
+                },
+                {
+                    "key": "e_1_2_9_33_1",
+                    "unstructured": "NICE (National Institute for Health and Care Excellence) Clinical Guideline 189(2014b).Obesity: Identification assessment and management of overweight and obesity in children young people and adults.Retrieved fromhttp://www.nice.org.uk/guidance/cg189"
+                },
+                {
+                    "issue": "5",
+                    "key": "e_1_2_9_34_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "411",
+                    "DOI": "10.1111/jir.12353",
+                    "article-title": "Mainstream health professionals\u2019 stigmatising attitudes towards people with intellectual disabilities: A systematic review",
+                    "volume": "61",
+                    "author": "Pelleboer\u2010Gunnink H. A.",
+                    "year": "2017",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_35_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "22",
+                    "DOI": "10.1002/mrdd.20091",
+                    "article-title": "Obesity and intellectual disability",
+                    "volume": "12",
+                    "author": "Rimmer J. H.",
+                    "year": "2006",
+                    "journal-title": "Mental Retardation and Developmental Disabilities Research Reviews"
+                },
+                {
+                    "issue": "9",
+                    "key": "e_1_2_9_36_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "787",
+                    "DOI": "10.1111/j.1365-2788.2010.01305.x",
+                    "article-title": "Obesity and obesity\u2010related secondary conditions in adolescents with intellectual/developmental disabilities",
+                    "volume": "54",
+                    "author": "Rimmer J. H.",
+                    "year": "2010",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "key": "e_1_2_9_37_1",
+                    "author": "Ritchie J.",
+                    "year": "2003",
+                    "volume-title": "Qualitative research practice: A guide for social science students and researchers"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_38_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "13",
+                    "DOI": "10.1111/j.1468-3156.1998.tb00040.x",
+                    "article-title": "\u2018Whatever\u2019s on her plate\u2019: Food in the lives of people with learning disabilities",
+                    "volume": "26",
+                    "author": "Rodgers J.",
+                    "year": "1998",
+                    "journal-title": "British Journal of Learning Disabilities"
+                },
+                {
+                    "key": "e_1_2_9_39_1",
+                    "unstructured": "Handbook of qualitative research 2000 Sage \u200eThousand Oaks CA G. W. Ryan H. R. Bernard N. Denzin Y. Lincoln Data management and analysis methods 769 802"
+                },
+                {
+                    "key": "e_1_2_9_40_1",
+                    "first-page": "562",
+                    "article-title": "Nonprobability sampling",
+                    "volume": "1",
+                    "author": "Saumure K.",
+                    "year": "2008",
+                    "journal-title": "The SAGE Encyclopedia of Qualitative Research Methods"
+                },
+                {
+                    "key": "e_1_2_9_41_1",
+                    "unstructured": "Scottish Intercollegiate Guidelines Network (SIGN)(2010).Management of obesity. Retrieved fromwww.sign.ac.uk"
+                },
+                {
+                    "key": "e_1_2_9_42_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1135",
+                    "DOI": "10.1016/j.ridd.2010.07.003",
+                    "article-title": "The use of clozapine among individuals with intellectual disability: A review",
+                    "volume": "31",
+                    "author": "Singh A. N.",
+                    "year": "2010",
+                    "journal-title": "Research in Developmental Disabilities"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_9_43_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "277",
+                    "DOI": "10.1111/j.1365-277X.2011.01175_36.x",
+                    "article-title": "Obesity services for adults with learning disabilities",
+                    "volume": "24",
+                    "author": "Smallman S.",
+                    "year": "2011",
+                    "journal-title": "Journal of Human Nutrition and Dietetics"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_44_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "227",
+                    "DOI": "10.1111/j.1468-3156.2006.00402.x",
+                    "article-title": "From biscuits to boyfriends: The ramifications of choice for people with learning disabilities",
+                    "volume": "34",
+                    "author": "Smyth C. M.",
+                    "year": "2006",
+                    "journal-title": "British Journal of Learning Disabilities"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_45_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "90",
+                    "DOI": "10.1111/j.1365-2788.2011.01530.x",
+                    "article-title": "Carers' perspectives of a weight loss intervention for adults with intellectual disabilities and obesity: A qualitative study",
+                    "volume": "57",
+                    "author": "Spanos D.",
+                    "year": "2013",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "key": "e_1_2_9_46_1",
+                    "first-page": "132",
+                    "article-title": "Weight management interventions in adults with intellectual disabilities and obesity: A systematic review of the evidence",
+                    "volume": "12",
+                    "author": "Spanos D.",
+                    "year": "2013",
+                    "journal-title": "Nutritional Journal"
+                },
+                {
+                    "key": "e_1_2_9_47_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "9",
+                    "DOI": "10.1046/j.1468-3156.2000.00006.x",
+                    "article-title": "Caring for people with learning disabilities: A survey of general practitioners\u2019 attitudes in Southampton and south\u2010west Hampshire",
+                    "volume": "28",
+                    "author": "Stein K.",
+                    "year": "2000",
+                    "journal-title": "British Journal of Learning Disabilities"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_9_48_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "296",
+                    "DOI": "10.1111/jar.12139",
+                    "article-title": "Understanding the implementation process of a multi\u2010component health promotion intervention for adults with intellectual disabilities in Sweden",
+                    "volume": "28",
+                    "author": "Sundblom E.",
+                    "year": "2015",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "issue": "6",
+                    "key": "e_1_2_9_49_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1453",
+                    "DOI": "10.3945/ajcn.2009.28595",
+                    "article-title": "Increased food energy supply is more than sufficient to explain the US epidemic of obesity",
+                    "volume": "90",
+                    "author": "Swinburn B.",
+                    "year": "2009",
+                    "journal-title": "American Journal of Clinical Nutrition"
+                },
+                {
+                    "key": "e_1_2_9_50_1",
+                    "author": "Taggart L.",
+                    "year": "2014",
+                    "volume-title": "Health promotion for people with intellectual and developmental disabilities"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_9_51_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "22",
+                    "DOI": "10.1111/jar.12135",
+                    "article-title": "Health and disability: Partnerships in health care",
+                    "volume": "28",
+                    "author": "Tracy J.",
+                    "year": "2015",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_9_52_1",
+                    "unstructured": "West Midlands NHS Trust(2011).Obesity and learning disabilities: Audit of training needs. Retrieved fromhttps://webarchive.nationalarchives.gov.uk/20150116164024/http://www.obesitywm.org.uk/resources/WM_Obesity_and_Learning_Disabilities_Training_Audit_Report_October_2011.pdf"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_9_53_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "211",
+                    "DOI": "10.1080/13668250412331285163",
+                    "article-title": "Meeting in the middle: Improving communication in primary health care consultations with people with an intellectual disability",
+                    "volume": "29",
+                    "author": "Ziviani J.",
+                    "year": "2004",
+                    "journal-title": "Journal of Intellectual & Developmental Disability"
+                }
+            ],
+            "container-title": "Journal of Applied Research in Intellectual Disabilities",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjar.12596",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jar.12596",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jar.12596",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jar.12596",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        15
+                    ]
+                ],
+                "date-time": "2019-04-15T07:33:39Z",
+                "timestamp": 1555313619000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 52,
+            "alternative-id": [
+                "10.1111/jar.12596"
+            ],
+            "URL": "http://dx.doi.org/10.1111/jar.12596",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1360-2322",
+                "1468-3148"
+            ],
+            "container-title-short": "J Appl Res Intellect Disabil",
+            "article-number": "jar.12596"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "healthcare practitioners",
+                        "intellectual disabilities",
+                        "interventions",
+                        "obesity",
+                        "weight"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30983088",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "01",
+                    "Day": "31"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "01",
+                    "Day": "31"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1111/jar.12596"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "04",
+                            "Day": "15"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-3148",
+                        "JournalIssue": {
+                            "Volume": "32",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Sep"
+                            }
+                        },
+                        "Title": "Journal of applied research in intellectual disabilities : JARID",
+                        "ISOAbbreviation": "J Appl Res Intellect Disabil"
+                    },
+                    "ArticleTitle": "Healthcare practitioners' views and experiences of barriers and facilitators to weight management interventions for adults with intellectual disabilities.",
+                    "Pagination": {
+                        "MedlinePgn": "1067-1077"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Obesity is common in adults with intellectual disabilities, yet little is known about how weight management interventions are provided for this population.",
+                            "Semi-structured interviews were held with 14 healthcare practitioners involved in weight management interventions in an English county. A study topic guide was developed to elicit practitioners' views and experiences of barriers and facilitators to weight management for adults with intellectual disabilities. Responses were analysed using thematic analysis.",
+                            "Several barriers are involved in weight management for people with intellectual disabilities including communication challenges, general practitioners' lack of knowledge and awareness of weight management services, inconsistencies in caring support, resource constraints, wider external circumstances surrounding the individuals and motivational issues. Facilitators include reasonable adjustments to existing weight management services. However, there is a need for specialist weight management provision for people with intellectual disabilities.",
+                            "This study provides suggestions for future research, policy and practice consideration."
+                        ],
+                        "CopyrightInformation": "\u00a9 2019 John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0003-3593-8069"
+                            ],
+                            "LastName": "Doherty",
+                            "ForeName": "Alison J",
+                            "Initials": "AJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0001-9149-8606"
+                            ],
+                            "LastName": "Jones",
+                            "ForeName": "Stephanie P",
+                            "Initials": "SP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0747-591X"
+                            ],
+                            "LastName": "Chauhan",
+                            "ForeName": "Umesh",
+                            "Initials": "U"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-3051-1237"
+                            ],
+                            "LastName": "Gibson",
+                            "ForeName": "Josephine M E",
+                            "Initials": "JME"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Agency": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC)",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Appl Res Intellect Disabil",
+                    "NlmUniqueID": "9613616",
+                    "ISSNLinking": "1360-2322"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Attitude of Health Personnel",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Comorbidity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Intellectual Disability",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Mentally Disabled Persons",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Obesity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Weight Reduction Programs",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "07",
+                        "Day": "04"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "03",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "03",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30983088",
+                    "10.1111/jar.12596"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30983088)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830983088%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830983088%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064509784"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064509784?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064509784&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064509784&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064509784",
+                        "dc:identifier": "SCOPUS_ID:85064509784",
+                        "eid": "2-s2.0-85064509784",
+                        "dc:title": "Healthcare practitioners' views and experiences of barriers and facilitators to weight management interventions for adults with intellectual disabilities",
+                        "dc:creator": "Doherty A.J.",
+                        "prism:publicationName": "Journal of Applied Research in Intellectual Disabilities",
+                        "prism:issn": "13602322",
+                        "prism:eIssn": "14683148",
+                        "prism:volume": "32",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": "1067-1077",
+                        "prism:coverDate": "2019-09-01",
+                        "prism:coverDisplayDate": "1 September 2019",
+                        "prism:doi": "10.1111/jar.12596",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30983088",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16247",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "57A42QMQ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30983088"
+            }
+        },
+        "title": "Healthcare practitioners' views and experiences of barriers and facilitators to weight management interventions for adults with intellectual disabilities.",
+        "full_author_list": [
+            {
+                "clean": "Doherty A",
+                "family": "Doherty",
+                "given": "Alison J",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "Stephanie P",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Chauhan U",
+                "family": "Chauhan",
+                "given": "Umesh",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine M E",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Doherty A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Attitude of Health Personnel",
+                    "major": "Y"
+                },
+                {
+                    "term": "Comorbidity",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Intellectual Disability",
+                    "major": "Y"
+                },
+                {
+                    "term": "Mentally Disabled Persons",
+                    "major": "Y"
+                },
+                {
+                    "term": "Obesity",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Weight Reduction Programs",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Appl Res Intellect Disabil",
+            "volume": "32",
+            "issue": "5"
+        },
+        "abstract": "['Obesity is common in adults with intellectual disabilities, yet little is known about how weight management interventions are provided for this population.', \"Semi-structured interviews were held with 14 healthcare practitioners involved in weight management interventions in an English county. A study topic guide was developed to elicit practitioners' views and experiences of barriers and facilitators to weight management for adults with intellectual disabilities. Responses were analysed using thematic analysis.\", \"Several barriers are involved in weight management for people with intellectual disabilities including communication challenges, general practitioners' lack of knowledge and awareness of weight management services, inconsistencies in caring support, resource constraints, wider external circumstances surrounding the individuals and motivational issues. Facilitators include reasonable adjustments to existing weight management services. However, there is a need for specialist weight management provision for people with intellectual disabilities.\", 'This study provides suggestions for future research, policy and practice consideration.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Central Lancashire, Preston, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

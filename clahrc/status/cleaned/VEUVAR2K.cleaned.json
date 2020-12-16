@@ -1,0 +1,974 @@
+{
+    "IDs": {
+        "zotero": "VEUVAR2K",
+        "DOI": "10.1080/07399332.2018.1442837",
+        "DOI_filename": "0e94efd68e785c27bbdebd12ef5cc206",
+        "PMID": "29505350",
+        "scopus": "2-s2.0-85044785310",
+        "hash": "41fb78cd0b954bff13c5d0318b2a93e5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "VEUVAR2K",
+            "version": 190,
+            "itemType": "journalArticle",
+            "title": "Assessment of women's empowerment: An exploratory study to develop a valid and reliable Persian-version tool",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Hassan",
+                    "lastName": "Rafiey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mostafa Amini",
+                    "lastName": "Rarani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fardin",
+                    "lastName": "Alipour"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Narges",
+                    "lastName": "Rouhi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil Khedmati",
+                    "lastName": "Morasae"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health Care for Women International",
+            "volume": "39",
+            "issue": "10",
+            "pages": "1110-1122",
+            "date": "2018-10-03",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Care for Women International",
+            "language": "en",
+            "DOI": "10.1080/07399332.2018.1442837",
+            "ISSN": "0739-9332, 1096-4665",
+            "shortTitle": "Assessment of women's empowerment",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/07399332.2018.1442837",
+            "accessDate": "2020-09-10T17:09:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29505350",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:20Z",
+            "dateModified": "2020-09-15T14:33:30Z",
+            "pmid": "29505350"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        30
+                    ]
+                ],
+                "date-time": "2020-03-30T01:13:25Z",
+                "timestamp": 1585530805977
+            },
+            "reference-count": 41,
+            "publisher": "Informa UK Limited",
+            "issue": "10",
+            "funder": [
+                {
+                    "name": "Applied Health Research and Care North West Coast",
+                    "award": [
+                        "NIHR CLAHRC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1080/07399332.2018.1442837",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        5
+                    ]
+                ],
+                "date-time": "2018-03-05T18:16:12Z",
+                "timestamp": 1520273772000
+            },
+            "page": "1110-1122",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Assessment of women's empowerment: An exploratory study to develop a valid and reliable Persian-version tool",
+            "prefix": "10.1080",
+            "volume": "39",
+            "author": [
+                {
+                    "given": "Hassan",
+                    "family": "Rafiey",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Assistant Professor, Social Welfare Management Research Centre, Department of Social Welfare, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran. Email address:"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mostafa Amini",
+                    "family": "Rarani",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "PhD in health policy, Health Management and Economics Research Center, Isfahan University of Medical Sciences, Isfahan, Iran Email address:"
+                        }
+                    ]
+                },
+                {
+                    "given": "Fardin",
+                    "family": "Alipour",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Assistant Professor, Social Welfare Management Research Centre, Department of Social Work, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran. Tel: +98 2122180064. Email address:"
+                        }
+                    ]
+                },
+                {
+                    "given": "Narges",
+                    "family": "Rouhi",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "PhD candidate in Health in disaster and emergency, Health in disaster and emergency department, school of health management and information sciences, Iran university of medical sciences. Email address:"
+                        }
+                    ]
+                },
+                {
+                    "given": "Esmaeil Khedmati",
+                    "family": "Morasae",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "PhD, National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health, and Society, Health Services Research Department, University of Liverpool. Email address:"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        2
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "cit0001",
+                    "DOI": "10.1177/0971333614564740",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0002",
+                    "author": "Afifi M.",
+                    "volume": "12",
+                    "issue": "2",
+                    "year": "2009",
+                    "journal-title": "Archives of Iranian Medicine (AIM)"
+                },
+                {
+                    "key": "cit0003",
+                    "author": "Allen J.",
+                    "volume": "27",
+                    "year": "2015",
+                    "journal-title": "Policy and Research"
+                },
+                {
+                    "key": "cit0004",
+                    "DOI": "10.1016/j.cities.2006.08.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0005",
+                    "author": "Barusch A.",
+                    "year": "2011",
+                    "volume-title": "Brooks/Cole Empowerment Series: Foundations of Social Policy: Social Justice in Human Perspective"
+                },
+                {
+                    "key": "cit0006",
+                    "DOI": "10.1186/1471-2458-13-234",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0008",
+                    "DOI": "10.26719/2015.21.12.897",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0010",
+                    "DOI": "10.1023/A:1014033032440",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0011",
+                    "DOI": "10.2196/jmir.1953",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0012",
+                    "DOI": "10.1080/01436597.2015.1013341",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0013",
+                    "DOI": "10.1007/s10995-013-1266-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0014",
+                    "DOI": "10.1016/j.psychres.2014.01.041",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "4",
+                    "key": "cit0015",
+                    "first-page": "809",
+                    "volume": "31",
+                    "author": "Cyril S.",
+                    "year": "2015",
+                    "journal-title": "Health promotion international"
+                },
+                {
+                    "key": "cit0016",
+                    "DOI": "10.1016/S0897-1897(05)80008-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "cit0017",
+                    "first-page": "79",
+                    "volume": "31",
+                    "author": "De Vellis R. F.",
+                    "year": "1991",
+                    "journal-title": "Journal of Educational Measurement"
+                },
+                {
+                    "key": "cit0018",
+                    "author": "Gutierrez L. M.",
+                    "first-page": "215",
+                    "year": "2012",
+                    "journal-title": "Community organizing and community building for health and welfare"
+                },
+                {
+                    "key": "cit0019",
+                    "DOI": "10.1891/1541-6577.23.2.107",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0020",
+                    "author": "Hooper D.",
+                    "year": "2012",
+                    "volume-title": "Exploratory factor analysis. Approaches to quantitative research theory and its practical application: a guide to dissertation students"
+                },
+                {
+                    "key": "cit0021",
+                    "author": "Humphreys M.",
+                    "year": "2012",
+                    "volume-title": "Policing politicians: citizen empowerment and political accountability in Uganda preliminary analysis"
+                },
+                {
+                    "key": "cit0022",
+                    "DOI": "10.1186/1471-2393-14-297",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0023",
+                    "DOI": "10.1111/1467-7660.00125",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0024",
+                    "DOI": "10.1080/15575330.2015.1063527",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0025",
+                    "author": "Kantachote K.",
+                    "year": "2013",
+                    "volume-title": "Indicators of Women's Empowerment in Developing Nations"
+                },
+                {
+                    "key": "cit0026",
+                    "DOI": "10.1111/j.1744-6570.1975.tb01393.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0027",
+                    "DOI": "10.1016/j.worlddev.2011.08.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0028",
+                    "DOI": "10.1371/journal.pone.0055012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0029",
+                    "DOI": "10.1016/j.jrurstud.2011.03.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0030",
+                    "author": "Moallem M.",
+                    "year": "2005",
+                    "volume-title": "Between warrior brother and veiled sister: Islamic fundamentalism and the politics of patriarchy in Iran"
+                },
+                {
+                    "key": "cit0031",
+                    "DOI": "10.1186/1477-7525-10-115",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0032",
+                    "DOI": "10.1111/j.1468-2451.2005.00557.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0033",
+                    "DOI": "10.20286/nova-jmbs-040466",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0034",
+                    "DOI": "10.1177/1049731512459967",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0035",
+                    "author": "Narayan-Parker D.",
+                    "year": "2005",
+                    "volume-title": "Measuring empowerment: Cross-disciplinary perspectives"
+                },
+                {
+                    "key": "cit0036",
+                    "DOI": "10.1007/s11205-011-9827-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0037",
+                    "author": "Nouhjah S.",
+                    "volume": "6",
+                    "year": "2014",
+                    "journal-title": "International scholarly research notices"
+                },
+                {
+                    "key": "cit0038",
+                    "DOI": "10.1002/nur.20147",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0039",
+                    "DOI": "10.1080/00207411.2017.1308295",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0040",
+                    "DOI": "10.1093/her/10.3.309",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0041",
+                    "DOI": "10.1016/j.tele.2011.02.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0042",
+                    "DOI": "10.1093/cdj/bsq040",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0043",
+                    "author": "Wallerstein N.",
+                    "year": "2006",
+                    "volume-title": "What is the Evidence on Effectiveness of Empowerment to Improve Health? Health Evidence Network Report"
+                }
+            ],
+            "container-title": "Health Care for Women International",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07399332.2018.1442837",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        9
+                    ]
+                ],
+                "date-time": "2019-05-09T17:09:31Z",
+                "timestamp": 1557421771000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 41,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            3,
+                            20
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            10,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "10"
+            },
+            "alternative-id": [
+                "10.1080/07399332.2018.1442837"
+            ],
+            "URL": "http://dx.doi.org/10.1080/07399332.2018.1442837",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0739-9332",
+                "1096-4665"
+            ],
+            "container-title-short": "Health Care for Women International",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uhcw20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uhcw20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2017-06-07",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-02-07",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-02-15",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-04-02",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "N"
+                ],
+                "KeywordList": [
+                    [
+                        "Factor analysis",
+                        "reliability",
+                        "validity",
+                        "women's empowerment"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29505350",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "05",
+                    "Day": "03"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "10"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/07399332.2018.1442837"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "04",
+                            "Day": "02"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1096-4665",
+                        "JournalIssue": {
+                            "Volume": "39",
+                            "Issue": "10",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "10"
+                            }
+                        },
+                        "Title": "Health care for women international",
+                        "ISOAbbreviation": "Health Care Women Int"
+                    },
+                    "ArticleTitle": "Assessment of women's empowerment: An exploratory study to develop a valid and reliable Persian-version tool.",
+                    "Pagination": {
+                        "MedlinePgn": "1110-1122"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Lack of a valid and reliable women's empowerment tool was reported by previous studies in Iran. The authors of this paper, accordingly,\u00a0intended\u00a0to\u00a0fill\u00a0this\u00a0gap\u00a0by\u00a0developing a valid questionnaire. 600 women in Dezful city, southeast of Iran, took part in the study in 2014-2015. Multistage sampling method was used to recruit the participants. Our exploratory factor analysis revealed that 18 items of the model loaded on 4 factors. Internal consistency of the questionnaire was suitable as Cronbach's alpha coefficient was 0.77. Considering high validity and shortness of the questionnaire, it can be used as a trustful and comprehensive tool to measure women's empowerment in future studies."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Assistant Professor, Social Welfare Management Research Centre , Department of Social Welfare , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Email address: hassan441015@gmail.com."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rafiey",
+                            "ForeName": "Hassan",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b PhD in health policy, Health Management and Economics Research Center , Isfahan University of Medical Sciences , Isfahan , Iran Email address: mostafaaminirarani@gmail.com."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rarani",
+                            "ForeName": "Mostafa Amini",
+                            "Initials": "MA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c Assistant Professor, Social Welfare Management Research Centre , Department of Social Work , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Tel: +98 2122180064 . Email address: barbodalipour@gmail.com."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alipour",
+                            "ForeName": "Fardin",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "d PhD candidate in Health in disaster and emergency, Health in disaster and emergency department , school of health management and information sciences, Iran university of medical sciences. Email address: n.roohi2013@gmail.com."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rouhi",
+                            "ForeName": "Narges",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "e PhD, National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care , North West Coast (NIHR CLAHRC NWC), Institute of Psychology , Health, and Society, Health Services Research Department , University of Liverpool. Email address: eshmel.k@gmail.com."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Morasae",
+                            "ForeName": "Esmaeil Khedmati",
+                            "Initials": "EK"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Care Women Int",
+                    "NlmUniqueID": "8411543",
+                    "ISSNLinking": "0739-9332"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Factor Analysis, Statistical",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Iran",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Power, Psychological",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "instrumentation"
+                        ],
+                        "DescriptorName": "Psychometrics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Reproducibility of Results",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Surveys and Questionnaires",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Women's Health",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29505350",
+                    "10.1080/07399332.2018.1442837"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29505350)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829505350%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829505350%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044785310"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044785310?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044785310&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044785310&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044785310",
+                        "dc:identifier": "SCOPUS_ID:85044785310",
+                        "eid": "2-s2.0-85044785310",
+                        "dc:title": "Assessment of women's empowerment: An exploratory study to develop a valid and reliable Persian-version tool",
+                        "dc:creator": "Rafiey H.",
+                        "prism:publicationName": "Health Care for Women International",
+                        "prism:issn": "07399332",
+                        "prism:eIssn": "10964665",
+                        "prism:volume": "39",
+                        "prism:issueIdentifier": "10",
+                        "prism:pageRange": "1110-1122",
+                        "prism:coverDate": "2018-10-03",
+                        "prism:coverDisplayDate": "3 October 2018",
+                        "prism:doi": "10.1080/07399332.2018.1442837",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Social Welfare and Rehabilitation Sciences",
+                                "affiliation-city": "Tehran",
+                                "affiliation-country": "Iran"
+                            }
+                        ],
+                        "pubmed-id": "29505350",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19543",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "VEUVAR2K.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29505350"
+            }
+        },
+        "title": "Assessment of women's empowerment: An exploratory study to develop a valid and reliable Persian-version tool.",
+        "full_author_list": [
+            {
+                "clean": "Rafiey H",
+                "family": "Rafiey",
+                "given": "Hassan",
+                "affiliation": {
+                    "name": "a Assistant Professor, Social Welfare Management Research Centre , Department of Social Welfare , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Email address: hassan441015@gmail.com."
+                }
+            },
+            {
+                "clean": "Rarani M",
+                "family": "Rarani",
+                "given": "Mostafa Amini",
+                "affiliation": {
+                    "name": "b PhD in health policy, Health Management and Economics Research Center , Isfahan University of Medical Sciences , Isfahan , Iran Email address: mostafaaminirarani@gmail.com."
+                }
+            },
+            {
+                "clean": "Alipour F",
+                "family": "Alipour",
+                "given": "Fardin",
+                "affiliation": {
+                    "name": "c Assistant Professor, Social Welfare Management Research Centre , Department of Social Work , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Tel: +98 2122180064 . Email address: barbodalipour@gmail.com."
+                }
+            },
+            {
+                "clean": "Rouhi N",
+                "family": "Rouhi",
+                "given": "Narges",
+                "affiliation": {
+                    "name": "d PhD candidate in Health in disaster and emergency, Health in disaster and emergency department , school of health management and information sciences, Iran university of medical sciences. Email address: n.roohi2013@gmail.com."
+                }
+            },
+            {
+                "clean": "Morasae E",
+                "family": "Morasae",
+                "given": "Esmaeil Khedmati",
+                "affiliation": {
+                    "name": "e PhD, National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care , North West Coast (NIHR CLAHRC NWC), Institute of Psychology , Health, and Society, Health Services Research Department , University of Liverpool. Email address: eshmel.k@gmail.com."
+                }
+            }
+        ],
+        "first_author": "Rafiey H",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Factor Analysis, Statistical",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Iran",
+                    "major": "N"
+                },
+                {
+                    "term": "Power, Psychological",
+                    "major": "Y"
+                },
+                {
+                    "term": "Psychometrics",
+                    "major": "N"
+                },
+                {
+                    "term": "Reproducibility of Results",
+                    "major": "N"
+                },
+                {
+                    "term": "Surveys and Questionnaires",
+                    "major": "N"
+                },
+                {
+                    "term": "Women's Health",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Health Care Women Int",
+            "volume": "39",
+            "issue": "10"
+        },
+        "abstract": "[\"Lack of a valid and reliable women's empowerment tool was reported by previous studies in Iran. The authors of this paper, accordingly,\\xa0intended\\xa0to\\xa0fill\\xa0this\\xa0gap\\xa0by\\xa0developing a valid questionnaire. 600 women in Dezful city, southeast of Iran, took part in the study in 2014-2015. Multistage sampling method was used to recruit the participants. Our exploratory factor analysis revealed that 18 items of the model loaded on 4 factors. Internal consistency of the questionnaire was suitable as Cronbach's alpha coefficient was 0.77. Considering high validity and shortness of the questionnaire, it can be used as a trustful and comprehensive tool to measure women's empowerment in future studies.\"]",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Assistant Professor, Social Welfare Management Research Centre , Department of Social Welfare , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Email address: hassan441015@gmail.com."
+        }
+    }
+}

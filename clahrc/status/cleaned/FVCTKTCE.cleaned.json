@@ -1,0 +1,1377 @@
+{
+    "IDs": {
+        "zotero": "FVCTKTCE",
+        "DOI": "10.1002/14651858.CD001031.pub3",
+        "DOI_filename": "d7f5c608b96f81d3be7394d37ffa040b",
+        "PMID": "",
+        "scopus": "2-s2.0-84997343309",
+        "hash": "35111b3cfc77d48c294adb02698aa32b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "FVCTKTCE",
+            "version": 93,
+            "itemType": "journalArticle",
+            "title": "Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Weston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-11-14",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD001031.pub3",
+            "ISSN": "14651858",
+            "shortTitle": "Lamotrigine versus carbamazepine monotherapy for epilepsy",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD001031.pub3",
+            "accessDate": "2020-09-10T17:09:56Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:56Z",
+            "dateModified": "2020-09-10T17:09:56Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        3
+                    ]
+                ],
+                "date-time": "2020-08-03T14:40:03Z",
+                "timestamp": 1596465603055
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                11,
+                                14
+                            ]
+                        ],
+                        "date-time": "2016-11-14T00:00:00Z",
+                        "timestamp": 1479081600000
+                    },
+                    "DOI": "10.1002/14651858.cd001031.pub2",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 99,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd001031.pub3",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        16
+                    ]
+                ],
+                "date-time": "2016-11-16T19:49:44Z",
+                "timestamp": 1479325784000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Weston",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        14
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "8948",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "476",
+                    "DOI": "10.1016/S0140-6736(95)90581-2",
+                    "article-title": "Double-blind comparison of lamotrigine and carbamazepine in newly diagnosed epilepsy",
+                    "volume": "345",
+                    "author": "Brodie",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0003|cit2",
+                    "first-page": "S186",
+                    "article-title": "Use of SEALS, a quality of life instrument, in evaluating lamotrigine and carbamazepine monotherapy",
+                    "volume": "36 (Suppl 3)",
+                    "author": "Gillham",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0002|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "375",
+                    "DOI": "10.1053/seiz.2000.0428",
+                    "article-title": "A double-blind comparison of lamotrigine and carbamazepine in newly diagnosed epilepsy with health-related quality of life as an outcome measure",
+                    "volume": "9",
+                    "author": "Gillham",
+                    "year": "2000",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "8948",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "476",
+                    "DOI": "10.1016/S0140-6736(95)90581-2",
+                    "article-title": "Double-blind comparison of lamotrigine and carbamazepine in newly diagnosed epilepsy",
+                    "volume": "345",
+                    "author": "Brodie",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0006|cit5",
+                    "first-page": "S186",
+                    "article-title": "Use of SEALS, a quality of life instrument, in evaluating lamotrigine and carbamazepine monotherapy",
+                    "volume": "36 (Suppl 3)",
+                    "author": "Gillham",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0005|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "375",
+                    "DOI": "10.1053/seiz.2000.0428",
+                    "article-title": "A double-blind comparison of lamotrigine and carbamazepine in newly diagnosed epilepsy with health-related quality of life as an outcome measure",
+                    "volume": "9",
+                    "author": "Gillham",
+                    "year": "2000",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0007|cit7",
+                    "first-page": "72, Abstract no",
+                    "article-title": "A multicenter double-blind randomised comparison between lamotrigine and carbamazepine in elderly patients with newly diagnosed epilepsy",
+                    "volume": "39 (Suppl 6)",
+                    "author": "Brodie",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "81",
+                    "DOI": "10.1016/S0920-1211(99)00039-X",
+                    "article-title": "Multicentre, double-blind, randomised comparison between lamotrigine and carbamazepine in elderly patients with newly diagnosed epilepsy. The UK Lamotrigine Elderly Study Group",
+                    "volume": "37",
+                    "author": "Brodie",
+                    "year": "1999",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0009|cit9",
+                    "first-page": "94",
+                    "article-title": "Lack of neuropsychological effects of lamotrigine compared to carbamazepine as monotherapy",
+                    "volume": "40 (Suppl 2)",
+                    "author": "Brodie",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "818",
+                    "DOI": "10.1016/j.braindev.2012.03.006",
+                    "article-title": "Effects of lamotrigine on cognition and behavior compared to carbamazepine as monotherapy for children with partial epilepsy",
+                    "volume": "34",
+                    "author": "Eun",
+                    "year": "2012",
+                    "journal-title": "Brain and Development"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0011|cit11",
+                    "first-page": "189",
+                    "article-title": "Monotherapy of lamotrigine versus carbamazepine in patients with post stroke seizure",
+                    "volume": "30",
+                    "author": "Gilad",
+                    "year": "2007",
+                    "journal-title": "Clinical Neuropharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "202",
+                    "DOI": "10.1016/j.yebeh.2015.10.020",
+                    "article-title": "The effect of recurrent seizures on cognitive, behavioral, and quality-of-life outcomes after 12 months of monotherapy in adults with newly diagnosed or previously untreated partial epilepsy",
+                    "volume": "53",
+                    "author": "Lee",
+                    "year": "2015",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "49",
+                    "DOI": "10.1016/j.seizure.2010.10.006",
+                    "article-title": "Cognitive and behavioral effects of lamotrigine and carbamazepine monotherapy in\u00a0patients with newly diagnosed or untreated partial epilepsy",
+                    "volume": "20",
+                    "author": "Lee",
+                    "year": "2011",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "145",
+                    "DOI": "10.1016/S0920-1211(01)00271-6",
+                    "article-title": "A comparison of monotherapy with lamotrigine or carbamazepine in patients with newly diagnosed partial epilepsy",
+                    "volume": "46",
+                    "author": "Nieto-Barrera",
+                    "year": "2001",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "149",
+                    "DOI": "10.1016/0920-1211(95)00085-2",
+                    "article-title": "A randomised open multicentre comparative trial of lamotrigine and carbamazepine as monotherapy in patients with newly diagnosed or recurrent epilepsy",
+                    "volume": "23",
+                    "author": "Reunanen",
+                    "year": "1996",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0016|cit16",
+                    "first-page": "S113",
+                    "article-title": "Lamotrigine monotherapy in patients with partial epilepsy",
+                    "volume": "36 (Suppl 3)",
+                    "author": "Severi",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0017|cit17",
+                    "first-page": "139",
+                    "article-title": "Efficacy and safety of lamotrigine in patients with partial epilepsy: preliminary data",
+                    "volume": "82-3",
+                    "author": "Severi",
+                    "year": "1993",
+                    "journal-title": "Bollettino Lega Italiana Contro L'Epilessia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0018|cit18",
+                    "first-page": "149",
+                    "article-title": "Efficacy and safety of lamotrigine monotherapy in partial epilepsy",
+                    "volume": "86-7",
+                    "author": "Severi",
+                    "year": "1994",
+                    "journal-title": "Bollettino Lega Italiana Contro L'Epilessia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0019|cit19",
+                    "first-page": "S150",
+                    "article-title": "Interim report on an open multicentre lamotrigine (Lamictal) versus carbamazepine monotherapy trial in patients with epilepsy",
+                    "volume": "20 (Suppl 4)",
+                    "author": "Yuen",
+                    "year": "1993",
+                    "journal-title": "Canadian Journal of Neurological Sciences"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0020|cit20",
+                    "first-page": "159",
+                    "article-title": "Interim report on an open multicentre lamotrigine (Lamictal) versus carbamazepine monotherapy trial in patients with epilepsy",
+                    "volume": "34 (Suppl 2)",
+                    "author": "Yuen",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1868",
+                    "DOI": "10.1212/01.WNL.0000167384.68207.3E",
+                    "article-title": "New onset geriatric epilepsy: a randomised study of gabapentin, lamotrigine and carbamazepine",
+                    "volume": "64",
+                    "author": "Rowan",
+                    "year": "2005",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1292",
+                    "DOI": "10.1111/j.1528-1167.2007.01128.x",
+                    "article-title": "An international multicenter randomized double-blind controlled trial of lamotrigine and sustained-release carbamazepine in the treatment of newly diagnosed epilepsy in the elderly",
+                    "volume": "48",
+                    "author": "Saetre",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9566",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "597",
+                    "DOI": "10.1016/j.seizure.2005.09.011",
+                    "article-title": "The LAM-SAFE Study: Lamotrigine versus carbamazepine or valproic acid in newly diagnosed focal and generalised epilepsies in adolescents and adults",
+                    "volume": "14",
+                    "author": "Steinhoff",
+                    "year": "2005",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0025|cit25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "450",
+                    "DOI": "10.1111/epi.12926",
+                    "article-title": "A randomized, double-blind comparison of antiepileptic drug treatment in the elderly with new-onset focal epilepsy",
+                    "volume": "56",
+                    "author": "Werhahn",
+                    "year": "2015",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0026|cit26",
+                    "unstructured": "Baxter L Cheesbrough A An open randomised comparison of Lamictal (Lamotrigine) with physicians preferred choice of either valproate or carbamazepine as monotherapy in patients over 12 years of age with newly diagnosed epilepsy Clinical Summary Report May 1998"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0027|cit27",
+                    "first-page": "170",
+                    "article-title": "Switching paediatric patients to monotherapy: efficacy and tolerability for lamotrigine compared with carbamazepine",
+                    "volume": "42 (Suppl 7)",
+                    "author": "Carmant",
+                    "year": "2001",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0028|cit28",
+                    "unstructured": "Czapinski P Terczynski A Czapinska E Open randomised comparative study of vigabatrin (VGB) and lamotrigine (LTG) efficacy in monotherapy of patients with drug-resistant epilepsy with partial complex seizures resistant to carbamazepine Epilepsia 1997 35",
+                    "DOI": "10.1016/S0022-510X(97)85310-5",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S96",
+                    "DOI": "10.1016/S0022-510X(97)85310-5",
+                    "article-title": "Open randomized comparative study of vigabatrin (VGB) and lamotrigine (LTG) efficacy in monotherapy of patients with drug-resistant epilepsy with partial complex seizures resistant to carbamazepine (CBZ)",
+                    "volume": "150 (Suppl)",
+                    "author": "Czapinski",
+                    "year": "1997",
+                    "journal-title": "Journal of the Neurological Sciences"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0030|cit30",
+                    "unstructured": "Czapinski P Terczynski A Czapiska E Open randomized comparative study of vigabatrin (VGB) and lamotrigine (LTG) efficacy in monotherapy of patients with drug-resistant epilepsy with partial complex seizures resistant to carbamazepine (CBZ) Journal of Neurology 1997 S34",
+                    "DOI": "10.1016/S0022-510X(97)85310-5",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0031|cit31",
+                    "first-page": "87, Abstract No",
+                    "article-title": "The effects of cognition and behavior of lamotrigine compared to carbamazepine as monotherapy for children with partial epilepsy",
+                    "volume": "49",
+                    "author": "Eun",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0032|cit32",
+                    "first-page": "107",
+                    "article-title": "Comparison of monotherapy with lamotrigine versus carbamazepine in patients with uncontrolled epilepsy with a broad spectrum of seizure types",
+                    "volume": "41 (Suppl 7)",
+                    "author": "Fakhoury",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1018",
+                    "DOI": "10.1212/WNL.51.4.1018",
+                    "article-title": "An active-control trial of lamotrigine monotherapy for partial seizures",
+                    "volume": "51",
+                    "author": "Gilliam",
+                    "year": "1998",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "356",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05309.x",
+                    "article-title": "Controlled trial of lamotrigine (Lamictal) for refractory partial seizures",
+                    "volume": "30",
+                    "author": "Jawad",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 4",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0035|cit35",
+                    "first-page": "116, Abstract n",
+                    "article-title": "Cognitive and behavioral effects of lamotrigine and carbamazepine monotherapy in patients with newly diagnosed or untreated partial epilepsy",
+                    "volume": "51",
+                    "author": "Lee",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0036|cit36",
+                    "first-page": "100, Abstract n",
+                    "article-title": "Evaluation of lamotrigine versus carbamazepine, phenytoin, or divalproex sodium as monotherapy for epilepsy patients who failed or could not tolerate previous antiepileptic drug therapy",
+                    "volume": "41 (Suppl 7)",
+                    "author": "Martinez",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0037|cit37",
+                    "first-page": "176, Abstract n",
+                    "article-title": "Epilepsy patients switched from older antiepileptic drugs to lamotrigine monotherapy show improvement in quality of life",
+                    "volume": "41 (Suppl 7)",
+                    "author": "Nanry",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "25",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1807",
+                    "DOI": "10.1056/NEJM199712183372504",
+                    "article-title": "Lamotrigine for generalized seizures associated with the Lennox-Gastaut syndrome",
+                    "volume": "337",
+                    "author": "Motte",
+                    "year": "1997",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0039|cit39",
+                    "first-page": "170",
+                    "article-title": "Treatment of seizures in the elderly: final analysis from DVA Cooperative Study",
+                    "volume": "44 (Suppl 9)",
+                    "author": "Ramsay",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0040|cit40",
+                    "unstructured": "Saetre E Perucca E Isoj\u00e4rvi J Gjerstad L An international multicenter double-blind double-dummy randomised trial comparing lamotrigine and slow-release carbamazepine for treating newly diagnosed epilepsy in the elderly Epilepsia 7th European Congress on Epileptology, Helsinki, Finland. 2-6 July 2006 2006 1"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1841",
+                    "DOI": "10.1111/j.1528-1167.2009.02069.x",
+                    "article-title": "Cardiac function and antiepileptic drug treatment in the elderly: a comparison between lamotrigine and sustained-release carbamazepine",
+                    "volume": "50",
+                    "author": "Saetre",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "395",
+                    "DOI": "10.1016/j.yebeh.2009.12.026",
+                    "article-title": "Antiepileptic drugs and quality of life in the elderly: results from a randomized double-blind trial of carbamazepine and lamotrigine in patients with onset of epilepsy in old age",
+                    "volume": "17",
+                    "author": "Saetre",
+                    "year": "2010",
+                    "journal-title": "Epilepsy and Behaviour"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "601",
+                    "DOI": "10.1111/j.1528-1157.1999.tb05562.x",
+                    "article-title": "Lamotrigine monotherapy in newly diagnosed untreated epilepsy; a double-blind comparison with phenytoin",
+                    "volume": "40",
+                    "author": "Steiner",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0044|cit44",
+                    "first-page": "68, Abstract no",
+                    "article-title": "The lam-safe study: lamotrigine versus carbamazepine and valproic acid in newly diagnosed focal and generalized epilepsies in adolescents and adults",
+                    "volume": "45 (Suppl 3)",
+                    "author": "Steinhoff",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "921",
+                    "DOI": "10.1136/jnnp.57.8.921",
+                    "article-title": "Vigabatrin and lamotrigine in refractory epilepsy",
+                    "volume": "57",
+                    "author": "Stolarek",
+                    "year": "1994",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0046|cit46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "291",
+                    "DOI": "10.1016/j.clineuro.2009.12.014",
+                    "article-title": "Adverse effects of carbamazepine, phenytoin, valproate and lamotrigine monotherapy in epileptic adult Chinese patients",
+                    "volume": "112",
+                    "author": "Zeng",
+                    "year": "2010",
+                    "journal-title": "Clinical Neurology & Neurosurgery"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0047|cit47",
+                    "first-page": "27",
+                    "article-title": "An Open, Randomized, Multicenter Comparative Clinical Trial of Lamotrigine and Carbamazepine as Initial Monotherapy in Previously Untreated Epilepsies",
+                    "volume": "12",
+                    "author": "Korean Lamotrigine Study Group",
+                    "year": "2008",
+                    "journal-title": "Journal of Korean Epilepsy Society"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0048|cit48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "502",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00748.x",
+                    "article-title": "The incidence of epilepsy and unprovoked seizures in multiethnic, urban health maintenance organizations",
+                    "volume": "40",
+                    "author": "Annegers",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8948",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "476",
+                    "DOI": "10.1016/S0140-6736(95)90581-2",
+                    "article-title": "Double-blind comparison of lamotrigine and carbamazepine in newly diagnosed epilepsy",
+                    "volume": "345",
+                    "author": "Brodie",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0050|cit50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "168",
+                    "DOI": "10.1056/NEJM199601183340308",
+                    "article-title": "Antiepileptic drugs",
+                    "volume": "334",
+                    "author": "Brodie",
+                    "year": "1996",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0051|cit51",
+                    "author": "Bromley",
+                    "issue": "10",
+                    "year": "2014",
+                    "article-title": "Treatment for epilepsy in pregnancy: neurodevelopmental outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010236.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0052|cit52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0053|cit53",
+                    "unstructured": "Microsoft Microsoft Excel 2010"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0054|cit54",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "203",
+                    "DOI": "10.1212/01.CON.0000284529.35649.1d",
+                    "article-title": "Appendix C: Efficacy and tolerability of the new antiepileptic drugs I: Treatment of new onset epilepsy: Report of the Therapeutics and Technology Assessment Subcommittee and Quality Standards Subcommittee of the American Academy of Neurology and the American Epilepsy Society",
+                    "volume": "13",
+                    "author": "French",
+                    "year": "2007",
+                    "journal-title": "CONTINUUM Lifelong Learning in Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0055|cit55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota 1935 - 1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "557",
+                    "DOI": "10.1136/bmj.327.7414.557",
+                    "article-title": "Measuring inconsistency in meta-analyses",
+                    "volume": "327",
+                    "author": "Higgins",
+                    "year": "2003",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0057|cit57",
+                    "unstructured": "Higgins JPT Green S Cochrane Handbook for Systematic Reviews of Interventions 4.2.5 [updated May 2005] Cochrane Database of Systematic Reviews 2005"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0058|cit58",
+                    "unstructured": "Higgins JPT Green S (editors) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from www.cochrane-handbook.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0059|cit59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "326",
+                    "DOI": "10.1212/01.wnl.0000252807.38124.a3",
+                    "article-title": "How common are the \"common\" neurologic disorders?",
+                    "volume": "68",
+                    "author": "Hirtz",
+                    "year": "2007",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0060|cit60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "799",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01167.x",
+                    "article-title": "Considerations on designing clinical trials to evaluate the place of new antiepileptic drugs in the treatment of newly diagnosed and chronic patients with epilepsy",
+                    "volume": "39",
+                    "author": "ILAE Commission on Antiepileptic Drugs",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0061|cit61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1094",
+                    "DOI": "10.1111/j.1528-1167.2006.00585.x",
+                    "article-title": "ILAE treatment guidelines: evidence based analysis of antiepileptic drug efficacy and effectiveness as initial monotherapy for epileptic seizures and syndromes",
+                    "volume": "47",
+                    "author": "Glauser",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0062|cit62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "297",
+                    "DOI": "10.1111/j.1528-1157.1983.tb04893.x",
+                    "article-title": "Natural history of epileptic seizures",
+                    "volume": "24",
+                    "author": "Juul-Jenson",
+                    "year": "1983",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0063|cit63",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0064|cit64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "314",
+                    "DOI": "10.1056/NEJM200002033420503",
+                    "article-title": "Early identification of refractory epilepsy",
+                    "volume": "342",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0065|cit65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "190",
+                    "DOI": "10.1016/0006-8993(93)91660-K",
+                    "article-title": "Studies on the mechanism of action of the novel anti-convulsant lamotrigine (Lamictal) using primary neuroglial cultures from rat cortex",
+                    "volume": "612",
+                    "author": "Lees",
+                    "year": "1993",
+                    "journal-title": "Brain Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0066|cit66",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from http://handbook.cochrane.org/"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0067|cit67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1026",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02549.x",
+                    "article-title": "Absence seizures and carbamazepine in adults",
+                    "volume": "35",
+                    "author": "Liporace",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0068|cit68",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S2",
+                    "DOI": "10.1111/j.1528-1157.1995.tb05996.x",
+                    "article-title": "Antiepileptic drug mechanisms of action",
+                    "volume": "36",
+                    "author": "MacDonald",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0069|cit69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "833",
+                    "DOI": "10.1002/1531-8249(200012)48:6<833::AID-ANA3>3.0.CO;2-U",
+                    "article-title": "Factors predicting prognosis of epilepsy after presentation with seizures",
+                    "volume": "48",
+                    "author": "MacDonald",
+                    "year": "2000",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0070|cit70",
+                    "author": "Malafosse",
+                    "year": "1994",
+                    "volume-title": "Idiopathic Generalised Epilepsies: Clinical, Experimental and Genetic"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0071|cit71",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0072|cit72",
+                    "first-page": "163",
+                    "article-title": "Is carbamazepine safe to take during pregnancy?",
+                    "volume": "58",
+                    "author": "Matlow",
+                    "year": "2012",
+                    "journal-title": "Canadian Family Physician"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0073|cit73",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2008.04.022",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: a systematic reviews and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "81",
+                    "author": "Meador",
+                    "year": "2008",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0074|cit74",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "DOI": "10.1136/jnnp.2005.074203",
+                    "article-title": "Malformation risks of antiepileptic drugs in pregnancy: a prospective study from the UK Epilepsy and Pregnancy Register",
+                    "volume": "77",
+                    "author": "Morrow",
+                    "year": "2006",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Neuropsychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0075|cit75",
+                    "unstructured": "Murray CJL Lopez AD Global comparative assessments in the health sector World Health Organization 1994"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0076|cit76",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1111/j.1528-1167.2009.02481.x",
+                    "article-title": "Estimation of the burden of active and life-time epilepsy: a meta-analytic approach",
+                    "volume": "51",
+                    "author": "Ngugi",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0077|cit77",
+                    "unstructured": "National Institute for Health and Care Excellence Clinical Guidance 137: The epilepsies: the diagnosis and management of the epilepsies in adults and children in primary and secondary care London: National Institute for Health and Care Excellence 2012"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0078|cit78",
+                    "unstructured": "Nolan SJ Sutton L Marson A Tudur Smith C Consistency of outcome and statistical reporting of time-to-event data: the impact on Cochrane Reviews and meta-analyses in epilepsy 21st Cochrane Colloquium: Better Knowledge for Better Health, Quebec City 2013 114 5"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0079|cit79",
+                    "author": "Nolan",
+                    "issue": "8",
+                    "year": "2013",
+                    "article-title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0080|cit80",
+                    "author": "Nolan",
+                    "issue": "5",
+                    "year": "2013",
+                    "article-title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD003615.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0081|cit81",
+                    "author": "Nolan",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Phenobarbitone versus phenytoin monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002217.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0082|cit82",
+                    "author": "Nolan",
+                    "issue": "12",
+                    "year": "2014",
+                    "article-title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011412",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0083|cit83",
+                    "author": "Nolan",
+                    "issue": "7",
+                    "year": "2015",
+                    "article-title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0084|cit84",
+                    "author": "Nolan",
+                    "issue": "8",
+                    "year": "2015",
+                    "article-title": "Carbamazepine versus phenytoin monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001911.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0085|cit85",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "627",
+                    "DOI": "10.1016/S1474-4422(05)70172-1",
+                    "article-title": "Incidence of unprovoked seizures and epilepsy in Iceland and assessment of the epilepsy syndrome classification: a prospective study",
+                    "volume": "4",
+                    "author": "Olafsson",
+                    "year": "2005",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "24",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0086|cit86",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2815",
+                    "DOI": "10.1002/(SICI)1097-0258(19981230)17:24<2815::AID-SIM110>3.0.CO;2-8",
+                    "article-title": "Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints",
+                    "volume": "17",
+                    "author": "Parmar",
+                    "year": "1998",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0087|cit87",
+                    "first-page": "756",
+                    "article-title": "Frequency and voltage-dependent inhibition of type IIA Na+ channels,expressed in a mammalian cell line, by local anesthetic, antiarrhythmic, and anticonvulsant drugs",
+                    "volume": "40",
+                    "author": "Ragsdale",
+                    "year": "1991",
+                    "journal-title": "Molecular Pharmacology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0088|cit88",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1136/jnnp.61.5.433",
+                    "article-title": "Epidemiology of the epilepsies",
+                    "volume": "61",
+                    "author": "Sander",
+                    "year": "1996",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0089|cit89",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "28",
+                    "DOI": "10.1111/j.0013-9580.2004.455005.x",
+                    "article-title": "The use of anti-epileptic drugs - principles and practice",
+                    "volume": "45",
+                    "author": "Sander",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0090|cit90",
+                    "author": "Shakir",
+                    "first-page": "7",
+                    "year": "1980",
+                    "article-title": "Sodium valproate, phenytoin and carbamazepine as sole anticonvulsants",
+                    "volume-title": "The Place of Sodium Valproate in the Treatment of Epilepsy"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0091|cit91",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1487",
+                    "DOI": "10.1212/WNL.33.11.1487",
+                    "article-title": "Myoclonic, atonic, and absence seizures following institution of carbamazepine therapy in children",
+                    "volume": "33",
+                    "author": "Shields",
+                    "year": "1983",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0092|cit92",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "916",
+                    "DOI": "10.1056/NEJM198510103131503",
+                    "article-title": "Exacerbation of seizures in children by carbamazepine",
+                    "volume": "313",
+                    "author": "Snead",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0093|cit93",
+                    "unstructured": "StataCorp Stata Statistical Software: Release 11 2009"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0094|cit94",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "16",
+                    "DOI": "10.1186/1745-6215-8-16",
+                    "article-title": "Practical methods for incorporating summary time-to-event data into meta-analysis",
+                    "volume": "8",
+                    "author": "Tierney",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0095|cit95",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "volume": "5",
+                    "author": "Tudur Smith",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0096|cit96",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "205",
+                    "DOI": "10.1046/j.1365-2753.2000.00236.x",
+                    "article-title": "Individual patient data meta-analysis of randomized anti-epileptic drug monotherapy trials",
+                    "volume": "6",
+                    "author": "Williamson",
+                    "year": "2000",
+                    "journal-title": "Journal of Evaluation in Clinical Practice"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0097|cit97",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3337",
+                    "DOI": "10.1002/sim.1303",
+                    "article-title": "Aggregate data meta-analysis with time-to-event outcomes",
+                    "volume": "21",
+                    "author": "Williamson",
+                    "year": "2002",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0098|cit98",
+                    "author": "Gamble",
+                    "issue": "1",
+                    "year": "2006",
+                    "article-title": "Lamotrigine versus carbamazepine monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001031.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001031.pub3-BIB0099|cit99",
+                    "author": "Preston",
+                    "issue": "1",
+                    "year": "1998",
+                    "article-title": "Lamotrigine versus carbamazepine monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001031",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD001031.pub3",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        15
+                    ]
+                ],
+                "date-time": "2019-09-15T16:58:13Z",
+                "timestamp": 1568566693000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        14
+                    ]
+                ]
+            },
+            "references-count": 99,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD001031.pub3",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1002/14651858.CD001031.pub3)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD001031.pub3%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD001031.pub3%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84997343309"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84997343309?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84997343309&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84997343309&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84997343309",
+                        "dc:identifier": "SCOPUS_ID:84997343309",
+                        "eid": "2-s2.0-84997343309",
+                        "dc:title": "Lamotrigine versus carbamazepine monotherapy for epilepsy: An individual participant data review",
+                        "dc:creator": "Nolan S.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "11",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-11-14",
+                        "prism:coverDisplayDate": "14 November 2016",
+                        "prism:doi": "10.1002/14651858.CD001031.pub3",
+                        "citedby-count": "23",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD001031",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "FVCTKTCE.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+        "full_author_list": [
+            {
+                "clean": "Nevitt S",
+                "family": "Nevitt",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                }
+            },
+            {
+                "clean": "Weston J",
+                "family": "Weston",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                }
+            }
+        ],
+        "first_author": "Nevitt S",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "month": "11",
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "23"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

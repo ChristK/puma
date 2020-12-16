@@ -1,0 +1,1370 @@
+{
+    "IDs": {
+        "zotero": "U26KGA9F",
+        "DOI": "10.1007/s00125-017-4386-0",
+        "DOI_filename": "3c4b66a8fbb645ba5f5f5415e737f72d",
+        "PMID": "28840258",
+        "scopus": "2-s2.0-85028295505",
+        "hash": "0424145e5bd66d894a8682126151f5cc"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "U26KGA9F",
+            "version": 184,
+            "itemType": "journalArticle",
+            "title": "Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy: the Liverpool Risk Calculation Engine",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "name": "for the Individualised Screening for Diabetic Retinopathy (ISDR) Study Group"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Antonio",
+                    "lastName": "Eleuteri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony C.",
+                    "lastName": "Fisher"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Deborah M.",
+                    "lastName": "Broadbent"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marta",
+                    "lastName": "Garc\u00eda-Fi\u00f1ana"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher P.",
+                    "lastName": "Cheyne"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amu",
+                    "lastName": "Wang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Irene M.",
+                    "lastName": "Stratton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Seddon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Simon P.",
+                    "lastName": "Harding"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Diabetologia",
+            "volume": "60",
+            "issue": "11",
+            "pages": "2174-2182",
+            "date": "11/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Diabetologia",
+            "language": "en",
+            "DOI": "10.1007/s00125-017-4386-0",
+            "ISSN": "0012-186X, 1432-0428",
+            "shortTitle": "Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy",
+            "url": "http://link.springer.com/10.1007/s00125-017-4386-0",
+            "accessDate": "2020-09-10T17:09:06Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28840258",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:06Z",
+            "dateModified": "2020-09-15T14:29:11Z",
+            "pmid": "28840258"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2020-08-02T15:40:35Z",
+                "timestamp": 1596382835328
+            },
+            "reference-count": 31,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "11",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                8,
+                                24
+                            ]
+                        ],
+                        "date-time": "2017-08-24T00:00:00Z",
+                        "timestamp": 1503532800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100007602",
+                    "name": "Programme Grants for Applied Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "RP-PG-1210-12016"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        11
+                    ]
+                ]
+            },
+            "DOI": "10.1007/s00125-017-4386-0",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        24
+                    ]
+                ],
+                "date-time": "2017-08-24T21:34:01Z",
+                "timestamp": 1503610441000
+            },
+            "page": "2174-2182",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 9,
+            "title": "Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy: the Liverpool Risk Calculation Engine",
+            "prefix": "10.1007",
+            "volume": "60",
+            "author": [
+                {
+                    "given": "Antonio",
+                    "family": "Eleuteri",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "name": "for the Individualised Screening for Diabetic Retinopathy (ISDR) Study Group",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anthony C.",
+                    "family": "Fisher",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Deborah M.",
+                    "family": "Broadbent",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Marta",
+                    "family": "Garc\u00eda-Fi\u00f1ana",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher P.",
+                    "family": "Cheyne",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Amu",
+                    "family": "Wang",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Irene M.",
+                    "family": "Stratton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Daniel",
+                    "family": "Seddon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Simon P.",
+                    "family": "Harding",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "4386_CR1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1047",
+                    "DOI": "10.2337/diacare.27.5.1047",
+                    "volume": "227",
+                    "author": "S Wild",
+                    "year": "2004",
+                    "unstructured": "Wild S, Roglic G, Green A, Sicree R, King H (2004) Global prevalence of diabetes: estimates for the year 2000 and projections for 2030. Diabetes Care 227:1047\u20131053",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "4386_CR2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "556",
+                    "DOI": "10.2337/dc11-1909",
+                    "volume": "35",
+                    "author": "JWY Yau",
+                    "year": "2012",
+                    "unstructured": "Yau JWY, Rogers SL, Kawasaki R et al (2012) Global prevalence and major risk factors of diabetic retinopathy. Diabetes Care 35:556\u2013564",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "4386_CR3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1258/jms.2008.008015",
+                    "volume": "15",
+                    "author": "PH Scanlon",
+                    "year": "2008",
+                    "unstructured": "Scanlon PH (2008) The English national screening programme for sight-threatening diabetic retinopathy. J Med Screen 15:1\u20134",
+                    "journal-title": "J Med Screen"
+                },
+                {
+                    "key": "4386_CR4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1663",
+                    "DOI": "10.2337/dc11-2282",
+                    "volume": "35",
+                    "author": "D Chalk",
+                    "year": "2012",
+                    "unstructured": "Chalk D, Pitt M, Vaidya B, Stein K (2012) Can the retinal screening interval be safely increased to 2 years for type 2 diabetic patients without retinopathy? Diabetes Care 35:1663\u20131668",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "4386_CR5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1599",
+                    "DOI": "10.1136/bjo.2007.123810",
+                    "volume": "91",
+                    "author": "E Olafsdottir",
+                    "year": "2007",
+                    "unstructured": "Olafsdottir E, Stefansson E (2007) Biennial eye screening in patients with diabetes without retinopathy: 10-year experience. Br J Ophthalmol 91:1599\u20131601",
+                    "journal-title": "Br J Ophthalmol"
+                },
+                {
+                    "key": "4386_CR6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1716",
+                    "DOI": "10.1007/s00125-013-2928-7",
+                    "volume": "56",
+                    "author": "HC Looker",
+                    "year": "2013",
+                    "unstructured": "Looker HC, Nyangoma SO, Cromie DT et al (2013) Predicted impact of extending the screening interval for diabetic retinopathy: the Scottish Diabetic Retinopathy Screening programme. Diabetologia 56:1716\u20131725",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "4386_CR7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "488",
+                    "DOI": "10.2337/dc14-1778",
+                    "volume": "38",
+                    "author": "GP Leese",
+                    "year": "2015",
+                    "unstructured": "Leese GP, Stratton IM, Land M et al (2015) Progression of diabetes retinal status within community screening programs and potential implications for screening intervals. Diabetes Care 38:488\u2013494",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "4386_CR8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1272",
+                    "DOI": "10.1111/dme.12274",
+                    "volume": "30",
+                    "author": "BJ Echouffo\u2013Tcheugui",
+                    "year": "2013",
+                    "unstructured": "Echouffo\u2013Tcheugui BJ, Ali MK, Roglic G, Hayward RA, Narayan KM (2013) Screening intervals for diabetic retinopathy and incidence of visual loss: a systematic review. Diabet Med 30:1272\u20131292",
+                    "journal-title": "Diabet Med"
+                },
+                {
+                    "key": "4386_CR9",
+                    "unstructured": "UK National Screening Committee (2015) Screening for diabetic retinopathy. Extending diabetic eye screening intervals for people at low risk of developing sight threatening retinopathy. Available from \nhttps://legacyscreening.phe.org.uk/policydb_download.php?doc=546\n\n. Accessed 24 May 2017"
+                },
+                {
+                    "key": "4386_CR10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1318",
+                    "DOI": "10.2337/dc10-2308",
+                    "volume": "34",
+                    "author": "E Agardh",
+                    "year": "2011",
+                    "unstructured": "Agardh E, Tababat-Khani P (2011) Adopting 3-year screening intervals for sight-threatening retinal vascular lesions in type 2 diabetic subjects without retinopathy. Diabetes Care 34:1318\u20131319",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "4386_CR11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "74",
+                    "DOI": "10.3310/hta19740",
+                    "volume": "19",
+                    "author": "PH Scanlon",
+                    "year": "2015",
+                    "unstructured": "Scanlon PH, Aldington SJ, Leal J et al (2015) Development of a cost-effectiveness model for optimisation of the screening interval in diabetic retinopathy screening. Health Technol Assess 19:74",
+                    "journal-title": "Health Technol Assess"
+                },
+                {
+                    "key": "4386_CR12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e484",
+                    "DOI": "10.3399/bjgp14X680965",
+                    "volume": "64",
+                    "author": "A Lindenmeyer",
+                    "year": "2014",
+                    "unstructured": "Lindenmeyer A, Sturt JA, Hipwell A et al (2014) Influence of primary care practices on patients\u2019 uptake of diabetic retinopathy screening: a qualitative case study. Br J Gen Pract 64:e484\u2013e492",
+                    "journal-title": "Br J Gen Pract"
+                },
+                {
+                    "key": "4386_CR13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "105",
+                    "DOI": "10.1136/bjophthalmol-2014-305938",
+                    "volume": "100",
+                    "author": "S Taylor-Phillips",
+                    "year": "2016",
+                    "unstructured": "Taylor-Phillips S, Mistry H, Leslie R et al (2016) Extending the diabetic retinopathy screening interval beyond 1\u2005year: systematic review. Br J Ophthalmol 100:105\u2013114",
+                    "journal-title": "Br J Ophthalmol"
+                },
+                {
+                    "key": "4386_CR14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1925",
+                    "DOI": "10.1007/s00125-013-2940-y",
+                    "volume": "56",
+                    "author": "AJ Hayes",
+                    "year": "2013",
+                    "unstructured": "Hayes AJ, Leal J, Gray AM, Holman RR, Clarke PM (2013) UKPDS outcomes model 2: a new version of a model to simulate lifetime health outcomes of patients with type 2 diabetes mellitus using data from the 30 year United Kingdom Prospective Diabetes Study: UKPDS 82. Diabetologia 56:1925\u20131933",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "4386_CR15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2525",
+                    "DOI": "10.1007/s00125-011-2257-7",
+                    "volume": "54",
+                    "author": "T Aspelund",
+                    "year": "2011",
+                    "unstructured": "Aspelund T, \u00de\u00f3risd\u00f3ttir O, \u00d3lafsdottir E et al (2011) Individual risk assessment and information technology to optimise screening frequency for diabetic retinopathy. Diabetologia 54:2525\u20132532",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "4386_CR16",
+                    "author": "A Papoulis",
+                    "year": "1991",
+                    "edition": "3",
+                    "unstructured": "Papoulis A (1991) Probability, random variables, and stochastic processes, 3rd edn. McGraw-Hill, New York",
+                    "volume-title": "Probability, random variables, and stochastic processes"
+                },
+                {
+                    "key": "4386_CR17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "580",
+                    "DOI": "10.2337/dc12-0625",
+                    "volume": "36",
+                    "author": "IM Stratton",
+                    "year": "2013",
+                    "unstructured": "Stratton IM, Aldington SJ, Taylor DJ, Adler AI, Scanlon PS (2013) A simple risk stratification for time to development of sight-threatening diabetic retinopathy. Diabetes Care 36:580\u2013585",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "4386_CR18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "863",
+                    "DOI": "10.1080/01621459.1985.10478195",
+                    "volume": "80",
+                    "author": "JD Kalbfleisch",
+                    "year": "1985",
+                    "unstructured": "Kalbfleisch JD, Lawless JF (1985) The analysis of panel data under a Markov assumption. J Am Stat Assoc 80:863\u2013871",
+                    "journal-title": "J Am Stat Assoc"
+                },
+                {
+                    "key": "4386_CR19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "855",
+                    "DOI": "10.2307/2530699",
+                    "volume": "42",
+                    "author": "R Kay",
+                    "year": "1986",
+                    "unstructured": "Kay R (1986) A Markov model for analysing cancer markers and disease states in survival studies. Biometrics 42:855\u2013865",
+                    "journal-title": "Biometrics"
+                },
+                {
+                    "key": "4386_CR20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "621",
+                    "DOI": "10.1177/0962280209105541",
+                    "volume": "19",
+                    "author": "AC Titman",
+                    "year": "2010",
+                    "unstructured": "Titman AC, Sharples LD (2010) Model diagnostics for multi-state models. Stat Methods Med Res 19:621\u2013651",
+                    "journal-title": "Stat Methods Med Res"
+                },
+                {
+                    "key": "4386_CR21",
+                    "author": "S Buuren van",
+                    "year": "2012",
+                    "unstructured": "van Buuren S (2012) Flexible imputation of missing data. Chapman & Hall/CRC Press, Boca Raton",
+                    "volume-title": "Flexible imputation of missing data",
+                    "DOI": "10.1201/b11826",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "4386_CR22",
+                    "author": "FE Harrell",
+                    "year": "2001",
+                    "unstructured": "Harrell FE (2001) Regression modelling strategies: with applications to linear models, logistic regression, and survival analysis. Springer, New York",
+                    "volume-title": "Regression modelling strategies: with applications to linear models, logistic regression, and survival analysis",
+                    "DOI": "10.1007/978-1-4757-3462-1",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "4386_CR23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "261",
+                    "DOI": "10.1177/0049124104268644",
+                    "volume": "33",
+                    "author": "KP Burnham",
+                    "year": "2004",
+                    "unstructured": "Burnham KP, Anderson DR (2004) Multimodal inference: understanding AIC and BIC in model selection. Sociol Methods Res 33:261\u2013304",
+                    "journal-title": "Sociol Methods Res"
+                },
+                {
+                    "key": "4386_CR24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "76",
+                    "DOI": "10.1016/j.jclinepi.2016.05.007",
+                    "volume": "79",
+                    "author": "PC Austin",
+                    "year": "2016",
+                    "unstructured": "Austin PC, van Klaveren D, Vergouwe Y, Nieboer D, Lee DS, Steyerberg EW (2016) Geographic and temporal validity of prediction models: different approaches were useful to examine model performance. J Clin Epidemiol 79:76\u201385",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "4386_CR25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1332",
+                    "DOI": "10.1007/s00125-014-3246-4",
+                    "volume": "57",
+                    "author": "AAWA Heijden van der",
+                    "year": "2014",
+                    "unstructured": "van der Heijden AAWA, Walraven I, van\u2019t Riet E (2014) Validation of a model to estimate personalised screening frequency to monitor diabetic retinopathy. Diabetologia 57:1332\u20131338",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "4386_CR26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "h5441",
+                    "DOI": "10.1136/bmj.h5441",
+                    "volume": "351",
+                    "author": "J Hippisley-Cox",
+                    "year": "2015",
+                    "unstructured": "Hippisley-Cox J, Coupland C (2015) Development and validation of risk prediction equations to estimate future risk of blindness and lower limb amputation in patients with diabetes: cohort study. BMJ 351:h5441",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "Suppl1",
+                    "key": "4386_CR27",
+                    "first-page": "23",
+                    "volume": "31",
+                    "author": "IM Stratton",
+                    "year": "2014",
+                    "unstructured": "Stratton IM, Aldington SJ, Farmer AJ, Scanlon PH (2014) Personalised risk estimation for progression to sight-threatening diabetic retinopathy: how much does clinical information add to screening data? Diabet Med 31(Suppl1):23\u201324",
+                    "journal-title": "Diabet Med"
+                },
+                {
+                    "key": "4386_CR28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "195",
+                    "DOI": "10.1016/S0140-6736(03)12267-2",
+                    "volume": "361",
+                    "author": "N Younis",
+                    "year": "2003",
+                    "unstructured": "Younis N, Broadbent DM, Vora JP, Harding SP (2003) Incidence of sight threatening retinopathy in type 2 diabetes in a systematic screening programme. Lancet 361:195\u2013200",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "4386_CR29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2147",
+                    "DOI": "10.1007/s00125-013-2989-7",
+                    "volume": "56",
+                    "author": "M Porta",
+                    "year": "2013",
+                    "unstructured": "Porta M, Maurino M, Severini S et al (2013) Clinical characteristics influence screening intervals for diabetic retinopathy. Diabetologia 56:2147\u20132152",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "4386_CR30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "683",
+                    "DOI": "10.1136/heartjnl-2011-301246",
+                    "volume": "98",
+                    "author": "KGM Moons",
+                    "year": "2012",
+                    "unstructured": "Moons KGM, Kengne AP, Woodward M et al (2012) Risk prediction models: I. Development, internal validation, and assessing the incremental value of a new (bio)marker. Heart 98:683\u2013690",
+                    "journal-title": "Heart"
+                },
+                {
+                    "key": "4386_CR31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "691",
+                    "DOI": "10.1136/heartjnl-2011-301247",
+                    "volume": "98",
+                    "author": "KGM Moons",
+                    "year": "2012",
+                    "unstructured": "Moons KGM, Kengne AP, Grobbee DE et al (2012) Risk prediction models: II. External validation, model updating, and impact assessment. Heart 98:691\u2013698",
+                    "journal-title": "Heart"
+                }
+            ],
+            "container-title": "Diabetologia",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/article/10.1007/s00125-017-4386-0/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00125-017-4386-0.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00125-017-4386-0.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        9,
+                        27
+                    ]
+                ],
+                "date-time": "2017-09-27T10:28:58Z",
+                "timestamp": 1506508138000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "references-count": 31,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            11
+                        ]
+                    ]
+                },
+                "issue": "11"
+            },
+            "alternative-id": [
+                "4386"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s00125-017-4386-0",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0012-186X",
+                "1432-0428"
+            ],
+            "subject": [
+                "Internal Medicine",
+                "Endocrinology, Diabetes and Metabolism"
+            ],
+            "container-title-short": "Diabetologia"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Diabetic retinopathy",
+                        "Risk calculation engine",
+                        "Risk-based screening"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28840258",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "07",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "10",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1007/s00125-017-4386-0"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "08",
+                            "Day": "24"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1432-0428",
+                        "JournalIssue": {
+                            "Volume": "60",
+                            "Issue": "11",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Nov"
+                            }
+                        },
+                        "Title": "Diabetologia",
+                        "ISOAbbreviation": "Diabetologia"
+                    },
+                    "ArticleTitle": "Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy: the Liverpool Risk Calculation Engine.",
+                    "Pagination": {
+                        "MedlinePgn": "2174-2182"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Individualised variable-interval risk-based screening offers better targeting and improved cost-effectiveness in screening for diabetic retinopathy. We developed a generalisable risk calculation engine (RCE) to assign personalised intervals linked to local population characteristics, and explored differences in assignment compared with current practice.",
+                            "Data from 5\u00a0years of photographic screening and primary care for people with diabetes, screen negative at the first of >\u00a01 episode, were combined in a purpose-built near-real-time warehouse. Covariates were selected from a dataset created using mixed qualitative/quantitative methods. Markov modelling predicted progression to screen-positive (referable diabetic retinopathy) against the local cohort history. Retinopathy grade informed baseline risk and multiple imputation dealt with missing data. Acceptable intervals (6, 12, 24\u00a0months) and risk threshold (2.5%) were established with patients and professional end users.",
+                            "Data were from 11,806 people with diabetes (46,525 episodes, 388 screen-positive). Covariates with sufficient predictive value were: duration of known disease, HbA<sub>1c</sub>, age, systolic BP and total cholesterol. Corrected AUC (95% CIs) were: 6\u00a0months 0.88 (0.83, 0.93), 12\u00a0months 0.90 (0.87, 0.93) and 24\u00a0months 0.91 (0.87, 0.94). Sensitivities/specificities for a 2.5% risk were: 6\u00a0months 0.61, 0.93, 12\u00a0months 0.67, 0.90 and 24\u00a0months 0.82, 0.81. Implementing individualised RCE-based intervals would reduce the proportion of people becoming screen-positive before the allocated screening date by >\u00a050% and the number of episodes by 30%.",
+                            "The Liverpool RCE shows sufficient performance for a local introduction into practice before wider implementation, subject to external validation. This approach offers potential enhancements of screening in improved local applicability, targeting and cost-effectiveness."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medical Physics and Clinical Engineering, Royal Liverpool University Hospital, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Eleuteri",
+                            "ForeName": "Antonio",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medical Physics and Clinical Engineering, Royal Liverpool University Hospital, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Fisher",
+                            "ForeName": "Anthony C",
+                            "Initials": "AC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Eye and Vision Science, Institute of Ageing and Chronic Disease, University of Liverpool, William Henry Duncan Building, 6, West Derby Street, Liverpool, L7 8TX, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "St Paul's Eye Unit, Royal Liverpool University Hospital, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Broadbent",
+                            "ForeName": "Deborah M",
+                            "Initials": "DM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Garc\u00eda-Fi\u00f1ana",
+                            "ForeName": "Marta",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cheyne",
+                            "ForeName": "Christopher P",
+                            "Initials": "CP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Eye and Vision Science, Institute of Ageing and Chronic Disease, University of Liverpool, William Henry Duncan Building, 6, West Derby Street, Liverpool, L7 8TX, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wang",
+                            "ForeName": "Amu",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Gloucestershire Retinal Research Group, Cheltenham General Hospital, Cheltenham, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Stratton",
+                            "ForeName": "Irene M",
+                            "Initials": "IM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health England, Cheshire and Merseyside Screening and Immunisation Team, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Seddon",
+                            "ForeName": "Daniel",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Eye and Vision Science, Institute of Ageing and Chronic Disease, University of Liverpool, William Henry Duncan Building, 6, West Derby Street, Liverpool, L7 8TX, UK. s.p.harding@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "St Paul's Eye Unit, Royal Liverpool University Hospital, Liverpool, UK. s.p.harding@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harding",
+                            "ForeName": "Simon P",
+                            "Initials": "SP"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "CollectiveName": "Individualised Screening for Diabetic Retinopathy (ISDR) Study Group"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "RP-PG-1210-12016",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "RP-PG-1210-12016",
+                            "Agency": "Programme Grants for Applied Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "Diabetologia",
+                    "NlmUniqueID": "0006777",
+                    "ISSNLinking": "0012-186X"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Glycated Hemoglobin A"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "physiology"
+                        ],
+                        "DescriptorName": "Blood Pressure",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis"
+                        ],
+                        "DescriptorName": "Diabetic Retinopathy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Disease Progression",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism"
+                        ],
+                        "DescriptorName": "Glycated Hemoglobin A",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Mass Screening",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Br J Ophthalmol. 2016 Jan;100(1):105-14",
+                                "ArticleIdList": [
+                                    "25586713"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2013 Sep;56(9):1925-33",
+                                "ArticleIdList": [
+                                    "23793713"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2014 Jul;57(7):1332-8",
+                                "ArticleIdList": [
+                                    "24763851"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Methods Med Res. 2010 Dec;19(6):621-51",
+                                "ArticleIdList": [
+                                    "19654169"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Technol Assess. 2015 Sep;19(74):1-116",
+                                "ArticleIdList": [
+                                    "26384314"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2015 Nov 11;351:h5441",
+                                "ArticleIdList": [
+                                    "26560308"
+                                ]
+                            },
+                            {
+                                "Citation": "Heart. 2012 May;98(9):683-90",
+                                "ArticleIdList": [
+                                    "22397945"
+                                ]
+                            },
+                            {
+                                "Citation": "Heart. 2012 May;98(9):691-8",
+                                "ArticleIdList": [
+                                    "22397946"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2003 Jan 18;361(9353):195-200",
+                                "ArticleIdList": [
+                                    "12547541"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2004 May;27(5):1047-53",
+                                "ArticleIdList": [
+                                    "15111519"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabet Med. 2013 Nov;30(11):1272-92",
+                                "ArticleIdList": [
+                                    "23819487"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2011 Jun;34(6):1318-9",
+                                "ArticleIdList": [
+                                    "21562322"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Ophthalmol. 2007 Dec;91(12):1599-601",
+                                "ArticleIdList": [
+                                    "17627978"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2011 Oct;54(10):2525-32",
+                                "ArticleIdList": [
+                                    "21792613"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2013 Mar;36(3):580-5",
+                                "ArticleIdList": [
+                                    "23150285"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2015 Mar;38(3):488-94",
+                                "ArticleIdList": [
+                                    "25524948"
+                                ]
+                            },
+                            {
+                                "Citation": "Biometrics. 1986 Dec;42(4):855-65",
+                                "ArticleIdList": [
+                                    "2434150"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2013 Oct;56(10):2147-52",
+                                "ArticleIdList": [
+                                    "23827966"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Screen. 2008;15(1):1-4",
+                                "ArticleIdList": [
+                                    "18416946"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2012 Aug;35(8):1663-8",
+                                "ArticleIdList": [
+                                    "22566535"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2013 Aug;56(8):1716-25",
+                                "ArticleIdList": [
+                                    "23689796"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2012 Mar;35(3):556-64",
+                                "ArticleIdList": [
+                                    "22301125"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2014 Aug;64(625):e484-92",
+                                "ArticleIdList": [
+                                    "25071061"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2016 Nov;79:76-85",
+                                "ArticleIdList": [
+                                    "27262237"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "01",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "06",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "8",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "8",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28840258",
+                    "10.1007/s00125-017-4386-0",
+                    "10.1007/s00125-017-4386-0",
+                    "PMC6448900"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28840258)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828840258%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828840258%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028295505"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028295505?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028295505&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028295505&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028295505",
+                        "dc:identifier": "SCOPUS_ID:85028295505",
+                        "eid": "2-s2.0-85028295505",
+                        "dc:title": "Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy: the Liverpool Risk Calculation Engine",
+                        "dc:creator": "Eleuteri A.",
+                        "prism:publicationName": "Diabetologia",
+                        "prism:issn": "0012186X",
+                        "prism:eIssn": "14320428",
+                        "prism:volume": "60",
+                        "prism:issueIdentifier": "11",
+                        "prism:pageRange": "2174-2182",
+                        "prism:coverDate": "2017-11-01",
+                        "prism:coverDisplayDate": "1 November 2017",
+                        "prism:doi": "10.1007/s00125-017-4386-0",
+                        "citedby-count": "13",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Royal Liverpool University Hospital",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28840258",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "25584",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "U26KGA9F.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28840258"
+            }
+        },
+        "title": "Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy: the Liverpool Risk Calculation Engine.",
+        "full_author_list": [
+            {
+                "clean": "Eleuteri A",
+                "family": "Eleuteri",
+                "given": "Antonio",
+                "affiliation": {
+                    "name": "Department of Medical Physics and Clinical Engineering, Royal Liverpool University Hospital, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Fisher A",
+                "family": "Fisher",
+                "given": "Anthony C",
+                "affiliation": {
+                    "name": "Department of Medical Physics and Clinical Engineering, Royal Liverpool University Hospital, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Broadbent D",
+                "family": "Broadbent",
+                "given": "Deborah M",
+                "affiliation": {
+                    "name": "Department of Eye and Vision Science, Institute of Ageing and Chronic Disease, University of Liverpool, William Henry Duncan Building, 6, West Derby Street, Liverpool, L7 8TX, UK."
+                }
+            },
+            {
+                "clean": "Garc\u00eda-Fi\u00f1ana M",
+                "family": "Garc\u00eda-Fi\u00f1ana",
+                "given": "Marta",
+                "affiliation": {
+                    "name": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cheyne C",
+                "family": "Cheyne",
+                "given": "Christopher P",
+                "affiliation": {
+                    "name": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wang A",
+                "family": "Wang",
+                "given": "Amu",
+                "affiliation": {
+                    "name": "Department of Eye and Vision Science, Institute of Ageing and Chronic Disease, University of Liverpool, William Henry Duncan Building, 6, West Derby Street, Liverpool, L7 8TX, UK."
+                }
+            },
+            {
+                "clean": "Stratton I",
+                "family": "Stratton",
+                "given": "Irene M",
+                "affiliation": {
+                    "name": "Gloucestershire Retinal Research Group, Cheltenham General Hospital, Cheltenham, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Seddon D",
+                "family": "Seddon",
+                "given": "Daniel",
+                "affiliation": {
+                    "name": "Public Health England, Cheshire and Merseyside Screening and Immunisation Team, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harding S",
+                "family": "Harding",
+                "given": "Simon P",
+                "affiliation": {
+                    "name": "Department of Eye and Vision Science, Institute of Ageing and Chronic Disease, University of Liverpool, William Henry Duncan Building, 6, West Derby Street, Liverpool, L7 8TX, UK. s.p.harding@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Eleuteri A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Blood Pressure",
+                    "major": "N"
+                },
+                {
+                    "term": "Diabetic Retinopathy",
+                    "major": "N"
+                },
+                {
+                    "term": "Disease Progression",
+                    "major": "N"
+                },
+                {
+                    "term": "Glycated Hemoglobin A",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Mass Screening",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Time Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Diabetologia",
+            "volume": "60",
+            "issue": "11"
+        },
+        "abstract": "['Individualised variable-interval risk-based screening offers better targeting and improved cost-effectiveness in screening for diabetic retinopathy. We developed a generalisable risk calculation engine (RCE) to assign personalised intervals linked to local population characteristics, and explored differences in assignment compared with current practice.', 'Data from 5\\xa0years of photographic screening and primary care for people with diabetes, screen negative at the first of >\\xa01 episode, were combined in a purpose-built near-real-time warehouse. Covariates were selected from a dataset created using mixed qualitative/quantitative methods. Markov modelling predicted progression to screen-positive (referable diabetic retinopathy) against the local cohort history. Retinopathy grade informed baseline risk and multiple imputation dealt with missing data. Acceptable intervals (6, 12, 24\\xa0months) and risk threshold (2.5%) were established with patients and professional end users.', 'Data were from 11,806 people with diabetes (46,525 episodes, 388 screen-positive). Covariates with sufficient predictive value were: duration of known disease, HbA<sub>1c</sub>, age, systolic BP and total cholesterol. Corrected AUC (95% CIs) were: 6\\xa0months 0.88 (0.83, 0.93), 12\\xa0months 0.90 (0.87, 0.93) and 24\\xa0months 0.91 (0.87, 0.94). Sensitivities/specificities for a 2.5% risk were: 6\\xa0months 0.61, 0.93, 12\\xa0months 0.67, 0.90 and 24\\xa0months 0.82, 0.81. Implementing individualised RCE-based intervals would reduce the proportion of people becoming screen-positive before the allocated screening date by >\\xa050% and the number of episodes by 30%.', 'The Liverpool RCE shows sufficient performance for a local introduction into practice before wider implementation, subject to external validation. This approach offers potential enhancements of screening in improved local applicability, targeting and cost-effectiveness.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "13"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Medical Physics and Clinical Engineering, Royal Liverpool University Hospital, Liverpool, UK.",
+            "clean_institute": "Royal Liverpool University Hospital",
+            "latitude": "53.4094",
+            "longitude": "-2.96412",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

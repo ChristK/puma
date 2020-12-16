@@ -1,0 +1,515 @@
+{
+    "IDs": {
+        "zotero": "EBFL9P2M",
+        "DOI": "10.1108/HCS-06-2016-0003",
+        "DOI_filename": "458f03415fbb23283be4ced3a4559545",
+        "PMID": "",
+        "scopus": "2-s2.0-84990935756",
+        "hash": "3c8d190701a7fad08ad381187b9c43c5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "EBFL9P2M",
+            "version": 88,
+            "itemType": "journalArticle",
+            "title": "\u201cThere is still a perception that homelessness is a housing problem\u201d: devolution, homelessness and health in the UK",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Martin",
+                    "lastName": "Whiteford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Glenn",
+                    "lastName": "Simpson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Housing, Care and Support",
+            "volume": "19",
+            "issue": "2",
+            "pages": "33-44",
+            "date": "2016-06-06",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Housing, Care and Support",
+            "language": "en",
+            "DOI": "10.1108/HCS-06-2016-0003",
+            "ISSN": "1460-8790",
+            "shortTitle": "\u201cThere is still a perception that homelessness is a housing problem\u201d",
+            "url": "https://www.emerald.com/insight/content/doi/10.1108/HCS-06-2016-0003/full/html",
+            "accessDate": "2020-09-10T17:09:01Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:01Z",
+            "dateModified": "2020-09-10T17:09:01Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        26
+                    ]
+                ],
+                "date-time": "2020-03-26T19:37:53Z",
+                "timestamp": 1585251473121
+            },
+            "reference-count": 30,
+            "publisher": "Emerald",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "http://www.emeraldinsight.com/page/tdm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2016,
+                                6,
+                                6
+                            ]
+                        ],
+                        "date-time": "2016-06-06T00:00:00Z",
+                        "timestamp": 1465171200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        6
+                    ]
+                ]
+            },
+            "DOI": "10.1108/hcs-06-2016-0003",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        12
+                    ]
+                ],
+                "date-time": "2016-10-12T14:35:32Z",
+                "timestamp": 1476282932000
+            },
+            "page": "33-44",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "\u201cThere is still a perception that homelessness is a housing problem\u201d: devolution, homelessness and health in the UK",
+            "prefix": "10.1108",
+            "volume": "19",
+            "author": [
+                {
+                    "given": "Martin",
+                    "family": "Whiteford",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Glenn",
+                    "family": "Simpson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "140",
+            "reference": [
+                {
+                    "key": "ref001",
+                    "unstructured": "Akbur, R. (2015),Preventing Homeless out-of- Borough Patients from Rough Sleeping: A Report on the Tower Hamlets \u2018Routes to Roots\u2019 Approach, Tower Hamlets Council, London."
+                },
+                {
+                    "key": "ref002",
+                    "DOI": "10.1108/JICA-11-2015-0043",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref032",
+                    "DOI": "10.1017/S0047279412000220",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref003",
+                    "DOI": "10.1111/1467-923X.00220",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref004",
+                    "unstructured": "Bradley, J. (2015), \u201cStandards for improving the health and well-being of homeless people and specific vulnerable groups. Health board progress reports 2013/2014\u201d, Department for Health and Social Services, Welsh Government."
+                },
+                {
+                    "key": "ref005",
+                    "DOI": "10.1080/21699763.2013.802989",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref006",
+                    "DOI": "10.1002/9781444324655",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref008",
+                    "DOI": "10.1016/j.puhe.2004.03.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref010",
+                    "DOI": "10.12968/bjon.2011.20.18.1193",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref012",
+                    "unstructured": "Fitzpatrick, S., Johnsen, S. and Watts, B. (2012), International Homelessness Policy Review: A Report to Inform the Review of Homelessness Legislation in Wales, Welsh Government, Cardiff."
+                },
+                {
+                    "key": "ref013",
+                    "author": "Fitzpatrick S.",
+                    "year": "2014",
+                    "volume-title": "The Homelessness Monitor: Northern Ireland 2013"
+                },
+                {
+                    "key": "ref014",
+                    "author": "Fitzpatrick S.",
+                    "year": "2015",
+                    "volume-title": "The Homelessness Monitor: Wales 2015"
+                },
+                {
+                    "issue": "3",
+                    "key": "ref035",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "230",
+                    "DOI": "10.1177/160940691201100304",
+                    "volume": "11",
+                    "author": "Goldman E.",
+                    "year": "2012",
+                    "journal-title": "International Journal of Qualitative Methods"
+                },
+                {
+                    "key": "ref017",
+                    "author": "Hendry C.",
+                    "year": "2010",
+                    "volume-title": "Economic Evaluation of the Homeless Intermediate Care Pilot Project"
+                },
+                {
+                    "key": "ref018",
+                    "author": "Hewett N.",
+                    "issue": "103",
+                    "first-page": "306",
+                    "year": "2012",
+                    "journal-title": "Journal of the Royal Society of Medicine"
+                },
+                {
+                    "key": "ref019",
+                    "author": "Homeless Link and St Mungo\u2019s",
+                    "year": "2012",
+                    "volume-title": "Improving Hospital Admission and Discharge for People Who are Homeless"
+                },
+                {
+                    "key": "ref020",
+                    "DOI": "10.1080/02673037.2014.927055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref021",
+                    "author": "Mehet D.",
+                    "year": "2015",
+                    "volume-title": "Health Services for Homeless People: A Case for Action"
+                },
+                {
+                    "issue": "2",
+                    "key": "ref022",
+                    "first-page": "211",
+                    "volume": "7",
+                    "author": "O\u2019Neil P.",
+                    "year": "2013",
+                    "journal-title": "European Journal of Homelessness"
+                },
+                {
+                    "key": "ref023",
+                    "DOI": "10.1007/s10488-013-0528-y",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref025",
+                    "author": "Public Health Agency (PHA)",
+                    "year": "2013",
+                    "volume-title": "Health Intelligence Briefing: Homelessness: Recent Statistics and the Impacts on Health"
+                },
+                {
+                    "key": "ref201",
+                    "author": "Scottish Executive",
+                    "year": "2005",
+                    "volume-title": "Health and Homelessness Standards"
+                },
+                {
+                    "key": "ref027",
+                    "DOI": "10.1177/1468794107076020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "ref028",
+                    "first-page": "41",
+                    "volume": "7",
+                    "author": "Watts B.",
+                    "year": "2013",
+                    "journal-title": "European of Journal of Homelessness"
+                },
+                {
+                    "key": "ref030",
+                    "DOI": "10.1108/HCS-08-2015-0014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref031",
+                    "DOI": "10.1016/j.electstud.2005.01.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref033",
+                    "author": "Department for Social Development",
+                    "year": "2007",
+                    "volume-title": "Including the Homeless: A Strategy to Promote the Social Inclusion of Homeless People, and Those at Risk of Becoming Homeless"
+                },
+                {
+                    "key": "ref036",
+                    "author": "Greater London Authority",
+                    "year": "2010",
+                    "volume-title": "The London Health Inequalities Strategy: Mayor of London"
+                },
+                {
+                    "key": "ref038",
+                    "author": "Mayor of London",
+                    "year": "2011",
+                    "volume-title": "The Mayor\u2019s Rough Sleeping Commissioning Framework 2011-2015"
+                },
+                {
+                    "key": "ref040",
+                    "author": "Scottish Public Health Network",
+                    "year": "2015",
+                    "volume-title": "Restoring the Public Health Response to Homelessness"
+                }
+            ],
+            "container-title": "Housing, Care and Support",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.emeraldinsight.com/doi/full-xml/10.1108/HCS-06-2016-0003",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://www.emeraldinsight.com/doi/full/10.1108/HCS-06-2016-0003",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        3
+                    ]
+                ],
+                "date-time": "2019-09-03T22:20:30Z",
+                "timestamp": 1567549230000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            6,
+                            6
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1108/HCS-06-2016-0003"
+            ],
+            "URL": "http://dx.doi.org/10.1108/HCS-06-2016-0003",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1460-8790"
+            ],
+            "container-title-short": "Housing, Care and Support"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1108/HCS-06-2016-0003)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1108%2FHCS-06-2016-0003%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1108%2FHCS-06-2016-0003%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84990935756"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84990935756?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84990935756&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84990935756&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84990935756",
+                        "dc:identifier": "SCOPUS_ID:84990935756",
+                        "eid": "2-s2.0-84990935756",
+                        "dc:title": "There is still a perception that homelessness is a housing problem\": Devolution, homelessness and health in the UK",
+                        "dc:creator": "Whiteford M.",
+                        "prism:publicationName": "Housing, Care and Support",
+                        "prism:issn": "14608790",
+                        "prism:volume": "19",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "33-44",
+                        "prism:coverDate": "2016-01-01",
+                        "prism:coverDisplayDate": "2016",
+                        "prism:doi": "10.1108/HCS-06-2016-0003",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19700174722",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "EBFL9P2M.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "\u201cThere is still a perception that homelessness is a housing problem\u201d: devolution, homelessness and health in the UK",
+        "full_author_list": [
+            {
+                "clean": "Whiteford M",
+                "family": "Whiteford",
+                "given": "Martin",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Simpson G",
+                "family": "Simpson",
+                "given": "Glenn",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Whiteford M",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Housing, Care and Support",
+            "volume": "19",
+            "issue": "2"
+        },
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

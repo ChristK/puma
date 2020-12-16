@@ -1,0 +1,1400 @@
+{
+    "IDs": {
+        "zotero": "SW4XVYC8",
+        "DOI": "10.1111/hex.12956",
+        "DOI_filename": "24c1a4543b8d9fd3d3ea85d53c7999dd",
+        "PMID": "31398772",
+        "scopus": "2-s2.0-85070260530",
+        "hash": "e682251a7938b2cf1abc06dc557689a9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "SW4XVYC8",
+            "version": 181,
+            "itemType": "journalArticle",
+            "title": "Socio\u2010economic differences in patient participation behaviours in doctor\u2013patient interactions\u2014A systematic mapping review of the literature",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Allen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Simon N.",
+                    "lastName": "Rogers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca V.",
+                    "lastName": "Harris"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health Expectations",
+            "volume": "22",
+            "issue": "5",
+            "pages": "1173-1184",
+            "date": "10/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Expect",
+            "language": "en",
+            "DOI": "10.1111/hex.12956",
+            "ISSN": "1369-6513, 1369-7625",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/hex.12956",
+            "accessDate": "2020-09-10T17:09:27Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31398772",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:27Z",
+            "dateModified": "2020-09-15T14:27:02Z",
+            "pmid": "31398772"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        26
+                    ]
+                ],
+                "date-time": "2020-03-26T21:17:52Z",
+                "timestamp": 1585257472475
+            },
+            "reference-count": 66,
+            "publisher": "Wiley",
+            "issue": "5",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                8,
+                                9
+                            ]
+                        ],
+                        "date-time": "2019-08-09T00:00:00Z",
+                        "timestamp": 1565308800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                8,
+                                9
+                            ]
+                        ],
+                        "date-time": "2019-08-09T00:00:00Z",
+                        "timestamp": 1565308800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        10
+                    ]
+                ]
+            },
+            "DOI": "10.1111/hex.12956",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        9
+                    ]
+                ],
+                "date-time": "2019-08-09T21:39:50Z",
+                "timestamp": 1565386790000
+            },
+            "page": "1173-1184",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Socio\u2010economic differences in patient participation behaviours in doctor\u2013patient interactions\u2014A systematic mapping review of the literature",
+            "prefix": "10.1111",
+            "volume": "22",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1194-3584",
+                    "authenticated-orcid": false,
+                    "given": "Sarah",
+                    "family": "Allen",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Population Health Sciences University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Simon N.",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Evidence\u2010Based Practice Research Centre (EPRC), Faculty of Health and Social Care Edge Hill University Ormskirk UK"
+                        },
+                        {
+                            "name": "Consultant Regional Maxillofacial Unit University Hospital Aintree Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rebecca V.",
+                    "family": "Harris",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Population Health Sciences University of Liverpool Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        9
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_12_2_1",
+                    "DOI": "10.1097/00005650-198807000-00002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_3_1",
+                    "DOI": "10.1177/0272989X9701700306",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_4_1",
+                    "DOI": "10.1016/S0277-9536(02)00449-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_5_1",
+                    "DOI": "10.1016/0277-9536(88)90021-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_6_1",
+                    "DOI": "10.1177/152715440100200312",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_7_1",
+                    "DOI": "10.1111/hex.12515",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_8_1",
+                    "unstructured": "EpsteinRM StreetJrRL.Patient\u2010centered communication in cancer care: promoting healing and reducing suffering.National Cancer Institute NIH Publication No. 07\u20136225.Bethesda MD 2007.",
+                    "DOI": "10.1037/e481972008-001",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "e_1_2_12_9_1",
+                    "DOI": "10.1186/1475-9276-11-12",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_10_1",
+                    "unstructured": "The English Indices of Deprivation 2015. In:Government DfCaL editor.;2015. Retrieved fromhttps://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/464430/English_Index_of_Multiple_Deprivation_2015_-_Guidance.pdf"
+                },
+                {
+                    "key": "e_1_2_12_11_1",
+                    "DOI": "10.1111/j.1471-1842.2009.00848.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_12_1",
+                    "unstructured": "Institute of Medicine (IOM)IOM Standards for Systematic Reviews: Standard 3.1: Conduct a comprehensive systematic search for evidence.;2011. Retrieved fromhttp://www.nationalacademies.org/hmd/Reports/2011/Finding-What-Works-in-Health-Care-Standards-for-Systematic-Reviews/Standards.aspx?page=2"
+                },
+                {
+                    "key": "e_1_2_12_13_1",
+                    "unstructured": "OECD.DAC list of ODA recipients.2018. Retrieved fromhttp://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC_List_ODA_Recipients2018to2020_flows_En.pdf."
+                },
+                {
+                    "key": "e_1_2_12_14_1",
+                    "DOI": "10.1016/j.pec.2010.07.026",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_15_1",
+                    "DOI": "10.1016/j.ijmedinf.2011.03.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_16_1",
+                    "DOI": "10.1001/archinte.161.16.1977",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_17_1",
+                    "DOI": "10.1136/bmjopen-2015-009627",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_18_1",
+                    "DOI": "10.1200/JCO.2004.09.069",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_19_1",
+                    "DOI": "10.1037/0278-6133.27.6.728",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_20_1",
+                    "DOI": "10.1177/1090198114547814",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_21_1",
+                    "DOI": "10.1093/eurpub/cki050",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_22_1",
+                    "DOI": "10.1186/s12909-017-0868-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_23_1",
+                    "DOI": "10.1188/13.ONF.508-515",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_24_1",
+                    "DOI": "10.1016/j.ejca.2016.08.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_25_1",
+                    "DOI": "10.1370/afm.1910",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_26_1",
+                    "DOI": "10.1186/s12913-017-2728-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_27_1",
+                    "DOI": "10.1016/S1081-1206(10)63296-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_28_1",
+                    "DOI": "10.1016/j.pec.2007.01.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_29_1",
+                    "DOI": "10.1016/j.pec.2016.03.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_30_1",
+                    "DOI": "10.1016/j.pec.2004.02.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_31_1",
+                    "DOI": "10.1136/jech.2004.023531",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_32_1",
+                    "DOI": "10.1377/hlthaff.2009.0888",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_33_1",
+                    "DOI": "10.1111/j.1369-7625.2007.00441.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_34_1",
+                    "DOI": "10.1016/0895-4356(92)90110-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_35_1",
+                    "DOI": "10.1111/j.1471-6712.2011.00904.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_36_1",
+                    "first-page": "02",
+                    "article-title": "Feedback to patients about patient\u2010reported outcomes does not improve empowerment or satisfaction",
+                    "volume": "02",
+                    "author": "Ackermans L",
+                    "year": "2018",
+                    "journal-title": "Clin Orthop Relat Res"
+                },
+                {
+                    "key": "e_1_2_12_37_1",
+                    "DOI": "10.15537/smj.2015.12.13682",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_38_1",
+                    "DOI": "10.1111/j.1365-2702.2012.04092.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_39_1",
+                    "DOI": "10.1097/00005650-200003000-00010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_40_1",
+                    "DOI": "10.1097/MLR.0000000000000411",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_41_1",
+                    "DOI": "10.1186/s12889-015-2056-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_42_1",
+                    "DOI": "10.1136/jme.2010.040618",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_43_1",
+                    "DOI": "10.1017/neu.2014.21",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_44_1",
+                    "DOI": "10.1093/ckj/sfw003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_45_1",
+                    "DOI": "10.1002/pon.943",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_46_1",
+                    "DOI": "10.1111/hex.12206",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_47_1",
+                    "DOI": "10.1080/08858190902876601",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_48_1",
+                    "DOI": "10.1016/j.pmn.2016.07.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_49_1",
+                    "DOI": "10.1353/hpu.0.0350",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_50_1",
+                    "DOI": "10.1016/j.jpsychores.2015.12.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_51_1",
+                    "DOI": "10.1007/s12325-016-0436-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_52_1",
+                    "DOI": "10.1300/J026v20n03_02",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_53_1",
+                    "DOI": "10.1016/j.pec.2006.07.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_54_1",
+                    "DOI": "10.1080/10810730.2013.837561",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_55_1",
+                    "DOI": "10.1001/archinternmed.2010.239",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_56_1",
+                    "DOI": "10.1016/j.socscimed.2011.12.023",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_57_1",
+                    "DOI": "10.1016/S0027-9684(15)31543-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_58_1",
+                    "DOI": "10.1186/1472-6963-12-261",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_59_1",
+                    "DOI": "10.1111/j.1475-6773.2010.01210.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_60_1",
+                    "DOI": "10.1080/10810730.2015.1033115",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_61_1",
+                    "DOI": "10.1111/j.1399-6576.2006.01097.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_62_1",
+                    "DOI": "10.3109/09638280903567885",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_63_1",
+                    "DOI": "10.1188/14.ONF.411-419",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_64_1",
+                    "DOI": "10.1016/j.pec.2014.08.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_65_1",
+                    "DOI": "10.1016/j.pec.2010.07.032",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_66_1",
+                    "DOI": "10.1186/s12910-017-0172-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_12_67_1",
+                    "DOI": "10.1186/s12913-016-1713-y",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Health Expectations",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.12956",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/hex.12956",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.12956",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        22
+                    ]
+                ],
+                "date-time": "2019-10-22T03:56:40Z",
+                "timestamp": 1571716600000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        9
+                    ]
+                ]
+            },
+            "references-count": 66,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            5
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            10
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "10.1111/hex.12956"
+            ],
+            "URL": "http://dx.doi.org/10.1111/hex.12956",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1369-6513",
+                "1369-7625"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "Health Expect",
+            "assertion": [
+                {
+                    "value": "2019-02-27",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-08-01",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-08-09",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Doctor-patient relationship",
+                        "communication",
+                        "inequalities",
+                        "patient participation",
+                        "socio-economic status"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31398772",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1111/hex.12956"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "08",
+                            "Day": "09"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1369-7625",
+                        "JournalIssue": {
+                            "Volume": "22",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "10"
+                            }
+                        },
+                        "Title": "Health expectations : an international journal of public participation in health care and health policy",
+                        "ISOAbbreviation": "Health Expect"
+                    },
+                    "ArticleTitle": "Socio-economic differences in patient participation behaviours in doctor-patient interactions-A systematic mapping review of the literature.",
+                    "Pagination": {
+                        "MedlinePgn": "1173-1184"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The degree to which patients participate in their care can have a positive impact on health outcomes. This review aimed to map the current literature on patient participation behaviours in interactions with physicians and the extent to which differences in these behaviours can be explained by socio-economic status (SES).",
+                            "Four electronic databases were searched from 1980 onwards using key words related to socio-economic status and patient participation behaviours.",
+                            "Titles, abstracts and full texts were screened by two reviewers, with the second reviewer screening 20% of all entries.",
+                            "Data on year of publication, country, patient population, setting, patient participation behaviour studied, and SES measure used were extracted.",
+                            "Forty-nine studies were included in the review. Most studies were conducted in the United States, and the most commonly studied patient participation behaviour was involvement in decision making. Most studies measured SES using education as an indicator, with very few studies using occupation as a measure. Many studies did not report on participants' medical condition or study setting. Patient participation in their health-care appointment increased with increasing SES in 24 studies, although in 27 studies no significant association was found.",
+                            "Current literature was found to be mainly US-centric. Many studies did not specify participants' medical condition or in what setting the study was undertaken. More studies are needed on less commonly studied patient participation behaviours. It would be helpful for further studies to also include a wider range of SES indicators."
+                        ],
+                        "CopyrightInformation": "\u00a9 2019 The Authors Health Expectations published by John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-1194-3584"
+                            ],
+                            "LastName": "Allen",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Evidence-Based Practice Research Centre (EPRC), Faculty of Health and Social Care, Edge Hill University, Ormskirk, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Consultant Regional Maxillofacial Unit, University Hospital Aintree, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rogers",
+                            "ForeName": "Simon N",
+                            "Initials": "SN"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harris",
+                            "ForeName": "Rebecca V",
+                            "Initials": "RV"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Agency": "National Institute for Health Research",
+                            "Country": "International"
+                        },
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Expect",
+                    "NlmUniqueID": "9815926",
+                    "ISSNLinking": "1369-6513"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "psychology",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Patient Participation",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Physician-Patient Relations",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Patient Educ Couns. 2014 Dec;97(3):391-5",
+                                "ArticleIdList": [
+                                    "25175367"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2012 Apr;74(7):973-81",
+                                "ArticleIdList": [
+                                    "22326105"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Educ Behav. 2015 Apr;42(2):210-9",
+                                "ArticleIdList": [
+                                    "25156313"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Commun. 2014;19(8):955-69",
+                                "ArticleIdList": [
+                                    "24397280"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Med Inform. 2011 Jul;80(7):518-28",
+                                "ArticleIdList": [
+                                    "21530381"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Cancer. 2016 Nov;67:73-82",
+                                "ArticleIdList": [
+                                    "27616438"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Aff (Millwood). 2010 Aug;29(8):1489-95",
+                                "ArticleIdList": [
+                                    "20679652"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2011 Aug;84(2):257-60",
+                                "ArticleIdList": [
+                                    "20800414"
+                                ]
+                            },
+                            {
+                                "Citation": "Oncol Nurs Forum. 2014 Jul 1;41(4):411-9",
+                                "ArticleIdList": [
+                                    "24969250"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Intern Med. 2001 Sep 10;161(16):1977-84",
+                                "ArticleIdList": [
+                                    "11525700"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Orthop Relat Res. 2018 Apr;476(4):716-722",
+                                "ArticleIdList": [
+                                    "29406450"
+                                ]
+                            },
+                            {
+                                "Citation": "Oncol Nurs Forum. 2013 Sep;40(5):508-15",
+                                "ArticleIdList": [
+                                    "23989024"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2012 Aug 17;12:261",
+                                "ArticleIdList": [
+                                    "22900589"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2007 Feb;65(2):189-96",
+                                "ArticleIdList": [
+                                    "16956742"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Ethics. 2012 Feb;38(2):77-82",
+                                "ArticleIdList": [
+                                    "21697296"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2017 Nov 23;17(1):769",
+                                "ArticleIdList": [
+                                    "29169348"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2005 Feb;56(2):139-46",
+                                "ArticleIdList": [
+                                    "15653242"
+                                ]
+                            },
+                            {
+                                "Citation": "Saudi Med J. 2015 Dec;36(12):1472-6",
+                                "ArticleIdList": [
+                                    "26620990"
+                                ]
+                            },
+                            {
+                                "Citation": "Scand J Caring Sci. 2012 Mar;26(1):61-9",
+                                "ArticleIdList": [
+                                    "21718340"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2006 Jan;60(1):7-12",
+                                "ArticleIdList": [
+                                    "16361448"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Allergy Asthma Immunol. 2001 Mar;86(3):263-71",
+                                "ArticleIdList": [
+                                    "11289322"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neuropsychiatr. 2014 Dec;26(6):372-81",
+                                "ArticleIdList": [
+                                    "25288200"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2000 Mar;38(3):335-41",
+                                "ArticleIdList": [
+                                    "10718358"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 1988;26(6):583-5",
+                                "ArticleIdList": [
+                                    "3363399"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2015 Jul 21;15:678",
+                                "ArticleIdList": [
+                                    "26194350"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Info Libr J. 2009 Jun;26(2):91-108",
+                                "ArticleIdList": [
+                                    "19490148"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2016 Aug 30;16:447",
+                                "ArticleIdList": [
+                                    "27576443"
+                                ]
+                            },
+                            {
+                                "Citation": "J Natl Med Assoc. 2008 Dec;100(12):1434-40",
+                                "ArticleIdList": [
+                                    "19110911"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 1992 Sep;45(9):941-50",
+                                "ArticleIdList": [
+                                    "1432023"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Intern Med. 2010 Aug 9;170(15):1302-7",
+                                "ArticleIdList": [
+                                    "20696951"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Commun. 2016;21(1):67-75",
+                                "ArticleIdList": [
+                                    "26313690"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Ther. 2017 Jan;33(12):2242-2256",
+                                "ArticleIdList": [
+                                    "27807816"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2015 Dec;18(6):2375-88",
+                                "ArticleIdList": [
+                                    "24813384"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2011 Jul;84(1):111-7",
+                                "ArticleIdList": [
+                                    "20817453"
+                                ]
+                            },
+                            {
+                                "Citation": "Pain Manag Nurs. 2016 Oct;17(5):322-32",
+                                "ArticleIdList": [
+                                    "27553131"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2007 Jun;66(3):361-7",
+                                "ArticleIdList": [
+                                    "17331691"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Psychol. 2008 Nov;27(6):728-36",
+                                "ArticleIdList": [
+                                    "19025268"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Oncol. 2004 Aug 1;22(15):3091-8",
+                                "ArticleIdList": [
+                                    "15284259"
+                                ]
+                            },
+                            {
+                                "Citation": "J Psychosom Res. 2017 Jan;92:63-66",
+                                "ArticleIdList": [
+                                    "26682488"
+                                ]
+                            },
+                            {
+                                "Citation": "J Cancer Educ. 2009;24(4):346-50",
+                                "ArticleIdList": [
+                                    "19838897"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Public Health. 2005 Dec;15(6):634-9",
+                                "ArticleIdList": [
+                                    "16051653"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2016 Aug;99(8):1421-6",
+                                "ArticleIdList": [
+                                    "27019992"
+                                ]
+                            },
+                            {
+                                "Citation": "Disabil Rehabil. 2010;32(19):1558-67",
+                                "ArticleIdList": [
+                                    "20590506"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 1988 Jul;26(7):657-75",
+                                "ArticleIdList": [
+                                    "3292851"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2006 Apr;15(4):273-84",
+                                "ArticleIdList": [
+                                    "15973647"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Jan 14;6(1):e009627",
+                                "ArticleIdList": [
+                                    "26769783"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Decis Making. 1997 Jul-Sep;17(3):298-306",
+                                "ArticleIdList": [
+                                    "9219190"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Fam Med. 2016 Mar;14(2):117-24",
+                                "ArticleIdList": [
+                                    "26951586"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2007 Sep;10(3):248-58",
+                                "ArticleIdList": [
+                                    "17678513"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Care Poor Underserved. 2010 Aug;21(3):796-808",
+                                "ArticleIdList": [
+                                    "20693726"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Educ. 2017 Feb 2;17(1):32",
+                                "ArticleIdList": [
+                                    "28148254"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Mark Q. 2003;20(3):3-19",
+                                "ArticleIdList": [
+                                    "15017999"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Ethics. 2017 Feb 2;18(1):6",
+                                "ArticleIdList": [
+                                    "28148256"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Equity Health. 2012 Mar 12;11:12",
+                                "ArticleIdList": [
+                                    "22409902"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Kidney J. 2016 Apr;9(2):252-9",
+                                "ArticleIdList": [
+                                    "26985377"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2017 Aug;20(4):760-770",
+                                "ArticleIdList": [
+                                    "27868327"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Nurs. 2012 Jul;21(13-14):1847-58",
+                                "ArticleIdList": [
+                                    "22672453"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2015 Oct;53(10):863-71",
+                                "ArticleIdList": [
+                                    "26340663"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Anaesthesiol Scand. 2006 Sep;50(8):1019-26",
+                                "ArticleIdList": [
+                                    "16923100"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2003 Sep;57(5):791-806",
+                                "ArticleIdList": [
+                                    "12850107"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Serv Res. 2011 Apr;46(2):457-78",
+                                "ArticleIdList": [
+                                    "21091470"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "02",
+                        "Day": "27"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "07",
+                        "Day": "30"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "08",
+                        "Day": "01"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31398772",
+                    "10.1111/hex.12956",
+                    "PMC6803421"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31398772)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831398772%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831398772%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070260530"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070260530?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070260530&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070260530&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070260530",
+                        "dc:identifier": "SCOPUS_ID:85070260530",
+                        "eid": "2-s2.0-85070260530",
+                        "dc:title": "Socio-economic differences in patient participation behaviours in doctor\u2013patient interactions\u2014A systematic mapping review of the literature",
+                        "dc:creator": "Allen S.",
+                        "prism:publicationName": "Health Expectations",
+                        "prism:issn": "13696513",
+                        "prism:eIssn": "13697625",
+                        "prism:volume": "22",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": "1173-1184",
+                        "prism:coverDate": "2019-10-01",
+                        "prism:coverDisplayDate": "1 October 2019",
+                        "prism:doi": "10.1111/hex.12956",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31398772",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20885",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "SW4XVYC8.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31398772"
+            }
+        },
+        "title": "Socio-economic differences in patient participation behaviours in doctor-patient interactions-A systematic mapping review of the literature.",
+        "full_author_list": [
+            {
+                "clean": "Allen S",
+                "family": "Allen",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rogers S",
+                "family": "Rogers",
+                "given": "Simon N",
+                "affiliation": {
+                    "name": "Evidence-Based Practice Research Centre (EPRC), Faculty of Health and Social Care, Edge Hill University, Ormskirk, UK."
+                }
+            },
+            {
+                "clean": "Harris R",
+                "family": "Harris",
+                "given": "Rebecca V",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Allen S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Participation",
+                    "major": "Y"
+                },
+                {
+                    "term": "Physician-Patient Relations",
+                    "major": "Y"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Health Expect",
+            "volume": "22",
+            "issue": "5"
+        },
+        "abstract": "['The degree to which patients participate in their care can have a positive impact on health outcomes. This review aimed to map the current literature on patient participation behaviours in interactions with physicians and the extent to which differences in these behaviours can be explained by socio-economic status (SES).', 'Four electronic databases were searched from 1980 onwards using key words related to socio-economic status and patient participation behaviours.', 'Titles, abstracts and full texts were screened by two reviewers, with the second reviewer screening 20% of all entries.', 'Data on year of publication, country, patient population, setting, patient participation behaviour studied, and SES measure used were extracted.', \"Forty-nine studies were included in the review. Most studies were conducted in the United States, and the most commonly studied patient participation behaviour was involvement in decision making. Most studies measured SES using education as an indicator, with very few studies using occupation as a measure. Many studies did not report on participants' medical condition or study setting. Patient participation in their health-care appointment increased with increasing SES in 24 studies, although in 27 studies no significant association was found.\", \"Current literature was found to be mainly US-centric. Many studies did not specify participants' medical condition or in what setting the study was undertaken. More studies are needed on less commonly studied patient participation behaviours. It would be helpful for further studies to also include a wider range of SES indicators.\"]",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, Institute of Population Health Sciences, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

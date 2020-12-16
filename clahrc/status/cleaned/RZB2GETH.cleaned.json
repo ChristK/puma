@@ -1,0 +1,554 @@
+{
+    "IDs": {
+        "zotero": "RZB2GETH",
+        "DOI": "10.1177/1356389019850844",
+        "DOI_filename": "742cee95248143b896b61faa8ab4b029",
+        "PMID": "",
+        "scopus": "2-s2.0-85067835729",
+        "hash": "5134f1a94732c9a3f5cc73626e443d9d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "RZB2GETH",
+            "version": 94,
+            "itemType": "journalArticle",
+            "title": "Across five levels: The evidence of impact model",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Lesley M.",
+                    "lastName": "Harper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Maden"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rumona",
+                    "lastName": "Dickson"
+                }
+            ],
+            "abstractNote": "This article describes The Evidence of Impact Model that was recently developed to support the analysis of short- to medium-term impact arising from Participatory Action Research and Developmental Evaluation approaches that were used within the Evidence for Change initiative. Evidence for Change was a team capacity building initiative that supported rapid, bottom-up, evidence informed change in health and social care environments. To explain the need for The Evidence of Impact Model and outline how it was developed, a variety of similar models are explored and the challenges of capturing impact arising from Evidence for Change are discussed. The resulting new model based on the existing concept of micro, meso and macro levels of impact is outlined in detail with supporting qualitative evidence. The authors conclude that The Evidence of Impact Model provides an effective lens for exploring impact at a variety of levels within an emerging and complex environment.",
+            "publicationTitle": "Evaluation",
+            "volume": "26",
+            "issue": "3",
+            "pages": "350-366",
+            "date": "07/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Evaluation",
+            "language": "en",
+            "DOI": "10.1177/1356389019850844",
+            "ISSN": "1356-3890, 1461-7153",
+            "shortTitle": "Across five levels",
+            "url": "http://journals.sagepub.com/doi/10.1177/1356389019850844",
+            "accessDate": "2020-09-10T17:10:11Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:11Z",
+            "dateModified": "2020-09-10T17:10:11Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        4
+                    ]
+                ],
+                "date-time": "2020-08-04T11:48:32Z",
+                "timestamp": 1596541712152
+            },
+            "reference-count": 25,
+            "publisher": "SAGE Publications",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                6,
+                                4
+                            ]
+                        ],
+                        "date-time": "2019-06-04T00:00:00Z",
+                        "timestamp": 1559606400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100009250",
+                    "name": "National Institute for Social Care and Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "name": "University of Liverpool Institute of Population Health Sciences",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "journals.sagepub.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        7
+                    ]
+                ]
+            },
+            "abstract": "<jats:p> This article describes The Evidence of Impact Model that was recently developed to support the analysis of short- to medium-term impact arising from Participatory Action Research and Developmental Evaluation approaches that were used within the Evidence for Change initiative. Evidence for Change was a team capacity building initiative that supported rapid, bottom-up, evidence informed change in health and social care environments. To explain the need for The Evidence of Impact Model and outline how it was developed, a variety of similar models are explored and the challenges of capturing impact arising from Evidence for Change are discussed. The resulting new model based on the existing concept of micro, meso and macro levels of impact is outlined in detail with supporting qualitative evidence. The authors conclude that The Evidence of Impact Model provides an effective lens for exploring impact at a variety of levels within an emerging and complex environment. </jats:p>",
+            "DOI": "10.1177/1356389019850844",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        4
+                    ]
+                ],
+                "date-time": "2019-06-04T08:44:46Z",
+                "timestamp": 1559637886000
+            },
+            "page": "350-366",
+            "update-policy": "http://dx.doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Across five levels: The evidence of impact model",
+            "prefix": "10.1177",
+            "volume": "26",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1065-5732",
+                    "authenticated-orcid": false,
+                    "given": "Lesley M.",
+                    "family": "Harper",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Michelle",
+                    "family": "Maden",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rumona",
+                    "family": "Dickson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "179",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        4
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "bibr1-1356389019850844",
+                    "DOI": "10.1186/s12961-018-0281-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr2-1356389019850844",
+                    "author": "Balogun J",
+                    "year": "2004",
+                    "edition": "2",
+                    "volume-title": "Exploring Strategic Change"
+                },
+                {
+                    "key": "bibr3-1356389019850844",
+                    "author": "Batalden M",
+                    "year": "2015",
+                    "journal-title": "British Medical Journal Quality & Safety Online"
+                },
+                {
+                    "key": "bibr4-1356389019850844",
+                    "author": "Booth A",
+                    "volume": "24",
+                    "year": "2015",
+                    "journal-title": "British Medical Journal Quality & Safety"
+                },
+                {
+                    "key": "bibr5-1356389019850844",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr6-1356389019850844",
+                    "author": "Bray JN",
+                    "year": "2000",
+                    "volume-title": "Collaborative Inquiry in Practice, Action, Reflection, and Making Meaning"
+                },
+                {
+                    "key": "bibr7-1356389019850844",
+                    "DOI": "10.1177/014107689809135S02",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr8-1356389019850844",
+                    "author": "Cook T",
+                    "volume": "13",
+                    "first-page": "1",
+                    "year": "2012",
+                    "journal-title": "Forum: Qualitative Social Research"
+                },
+                {
+                    "key": "bibr9-1356389019850844",
+                    "DOI": "10.1186/1471-2296-6-44",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr10-1356389019850844",
+                    "author": "De Koning K",
+                    "year": "1996",
+                    "volume-title": "Participatory research in health, issues and experiences"
+                },
+                {
+                    "key": "bibr12-1356389019850844",
+                    "DOI": "10.3152/095820211X13118583635756",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr13-1356389019850844",
+                    "author": "Egan G",
+                    "year": "1998",
+                    "edition": "6",
+                    "volume-title": "The Skilled Helper: A Problem-management Approach to Helping"
+                },
+                {
+                    "key": "bibr14-1356389019850844",
+                    "DOI": "10.1177/1524839911412596",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr15-1356389019850844",
+                    "DOI": "10.1186/1471-2288-13-117",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr16-1356389019850844",
+                    "DOI": "10.1177/1356389019840058",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr18-1356389019850844",
+                    "DOI": "10.1002/hrdq.3920050408",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr19-1356389019850844",
+                    "author": "Kirkpatrick D",
+                    "volume": "50",
+                    "issue": "1",
+                    "year": "1996",
+                    "journal-title": "Training and Development"
+                },
+                {
+                    "key": "bibr20-1356389019850844",
+                    "author": "Kirkpatrick DL",
+                    "year": "2005",
+                    "volume-title": "Transferring learning to behavior: Using the four levels to improve performance"
+                },
+                {
+                    "key": "bibr21-1356389019850844",
+                    "author": "Kolb DA",
+                    "year": "1984",
+                    "volume-title": "Experiential Learning, Experience as the Source of Learning and Development"
+                },
+                {
+                    "key": "bibr25-1356389019850844",
+                    "author": "Patton MQ",
+                    "year": "2011",
+                    "volume-title": "Developmental Evaluation Applying Complexity Concepts to Enhance Innovation and Use"
+                },
+                {
+                    "key": "bibr26-1356389019850844",
+                    "DOI": "10.1177/1098214015626295",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr27-1356389019850844",
+                    "DOI": "10.4135/9781848607934",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr28-1356389019850844",
+                    "author": "Ritchie J",
+                    "year": "2014",
+                    "edition": "2",
+                    "volume-title": "Qualitative Research Practice: A Guide for Social Science Students & Researchers"
+                },
+                {
+                    "key": "bibr30-1356389019850844",
+                    "author": "Saunders M",
+                    "year": "2011",
+                    "volume-title": "Reconceptualising Evaluation In Higher Education: The Practice Turn"
+                },
+                {
+                    "key": "bibr32-1356389019850844",
+                    "DOI": "10.3310/hta5230",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Evaluation",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/1356389019850844",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/1356389019850844",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/1356389019850844",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        4
+                    ]
+                ],
+                "date-time": "2020-08-04T11:02:57Z",
+                "timestamp": 1596538977000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        4
+                    ]
+                ]
+            },
+            "references-count": 25,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1177/1356389019850844"
+            ],
+            "URL": "http://dx.doi.org/10.1177/1356389019850844",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1356-3890",
+                "1461-7153"
+            ],
+            "subject": [
+                "Development",
+                "Sociology and Political Science"
+            ],
+            "container-title-short": "Evaluation"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1177/1356389019850844)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1177%2F1356389019850844%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1177%2F1356389019850844%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067835729"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067835729?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067835729&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067835729&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067835729",
+                        "dc:identifier": "SCOPUS_ID:85067835729",
+                        "eid": "2-s2.0-85067835729",
+                        "dc:title": "Across five levels: The evidence of impact model",
+                        "dc:creator": "Harper L.M.",
+                        "prism:publicationName": "Evaluation",
+                        "prism:issn": "13563890",
+                        "prism:eIssn": "14617153",
+                        "prism:volume": "26",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "350-366",
+                        "prism:coverDate": "2020-07-01",
+                        "prism:coverDisplayDate": "1 July 2020",
+                        "prism:doi": "10.1177/1356389019850844",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "70397",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "RZB2GETH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Across five levels: The evidence of impact model",
+        "full_author_list": [
+            {
+                "clean": "Harper L",
+                "family": "Harper",
+                "given": "Lesley M.",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Maden M",
+                "family": "Maden",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Dickson R",
+                "family": "Dickson",
+                "given": "Rumona",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            }
+        ],
+        "first_author": "Harper L",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Evaluation",
+            "volume": "26",
+            "issue": "3"
+        },
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, UK",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

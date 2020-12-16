@@ -1,0 +1,1477 @@
+{
+    "IDs": {
+        "zotero": "HXRUNTQE",
+        "DOI": "10.1371/journal.pone.0217342",
+        "DOI_filename": "2b832a5f05409096bee3cb864a6d353e",
+        "PMID": "31125387",
+        "scopus": "2-s2.0-85066939754",
+        "hash": "51d77f8d48754527574279933d1d14b7"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "HXRUNTQE",
+            "version": 152,
+            "itemType": "journalArticle",
+            "title": "How does perinatal maternal mental health explain early social inequalities in child behavioural and emotional problems? Findings from the Wirral Child Health and Development Study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Callum",
+                    "lastName": "Rutherford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Helen",
+                    "lastName": "Sharp"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jonathan",
+                    "lastName": "Hill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Pickles"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David",
+                    "lastName": "Taylor-Robinson"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Hudson P.",
+                    "lastName": "Santos"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "PLOS ONE",
+            "volume": "14",
+            "issue": "5",
+            "pages": "e0217342",
+            "date": "2019-5-24",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLoS ONE",
+            "language": "en",
+            "DOI": "10.1371/journal.pone.0217342",
+            "ISSN": "1932-6203",
+            "shortTitle": "How does perinatal maternal mental health explain early social inequalities in child behavioural and emotional problems?",
+            "url": "https://dx.plos.org/10.1371/journal.pone.0217342",
+            "accessDate": "2020-09-10T17:08:44Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31125387",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:44Z",
+            "dateModified": "2020-09-15T12:57:23Z",
+            "pmid": "31125387"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        9
+                    ]
+                ],
+                "date-time": "2020-05-09T16:12:25Z",
+                "timestamp": 1589040745678
+            },
+            "reference-count": 48,
+            "publisher": "Public Library of Science (PLoS)",
+            "issue": "5",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                5,
+                                24
+                            ]
+                        ],
+                        "date-time": "2019-05-24T00:00:00Z",
+                        "timestamp": 1558656000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.plosone.org"
+                ],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.1371/journal.pone.0217342",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        24
+                    ]
+                ],
+                "date-time": "2019-05-24T17:30:36Z",
+                "timestamp": 1558719036000
+            },
+            "page": "e0217342",
+            "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "How does perinatal maternal mental health explain early social inequalities in child behavioural and emotional problems? Findings from the Wirral Child Health and Development Study",
+            "prefix": "10.1371",
+            "volume": "14",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-3909-1934",
+                    "authenticated-orcid": true,
+                    "given": "Callum",
+                    "family": "Rutherford",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Helen",
+                    "family": "Sharp",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jonathan",
+                    "family": "Hill",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Pickles",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "David",
+                    "family": "Taylor-Robinson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "340",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "ref1",
+                    "author": "M Marmot",
+                    "year": "2010",
+                    "article-title": "Fair Society, Healthy Lives",
+                    "journal-title": "Fair Society, Healthy Lives"
+                },
+                {
+                    "key": "ref2",
+                    "first-page": "1",
+                    "article-title": "Mental Health of Children and Young People in Great Britain, 2004",
+                    "volume": "i-xxviii",
+                    "author": "H Green",
+                    "year": "2005",
+                    "journal-title": "Natl Stat"
+                },
+                {
+                    "key": "ref3",
+                    "unstructured": "Patalay P, Fitzsimons E. Mental ill-health among children of the new century: trends across childhood with a focus on age 14. Cent Longituidnal Stuides London. 2017;"
+                },
+                {
+                    "key": "ref4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "24",
+                    "DOI": "10.1016/j.socscimed.2013.04.026",
+                    "article-title": "Socioeconomic inequalities and mental health problems in children and adolescents: A systematic review",
+                    "volume": "90",
+                    "author": "F Reiss",
+                    "year": "2013",
+                    "journal-title": "Soc Sci Med. Elsevier"
+                },
+                {
+                    "key": "ref5",
+                    "author": "A Pearce",
+                    "year": "2019",
+                    "article-title": "Pathways to inequalities in child health",
+                    "journal-title": "Arch Dis Child"
+                },
+                {
+                    "key": "ref6",
+                    "first-page": "30011",
+                    "article-title": "The effect of a transition into poverty on child and maternal mental health: a longitudinal analysis of the UK Millennium Cohort Study",
+                    "volume": "2667",
+                    "author": "S Wickham",
+                    "year": "2017",
+                    "journal-title": "Lancet Public Heal"
+                },
+                {
+                    "key": "ref7",
+                    "first-page": "1",
+                    "article-title": "Primary schools and the amplification of social differences in child mental health : a population-based cohort study",
+                    "volume": "0",
+                    "author": "L Marryat",
+                    "year": "2017",
+                    "journal-title": "J Epidemiol Community Heal"
+                },
+                {
+                    "key": "ref8",
+                    "author": "A Carneiro",
+                    "year": "2016",
+                    "article-title": "Risk Factors for Internalizing and Externalizing Problems in the Preschool Years: Systematic Literature Review Based on the Child Behavior Checklist 1\u00bd\u20135",
+                    "journal-title": "J Child Fam Stud. Springer US"
+                },
+                {
+                    "key": "ref9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1007/s10567-010-0080-1",
+                    "article-title": "Maternal Depression and Child Psychopathology: A Meta-Analytic Review",
+                    "volume": "14",
+                    "author": "SH Goodman",
+                    "year": "2011",
+                    "journal-title": "Clin Child Fam Psychol Rev"
+                },
+                {
+                    "key": "ref10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "167",
+                    "DOI": "10.1016/j.wombi.2013.02.006",
+                    "article-title": "Maternal mental health in Australia and New Zealand: A review of longitudinal studies",
+                    "volume": "26",
+                    "author": "V Schmied",
+                    "year": "2013",
+                    "journal-title": "Women and Birth. Australian College of Midwives"
+                },
+                {
+                    "key": "ref11",
+                    "author": "NI Gavin",
+                    "year": "2015",
+                    "article-title": "Is Population-Based Identification of Perinatal Depression and Anxiety Desirable?",
+                    "journal-title": "Identifying Perinatal Depression and Anxiety"
+                },
+                {
+                    "key": "ref12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "5",
+                    "DOI": "10.1016/j.ajog.2009.09.007",
+                    "article-title": "Risk factors for depressive symptoms during pregnancy: a systematic review",
+                    "volume": "202",
+                    "author": "CA Lancaster",
+                    "year": "2010",
+                    "journal-title": "Am J Obstet Gynecol. Elsevier Inc"
+                },
+                {
+                    "key": "ref13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "460",
+                    "DOI": "10.1016/j.jaac.2011.02.001",
+                    "article-title": "Maternal postnatal depression and the development of depression in offspring Up to 16 years of age",
+                    "volume": "50",
+                    "author": "L Murray",
+                    "year": "2011",
+                    "journal-title": "J Am Acad Child Adolesc Psychiatry. Elsevier Inc"
+                },
+                {
+                    "key": "ref14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "253",
+                    "DOI": "10.1017/S0033291796004564",
+                    "article-title": "Editorial: Postpartum depression and child development",
+                    "volume": "27",
+                    "author": "L Murray",
+                    "year": "2002",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "ref15",
+                    "author": "F Diderichsen",
+                    "first-page": "268",
+                    "year": "2018",
+                    "article-title": "Differential vulnerability and susceptibility: how to make use of recent development in our understanding of mediation and interaction to tackle health inequalities",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "key": "ref16",
+                    "author": "H Sharp",
+                    "volume": "7",
+                    "year": "2012",
+                    "article-title": "Frequency of Infant Stroking Reported by Mothers Moderates the Effect of Prenatal Depression on Infant Behavioural and Physiological Outcomes",
+                    "journal-title": "PLoS One",
+                    "DOI": "10.1371/journal.pone.0045446",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "ref17",
+                    "unstructured": "Noble M, Wright G, Dibben C, Smith G, McLennan D, Anttila C, et al. The English Indices of Deprivation 2004 (revised) Report to the Office of the Deputy Priminister. London: Neighbourhood Revewal Unit [Internet]. 2004. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://webarchive.nationalarchives.gov.uk/20100410180038/http://www.communities.gov.uk/archived/publications/communities/indicesdeprivation\" xlink:type=\"simple\">http://webarchive.nationalarchives.gov.uk/20100410180038/http://www.communities.gov.uk/archived/publications/communities/indicesdeprivation</ext-link>"
+                },
+                {
+                    "key": "ref18",
+                    "unstructured": "AchAchenbach, T. M. (1991). Manual for the child behavior checklist/4-18 and 1991 profile. Burlington VT. enbach TM. Manual for the child behavior checklist/4-18 and 1991 profile. Burlingt VT. 1991;"
+                },
+                {
+                    "key": "ref19",
+                    "first-page": "1215",
+                    "article-title": "Preschool psychopathology reported by parents in 23 societies: Testing the seven-syndrome model of the child behavior checklist for ages 1.55",
+                    "volume": "49",
+                    "author": "MY Ivanova",
+                    "year": "2010",
+                    "journal-title": "J Am Acad Child Adolesc Psychiatry. Elsevier Inc"
+                },
+                {
+                    "key": "ref20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "782",
+                    "DOI": "10.1192/bjp.150.6.782",
+                    "article-title": "Detection of postnatal depression: Development of the 10-item Edinburgh Postnatal Depression Scale",
+                    "volume": "150",
+                    "author": "JL Cox",
+                    "year": "1987",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "key": "ref21",
+                    "author": "C Alvarado-Esquivel",
+                    "volume": "8",
+                    "year": "2016",
+                    "article-title": "Detection of mental disorders other than depression with the Edinburgh Postnatal Depression Scale in a sample of pregnant women in northern Mexico",
+                    "journal-title": "Ment Illn"
+                },
+                {
+                    "key": "ref22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "580",
+                    "DOI": "10.1136/bmj.38723.660637.AE",
+                    "article-title": "Does IQ explain socioeconomic inequalities in health? Evidence from a population based cohort study in the west of Scotland",
+                    "volume": "332",
+                    "author": "GD Batty",
+                    "year": "2006",
+                    "journal-title": "Br Med J"
+                },
+                {
+                    "key": "ref23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "115",
+                    "DOI": "10.1017/S0047279403007220",
+                    "article-title": "Tackling Inequalities in Health in England: Remedying Health Disadvantages, Narrowing Health Gaps or Reducing Health Gradients?",
+                    "volume": "33",
+                    "author": "H Graham",
+                    "year": "2004",
+                    "journal-title": "J Soc Policy"
+                },
+                {
+                    "key": "ref24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "818",
+                    "DOI": "10.1183/13993003.01117-2015",
+                    "article-title": "Social inequalities in wheezing in children: Findings from the UK Millennium Cohort Study",
+                    "volume": "47",
+                    "author": "DC Taylor-Robinson",
+                    "year": "2016",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "key": "ref25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1511",
+                    "DOI": "10.1093/ije/dyt127",
+                    "article-title": "Mediation analysis in epidemiology: Methods, interpretation and bias",
+                    "volume": "42",
+                    "author": "L Richiardi",
+                    "year": "2013",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "key": "ref26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "287",
+                    "DOI": "10.1111/1552-6909.12038",
+                    "article-title": "Nurse home visits improve maternal-infant interaction and decrease severity of postpartum depression",
+                    "volume": "42",
+                    "author": "J Horowitz",
+                    "year": "2013",
+                    "journal-title": "J Obs Gynecol Neonatal Nurs"
+                },
+                {
+                    "key": "ref27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "21",
+                    "DOI": "10.1093/bmb/ldm001",
+                    "article-title": "Measuring socioeconomic position in health research",
+                    "volume": "81\u201382",
+                    "author": "B Galobardes",
+                    "year": "2007",
+                    "journal-title": "Br Med Bull"
+                },
+                {
+                    "key": "ref28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "901",
+                    "DOI": "10.1016/j.cpr.2013.07.006",
+                    "article-title": "Effectiveness of the Incredible Years parent training to modify disruptive and prosocial child behavior: A meta-analytic review",
+                    "volume": "33",
+                    "author": "ATA Menting",
+                    "year": "2013",
+                    "journal-title": "Clin Psychol Rev. Elsevier Ltd"
+                },
+                {
+                    "key": "ref29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1118",
+                    "DOI": "10.1111/j.1469-7610.2008.01955.x",
+                    "article-title": "Pre- and postnatal influences on preschool mental health: A large-scale cohort study",
+                    "volume": "49",
+                    "author": "M Robinson",
+                    "year": "2008",
+                    "journal-title": "J Child Psychol Psychiatry Allied Discip"
+                },
+                {
+                    "key": "ref30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1557",
+                    "DOI": "10.1007/s00127-011-0462-9",
+                    "article-title": "Socioeconomic status and children\u2019s mental health: Results: from the Bergen Child Study",
+                    "volume": "47",
+                    "author": "T B\u00f8e",
+                    "year": "2012",
+                    "journal-title": "Soc Psychiatry Psychiatr Epidemiol"
+                },
+                {
+                    "key": "ref31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1246",
+                    "DOI": "10.1001/archpsyc.63.11.1246",
+                    "article-title": "Exploring risk factors for the emergence of children\u2019s mental health problems",
+                    "volume": "63",
+                    "author": "MJ Essex",
+                    "year": "2006",
+                    "journal-title": "Arch Gen Psychiatry"
+                },
+                {
+                    "key": "ref32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1332/030557312X645810",
+                    "article-title": "Persistent poverty and children\u2019s development in the early years of childhood",
+                    "volume": "41",
+                    "author": "J Holmes",
+                    "year": "2013",
+                    "journal-title": "Policy Polit"
+                },
+                {
+                    "key": "ref33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1083",
+                    "DOI": "10.1007/s00127-016-1252-1",
+                    "article-title": "Poverty and behavior problems trajectories from 1.5 to 8??years of age: Is the gap widening between poor and non-poor children?",
+                    "volume": "51",
+                    "author": "JRSE Mazza",
+                    "year": "2016",
+                    "journal-title": "Soc Psychiatry Psychiatr Epidemiol"
+                },
+                {
+                    "key": "ref34",
+                    "first-page": "207",
+                    "article-title": "Trajectories of Poverty and Children\u2019s Mental Health",
+                    "volume": "37",
+                    "author": "JD Mcleod",
+                    "year": "1996",
+                    "journal-title": "Trajectories of Poverty and Children\u2019s Mental Health"
+                },
+                {
+                    "key": "ref35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "231",
+                    "DOI": "10.1007/s00127-008-0424-z",
+                    "article-title": "Socioeconomic position and mental health problems in pre- and early-adolescents: The trails study",
+                    "volume": "44",
+                    "author": "K Amone-P\u2019Olak",
+                    "year": "2009",
+                    "journal-title": "Soc Psychiatry Psychiatr Epidemiol"
+                },
+                {
+                    "key": "ref36",
+                    "author": "CN Velez",
+                    "first-page": "861",
+                    "year": "1989",
+                    "article-title": "Longitudinal Analysis of Selected Risk Factors for Child Psychopathology",
+                    "journal-title": "J AM Acad Child Adolesc Psychiatry",
+                    "DOI": "10.1097/00004583-198911000-00009",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "ref37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "227",
+                    "DOI": "10.1017/S174413311100034X",
+                    "article-title": "Socioeconomic status and child health: what is the role of health care, health conditions, injuries and maternal health?",
+                    "volume": "7",
+                    "author": "S Allin",
+                    "year": "2012",
+                    "journal-title": "Heal Econ Policy Law"
+                },
+                {
+                    "key": "ref38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1159",
+                    "DOI": "10.1037/a0020659",
+                    "article-title": "Trajectories of pure and co-occurring internalizing and externalizing problems from age 2 to age 12: findings from the National Institute of Child Health and Human Development Study of Early Child Care",
+                    "volume": "46",
+                    "author": "Henrich CC Fanti K a",
+                    "year": "2010",
+                    "journal-title": "Dev Psychol"
+                },
+                {
+                    "key": "ref39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "783",
+                    "DOI": "10.1111/j.1468-4446.2008.00219.x",
+                    "article-title": "Economic deprivation, maternal depression, parenting and children\u2019s cognitive and emotional development in early childhood",
+                    "volume": "59",
+                    "author": "KE Kiernan",
+                    "year": "2008",
+                    "journal-title": "Br J Sociol"
+                },
+                {
+                    "key": "ref40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "359",
+                    "DOI": "10.1177/002214650504600404",
+                    "article-title": "Household Income Histories and Child Mental Health Trajectories*",
+                    "volume": "46",
+                    "author": "L Strohschein",
+                    "year": "2005",
+                    "journal-title": "J Health Soc Behav"
+                },
+                {
+                    "key": "ref41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "DOI": "10.1037/cfp0000037",
+                    "article-title": "Longitudinal contribution of maternal and paternal depression to toddler behaviors: Interparental conflict and later depression as mediators",
+                    "volume": "4",
+                    "author": "SD Fisher",
+                    "year": "2013",
+                    "journal-title": "Couple Fam Psychol Res Pract"
+                },
+                {
+                    "key": "ref42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "153",
+                    "DOI": "10.1007/s10578-011-0255-0",
+                    "article-title": "Predicting internalizing and externalizing problems at five years by child and parental factors in infancy and toddlerhood",
+                    "volume": "43",
+                    "author": "M M\u00e4ntymaa",
+                    "year": "2012",
+                    "journal-title": "Child Psychiatry Hum Dev"
+                },
+                {
+                    "key": "ref43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "543",
+                    "DOI": "10.1111/j.1469-7610.1992.tb00890.x",
+                    "article-title": "The impact of postnatal depression on infant development",
+                    "volume": "33",
+                    "author": "L Murray",
+                    "year": "1992",
+                    "journal-title": "J child Psychol psychiatry"
+                },
+                {
+                    "key": "ref44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "k2608",
+                    "DOI": "10.1136/bmj.k2608",
+                    "article-title": "Adolescent mental health in crisis",
+                    "volume": "2608",
+                    "author": "D Gunnell",
+                    "year": "2018",
+                    "journal-title": "Bmj"
+                },
+                {
+                    "key": "ref45",
+                    "author": "A Bauer",
+                    "year": "2014",
+                    "article-title": "The costs of perinatal mental health problems",
+                    "journal-title": "Cent Ment Heal"
+                },
+                {
+                    "key": "ref46",
+                    "first-page": "140",
+                    "article-title": "Screening Efficiency of the Child Behavior Checklist and Strengths and Difficulties Questionnaire: A Systematic Review",
+                    "volume": "13",
+                    "author": "EM Warnick",
+                    "year": "2008",
+                    "journal-title": "Screening Efficiency of the Child Behavior Checklist and Strengths and Difficulties Questionnaire: A Systematic Review"
+                },
+                {
+                    "key": "ref47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "55",
+                    "DOI": "10.1177/0165025406062124",
+                    "article-title": "Environmental risk and young children\u2019s cognitive and behavioral development",
+                    "volume": "30",
+                    "author": "A Pike",
+                    "year": "2006",
+                    "journal-title": "Int J Behav Dev"
+                },
+                {
+                    "key": "ref48",
+                    "unstructured": "Society TC. The Good Childhood Report. 2015; <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.childrenssociety.org.uk/sites/default/files/tcs/good_childhood_report_2012_final_0.pdf\" xlink:type=\"simple\">http://www.childrenssociety.org.uk/sites/default/files/tcs/good_childhood_report_2012_final_0.pdf</ext-link>"
+                }
+            ],
+            "container-title": "PLOS ONE",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://dx.plos.org/10.1371/journal.pone.0217342",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        9
+                    ]
+                ],
+                "date-time": "2020-05-09T15:37:43Z",
+                "timestamp": 1589038663000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "given": "Hudson P.",
+                    "family": "Santos",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "references-count": 48,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            5,
+                            24
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "URL": "http://dx.doi.org/10.1371/journal.pone.0217342",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1932-6203"
+            ],
+            "subject": [
+                "General Biochemistry, Genetics and Molecular Biology",
+                "General Agricultural and Biological Sciences",
+                "General Medicine"
+            ],
+            "container-title-short": "PLoS ONE"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31125387",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "01",
+                    "Day": "29"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "09"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1371/journal.pone.0217342"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "05",
+                            "Day": "24"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1932-6203",
+                        "JournalIssue": {
+                            "Volume": "14",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2019"
+                            }
+                        },
+                        "Title": "PloS one",
+                        "ISOAbbreviation": "PLoS ONE"
+                    },
+                    "ArticleTitle": "How does perinatal maternal mental health explain early social inequalities in child behavioural and emotional problems? Findings from the Wirral Child Health and Development Study.",
+                    "Pagination": {
+                        "MedlinePgn": "e0217342"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This study aimed to assess how maternal mental health mediates the association between childhood socio-economic conditions at birth and subsequent child behavioural and emotional problem scores.",
+                            "Analysis of the Wirral Child Health and Development Study (WCHADS), a prospective epidemiological longitudinal study of the early origins of child mental health (n = 664). Household income at 20-weeks gestation, a measure of socio-economic conditions (SECs) in pregnancy, was the main exposure. The outcome measure was externalising and internalising problems, as measured by the Child Behaviour Checklist at 5 years. We assessed the association of household income with child behavioural outcomes in sequential linear models adjusting for maternal mental health in the pre- and post- natal period.",
+                            "Children of mothers in more disadvantaged households had higher scores for externalising behaviour with a difference of 3.6 points comparing the most affluent to the most disadvantaged families (the socio-economic (SEC) gap). In our regression model adjusting for baseline confounders, comparing children of mothers in the most disadvantaged households to the least disadvantaged, we found that most disadvantaged children scored 45 percentage points (95% CI 9, 93) higher for externalising problems, and 42% of this difference was explained in the fully adjusted model. Adjusting for prenatal maternal depressive symptomology attenuated the SEC gap in externalising problems by about a third, rendering the association non-significant, whilst adjusting for pre- and post-natal maternal mental health attenuated the SEC gap by 42%. There was no significant relationship between household income and internalising problems.",
+                            "Social disadvantage is associated with higher child externalising behaviour problems score at age 5, and about 40% of this was explained by maternal perinatal mental health. Policies supporting maternal mental health in pregnancy are important to address the early emergence of inequalities in child mental health."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, Farr Institute, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-3909-1934"
+                            ],
+                            "LastName": "Rutherford",
+                            "ForeName": "Callum",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychological Sciences, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sharp",
+                            "ForeName": "Helen",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Psychology & Clinical Language Sciences, University of Reading, Reading, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hill",
+                            "ForeName": "Jonathan",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Biostatistics Department, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pickles",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, Farr Institute, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Taylor-Robinson",
+                            "ForeName": "David",
+                            "Initials": "D"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "G0900654",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "G0400577",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/P008577/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "PLoS One",
+                    "NlmUniqueID": "101285081",
+                    "ISSNLinking": "1932-6203"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Affective Symptoms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Child Behavior Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Child Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child, Preschool",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cohort Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant, Newborn",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Longitudinal Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Maternal Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "The authors have declared that no competing interests exist."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Epidemiol Community Health. 2018 Jan;72(1):27-33",
+                                "ArticleIdList": [
+                                    "29056594"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Soc Behav. 2005 Dec;46(4):359-75",
+                                "ArticleIdList": [
+                                    "16433281"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Acad Child Adolesc Psychiatry. 1989 Nov;28(6):861-4",
+                                "ArticleIdList": [
+                                    "2808256"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Acad Child Adolesc Psychiatry. 2010 Dec;49(12):1215-24",
+                                "ArticleIdList": [
+                                    "21093771"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Sociol. 2008 Dec;59(4):783-806",
+                                "ArticleIdList": [
+                                    "19035922"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2016 Mar;47(3):818-28",
+                                "ArticleIdList": [
+                                    "26677938"
+                                ]
+                            },
+                            {
+                                "Citation": "Child Psychiatry Hum Dev. 2012 Apr;43(2):153-70",
+                                "ArticleIdList": [
+                                    "21956275"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Acad Child Adolesc Psychiatry. 2011 May;50(5):460-70",
+                                "ArticleIdList": [
+                                    "21515195"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Psychol Psychiatry. 2008 Oct;49(10):1118-28",
+                                "ArticleIdList": [
+                                    "19017026"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2018 Jun 19;361:k2608",
+                                "ArticleIdList": [
+                                    "29921659"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 2019 Feb 1;48(1):268-274",
+                                "ArticleIdList": [
+                                    "30085114"
+                                ]
+                            },
+                            {
+                                "Citation": "Ment Illn. 2016 May 18;8(1):6021",
+                                "ArticleIdList": [
+                                    "27403273"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Econ Policy Law. 2012 Apr;7(2):227-42",
+                                "ArticleIdList": [
+                                    "22277158"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Psychiatry Psychiatr Epidemiol. 2016 Aug;51(8):1083-92",
+                                "ArticleIdList": [
+                                    "27324139"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Psychiatry Psychiatr Epidemiol. 2009 Mar;44(3):231-8",
+                                "ArticleIdList": [
+                                    "18714424"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Psychol Rev. 2013 Dec;33(8):901-13",
+                                "ArticleIdList": [
+                                    "23994367"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Public Health. 2017 Mar;2(3):e141-e148",
+                                "ArticleIdList": [
+                                    "29253387"
+                                ]
+                            },
+                            {
+                                "Citation": "Dev Psychol. 2010 Sep;46(5):1159-75",
+                                "ArticleIdList": [
+                                    "20822230"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Dis Child. 2019 Oct;104(10):998-1003",
+                                "ArticleIdList": [
+                                    "30798258"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Soc Behav. 1996 Sep;37(3):207-20",
+                                "ArticleIdList": [
+                                    "8898493"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Psychiatry Psychiatr Epidemiol. 2012 Oct;47(10):1557-66",
+                                "ArticleIdList": [
+                                    "22183690"
+                                ]
+                            },
+                            {
+                                "Citation": "Women Birth. 2013 Sep;26(3):167-78",
+                                "ArticleIdList": [
+                                    "23583667"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 2013 Oct;42(5):1511-9",
+                                "ArticleIdList": [
+                                    "24019424"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 1997 Mar;27(2):253-60",
+                                "ArticleIdList": [
+                                    "9089818"
+                                ]
+                            },
+                            {
+                                "Citation": "Br Med Bull. 2007;81-82:21-37",
+                                "ArticleIdList": [
+                                    "17284541"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2006 Mar 11;332(7541):580-4",
+                                "ArticleIdList": [
+                                    "16452104"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gen Psychiatry. 2006 Nov;63(11):1246-56",
+                                "ArticleIdList": [
+                                    "17088505"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2010 Jan;202(1):5-14",
+                                "ArticleIdList": [
+                                    "20096252"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Child Fam Psychol Rev. 2011 Mar;14(1):1-27",
+                                "ArticleIdList": [
+                                    "21052833"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2013 Aug;90:24-31",
+                                "ArticleIdList": [
+                                    "23746605"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 1987 Jun;150:782-6",
+                                "ArticleIdList": [
+                                    "3651732"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2012;7(10):e45446",
+                                "ArticleIdList": [
+                                    "23091594"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Psychol Psychiatry. 1992 Mar;33(3):543-61",
+                                "ArticleIdList": [
+                                    "1577898"
+                                ]
+                            },
+                            {
+                                "Citation": "J Obstet Gynecol Neonatal Nurs. 2013 May-Jun;42(3):287-300",
+                                "ArticleIdList": [
+                                    "23682696"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "25"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "05",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "1",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "31125387",
+                    "10.1371/journal.pone.0217342",
+                    "PONE-D-18-30849",
+                    "PMC6534344"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31125387)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831125387%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831125387%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066939754"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066939754?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85066939754&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85066939754&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85066939754",
+                        "dc:identifier": "SCOPUS_ID:85066939754",
+                        "eid": "2-s2.0-85066939754",
+                        "dc:title": "How does perinatal maternal mental health explain early social inequalities in child behavioural and emotional problems? Findings from the Wirral Child Health and Development Study",
+                        "dc:creator": "Rutherford C.",
+                        "prism:publicationName": "PLoS ONE",
+                        "prism:eIssn": "19326203",
+                        "prism:volume": "14",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-05-01",
+                        "prism:coverDisplayDate": "May 2019",
+                        "prism:doi": "10.1371/journal.pone.0217342",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31125387",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e0217342",
+                        "source-id": "10600153309",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "HXRUNTQE.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31125387"
+            }
+        },
+        "title": "How does perinatal maternal mental health explain early social inequalities in child behavioural and emotional problems? Findings from the Wirral Child Health and Development Study.",
+        "full_author_list": [
+            {
+                "clean": "Rutherford C",
+                "family": "Rutherford",
+                "given": "Callum",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, Farr Institute, University of Liverpool, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Sharp H",
+                "family": "Sharp",
+                "given": "Helen",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Hill J",
+                "family": "Hill",
+                "given": "Jonathan",
+                "affiliation": {
+                    "name": "School of Psychology & Clinical Language Sciences, University of Reading, Reading, United Kingdom."
+                }
+            },
+            {
+                "clean": "Pickles A",
+                "family": "Pickles",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Biostatistics Department, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+                }
+            },
+            {
+                "clean": "Taylor-Robinson D",
+                "family": "Taylor-Robinson",
+                "given": "David",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, Farr Institute, University of Liverpool, Liverpool, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Rutherford C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Affective Symptoms",
+                    "major": "N"
+                },
+                {
+                    "term": "Child Behavior Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Child Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Child, Preschool",
+                    "major": "N"
+                },
+                {
+                    "term": "Cohort Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant, Newborn",
+                    "major": "N"
+                },
+                {
+                    "term": "Longitudinal Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Maternal Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Prospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "PLoS ONE",
+            "volume": "14",
+            "issue": "5"
+        },
+        "abstract": "['This study aimed to assess how maternal mental health mediates the association between childhood socio-economic conditions at birth and subsequent child behavioural and emotional problem scores.', 'Analysis of the Wirral Child Health and Development Study (WCHADS), a prospective epidemiological longitudinal study of the early origins of child mental health (n = 664). Household income at 20-weeks gestation, a measure of socio-economic conditions (SECs) in pregnancy, was the main exposure. The outcome measure was externalising and internalising problems, as measured by the Child Behaviour Checklist at 5 years. We assessed the association of household income with child behavioural outcomes in sequential linear models adjusting for maternal mental health in the pre- and post- natal period.', 'Children of mothers in more disadvantaged households had higher scores for externalising behaviour with a difference of 3.6 points comparing the most affluent to the most disadvantaged families (the socio-economic (SEC) gap). In our regression model adjusting for baseline confounders, comparing children of mothers in the most disadvantaged households to the least disadvantaged, we found that most disadvantaged children scored 45 percentage points (95% CI 9, 93) higher for externalising problems, and 42% of this difference was explained in the fully adjusted model. Adjusting for prenatal maternal depressive symptomology attenuated the SEC gap in externalising problems by about a third, rendering the association non-significant, whilst adjusting for pre- and post-natal maternal mental health attenuated the SEC gap by 42%. There was no significant relationship between household income and internalising problems.', 'Social disadvantage is associated with higher child externalising behaviour problems score at age 5, and about 40% of this was explained by maternal perinatal mental health. Policies supporting maternal mental health in pregnancy are important to address the early emergence of inequalities in child mental health.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health and Policy, Farr Institute, University of Liverpool, Liverpool, United Kingdom.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

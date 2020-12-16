@@ -1,0 +1,878 @@
+{
+    "IDs": {
+        "zotero": "RNQIL4DR",
+        "DOI": "10.1080/13607863.2019.1603283",
+        "DOI_filename": "67161fe0539c45bef29d8f600b242972",
+        "PMID": "30990082",
+        "scopus": "2-s2.0-85064658095",
+        "hash": "1b7346eac1d11cc1f01ffcf1b60690eb"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "RNQIL4DR",
+            "version": 178,
+            "itemType": "journalArticle",
+            "title": "Exploring the abilities of performing complex daily activities in dementia: the effects of supervision on remaining independent",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sandra",
+                    "lastName": "Zwakhalen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Caroline",
+                    "lastName": "Louise Sutcliffe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hilde",
+                    "lastName": "Verbeek"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Aging & Mental Health",
+            "volume": "24",
+            "issue": "8",
+            "pages": "1288-1294",
+            "date": "2020-08-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Aging & Mental Health",
+            "language": "en",
+            "DOI": "10.1080/13607863.2019.1603283",
+            "ISSN": "1360-7863, 1364-6915",
+            "shortTitle": "Exploring the abilities of performing complex daily activities in dementia",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/13607863.2019.1603283",
+            "accessDate": "2020-09-10T17:09:11Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30990082",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:11Z",
+            "dateModified": "2020-09-15T14:21:21Z",
+            "pmid": "30990082"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        3
+                    ]
+                ],
+                "date-time": "2020-08-03T11:48:47Z",
+                "timestamp": 1596455327990
+            },
+            "reference-count": 49,
+            "publisher": "Informa UK Limited",
+            "issue": "8",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100010790",
+                    "name": "Erasmus+",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/13607863.2019.1603283",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        16
+                    ]
+                ],
+                "date-time": "2019-04-16T10:49:26Z",
+                "timestamp": 1555411766000
+            },
+            "page": "1288-1294",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Exploring the abilities of performing complex daily activities in dementia: the effects of supervision on remaining independent",
+            "prefix": "10.1080",
+            "volume": "24",
+            "author": [
+                {
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, United Kingdom of Great Britain and Northern Ireland;"
+                        },
+                        {
+                            "name": "NIHR CLAHRC NWC, Liverpool, United Kingdom of Great Britain and, Northern Ireland;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sandra",
+                    "family": "Zwakhalen",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "CAPHRI School for Public Health and Primary Care, Maastricht University, Maastricht, Netherlands;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Caroline",
+                    "family": "Louise Sutcliffe",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Personal Social Services Research Unit, University of Manchester, Manchester, United Kingdom of Great Britain and Northern Ireland"
+                        }
+                    ]
+                },
+                {
+                    "given": "Hilde",
+                    "family": "Verbeek",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "CAPHRI School for Public Health and Primary Care, Maastricht University, Maastricht, Netherlands;"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        16
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "author": "Alzheimer\u2019s Disease International",
+                    "year": "2016",
+                    "volume-title": "World Alzheimer Report 2016: Improving healthcare for people living with dementia"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1111/jgs.14164",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.1371/journal.pmed.1002500",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1017/S1041610201007499",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1080/09602011.2017.1337039",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1017/S1041610216000466",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT1111",
+                    "unstructured": "Beerens, H. C., Zwakhalen, S. M., Verbeek, H., Ruwaard, D., Ambergen, A. W., Leino-Kilpi, H. \u2026 & B\u00f6kberg, C. (2015). Change in quality of life of people with dementia recently admitted to long-term care facilities. Journal of Advanced Nursing, 71(6), 1435\u20131447.",
+                    "DOI": "10.1111/jan.12570",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.3390/healthcare3030503",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "author": "de Werd M. M.",
+                    "volume": "8",
+                    "first-page": "1177",
+                    "year": "2013",
+                    "journal-title": "Clinical Interventions in Aging"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1016/j.jamda.2015.05.016",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1016/j.gerinurse.2016.11.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1080/13607863.2016.1254596",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1016/j.dadm.2016.06.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1080/13607863.2014.996734",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1159/000487632",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT2222",
+                    "unstructured": "Giebel, C. M., Sutcliffe, C., Stolt, M., Karlsson, S., Renom-Guiteras, A., Soto, M., Verbeek, H., Zabalegui, A. & Challis, D. (2014). Deterioration of Basic Activities of Daily Living and their Impact on Quality of Life across different cognitive stages of dementia: a European study. International Psychogeriatrics, 26(8), 1283\u20131293.",
+                    "DOI": "10.1017/S1041610214000775",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1093/geront/gnt108",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1177/1471301214553614",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1017/S1041610216002003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "author": "Giebel C. M.",
+                    "issue": "1",
+                    "first-page": "3102",
+                    "year": "2018",
+                    "journal-title": "International Journal of Geriatric Psychiatry,"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1177/0891988716686835",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1017/S1355617706060012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1136/bmj.39001.688843.BE",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1016/j.neuropsychologia.2004.07.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1111/hsc.12324",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1159/000365587",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1136/bmj.d4163",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1017/S1041610217001533",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1111/j.1365-2524.2011.01039.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "DOI": "10.1111/j.1440-172X.2010.01861.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0034",
+                    "DOI": "10.1186/s12877-017-0412-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0035",
+                    "DOI": "10.1111/j.1748-3743.2010.00219.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1177/0269215517698733",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "DOI": "10.1159/000455119",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT4444",
+                    "unstructured": "Peres, K., Helmer, C., Amieva, H., Orgogozo, J. M., Rouch, I., Dartigues, J. F. & Barberger-Gateau, P. (2008). Natural history of decline in instrumental activities of daily living performance over the 10 years preceding the clinical diagnosis of dementia: a prospective population-based study. Journal of the American Geriatrics Society, 56, 37\u201344."
+                },
+                {
+                    "key": "CIT0039",
+                    "DOI": "10.1111/j.1749-6632.1984.tb13859.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0040",
+                    "DOI": "10.1016/j.jamda.2012.10.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0041",
+                    "DOI": "10.1111/j.1532-5415.2011.03699.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "DOI": "10.1177/1090198115599984",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0044",
+                    "DOI": "10.1016/j.jalz.2014.09.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0047",
+                    "DOI": "10.3233/JAD-150785",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT3333",
+                    "unstructured": "Teunisse, S., Derix, M. M. A., van Crevel, H. (1991). Assessing the severity of dementia. Archives of Neurology, 48(3), 274\u2013277.",
+                    "DOI": "10.1001/archneur.1991.00530150042015",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0048",
+                    "DOI": "10.1016/j.maturitas.2016.05.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0049",
+                    "author": "Verbeek H.",
+                    "volume": "10",
+                    "issue": "30",
+                    "year": "2011",
+                    "journal-title": "BMJ Health Services Research"
+                },
+                {
+                    "key": "CIT0333",
+                    "unstructured": "Verbeek, H., Meyer, G., Leino-Kilpi, H., Zabalegui, A., Hallberg, I. R., Saks, K. \u2026 & Hamers, J. P. and the RightTimePlace- Care Consortium (2012). A European study investigating patterns of transition from home care towards institutional dementia care: the protocol of a RightTimePlaceCare study. BMC Public Health, 12, 68\u201377.",
+                    "DOI": "10.1186/1471-2458-12-68",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0050",
+                    "unstructured": "Verbeek, H. (2015). Inter-country exploration of factors associated with admission to long-term institutional dementia care: evidence from the RightTimePlaceCare study. Journal of Advanced Nursing, 71(6), 1338\u20131350.",
+                    "DOI": "10.1111/jan.12663",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT5555",
+                    "unstructured": "Voigt-Radloff, S., Leonhart, R., Sch\u00fctzwohl, M., Jurjanz, L., Reuster, T., Gerner, A. \u2026 & Rikkert, M. O. (2012). Interview for deterioration in daily living activities in dementia: construct and concurrent validity in patients with mild to moderate dementia. International psychogeriatrics, 24, 382\u2013390.",
+                    "DOI": "10.1017/S1041610211001785",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0052",
+                    "DOI": "10.1186/s13195-017-0247-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0053",
+                    "DOI": "10.1016/j.jagp.2016.11.021",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Aging & Mental Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/13607863.2019.1603283",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        3
+                    ]
+                ],
+                "date-time": "2020-08-03T11:06:53Z",
+                "timestamp": 1596452813000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        16
+                    ]
+                ]
+            },
+            "references-count": 49,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            8,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "8"
+            },
+            "alternative-id": [
+                "10.1080/13607863.2019.1603283"
+            ],
+            "URL": "http://dx.doi.org/10.1080/13607863.2019.1603283",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1360-7863",
+                "1364-6915"
+            ],
+            "subject": [
+                "Phychiatric Mental Health",
+                "Gerontology",
+                "Geriatrics and Gerontology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Aging & Mental Health",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=camh20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=camh20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2018-10-05",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-03-23",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-04-16",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Activities of daily living",
+                        "care planning",
+                        "community care",
+                        "dementia"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30990082",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "08",
+                    "Day": "03"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/13607863.2019.1603283"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "04",
+                            "Day": "16"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1364-6915",
+                        "JournalIssue": {
+                            "Volume": "24",
+                            "Issue": "8",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Aug"
+                            }
+                        },
+                        "Title": "Aging & mental health",
+                        "ISOAbbreviation": "Aging Ment Health"
+                    },
+                    "ArticleTitle": "Exploring the abilities of performing complex daily activities in dementia: the effects of supervision on remaining independent.",
+                    "Pagination": {
+                        "MedlinePgn": "1288-1294"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "<b>Objectives:</b> The aim of this study was to explore the remaining abilities of people with dementia (PwD) in performing daily activities.<b>Method:</b> Informal carers of community-residing PwD were recruited across England via mail out and carer support groups. Carers completed the <i>revised Interview for Deteriorations in Daily Living Activities in Dementia 2</i> to rate the PwD's initiative and performance of daily activities. Six complex instrumental activities of daily living (IADLs) were selected: shopping, preparing a hot drink, using the telephone, preparing a cold meal, house work, and engaging in social activities, all of which were broken down into three sub-tasks. Data were analysed using Chi-square tests and linear regression analysis, assessing the contributions of hours of IADL care, hours of supervision, and dementia stage for each activity.<b>Results:</b> 581 carers of people with mild, moderate, and severe dementia completed the questionnaire. The ability to perform individual activities deteriorated from mild to moderate to severe dementia, with PwD remaining the most able to perform subtasks of preparing a hot drink and a cold meal. Subtask performance varied across activities, with some better maintained than others across severity stages. Linear regression models showed that hours of supervising PwD explained a greater proportion of the variance of each IADL than IADL care hours.<b>Conclusion:</b> PwD should be supervised to continue engaging in activities, thereby avoiding performing everything for the PwD. Findings can have implications for PwD living in nursing homes, and future research should explore the remaining IADL abilities of nursing home residents."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, United Kingdom of Great Britain and Northern Ireland."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC, Liverpool, United Kingdom of Great Britain and, Northern Ireland."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CAPHRI School for Public Health and Primary Care, Maastricht University, Maastricht, Netherlands."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Zwakhalen",
+                            "ForeName": "Sandra",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Personal Social Services Research Unit, University of Manchester, Manchester, United Kingdom of Great Britain and Northern Ireland."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Louise Sutcliffe",
+                            "ForeName": "Caroline",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CAPHRI School for Public Health and Primary Care, Maastricht University, Maastricht, Netherlands."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Verbeek",
+                            "ForeName": "Hilde",
+                            "Initials": "H"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Aging Ment Health",
+                    "NlmUniqueID": "9705773",
+                    "ISSNLinking": "1360-7863"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30990082",
+                    "10.1080/13607863.2019.1603283"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30990082)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830990082%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830990082%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064658095"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064658095?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064658095&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064658095&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064658095",
+                        "dc:identifier": "SCOPUS_ID:85064658095",
+                        "eid": "2-s2.0-85064658095",
+                        "dc:title": "Exploring the abilities of performing complex daily activities in dementia: the effects of supervision on remaining independent",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "Aging and Mental Health",
+                        "prism:issn": "13607863",
+                        "prism:eIssn": "13646915",
+                        "prism:volume": "24",
+                        "prism:issueIdentifier": "8",
+                        "prism:pageRange": "1288-1294",
+                        "prism:coverDate": "2020-08-02",
+                        "prism:coverDisplayDate": "2 August 2020",
+                        "prism:doi": "10.1080/13607863.2019.1603283",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30990082",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "28478",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "RNQIL4DR.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30990082"
+            }
+        },
+        "title": "Exploring the abilities of performing complex daily activities in dementia: the effects of supervision on remaining independent.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, United Kingdom of Great Britain and Northern Ireland."
+                }
+            },
+            {
+                "clean": "Zwakhalen S",
+                "family": "Zwakhalen",
+                "given": "Sandra",
+                "affiliation": {
+                    "name": "CAPHRI School for Public Health and Primary Care, Maastricht University, Maastricht, Netherlands."
+                }
+            },
+            {
+                "clean": "Louise Sutcliffe C",
+                "family": "Louise Sutcliffe",
+                "given": "Caroline",
+                "affiliation": {
+                    "name": "Personal Social Services Research Unit, University of Manchester, Manchester, United Kingdom of Great Britain and Northern Ireland."
+                }
+            },
+            {
+                "clean": "Verbeek H",
+                "family": "Verbeek",
+                "given": "Hilde",
+                "affiliation": {
+                    "name": "CAPHRI School for Public Health and Primary Care, Maastricht University, Maastricht, Netherlands."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Aging Ment Health",
+            "volume": "24",
+            "issue": "8"
+        },
+        "abstract": "[\"<b>Objectives:</b> The aim of this study was to explore the remaining abilities of people with dementia (PwD) in performing daily activities.<b>Method:</b> Informal carers of community-residing PwD were recruited across England via mail out and carer support groups. Carers completed the <i>revised Interview for Deteriorations in Daily Living Activities in Dementia 2</i> to rate the PwD's initiative and performance of daily activities. Six complex instrumental activities of daily living (IADLs) were selected: shopping, preparing a hot drink, using the telephone, preparing a cold meal, house work, and engaging in social activities, all of which were broken down into three sub-tasks. Data were analysed using Chi-square tests and linear regression analysis, assessing the contributions of hours of IADL care, hours of supervision, and dementia stage for each activity.<b>Results:</b> 581 carers of people with mild, moderate, and severe dementia completed the questionnaire. The ability to perform individual activities deteriorated from mild to moderate to severe dementia, with PwD remaining the most able to perform subtasks of preparing a hot drink and a cold meal. Subtask performance varied across activities, with some better maintained than others across severity stages. Linear regression models showed that hours of supervising PwD explained a greater proportion of the variance of each IADL than IADL care hours.<b>Conclusion:</b> PwD should be supervised to continue engaging in activities, thereby avoiding performing everything for the PwD. Findings can have implications for PwD living in nursing homes, and future research should explore the remaining IADL abilities of nursing home residents.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences, University of Liverpool, Liverpool, United Kingdom of Great Britain and Northern Ireland.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

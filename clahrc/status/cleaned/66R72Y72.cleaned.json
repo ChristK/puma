@@ -1,0 +1,943 @@
+{
+    "IDs": {
+        "zotero": "66R72Y72",
+        "DOI": "10.1093/pubmed/fdy079",
+        "DOI_filename": "fc312b8011e9a225fd30c692b36d1bdb",
+        "PMID": "29762730",
+        "scopus": "2-s2.0-85072708317",
+        "hash": "b4f072d001b59503d5e4410f1abbec6c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "66R72Y72",
+            "version": 122,
+            "itemType": "journalArticle",
+            "title": "The impact of free access to swimming pools on children\u2019s participation in swimming. A comparative regression discontinuity study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "J",
+                    "lastName": "Higgerson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "E",
+                    "lastName": "Halliday"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A",
+                    "lastName": "Ortiz-Nunez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Objective\n              Investigating the extent to which providing children with free swimming access during school holidays increased participation in swimming and whether this effect differed according to the socioeconomic deprivation of the neighbourhoods in which children lived.\n            \n            \n              Setting\n              A highly disadvantaged local authority (LA) in North West England.\n            \n            \n              Intervention\n              Provision of children with free swimming during the summer holidays.\n            \n            \n              Outcome measures\n              Number of children swimming, and the number of swims, per 100 population in 2014.\n            \n            \n              Design\n              Comparative regression discontinuity investigating the extent to which participation rates amongst children aged 5\u201315 were greater in the intervention LA compared to a similar control LA. We estimated the differential effect of the intervention across five groups, defined by quintiles of area deprivation.\n            \n            \n              Results\n              Free swimming during the summer holidays was associated with an additional 6% of children swimming (95% CI: 4\u20139%) and an additional 33 swims per 100 children per year (95% CI: 21\u201344). The effects were greatest in areas with intermediate levels of deprivation (quintiles 3 and 4) within this deprived LA.\n            \n            \n              Conclusion\n              Providing free facilities for children in disadvantaged areas is likely to increase swimming participation and may help reduce inequalities in physical activity.",
+            "publicationTitle": "Journal of Public Health",
+            "volume": "41",
+            "issue": "2",
+            "pages": "214-221",
+            "date": "2019-06-01",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1093/pubmed/fdy079",
+            "ISSN": "1741-3842, 1741-3850",
+            "shortTitle": "",
+            "url": "https://academic.oup.com/jpubhealth/article/41/2/214/4995667",
+            "accessDate": "2020-09-10T17:08:54Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29762730",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:54Z",
+            "dateModified": "2020-09-11T14:57:33Z",
+            "pmid": "29762730"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        30
+                    ]
+                ],
+                "date-time": "2020-03-30T05:53:34Z",
+                "timestamp": 1585547614540
+            },
+            "reference-count": 25,
+            "publisher": "Oxford University Press (OUP)",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                5,
+                                14
+                            ]
+                        ],
+                        "date-time": "2018-05-14T00:00:00Z",
+                        "timestamp": 1526256000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>Investigating the extent to which providing children with free swimming access during school holidays increased participation in swimming and whether this effect differed according to the socioeconomic deprivation of the neighbourhoods in which children lived.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Setting</jats:title>\n                  <jats:p>A highly disadvantaged local authority (LA) in North West England.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Intervention</jats:title>\n                  <jats:p>Provision of children with free swimming during the summer holidays.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Outcome measures</jats:title>\n                  <jats:p>Number of children swimming, and the number of swims, per 100 population in 2014.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>Comparative regression discontinuity investigating the extent to which participation rates amongst children aged 5\u201315 were greater in the intervention LA compared to a similar control LA. We estimated the differential effect of the intervention across five groups, defined by quintiles of area deprivation.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Free swimming during the summer holidays was associated with an additional 6% of children swimming (95% CI: 4\u20139%) and an additional 33 swims per 100 children per year (95% CI: 21\u201344). The effects were greatest in areas with intermediate levels of deprivation (quintiles 3 and 4) within this deprived LA.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Providing free facilities for children in disadvantaged areas is likely to increase swimming participation and may help reduce inequalities in physical activity.</jats:p>\n               </jats:sec>",
+            "DOI": "10.1093/pubmed/fdy079",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        18
+                    ]
+                ],
+                "date-time": "2018-04-18T20:41:13Z",
+                "timestamp": 1524084073000
+            },
+            "page": "214-221",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "The impact of free access to swimming pools on children\u2019s participation in swimming. A comparative regression discontinuity study",
+            "prefix": "10.1093",
+            "volume": "41",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-6037-0455",
+                    "authenticated-orcid": false,
+                    "given": "J",
+                    "family": "Higgerson",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "School of Nursing, Midwifery and Social Work, University of Manchester, Manchester, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-2216-9259",
+                    "authenticated-orcid": false,
+                    "given": "E",
+                    "family": "Halliday",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "A",
+                    "family": "Ortiz-Nunez",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "B",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        14
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "1",
+                    "key": "2019071712261200800_fdy079C1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "63",
+                    "DOI": "10.1093/shm/13.1.63",
+                    "article-title": "Profit is a dirty word: the development of public baths and wash-houses in Britain 1847\u20131915",
+                    "volume": "13",
+                    "author": "Sheard",
+                    "year": "2000",
+                    "journal-title": "Soc Hist Med"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C2",
+                    "author": "Robinson",
+                    "first-page": "208",
+                    "year": "2003",
+                    "volume-title": "Managing Public Sport and Leisure Services."
+                },
+                {
+                    "key": "2019071712261200800_fdy079C3",
+                    "author": "HSCIC",
+                    "year": "2016",
+                    "volume-title": "Statistics on Obesity, Physical Activity and Diet"
+                },
+                {
+                    "issue": "1",
+                    "key": "2019071712261200800_fdy079C4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e008693",
+                    "DOI": "10.1136/bmjopen-2015-008693",
+                    "article-title": "Cross-sectional associations between high-deprivation home and neighbourhood environments, and health-related variables among Liverpool children",
+                    "volume": "6",
+                    "author": "Noonan",
+                    "year": "2016",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "issue": "8",
+                    "key": "2019071712261200800_fdy079C5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e002893",
+                    "DOI": "10.1136/bmjopen-2013-002893",
+                    "article-title": "How active are our children? Findings from the Millennium Cohort Study",
+                    "volume": "3",
+                    "author": "Griffiths",
+                    "year": "2013",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "214",
+                    "DOI": "10.1186/1471-2458-10-214",
+                    "article-title": "Influence of socio-economic status on habitual physical activity and sedentary behavior in 8- to 11-year old children",
+                    "volume": "10",
+                    "author": "Drenowatz",
+                    "year": "2010",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "155",
+                    "DOI": "10.1186/s12966-014-0155-3",
+                    "article-title": "Social inequalities in young children\u2019s sports participation and outdoor play",
+                    "volume": "11",
+                    "author": "Wijtzes",
+                    "year": "2014",
+                    "journal-title": "Int J Behav Nutr Phys Act"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C8",
+                    "author": "Department for Communities and Local Government",
+                    "year": "2013"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C9",
+                    "author": "Finnigan",
+                    "year": "2015",
+                    "volume-title": "Sports & Leisure: Trend Analysis 2014/15"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C10",
+                    "author": "Free Swimming Programme announcement",
+                    "year": "2017"
+                },
+                {
+                    "issue": "11",
+                    "key": "2019071712261200800_fdy079C11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "976",
+                    "DOI": "10.1016/j.puhe.2012.07.008",
+                    "article-title": "Health promotion and the social gradient: the free swimming initiative for children and young people in Bristol",
+                    "volume": "126",
+                    "author": "Audrey",
+                    "year": "2012",
+                    "journal-title": "Public Health"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C12",
+                    "author": "Department for Communities and Local Government",
+                    "year": "2011"
+                },
+                {
+                    "issue": "2",
+                    "key": "2019071712261200800_fdy079C13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1037/a0023345",
+                    "article-title": "A randomized experiment comparing random and cutoff-based assignment",
+                    "volume": "16",
+                    "author": "Shadish",
+                    "year": "2011",
+                    "journal-title": "Psychol Methods"
+                },
+                {
+                    "issue": "4",
+                    "key": "2019071712261200800_fdy079C14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "724",
+                    "DOI": "10.1002/pam.20375",
+                    "article-title": "Three conditions under which experiments and observational studies produce comparable causal estimates: new findings from within-study comparisons",
+                    "volume": "27",
+                    "author": "Cook",
+                    "year": "2008",
+                    "journal-title": "J Policy Anal Manage"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "2019071712261200800_fdy079C15",
+                    "first-page": "A39",
+                    "article-title": "OP69 regression discontinuity designs in the evaluation of health interventions, policies, and outcomes: a systematic review",
+                    "volume": "70",
+                    "author": "Boon",
+                    "year": "2016",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C16",
+                    "author": "Shadish",
+                    "first-page": "666",
+                    "year": "2002",
+                    "volume-title": "Experimental and Quasi-experimental Designs for Generalized Causal Inference"
+                },
+                {
+                    "issue": "4",
+                    "key": "2019071712261200800_fdy079C17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "853",
+                    "DOI": "10.1002/pam.21721",
+                    "article-title": "Strengthening the regression discontinuity design using additional design elements: a within-study comparison",
+                    "volume": "32",
+                    "author": "Wing",
+                    "year": "2013",
+                    "journal-title": "J Policy Anal Manage"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C18",
+                    "author": "Angrist",
+                    "first-page": "392",
+                    "year": "2009",
+                    "volume-title": "Mostly Harmless Econometrics: An Empiricist\u2019s Companion",
+                    "DOI": "10.1515/9781400829828",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C19",
+                    "author": "PricewaterhouseCoopers LLP",
+                    "year": "2010",
+                    "volume-title": "Evaluation of the Impact of Free Swimming"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C20",
+                    "author": "Coalter",
+                    "year": "2014"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C21",
+                    "author": "Coalter",
+                    "year": "2014"
+                },
+                {
+                    "key": "2019071712261200800_fdy079C22",
+                    "author": "Bolton",
+                    "year": "2017"
+                },
+                {
+                    "issue": "1",
+                    "key": "2019071712261200800_fdy079C23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "32",
+                    "DOI": "10.1016/j.smr.2014.09.001",
+                    "article-title": "The impact of a community free swimming programme for young people (under 19) in England",
+                    "volume": "18",
+                    "author": "Bullough",
+                    "year": "2015",
+                    "journal-title": "Sport Manag Rev"
+                },
+                {
+                    "issue": "1",
+                    "key": "2019071712261200800_fdy079C24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "616",
+                    "DOI": "10.1186/s12889-016-3300-x",
+                    "article-title": "Cost-effectiveness analysis of offering free leisure centre memberships to physically inactive members of the public receiving state benefits: a case study",
+                    "volume": "16",
+                    "author": "Verhoef",
+                    "year": "2016",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "issue": "7",
+                    "key": "2019071712261200800_fdy079C25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "541",
+                    "DOI": "10.1111/obr.12161",
+                    "article-title": "The effect of obesity prevention interventions according to socioeconomic position: a systematic review",
+                    "volume": "15",
+                    "author": "Beauchamp",
+                    "year": "2014",
+                    "journal-title": "Obes Rev Off J Int Assoc Study Obes"
+                }
+            ],
+            "container-title": "Journal of Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/jpubhealth/article-pdf/41/2/214/28943374/fdy079.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        20
+                    ]
+                ],
+                "date-time": "2019-09-20T10:41:56Z",
+                "timestamp": 1568976116000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        14
+                    ]
+                ]
+            },
+            "references-count": 25,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            5,
+                            14
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            6,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "URL": "http://dx.doi.org/10.1093/pubmed/fdy079",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1741-3842",
+                "1741-3850"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "inequalities",
+                        "leisure",
+                        "physical activity",
+                        "policy",
+                        "pricing"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29762730",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "18"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "18"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1093/pubmed/fdy079"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1741-3850",
+                        "JournalIssue": {
+                            "Volume": "41",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "06",
+                                "Day": "01"
+                            }
+                        },
+                        "Title": "Journal of public health (Oxford, England)",
+                        "ISOAbbreviation": "J Public Health (Oxf)"
+                    },
+                    "ArticleTitle": "The impact of free access to swimming pools on children's participation in swimming. A comparative regression discontinuity study.",
+                    "Pagination": {
+                        "MedlinePgn": "214-221"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Investigating the extent to which providing children with free swimming access during school holidays increased participation in swimming and whether this effect differed according to the socioeconomic deprivation of the neighbourhoods in which children lived.",
+                            "A highly disadvantaged local authority (LA) in North West England.",
+                            "Provision of children with free swimming during the summer holidays.",
+                            "Number of children swimming, and the number of swims, per 100 population in 2014.",
+                            "Comparative regression discontinuity investigating the extent to which participation rates amongst children aged 5-15 were greater in the intervention LA compared to a similar control LA. We estimated the differential effect of the intervention across five groups, defined by quintiles of area deprivation.",
+                            "Free swimming during the summer holidays was associated with an additional 6% of children swimming (95% CI: 4-9%) and an additional 33 swims per 100 children per year (95% CI: 21-44). The effects were greatest in areas with intermediate levels of deprivation (quintiles 3 and 4) within this deprived LA.",
+                            "Providing free facilities for children in disadvantaged areas is likely to increase swimming participation and may help reduce inequalities in physical activity."
+                        ],
+                        "CopyrightInformation": "\u00a9 The Author(s) 2018. Published by Oxford University Press on behalf of Faculty of Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, Midwifery and Social Work, University of Manchester, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Higgerson",
+                            "ForeName": "J",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Halliday",
+                            "ForeName": "E",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ortiz-Nunez",
+                            "ForeName": "A",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "B",
+                            "Initials": "B"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Comparative Study",
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Public Health (Oxf)",
+                    "NlmUniqueID": "101188638",
+                    "ISSNLinking": "1741-3842"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child, Preschool",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Swimming",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Swimming Pools",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Vulnerable Populations",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "09"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "03",
+                        "Day": "08"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "04",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29762730",
+                    "4995667",
+                    "10.1093/pubmed/fdy079"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29762730)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829762730%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829762730%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072708317"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072708317?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072708317&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072708317&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072708317",
+                        "dc:identifier": "SCOPUS_ID:85072708317",
+                        "eid": "2-s2.0-85072708317",
+                        "dc:title": "The impact of free access to swimming pools on children's participation in swimming. A comparative regression discontinuity study",
+                        "dc:creator": "Higgerson J.",
+                        "prism:publicationName": "Journal of Public Health (United Kingdom)",
+                        "prism:issn": "17413842",
+                        "prism:eIssn": "17413850",
+                        "prism:volume": "41",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "214-221",
+                        "prism:coverDate": "2019-01-01",
+                        "prism:coverDisplayDate": "2019",
+                        "prism:doi": "10.1093/pubmed/fdy079",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "The University of Manchester",
+                                "affiliation-city": "Manchester",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29762730",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "12252",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "66R72Y72.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29762730"
+            }
+        },
+        "title": "The impact of free access to swimming pools on children's participation in swimming. A comparative regression discontinuity study.",
+        "full_author_list": [
+            {
+                "clean": "Higgerson J",
+                "family": "Higgerson",
+                "given": "J",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Halliday E",
+                "family": "Halliday",
+                "given": "E",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Ortiz-Nunez A",
+                "family": "Ortiz-Nunez",
+                "given": "A",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "B",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Higgerson J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Child, Preschool",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Swimming",
+                    "major": "N"
+                },
+                {
+                    "term": "Swimming Pools",
+                    "major": "Y"
+                },
+                {
+                    "term": "Vulnerable Populations",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Public Health (Oxf)",
+            "volume": "41",
+            "issue": "2"
+        },
+        "abstract": "['Investigating the extent to which providing children with free swimming access during school holidays increased participation in swimming and whether this effect differed according to the socioeconomic deprivation of the neighbourhoods in which children lived.', 'A highly disadvantaged local authority (LA) in North West England.', 'Provision of children with free swimming during the summer holidays.', 'Number of children swimming, and the number of swims, per 100 population in 2014.', 'Comparative regression discontinuity investigating the extent to which participation rates amongst children aged 5-15 were greater in the intervention LA compared to a similar control LA. We estimated the differential effect of the intervention across five groups, defined by quintiles of area deprivation.', 'Free swimming during the summer holidays was associated with an additional 6% of children swimming (95% CI: 4-9%) and an additional 33 swims per 100 children per year (95% CI: 21-44). The effects were greatest in areas with intermediate levels of deprivation (quintiles 3 and 4) within this deprived LA.', 'Providing free facilities for children in disadvantaged areas is likely to increase swimming participation and may help reduce inequalities in physical activity.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

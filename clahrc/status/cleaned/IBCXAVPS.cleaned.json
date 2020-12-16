@@ -1,0 +1,985 @@
+{
+    "IDs": {
+        "zotero": "IBCXAVPS",
+        "DOI": "10.1080/09638288.2016.1231846",
+        "DOI_filename": "376af9c445d63fcb23c26cd6bb1ac68d",
+        "PMID": "27669628",
+        "scopus": "2-s2.0-85029185072",
+        "hash": "a83259b175f64499955a99a78128e39a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "IBCXAVPS",
+            "version": 153,
+            "itemType": "journalArticle",
+            "title": "Screening methods for post-stroke visual impairment: a systematic review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kerry Louise",
+                    "lastName": "Hanna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lauren Rachel",
+                    "lastName": "Hepworth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fiona",
+                    "lastName": "Rowe"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Disability and Rehabilitation",
+            "volume": "39",
+            "issue": "25",
+            "pages": "2531-2543",
+            "date": "2017-12-04",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Disability and Rehabilitation",
+            "language": "en",
+            "DOI": "10.1080/09638288.2016.1231846",
+            "ISSN": "0963-8288, 1464-5165",
+            "shortTitle": "Screening methods for post-stroke visual impairment",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09638288.2016.1231846",
+            "accessDate": "2020-09-10T17:09:40Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27669628",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/ISR4AX3C"
+            },
+            "dateAdded": "2020-09-10T17:09:40Z",
+            "dateModified": "2020-09-15T12:58:00Z",
+            "pmid": "27669628"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ],
+                "date-time": "2020-08-18T06:10:15Z",
+                "timestamp": 1597731015707
+            },
+            "reference-count": 58,
+            "publisher": "Informa UK Limited",
+            "issue": "25",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1080/09638288.2016.1231846",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        9,
+                        27
+                    ]
+                ],
+                "date-time": "2016-09-27T05:58:34Z",
+                "timestamp": 1474955914000
+            },
+            "page": "2531-2543",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 11,
+            "title": "Screening methods for post-stroke visual impairment: a systematic review",
+            "prefix": "10.1080",
+            "volume": "39",
+            "author": [
+                {
+                    "given": "Kerry Louise",
+                    "family": "Hanna",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lauren Rachel",
+                    "family": "Hepworth",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Fiona",
+                    "family": "Rowe",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        9,
+                        26
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1093/ageing/afn230",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "author": "Macintosh C.",
+                    "volume": "60",
+                    "first-page": "10",
+                    "year": "2003",
+                    "journal-title": "Br J Ophthalmol"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "Hepworth LR",
+                    "volume": "5",
+                    "first-page": "1",
+                    "year": "2016",
+                    "journal-title": "Ophthalmol Res"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1111/ane.12050",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1161/01.STR.0000160873.32791.20",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1093/ageing/afl074",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1007/s00417-007-0644-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1586/eop.11.14",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "unstructured": "Rowe FJ, Walker M, Rockliffe J, et\u00a0al. Care provision and unmet needs for post stroke visual impairment. London; The Stroke Association: 2013."
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1016/j.jclinepi.2009.06.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1016/j.ypmed.2007.08.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.18553/jmcp.2014.20.3.301",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1161/STROKEAHA.110.606277",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1037/pas0000082",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1080/01688638708405056",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1053/jscd.2001.25457",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1080/09602011.2010.531619",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1097/00013614-199412000-00005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1177/026921558900300303",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1080/11038120410020683-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.3109/09273972.2013.787633",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1038/eye.2010.173",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1161/01.STR.30.11.2347",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1177/1545968305283038",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1177/026921559100500205",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1161/01.STR.18.3.665",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1016/S0167-4943(02)00175-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1136/bjo.2009.161240",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1161/01.str.0000037647.10414.d2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "DOI": "10.1016/j.jocn.2006.02.022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1161/01.STR.28.2.307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1016/S0275-5408(97)00045-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "DOI": "10.1136/bjo.69.12.927",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0034",
+                    "author": "Kodsi SR",
+                    "volume": "34",
+                    "first-page": "359",
+                    "year": "1993",
+                    "journal-title": "J Clin Neuroophthalmol"
+                },
+                {
+                    "key": "CIT0035",
+                    "author": "Johnson L, N",
+                    "volume": "83",
+                    "first-page": "895",
+                    "year": "1991",
+                    "journal-title": "J Natl Med Assoc"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1136/jnnp.2006.095414",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "DOI": "10.1111/j.1474-7766.2005.00333.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1016/j.jns.2010.08.051",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "author": "Wittich W",
+                    "volume": "104",
+                    "first-page": "360",
+                    "year": "2010",
+                    "journal-title": "J Vis Impair Blind",
+                    "DOI": "10.1177/0145482X1010400606",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0040",
+                    "DOI": "10.1177/030802260506801105",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0041",
+                    "DOI": "10.1080/11038120500363014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "DOI": "10.3758/s13428-013-0382-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0043",
+                    "DOI": "10.1016/j.apmr.2016.04.023",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0044",
+                    "DOI": "10.5014/ajot.49.6.507",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0045",
+                    "DOI": "10.1080/09602019108401377",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0046",
+                    "DOI": "10.1080/13803395.2011.645016",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0047",
+                    "DOI": "10.1111/j.1600-0404.2010.01390.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0048",
+                    "DOI": "10.1111/j.1440-1819.1997.tb03201.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0049",
+                    "DOI": "10.1136/jnnp.73.2.160",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0050",
+                    "author": "Azouvi P",
+                    "volume": "24",
+                    "first-page": "273",
+                    "year": "2006",
+                    "journal-title": ". Restor Neurol Neurosci"
+                },
+                {
+                    "key": "CIT0051",
+                    "DOI": "10.1080/13854040600630061",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0052",
+                    "DOI": "10.1076/jcen.23.5.599.1243",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0053",
+                    "DOI": "10.1136/jnnp.2010.224261",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0054",
+                    "DOI": "10.1161/01.STR.30.6.1196",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0055",
+                    "author": "Halligan PW",
+                    "year": "1992",
+                    "volume-title": "The assessment of unilateral neglect"
+                },
+                {
+                    "key": "CIT0056",
+                    "author": "Black SE",
+                    "volume": "12",
+                    "first-page": "109",
+                    "year": "1990",
+                    "journal-title": "J Clin Exp Neuropsychol"
+                },
+                {
+                    "key": "CIT0057",
+                    "DOI": "10.1016/S0895-4356(97)00060-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0058",
+                    "DOI": "10.1017/S1041610202008001",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Disability and Rehabilitation",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09638288.2016.1231846",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ],
+                "date-time": "2020-08-18T05:47:21Z",
+                "timestamp": 1597729641000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        9,
+                        26
+                    ]
+                ]
+            },
+            "references-count": 58,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "25"
+            },
+            "alternative-id": [
+                "10.1080/09638288.2016.1231846"
+            ],
+            "URL": "http://dx.doi.org/10.1080/09638288.2016.1231846",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0963-8288",
+                "1464-5165"
+            ],
+            "subject": [
+                "Rehabilitation"
+            ],
+            "container-title-short": "Disability and Rehabilitation",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=idre20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=idre20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2016-04-15",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2016-08-17",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2016-08-30",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2016-09-26",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Vision screening",
+                        "review",
+                        "stroke",
+                        "tool",
+                        "vision assessment"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27669628",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "09",
+                    "Day": "11"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/09638288.2016.1231846"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "09",
+                            "Day": "26"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1464-5165",
+                        "JournalIssue": {
+                            "Volume": "39",
+                            "Issue": "25",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Dec"
+                            }
+                        },
+                        "Title": "Disability and rehabilitation",
+                        "ISOAbbreviation": "Disabil Rehabil"
+                    },
+                    "ArticleTitle": "Screening methods for post-stroke visual impairment: a systematic review.",
+                    "Pagination": {
+                        "MedlinePgn": "2531-2543"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To provide a systematic overview of the various tools available to screen for post-stroke visual impairment.",
+                            "A review of the literature was conducted including randomised controlled trials, controlled trials, cohort studies, observational studies, systematic reviews and retrospective medical note reviews. All languages were included and translation was obtained. Participants included adults \u226518 years old diagnosed with a visual impairment as a direct cause of a stroke. We searched a broad range of scholarly online resources and hand-searched articles registers of published, unpublished and on-going trials. Search terms included a variety of MESH terms and alternatives in relation to stroke and visual conditions. Study selection was performed by two authors independently. The quality of the evidence and risk of bias were assessed using the STROBE, GRACE and PRISMA statements.",
+                            "A total of 25 articles (n\u2009=\u20092924) were included in this review. Articles appraised reported on tools screening solely for visual impairments or for general post-stroke disabilities inclusive of vision. The majority of identified tools screen for visual perception including visual neglect (VN), with few screening for visual acuity (VA), visual field (VF) loss or ocular motility (OM) defects. Six articles reported on nine screening tools which combined visual screening assessment alongside screening for general stroke disabilities. Of these, three included screening for VA; three screened for VF loss; three screened for OM defects and all screened for VN. Two tools screened for all visual impairments. A further 19 articles were found which reported on individual vision screening tests in stroke populations; two for VF loss; 11 for VN and six for other visual perceptual defects. Most tools cannot accurately account for those with aphasia or communicative deficits, which are common problems following a stroke.",
+                            "There is currently no standardised visual screening tool which can accurately assess all potential post-stroke visual impairments. The current tools screen for only a number of potential stroke-related impairments, which means many visual defects may be missed. The sensitivity of those which screen for all impairments is significantly lowered when patients are unable to report their visual symptoms. Future research is required to develop a tool capable of assessing stroke patients which encompasses all potential visual deficits and can also be easily performed by both the patients and administered by health care professionals in order to ensure all stroke survivors with visual impairment are accurately identified and managed. Implications for Rehabilitation Over 65% of stroke survivors will suffer from a visual impairment, whereas 45% of stroke units do not assess vision. Visual impairment significantly reduces the quality of life, such as being unable to return to work, driving and depression. This review outlines the available screening methods to accurately identify stroke survivors with visual impairments. Identifying visual impairment after stroke can aid general rehabilitation and thus, improve the quality of life for these patients."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hanna",
+                            "ForeName": "Kerry Louise",
+                            "Initials": "KL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hepworth",
+                            "ForeName": "Lauren Rachel",
+                            "Initials": "LR"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rowe",
+                            "ForeName": "Fiona",
+                            "Initials": "F"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Disabil Rehabil",
+                    "NlmUniqueID": "9207179",
+                    "ISSNLinking": "0963-8288"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Disability Evaluation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Mass Screening",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Retrospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications"
+                        ],
+                        "DescriptorName": "Stroke",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods",
+                            "standards"
+                        ],
+                        "DescriptorName": "Stroke Rehabilitation",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "etiology",
+                            "psychology",
+                            "rehabilitation"
+                        ],
+                        "DescriptorName": "Vision Disorders",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "9",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "9",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "27669628",
+                    "10.1080/09638288.2016.1231846"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27669628)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827669628%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827669628%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029185072"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029185072?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85029185072&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85029185072&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85029185072",
+                        "dc:identifier": "SCOPUS_ID:85029185072",
+                        "eid": "2-s2.0-85029185072",
+                        "dc:title": "Screening methods for post-stroke visual impairment: a systematic review",
+                        "dc:creator": "Hanna K.",
+                        "prism:publicationName": "Disability and Rehabilitation",
+                        "prism:issn": "09638288",
+                        "prism:eIssn": "14645165",
+                        "prism:volume": "39",
+                        "prism:issueIdentifier": "25",
+                        "prism:pageRange": "2531-2543",
+                        "prism:coverDate": "2017-12-04",
+                        "prism:coverDisplayDate": "4 December 2017",
+                        "prism:doi": "10.1080/09638288.2016.1231846",
+                        "citedby-count": "11",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27669628",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "13710",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "IBCXAVPS.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27669628"
+            }
+        },
+        "title": "Screening methods for post-stroke visual impairment: a systematic review.",
+        "full_author_list": [
+            {
+                "clean": "Hanna K",
+                "family": "Hanna",
+                "given": "Kerry Louise",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Hepworth L",
+                "family": "Hepworth",
+                "given": "Lauren Rachel",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Rowe F",
+                "family": "Rowe",
+                "given": "Fiona",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , Liverpool , UK."
+                }
+            }
+        ],
+        "first_author": "Hanna K",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Disability Evaluation",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Mass Screening",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "Y"
+                },
+                {
+                    "term": "Retrospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Stroke",
+                    "major": "N"
+                },
+                {
+                    "term": "Stroke Rehabilitation",
+                    "major": "Y"
+                },
+                {
+                    "term": "Vision Disorders",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Disabil Rehabil",
+            "volume": "39",
+            "issue": "25"
+        },
+        "abstract": "['To provide a systematic overview of the various tools available to screen for post-stroke visual impairment.', 'A review of the literature was conducted including randomised controlled trials, controlled trials, cohort studies, observational studies, systematic reviews and retrospective medical note reviews. All languages were included and translation was obtained. Participants included adults \u226518 years old diagnosed with a visual impairment as a direct cause of a stroke. We searched a broad range of scholarly online resources and hand-searched articles registers of published, unpublished and on-going trials. Search terms included a variety of MESH terms and alternatives in relation to stroke and visual conditions. Study selection was performed by two authors independently. The quality of the evidence and risk of bias were assessed using the STROBE, GRACE and PRISMA statements.', 'A total of 25 articles (n\\u2009=\\u20092924) were included in this review. Articles appraised reported on tools screening solely for visual impairments or for general post-stroke disabilities inclusive of vision. The majority of identified tools screen for visual perception including visual neglect (VN), with few screening for visual acuity (VA), visual field (VF) loss or ocular motility (OM) defects. Six articles reported on nine screening tools which combined visual screening assessment alongside screening for general stroke disabilities. Of these, three included screening for VA; three screened for VF loss; three screened for OM defects and all screened for VN. Two tools screened for all visual impairments. A further 19 articles were found which reported on individual vision screening tests in stroke populations; two for VF loss; 11 for VN and six for other visual perceptual defects. Most tools cannot accurately account for those with aphasia or communicative deficits, which are common problems following a stroke.', 'There is currently no standardised visual screening tool which can accurately assess all potential post-stroke visual impairments. The current tools screen for only a number of potential stroke-related impairments, which means many visual defects may be missed. The sensitivity of those which screen for all impairments is significantly lowered when patients are unable to report their visual symptoms. Future research is required to develop a tool capable of assessing stroke patients which encompasses all potential visual deficits and can also be easily performed by both the patients and administered by health care professionals in order to ensure all stroke survivors with visual impairment are accurately identified and managed. Implications for Rehabilitation Over 65% of stroke survivors will suffer from a visual impairment, whereas 45% of stroke units do not assess vision. Visual impairment significantly reduces the quality of life, such as being unable to return to work, driving and depression. This review outlines the available screening methods to accurately identify stroke survivors with visual impairments. Identifying visual impairment after stroke can aid general rehabilitation and thus, improve the quality of life for these patients.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "11"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Department of Health Services Research , University of Liverpool , Liverpool , UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

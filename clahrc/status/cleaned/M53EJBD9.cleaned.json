@@ -1,0 +1,2214 @@
+{
+    "IDs": {
+        "zotero": "M53EJBD9",
+        "DOI": "10.1111/bcp.13434",
+        "DOI_filename": "eb2b48900c9aa122ac13c1963df372dc",
+        "PMID": "28901643",
+        "scopus": "2-s2.0-85031740068",
+        "hash": "cae3a1c0273c6c94130c063c1894e0dd"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "M53EJBD9",
+            "version": 170,
+            "itemType": "journalArticle",
+            "title": "Renal function monitoring in heart failure - what is the optimal frequency? A narrative review: Frequency of renal monitoring in heart failure",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ahmed",
+                    "lastName": "Al-Naher"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David",
+                    "lastName": "Wright"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark Alexander John",
+                    "lastName": "Devonald"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "British Journal of Clinical Pharmacology",
+            "volume": "84",
+            "issue": "1",
+            "pages": "5-17",
+            "date": "01/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Br J Clin Pharmacol",
+            "language": "en",
+            "DOI": "10.1111/bcp.13434",
+            "ISSN": "03065251",
+            "shortTitle": "Renal function monitoring in heart failure - what is the optimal frequency?",
+            "url": "http://doi.wiley.com/10.1111/bcp.13434",
+            "accessDate": "2020-09-10T17:10:21Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28901643",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:21Z",
+            "dateModified": "2020-09-15T14:16:11Z",
+            "pmid": "28901643"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        16
+                    ]
+                ],
+                "date-time": "2020-07-16T09:26:45Z",
+                "timestamp": 1594891605186
+            },
+            "reference-count": 90,
+            "publisher": "Wiley",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                10,
+                                22
+                            ]
+                        ],
+                        "date-time": "2017-10-22T00:00:00Z",
+                        "timestamp": 1508630400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                10,
+                                22
+                            ]
+                        ],
+                        "date-time": "2017-10-22T00:00:00Z",
+                        "timestamp": 1508630400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "NIHR CLAHRC NWC",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1111/bcp.13434",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        9,
+                        13
+                    ]
+                ],
+                "date-time": "2017-09-13T11:04:55Z",
+                "timestamp": 1505300695000
+            },
+            "page": "5-17",
+            "source": "Crossref",
+            "is-referenced-by-count": 6,
+            "title": "Renal function monitoring in heart failure - what is the optimal frequency? A narrative review",
+            "prefix": "10.1111",
+            "volume": "84",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7057-0437",
+                    "authenticated-orcid": false,
+                    "given": "Ahmed",
+                    "family": "Al-Naher",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "The Wolfson Centre for Personalised Medicine; The University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "David",
+                    "family": "Wright",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Cardiovascular Medicine and Science; Liverpool Heart and Chest Hospital; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark Alexander John",
+                    "family": "Devonald",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Renal and Transplant Unit; Nottingham University Hospitals NHS Trust; Nottingham UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The Wolfson Centre for Personalised Medicine; The University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        10,
+                        22
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1111/bcp.13434-BIB0001|bcp13434-cit-0002",
+                    "unstructured": "National Institute for Health and Care Excellence (NICE) Chronic heart failure in adults: management (CG108) 2010 https://www.nice.org.uk/guidance/cg108"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0002|bcp13434-cit-0003",
+                    "unstructured": "Mitchell P Marle D Donkor A Shote A McDonagh T Hardman S et al National Heart Failure Audit April 2013 - March 2014 2015 http://www.ucl.ac.uk/nicor/audits/heartfailure/documents/annualreports/annual_report_2014_15_v2"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0003|bcp13434-cit-0004",
+                    "unstructured": "Townsend N Bhatnagar E Wilkins E Wickramasinghe K Rayner M Cardiovascular disease statistics, 2015 2015 https://www.bhf.org.uk/publications/statistics/cvd-stats-2015"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0004|bcp13434-cit-0005",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1587",
+                    "DOI": "10.1016/j.jacc.2004.06.072",
+                    "article-title": "The association among renal insufficiency, pharmacotherapy, and outcomes in 6,427 patients with heart failure and coronary artery disease",
+                    "volume": "44",
+                    "author": "Ezekowitz",
+                    "year": "2004",
+                    "journal-title": "J Am Coll Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0005|bcp13434-cit-0006",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1987",
+                    "DOI": "10.1016/j.jacc.2005.11.084",
+                    "article-title": "Renal impairment and outcomes in heart failure: systematic review and meta-analysis",
+                    "volume": "47",
+                    "author": "Smith",
+                    "year": "2006",
+                    "journal-title": "J Am Coll Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0006|bcp13434-cit-0007",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "15",
+                    "DOI": "10.1136/bmj.329.7456.15",
+                    "article-title": "Adverse drug reactions as cause of admission to hospital: prospective analysis of 18 820 patients",
+                    "volume": "329",
+                    "author": "Pirmohamed",
+                    "year": "2004",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0007|bcp13434-cit-0008",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "374",
+                    "DOI": "10.1016/j.cardfail.2010.01.001",
+                    "article-title": "Renal function in outpatients with chronic heart failure",
+                    "volume": "16",
+                    "author": "Waldum",
+                    "year": "2010",
+                    "journal-title": "J Card Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0008|bcp13434-cit-0009",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "569",
+                    "DOI": "10.1093/eurheartj/ehi696",
+                    "article-title": "Incidence of renal dysfunction over 6 months in patients with chronic heart failure due to left ventricular systolic dysfunction: contributing factors and relationship to prognosis",
+                    "volume": "27",
+                    "author": "Silva",
+                    "year": "2006",
+                    "journal-title": "Eur Heart J"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0009|bcp13434-cit-0010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "252",
+                    "DOI": "10.1016/j.ijcard.2016.01.167",
+                    "article-title": "Incidence and risk factors for severe renal impairment after first diagnosis of heart failure: a cohort and nested case-control study in UK general practice",
+                    "volume": "207",
+                    "author": "Michel",
+                    "year": "2016",
+                    "journal-title": "Int J Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0010|bcp13434-cit-0011",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "729",
+                    "DOI": "10.1007/s12149-013-0739-z",
+                    "article-title": "Impaired renal function is a major determinant of left ventricular diastolic dysfunction: assessment by stress myocardial perfusion imaging",
+                    "volume": "27",
+                    "author": "Sato",
+                    "year": "2013",
+                    "journal-title": "Ann Nucl Med"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0011|bcp13434-cit-0012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "150",
+                    "DOI": "10.1016/j.ahj.2013.03.016",
+                    "article-title": "Cardiovascular risk factor burden, treatment, and control among adults with chronic kidney disease in the United States",
+                    "volume": "166",
+                    "author": "Foster",
+                    "year": "2013",
+                    "journal-title": "Am Heart J"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0012|bcp13434-cit-0013",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1307",
+                    "DOI": "10.1097/01.ASN.0000123691.46138.E2",
+                    "article-title": "Chronic kidney disease as a risk factor for cardiovascular disease and all-cause mortality: a pooled analysis of community-based studies",
+                    "volume": "15",
+                    "author": "Weiner",
+                    "year": "2004",
+                    "journal-title": "Journal of the American Society of Nephrology : JASN."
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0013|bcp13434-cit-0014",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2069",
+                    "DOI": "10.1093/ndt/gfu199",
+                    "article-title": "The association between glomerular filtration rate and left ventricular function in two independent community-based cohorts of elderly",
+                    "volume": "29",
+                    "author": "Nerpin",
+                    "year": "2014",
+                    "journal-title": "Nephrology Dialysis Transplantation"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0014|bcp13434-cit-0015",
+                    "first-page": "442",
+                    "article-title": "The significance of mild renal dysfunction in chronic heart failure",
+                    "volume": "30",
+                    "author": "Oyedeji",
+                    "year": "2011",
+                    "journal-title": "West Afr J Med"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0015|bcp13434-cit-0016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "199",
+                    "DOI": "10.1016/j.jjcc.2009.05.002",
+                    "article-title": "Left ventricular diastolic dysfunction in the early stage of chronic kidney disease",
+                    "volume": "54",
+                    "author": "Otsuka",
+                    "year": "2009",
+                    "journal-title": "J Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0016|bcp13434-cit-0017",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "17",
+                    "DOI": "10.1016/j.cardfail.2010.08.009",
+                    "article-title": "Symptoms characteristic of heart failure among CKD patients without diagnosed heart failure",
+                    "volume": "17",
+                    "author": "Shlipak",
+                    "year": "2011",
+                    "journal-title": "J Card Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0017|bcp13434-cit-0018",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1527",
+                    "DOI": "10.1016/j.jacc.2008.07.051",
+                    "article-title": "Cardiorenal syndrome",
+                    "volume": "52",
+                    "author": "Ronco Claudio",
+                    "year": "2008",
+                    "journal-title": "J Am Coll Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0018|bcp13434-cit-0019",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "134",
+                    "DOI": "10.1007/s11897-007-0031-4",
+                    "article-title": "Acute cardio-renal syndrome: progression from congestive heart failure to congestive kidney failure",
+                    "volume": "4",
+                    "author": "Wencker",
+                    "year": "2007",
+                    "journal-title": "Curr Heart Fail Rep"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0019|bcp13434-cit-0020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "589",
+                    "DOI": "10.1016/j.jacc.2008.05.068",
+                    "article-title": "Importance of venous congestion for worsening of renal function in advanced decompensated heart failure",
+                    "volume": "53",
+                    "author": "Mullens",
+                    "year": "2009",
+                    "journal-title": "J Am Coll Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0020|bcp13434-cit-0021",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "536",
+                    "DOI": "10.1016/j.lfs.2006.01.045",
+                    "article-title": "Exhaustion of the frank-Starling mechanism in conscious dogs with heart failure induced by chronic coronary microembolization",
+                    "volume": "79",
+                    "author": "Gill",
+                    "year": "2006",
+                    "journal-title": "Life Sci"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0021|bcp13434-cit-0022",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1632",
+                    "DOI": "10.1378/chest.119.6.1632",
+                    "article-title": "The effect of right ventricular dysfunction on left ventricular form and function",
+                    "volume": "119",
+                    "author": "Alpert",
+                    "year": "2001",
+                    "journal-title": "Chest"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0022|bcp13434-cit-0023",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "10",
+                    "DOI": "10.1007/s00392-015-0881-9",
+                    "article-title": "Long-term changes in renal function and perfusion in heart failure patients with reduced ejection fraction",
+                    "volume": "105",
+                    "author": "Schroten",
+                    "year": "2016",
+                    "journal-title": "Clin Res Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0023|bcp13434-cit-0024",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "577",
+                    "DOI": "10.1056/NEJM199908193410806",
+                    "article-title": "Hormones and hemodynamics in heart failure",
+                    "volume": "341",
+                    "author": "Schrier",
+                    "year": "1999",
+                    "journal-title": "N Engl J Med"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0024|bcp13434-cit-0025",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "455",
+                    "DOI": "10.1093/eurheartj/eht386",
+                    "article-title": "Renal impairment, worsening renal function, and outcome in patients with heart failure: an updated meta-analysis",
+                    "volume": "35",
+                    "author": "Damman",
+                    "year": "2014",
+                    "journal-title": "Eur Heart J"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0025|bcp13434-cit-0026",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "122",
+                    "DOI": "10.1159/000047396",
+                    "article-title": "Pathophysiology of sodium and water retention in heart failure",
+                    "volume": "96",
+                    "author": "Cadnapaphornchai",
+                    "year": "2001",
+                    "journal-title": "Cardiology"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0026|bcp13434-cit-0027",
+                    "first-page": "84",
+                    "article-title": "Are thiazide diuretics an effective treatment for hypertension in patients with chronic kidney disease?",
+                    "volume": "101",
+                    "author": "Loyd",
+                    "year": "2008",
+                    "journal-title": "J Okla State Med Assoc"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0027|bcp13434-cit-0028",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "9",
+                    "DOI": "10.2165/00129784-200808010-00002",
+                    "article-title": "Improving BP control with combined renin-angiotensin system blockade and thiazide diuretics in hypertensive patients with diabetes mellitus or kidney disease",
+                    "volume": "8",
+                    "author": "Palmer",
+                    "year": "2008",
+                    "journal-title": "Am J Cardiovasc Drugs"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0028|bcp13434-cit-0029",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "299",
+                    "DOI": "10.1016/j.jash.2012.07.004",
+                    "article-title": "Thiazide diuretics in advanced chronic kidney disease",
+                    "volume": "6",
+                    "author": "Agarwal",
+                    "year": "2012",
+                    "journal-title": "Journal of the American Society of Hypertension : JASH"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0029|bcp13434-cit-0030",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2195",
+                    "DOI": "10.1097/01.ASN.0000135121.81744.75",
+                    "article-title": "Renal function, digoxin therapy, and heart failure outcomes: evidence from the digoxin intervention group trial",
+                    "volume": "15",
+                    "author": "Shlipak",
+                    "year": "2004",
+                    "journal-title": "Journal of the American Society of Nephrology : JASN"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0030|bcp13434-cit-0031",
+                    "first-page": "650",
+                    "article-title": "Effect of ACE-inhibitors on changes in creatinine in the blood - introduction",
+                    "volume": "45",
+                    "author": "Sevela",
+                    "year": "1999",
+                    "journal-title": "Vnitr Lek"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0031|bcp13434-cit-0032",
+                    "first-page": "41",
+                    "article-title": "ACE inhibitor use and elevated creatinine levels",
+                    "volume": "68",
+                    "author": "Steinberg",
+                    "year": "2003",
+                    "journal-title": "Am Fam Physician"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0032|bcp13434-cit-0033",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "853",
+                    "DOI": "10.1016/j.jacc.2013.11.031",
+                    "article-title": "Current evidence on treatment of patients with chronic systolic heart failure and renal insufficiency: practical considerations from published data",
+                    "volume": "63",
+                    "author": "Damman",
+                    "year": "2014",
+                    "journal-title": "J Am Coll Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0033|bcp13434-cit-0034",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "897",
+                    "DOI": "10.1097/00005344-199406000-00007",
+                    "article-title": "Vasoconstrictors and renal protection induced by beta 1-selective adrenoceptor antagonist bisoprolol",
+                    "volume": "23",
+                    "author": "Uehara",
+                    "year": "1994",
+                    "journal-title": "J Cardiovasc Pharmacol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0034|bcp13434-cit-0035",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "107",
+                    "DOI": "10.1007/BF00870997",
+                    "article-title": "Acute changes in renal function induced by bisoprolol, a new cardioselective beta-blocking agent",
+                    "volume": "31",
+                    "author": "Gluck",
+                    "year": "1986",
+                    "journal-title": "Eur J Clin Pharmacol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0035|bcp13434-cit-0036",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1080/00365517809156082",
+                    "article-title": "Renal plasma flow and cardiac output during hydralazine and propranolol treatment in essential hypertension",
+                    "volume": "38",
+                    "author": "Falch",
+                    "year": "1978",
+                    "journal-title": "Scand J Clin Lab Invest"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0036|bcp13434-cit-0037",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1260",
+                    "DOI": "10.1007/BF02877772",
+                    "article-title": "Medium-term effects of bisoprolol administration on renal hemodynamics and function in mild to moderate essential hypertension",
+                    "volume": "24",
+                    "author": "Paterna",
+                    "year": "2007",
+                    "journal-title": "Adv Ther"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0037|bcp13434-cit-0038",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "591",
+                    "DOI": "10.2165/11315250-000000000-00000",
+                    "article-title": "One-year renal and cardiac effects of bisoprolol versus losartan in recently diagnosed hypertensive patients: a randomized, double-blind study",
+                    "volume": "29",
+                    "author": "Parrinello",
+                    "year": "2009",
+                    "journal-title": "Clin Drug Investig"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0038|bcp13434-cit-0039",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "607",
+                    "DOI": "10.1093/eurjhf/hfq038",
+                    "article-title": "Improved survival with bisoprolol in patients with heart failure and renal impairment: an analysis of the cardiac insufficiency bisoprolol study II (CIBIS-II) trial",
+                    "volume": "12",
+                    "author": "Castagno",
+                    "year": "2010",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0039|bcp13434-cit-0040",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "148S",
+                    "DOI": "10.1093/ajh/6.4S.148S",
+                    "article-title": "Comparative renal hemodynamic effects of lisinopril, verapamil, and amlodipine in patients with chronic renal failure",
+                    "volume": "6",
+                    "author": "August",
+                    "year": "1993",
+                    "journal-title": "Am J Hypertens"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0040|bcp13434-cit-0041",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "210",
+                    "DOI": "10.3109/10641963.2011.583965",
+                    "article-title": "Amlodipine and loop diuretics as the second anti-hypertensive medication for the treatment of hypertension with chronic kidney diseases",
+                    "volume": "33",
+                    "author": "Takenaka",
+                    "year": "2011",
+                    "journal-title": "Clin Exp Hypertens"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0041|bcp13434-cit-0042",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "216",
+                    "DOI": "10.2337/diab.45.2.216",
+                    "article-title": "Effects of cilazapril and amlodipine on kidney function in hypertensive NIDDM patients",
+                    "volume": "45",
+                    "author": "Velussi",
+                    "year": "1996",
+                    "journal-title": "Diabetes"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0042|bcp13434-cit-0043",
+                    "first-page": "806",
+                    "article-title": "Effect of the novel T-selective calcium channel antagonist mibefradil on kidney function in comparison with amlodipine",
+                    "volume": "48",
+                    "author": "Greven",
+                    "year": "1998",
+                    "journal-title": "Arzneimittelforschung"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0043|bcp13434-cit-0044",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "487",
+                    "DOI": "10.1038/sj.jhh.1001579",
+                    "article-title": "Nitrendipine and amlodipine mimic the acute effects of enalapril on renal haemodynamics and reduce glomerular hyperfiltration in patients with chronic kidney disease",
+                    "volume": "17",
+                    "author": "Morrone",
+                    "year": "2003",
+                    "journal-title": "J Hum Hypertens"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0044|bcp13434-cit-0045",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "909",
+                    "DOI": "10.1016/j.ejheart.2004.02.005",
+                    "article-title": "Acute administration of diclofenac, but possibly not long term low dose aspirin, causes detrimental renal effects in heart failure patients treated with ACE-inhibitors",
+                    "volume": "6",
+                    "author": "Juhlin",
+                    "year": "2004",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0045|bcp13434-cit-0046",
+                    "first-page": "795",
+                    "article-title": "Further definition of the role of COX-2 inhibitors and NSAIDs in patients with nociceptive pain",
+                    "volume": "151",
+                    "author": "Bijlsma",
+                    "year": "2007",
+                    "journal-title": "Ned Tijdschr Geneeskd"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0046|bcp13434-cit-0047",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "316",
+                    "DOI": "10.1161/01.CIR.61.2.316",
+                    "article-title": "Renal effects of nitroprusside and hydralazine in patients with congestive heart failure",
+                    "volume": "61",
+                    "author": "Cogan",
+                    "year": "1980",
+                    "journal-title": "Circulation"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0047|bcp13434-cit-0048",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1747",
+                    "DOI": "10.1161/CIRCULATIONAHA.106.644013",
+                    "article-title": "Early and sustained benefit on event-free survival and heart failure hospitalization from fixed-dose combination of isosorbide dinitrate/hydralazine: consistency across subgroups in the African-American heart failure trial",
+                    "volume": "115",
+                    "author": "Taylor",
+                    "year": "2007",
+                    "journal-title": "Circulation"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0048|bcp13434-cit-0049",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1907",
+                    "DOI": "10.1007/s11255-011-9989-7",
+                    "article-title": "Hydralazine-induced ANCA vasculitis with pulmonary renal syndrome: a rare clinical presentation",
+                    "volume": "44",
+                    "author": "Marina",
+                    "year": "2012",
+                    "journal-title": "Int Urol Nephrol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0049|bcp13434-cit-0050",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "311",
+                    "DOI": "10.1007/BF00565619",
+                    "article-title": "Studies on hydralazine. II. Elimination rate and steady-state concentration in patients with impaired renal function",
+                    "volume": "10",
+                    "author": "Talseth",
+                    "year": "1976",
+                    "journal-title": "Eur J Clin Pharmacol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0050|bcp13434-cit-0051",
+                    "first-page": "c179",
+                    "article-title": "KDIGO clinical practice guidelines for acute kidney injury",
+                    "volume": "120",
+                    "author": "Khwaja",
+                    "year": "2012",
+                    "journal-title": "Nephron Clin Pract"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0051|bcp13434-cit-0052",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "847",
+                    "DOI": "10.1093/eurjhf/hfp108",
+                    "article-title": "Both in- and out-hospital worsening of renal function predict outcome in patients with heart failure: results from the coordinating study evaluating outcome of advising and counseling in heart failure (COACH)",
+                    "volume": "11",
+                    "author": "Damman",
+                    "year": "2009",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0052|bcp13434-cit-0053",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1508",
+                    "DOI": "10.1002/ejhf.609",
+                    "article-title": "Worsening renal function and outcome in heart failure patients with reduced and preserved ejection fraction and the impact of angiotensin receptor blocker treatment: data from the CHARM-study programme",
+                    "volume": "18",
+                    "author": "Damman",
+                    "year": "2016",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0053|bcp13434-cit-0054",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "407",
+                    "DOI": "10.1016/j.ahj.2011.12.003",
+                    "article-title": "Incidence, clinical predictors, and prognostic impact of worsening renal function in elderly patients with chronic heart failure on intensive medical therapy",
+                    "volume": "163",
+                    "author": "Maeder",
+                    "year": "2012",
+                    "journal-title": "Am Heart J"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0054|bcp13434-cit-0055",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "584",
+                    "DOI": "10.1016/j.amjcard.2006.10.013",
+                    "article-title": "Modification of diet in renal disease (MDRD) estimated glomerular filtration rate (eGFR) formula",
+                    "volume": "99",
+                    "author": "Hafez",
+                    "year": "2007",
+                    "journal-title": "Am J Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0055|bcp13434-cit-0056",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "358",
+                    "DOI": "10.5414/CNP74358",
+                    "article-title": "Comparison of estimated glomerular filtration rate (eGFR) using the MDRD and CKD-EPI equations for CKD screening in a large population",
+                    "volume": "74",
+                    "author": "Giavarina",
+                    "year": "2010",
+                    "journal-title": "Clin Nephrol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0056|bcp13434-cit-0057",
+                    "first-page": "ii131",
+                    "article-title": "Renal function and long-term survival after hospital discharge in heart failure with preserved ejection fraction",
+                    "volume": "8",
+                    "author": "Buiciuc",
+                    "year": "2009",
+                    "journal-title": "Eur J Heart Failure, Suppl"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0057|bcp13434-cit-0058",
+                    "first-page": "1",
+                    "article-title": "KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease",
+                    "volume": "3",
+                    "author": "Group KDIGOKCW",
+                    "year": "2013",
+                    "journal-title": "Kidney Int Suppl"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0058|bcp13434-cit-0059",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "373",
+                    "DOI": "10.1053/j.ajkd.2007.11.009",
+                    "article-title": "Prevalence and factors associated with CKD: a population study from Beijing",
+                    "volume": "51",
+                    "author": "Zhang",
+                    "year": "2008",
+                    "journal-title": "Am J Kidney Dis"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0059|bcp13434-cit-0060",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "657",
+                    "DOI": "10.1016/j.ijcard.2015.09.090",
+                    "article-title": "Magnitude of rate of change in kidney function and future risk of cardiovascular events",
+                    "volume": "202",
+                    "author": "Turin",
+                    "year": "2016",
+                    "journal-title": "Int J Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0060|bcp13434-cit-0061",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "484",
+                    "DOI": "10.1016/j.ijcard.2014.04.162",
+                    "article-title": "Worsening renal function in heart failure: the need for a consensus definition",
+                    "volume": "174",
+                    "author": "Sheerin",
+                    "year": "2014",
+                    "journal-title": "Int J Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0061|bcp13434-cit-0062",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "D1054",
+                    "DOI": "10.1093/nar/gkv1037",
+                    "article-title": "The IUPHAR/BPS guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands",
+                    "volume": "44",
+                    "author": "Southan",
+                    "year": "2016",
+                    "journal-title": "Nucl Acids Res"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0062|bcp13434-cit-0063",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "6110",
+                    "DOI": "10.1111/bph.13355",
+                    "article-title": "The Concise Guide to PHARMACOLOGY 2015/16: Transporters",
+                    "volume": "172",
+                    "author": "Alexander",
+                    "year": "2015",
+                    "journal-title": "Br J Pharmacol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0063|bcp13434-cit-0064",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1259",
+                    "DOI": "10.1016/S0002-9149(99)80353-1",
+                    "article-title": "Effects of adding spironolactone to an angiotensin-converting enzyme inhibitor in chronic congestive heart failure secondary to coronary artery disease",
+                    "volume": "76",
+                    "author": "Barr",
+                    "year": "1995",
+                    "journal-title": "Am J Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0064|bcp13434-cit-0065",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "495",
+                    "DOI": "10.1016/S1388-9842(01)00173-8",
+                    "article-title": "Practical recommendations for the use of ACE inhibitors, beta-blockers and spironolactone in heart failure: putting guidelines into practice",
+                    "volume": "3",
+                    "author": "McMurray",
+                    "year": "2001",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0065|bcp13434-cit-0066",
+                    "unstructured": "Scottish Intercollegiate Guideline Network (SIGN) Management of chronic heart failure: a national clinical guideline 2016 http://www.sign.ac.uk/assets/sign147.pdf"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0066|bcp13434-cit-0067",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "710",
+                    "DOI": "10.1016/j.ejheart.2005.07.002",
+                    "article-title": "Practical recommendations for the use of ACE inhibitors, beta-blockers, aldosterone antagonists and angiotensin receptor blockers in heart failure: putting guidelines into practice",
+                    "volume": "7",
+                    "author": "McMurray",
+                    "year": "2005",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0067|bcp13434-cit-0068",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2129",
+                    "DOI": "10.1093/eurheartj/ehw128",
+                    "article-title": "2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure: the task force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC)developed with the special contribution of the heart failure association (HFA) of the ESC",
+                    "volume": "37",
+                    "author": "Ponikowski",
+                    "year": "2016",
+                    "journal-title": "Eur Heart J"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0068|bcp13434-cit-0069",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "E147",
+                    "DOI": "10.1016/j.jacc.2013.05.019",
+                    "article-title": "2013 ACCF/AHA guideline for the Management of Heart Failure a Report of the American College of Cardiology Foundation/American Heart Association task force on practice guidelines",
+                    "volume": "62",
+                    "author": "Yancy",
+                    "year": "2013",
+                    "journal-title": "J Am Coll Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0069|bcp13434-cit-0070",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "543",
+                    "DOI": "10.1056/NEJMoa040135",
+                    "article-title": "Rates of hyperkalemia after publication of the randomized Aldactone evaluation study",
+                    "volume": "351",
+                    "author": "Juurlink",
+                    "year": "2004",
+                    "journal-title": "N Engl J Med"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0070|bcp13434-cit-0071",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "456",
+                    "DOI": "10.1159/000437151",
+                    "article-title": "Serum potassium, end-stage renal disease and mortality in chronic kidney disease",
+                    "volume": "41",
+                    "author": "Nakhoul",
+                    "year": "2015",
+                    "journal-title": "Am J Nephrol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0071|bcp13434-cit-0072",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "299",
+                    "DOI": "10.1177/2047487313510678",
+                    "article-title": "The effect of ramipril and telmisartan on serum potassium and its association with cardiovascular and renal events: results from the ONTARGET trial",
+                    "volume": "21",
+                    "author": "Heerspink",
+                    "year": "2014",
+                    "journal-title": "Eur J Prev Cardiol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0072|bcp13434-cit-0073",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "328",
+                    "DOI": "10.1002/ejhf.462",
+                    "article-title": "Loop diuretics, renal function and clinical outcome in patients with heart failure and reduced ejection fraction",
+                    "volume": "18",
+                    "author": "Damman",
+                    "year": "2016",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0073|bcp13434-cit-0074",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "159",
+                    "DOI": "10.1002/ejhf.210",
+                    "article-title": "Impact of worsening renal function related to medication in heart failure",
+                    "volume": "17",
+                    "author": "Brunner-La Rocca",
+                    "year": "2015",
+                    "journal-title": "Eur J Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0074|bcp13434-cit-0075",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1124",
+                    "DOI": "10.1161/CIRCHEARTFAILURE.113.000553",
+                    "article-title": "Incidence and predictors of end-stage renal disease in outpatients with systolic heart failure",
+                    "volume": "6",
+                    "author": "Bosselmann",
+                    "year": "2013",
+                    "journal-title": "Circ Heart Fail"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0075|bcp13434-cit-0076",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "360",
+                    "DOI": "10.7326/0003-4819-115-5-360",
+                    "article-title": "Loop diuretics for chronic renal insufficiency: a continuous infusion is more efficacious than bolus therapy",
+                    "volume": "115",
+                    "author": "Rudy",
+                    "year": "1991",
+                    "journal-title": "Ann Intern Med"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0076|bcp13434-cit-0077",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "17",
+                    "DOI": "10.5049/EBP.2015.13.1.17",
+                    "article-title": "Loop diuretics in clinical practice",
+                    "volume": "13",
+                    "author": "Oh",
+                    "year": "2015",
+                    "journal-title": "Electrolyte Blood Pressure"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0077|bcp13434-cit-0078",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "237",
+                    "DOI": "10.1001/jama.1983.03330260055032",
+                    "article-title": "Response of thiazide-induced hypokalemia to amiloride",
+                    "volume": "249",
+                    "author": "Maronde",
+                    "year": "1983",
+                    "journal-title": "JAMA"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0078|bcp13434-cit-0079",
+                    "first-page": "438",
+                    "article-title": "Resistance to loop diuretics in clinical practice",
+                    "volume": "6",
+                    "author": "Gobin",
+                    "year": "2010",
+                    "journal-title": "Rev Med Suisse"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0079|bcp13434-cit-0080",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "214",
+                    "DOI": "10.1016/j.jchf.2014.11.004",
+                    "article-title": "Early and late effects of high- versus low-dose angiotensin receptor blockade on renal function and outcomes in patients with chronic heart failure",
+                    "volume": "3",
+                    "author": "Kiernan",
+                    "year": "2015",
+                    "journal-title": "JACC Heart failure"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0080|bcp13434-cit-0081",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "DOI": "10.1111/jcpt.12109",
+                    "article-title": "Onset time of hyperkalaemia after angiotensin receptor blocker initiation: when should we start serum potassium monitoring?",
+                    "volume": "39",
+                    "author": "Park",
+                    "year": "2014",
+                    "journal-title": "J Clin Pharm Therapeut"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0081|bcp13434-cit-0082",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "684",
+                    "DOI": "10.1038/ki.2012.443",
+                    "article-title": "Change in the estimated glomerular filtration rate over time and risk of all-cause mortality",
+                    "volume": "83",
+                    "author": "Turin",
+                    "year": "2013",
+                    "journal-title": "Kidney Int"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0082|bcp13434-cit-0083",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2625",
+                    "DOI": "10.1681/ASN.2009050546",
+                    "article-title": "Rapid decline of kidney function increases cardiovascular risk in the elderly",
+                    "volume": "20",
+                    "author": "Shlipak",
+                    "year": "2009",
+                    "journal-title": "J Am Soc Nephrol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0083|bcp13434-cit-0084",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1961",
+                    "DOI": "10.1681/ASN.2009121210",
+                    "article-title": "Rate of kidney function decline associates with mortality",
+                    "volume": "21",
+                    "author": "Al-Aly",
+                    "year": "2010",
+                    "journal-title": "J Am Soc Nephrol"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0084|bcp13434-cit-0085",
+                    "author": "Reid",
+                    "volume": "10",
+                    "year": "2015",
+                    "article-title": "The prognostic importance of changes in renal function during treatment for acute heart failure depends on admission renal function",
+                    "journal-title": "PLoS One",
+                    "DOI": "10.1371/journal.pone.0138579",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0085|bcp13434-cit-0086",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "979",
+                    "DOI": "10.1093/qjmed/hct159",
+                    "article-title": "The connected health of cardiovascular medicine: current status and future directions",
+                    "volume": "106",
+                    "author": "Ansary",
+                    "year": "2013",
+                    "journal-title": "QJM"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0086|bcp13434-cit-0087",
+                    "first-page": "489",
+                    "article-title": "Diagnostic algorithm and therapeutic options in chronic heart failure: updated review of clinical practice guidelines",
+                    "volume": "118",
+                    "author": "Gajos",
+                    "year": "2008",
+                    "journal-title": "Pol Arch Med Wewn"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0087|bcp13434-cit-0088",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "316",
+                    "DOI": "10.1136/jamia.1995.96073834",
+                    "article-title": "Computerizing guidelines to improve care and patient outcomes: the example of heart failure",
+                    "volume": "2",
+                    "author": "Tierney",
+                    "year": "1995",
+                    "journal-title": "J Am Med Inform Assoc"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0088|bcp13434-cit-0089",
+                    "unstructured": "DeepMind Technologies Limited How we're helping today. DeepMind 2016 https://deepmind.com/applied/deepmind-health/working-nhs/how-were-helping-today/"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0089|bcp13434-cit-0090",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "427",
+                    "DOI": "10.1080/00325481.2016.1170580",
+                    "article-title": "mHealth intervention to improve medication management in chronically ill patients: analysis of the recruitment process",
+                    "volume": "128",
+                    "author": "Anglada-Martinez",
+                    "year": "2016",
+                    "journal-title": "Postgrad Med"
+                },
+                {
+                    "key": "10.1111/bcp.13434-BIB0090|bcp13434-cit-0091",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1296",
+                    "DOI": "10.1056/NEJMoa041031",
+                    "article-title": "Chronic kidney disease and the risks of death, cardiovascular events, and hospitalization",
+                    "volume": "351",
+                    "author": "Go",
+                    "year": "2004",
+                    "journal-title": "N Engl J Med"
+                }
+            ],
+            "container-title": "British Journal of Clinical Pharmacology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbcp.13434",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/bcp.13434/fullpdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        23
+                    ]
+                ],
+                "date-time": "2017-12-23T08:55:46Z",
+                "timestamp": 1514019346000
+            },
+            "score": 1.0,
+            "subtitle": [
+                "Frequency of renal monitoring in heart failure"
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        10,
+                        22
+                    ]
+                ]
+            },
+            "references-count": 90,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "URL": "http://dx.doi.org/10.1111/bcp.13434",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0306-5251"
+            ],
+            "container-title-short": "Br J Clin Pharmacol"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "clinical decision systems",
+                        "diuretics",
+                        "drug safety",
+                        "heart failure",
+                        "kidney failure",
+                        "renal function monitoring"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28901643",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "08",
+                    "Day": "06"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "04",
+                    "Day": "21"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1111/bcp.13434"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "10",
+                            "Day": "22"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1365-2125",
+                        "JournalIssue": {
+                            "Volume": "84",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "British journal of clinical pharmacology",
+                        "ISOAbbreviation": "Br J Clin Pharmacol"
+                    },
+                    "ArticleTitle": "Renal function monitoring in heart failure - what is the optimal frequency? A narrative review.",
+                    "Pagination": {
+                        "MedlinePgn": "5-17"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The second most common cause of hospitalization due to adverse drug reactions in the UK is renal dysfunction due to diuretics, particularly in patients with heart failure, where diuretic therapy is a mainstay of treatment regimens. Therefore, the optimal frequency for monitoring renal function in these patients is an important consideration for preventing renal failure and hospitalization. This review looks at the current evidence for optimal monitoring practices of renal function in patients with heart failure according to national and international guidelines on the management of heart failure (AHA/NICE/ESC/SIGN). Current guidance of renal function monitoring is in large part based on expert opinion, with a lack of clinical studies that have specifically evaluated the optimal frequency of renal function monitoring in patients with heart failure. Furthermore, there is variability between guidelines, and recommendations are typically nonspecific. Safer prescribing of diuretics in combination with other antiheart failure treatments requires better evidence for frequency of renal function monitoring. We suggest developing more personalized monitoring rather than from the current medication-based guidance. Such flexible clinical guidelines could be implemented using intelligent clinical decision support systems. Personalized renal function monitoring would be more effective in preventing renal decline, rather than reacting to it."
+                        ],
+                        "CopyrightInformation": "\u00a9 2017 The Authors. British Journal of Clinical Pharmacology published by John Wiley & Sons Ltd on behalf of British Pharmacological Society."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Wolfson Centre for Personalised Medicine, The University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-7057-0437"
+                            ],
+                            "LastName": "Al-Naher",
+                            "ForeName": "Ahmed",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Cardiovascular Medicine and Science, Liverpool Heart and Chest Hospital, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wright",
+                            "ForeName": "David",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Renal and Transplant Unit, Nottingham University Hospitals NHS Trust, Nottingham, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Devonald",
+                            "ForeName": "Mark Alexander John",
+                            "Initials": "MAJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Wolfson Centre for Personalised Medicine, The University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L006758/1",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Br J Clin Pharmacol",
+                    "NlmUniqueID": "7503323",
+                    "ISSNLinking": "0306-5251"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Angiotensin-Converting Enzyme Inhibitors"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Biomarkers"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Diuretics"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "diagnosis",
+                            "prevention & control",
+                            "urine"
+                        ],
+                        "DescriptorName": "Acute Kidney Injury",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Angiotensin-Converting Enzyme Inhibitors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "analysis"
+                        ],
+                        "DescriptorName": "Biomarkers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Decision Support Systems, Clinical",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Diuretics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "methods"
+                        ],
+                        "DescriptorName": "Drug Therapy, Combination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Glomerular Filtration Rate",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "physiopathology",
+                            "urine"
+                        ],
+                        "DescriptorName": "Heart Failure",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Hospitalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug effects",
+                            "physiopathology"
+                        ],
+                        "DescriptorName": "Kidney",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Practice Guidelines as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Clin Exp Hypertens. 2011;33(4):210-5",
+                                "ArticleIdList": [
+                                    "21699446"
+                                ]
+                            },
+                            {
+                                "Citation": "J Cardiovasc Pharmacol. 1994 Jun;23(6):897-906",
+                                "ArticleIdList": [
+                                    "7523781"
+                                ]
+                            },
+                            {
+                                "Citation": "J Card Fail. 2011 Jan;17(1):17-23",
+                                "ArticleIdList": [
+                                    "21187260"
+                                ]
+                            },
+                            {
+                                "Citation": "Arzneimittelforschung. 1998 Aug;48(8):806-10",
+                                "ArticleIdList": [
+                                    "9748707"
+                                ]
+                            },
+                            {
+                                "Citation": "Life Sci. 2006 Jul 4;79(6):536-44",
+                                "ArticleIdList": [
+                                    "16624328"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 2009 Feb 17;53(7):589-596",
+                                "ArticleIdList": [
+                                    "19215833"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Soc Nephrol. 2010 Nov;21(11):1961-9",
+                                "ArticleIdList": [
+                                    "20947634"
+                                ]
+                            },
+                            {
+                                "Citation": "J Hum Hypertens. 2003 Jul;17(7):487-93",
+                                "ArticleIdList": [
+                                    "12821956"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Kidney Dis. 2008 Mar;51(3):373-84",
+                                "ArticleIdList": [
+                                    "18295053"
+                                ]
+                            },
+                            {
+                                "Citation": "Pol Arch Med Wewn. 2008 Sep;118(9):489-500",
+                                "ArticleIdList": [
+                                    "18846984"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 2008 Nov 4;52(19):1527-39",
+                                "ArticleIdList": [
+                                    "19007588"
+                                ]
+                            },
+                            {
+                                "Citation": "Circ Heart Fail. 2013 Nov;6(6):1124-31",
+                                "ArticleIdList": [
+                                    "24141097"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Heart J. 2014 Feb;35(7):455-69",
+                                "ArticleIdList": [
+                                    "24164864"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Heart J. 2013 Jul;166(1):150-6",
+                                "ArticleIdList": [
+                                    "23816034"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2004 Aug 5;351(6):543-51",
+                                "ArticleIdList": [
+                                    "15295047"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Heart Fail Rep. 2007 Sep;4(3):134-8",
+                                "ArticleIdList": [
+                                    "17883988"
+                                ]
+                            },
+                            {
+                                "Citation": "Nephrol Dial Transplant. 2014 Nov;29(11):2069-74",
+                                "ArticleIdList": [
+                                    "24916339"
+                                ]
+                            },
+                            {
+                                "Citation": "Circulation. 2007 Apr 3;115(13):1747-53",
+                                "ArticleIdList": [
+                                    "17372175"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2004 Sep 23;351(13):1296-305",
+                                "ArticleIdList": [
+                                    "15385656"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Heart J. 2016 Jul 14;37(27):2129-2200",
+                                "ArticleIdList": [
+                                    "27206819"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 2004 Oct 19;44(8):1587-92",
+                                "ArticleIdList": [
+                                    "15489090"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2010 Jun;12(6):607-16",
+                                "ArticleIdList": [
+                                    "20354032"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2004 Dec;6(7):909-16",
+                                "ArticleIdList": [
+                                    "15556053"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Cardiol. 2014 Jul 1;174(3):484-91",
+                                "ArticleIdList": [
+                                    "24801076"
+                                ]
+                            },
+                            {
+                                "Citation": "Scand J Clin Lab Invest. 1978 Apr;38(2):143-6",
+                                "ArticleIdList": [
+                                    "653302"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Intern Med. 1991 Sep 1;115(5):360-6",
+                                "ArticleIdList": [
+                                    "1863026"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Soc Nephrol. 2009 Dec;20(12):2625-30",
+                                "ArticleIdList": [
+                                    "19892934"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Urol Nephrol. 2012 Dec;44(6):1907-9",
+                                "ArticleIdList": [
+                                    "21590349"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2015 Feb;17(2):159-68",
+                                "ArticleIdList": [
+                                    "25808849"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes. 1996 Feb;45(2):216-22",
+                                "ArticleIdList": [
+                                    "8549868"
+                                ]
+                            },
+                            {
+                                "Citation": "Vnitr Lek. 1999 Nov;45(11):650-4",
+                                "ArticleIdList": [
+                                    "10951856"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Fam Physician. 2003 Jul 1;68(1):41; author reply 41-2",
+                                "ArticleIdList": [
+                                    "12887111"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2016 Mar;18(3):328-36",
+                                "ArticleIdList": [
+                                    "26693947"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Cardiol. 2011 Mar 3;147(2):278-82",
+                                "ArticleIdList": [
+                                    "19896733"
+                                ]
+                            },
+                            {
+                                "Citation": "JACC Heart Fail. 2015 Mar;3(3):214-23",
+                                "ArticleIdList": [
+                                    "25742759"
+                                ]
+                            },
+                            {
+                                "Citation": "Nephron Clin Pract. 2012;120(4):c179-84",
+                                "ArticleIdList": [
+                                    "22890468"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2015 Sep 18;10(9):e0138579",
+                                "ArticleIdList": [
+                                    "26380982"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 2014 Mar 11;63(9):853-71",
+                                "ArticleIdList": [
+                                    "24334210"
+                                ]
+                            },
+                            {
+                                "Citation": "Rev Med Suisse. 2010 Mar 3;6(238):438-42",
+                                "ArticleIdList": [
+                                    "20344993"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Cardiol. 2007 Feb 15;99(4):584",
+                                "ArticleIdList": [
+                                    "17293208"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Clin Pharmacol. 1986;31(1):107-11",
+                                "ArticleIdList": [
+                                    "2877882"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2016 Dec;18(12):1508-1517",
+                                "ArticleIdList": [
+                                    "27427441"
+                                ]
+                            },
+                            {
+                                "Citation": "Kidney Int. 2013 Apr;83(4):684-91",
+                                "ArticleIdList": [
+                                    "23344477"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Heart J. 2006 Mar;27(5):569-81",
+                                "ArticleIdList": [
+                                    "16364971"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Hypertens. 1993 Apr;6(4):148S-154S",
+                                "ArticleIdList": [
+                                    "8389563"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Pharmacol. 2015 Dec;172(24):6110-202",
+                                "ArticleIdList": [
+                                    "26650446"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Clin Pharmacol. 1976 Sep 30;10(5):311-7",
+                                "ArticleIdList": [
+                                    "976304"
+                                ]
+                            },
+                            {
+                                "Citation": "Chest. 2001 Jun;119(6):1632-3",
+                                "ArticleIdList": [
+                                    "11399682"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Cardiol. 1995 Dec 15;76(17):1259-65",
+                                "ArticleIdList": [
+                                    "7503007"
+                                ]
+                            },
+                            {
+                                "Citation": "Cardiology. 2001;96(3-4):122-31",
+                                "ArticleIdList": [
+                                    "11805379"
+                                ]
+                            },
+                            {
+                                "Citation": "Circulation. 1980 Feb;61(2):316-23",
+                                "ArticleIdList": [
+                                    "7351056"
+                                ]
+                            },
+                            {
+                                "Citation": "J Cardiol. 2009 Oct;54(2):199-204",
+                                "ArticleIdList": [
+                                    "19782256"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Nucl Med. 2013 Oct;27(8):729-36",
+                                "ArticleIdList": [
+                                    "23712332"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2005 Aug;7(5):710-21",
+                                "ArticleIdList": [
+                                    "16087129"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2004 Jul 3;329(7456):15-9",
+                                "ArticleIdList": [
+                                    "15231615"
+                                ]
+                            },
+                            {
+                                "Citation": "Electrolyte Blood Press. 2015 Jun;13(1):17-21",
+                                "ArticleIdList": [
+                                    "26240596"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Nephrol. 2010 Nov;74(5):358-63",
+                                "ArticleIdList": [
+                                    "20979944"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Prev Cardiol. 2014 Mar;21(3):299-309",
+                                "ArticleIdList": [
+                                    "24191305"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Cardiol. 2016 Jan 1;202:657-65",
+                                "ArticleIdList": [
+                                    "26453813"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 2013 Oct 15;62(16):e147-239",
+                                "ArticleIdList": [
+                                    "23747642"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Soc Hypertens. 2012 Sep-Oct;6(5):299-308",
+                                "ArticleIdList": [
+                                    "22951101"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA. 1983 Jan 14;249(2):237-41",
+                                "ArticleIdList": [
+                                    "6848810"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2009 Sep;11(9):847-54",
+                                "ArticleIdList": [
+                                    "19696057"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Drug Investig. 2009;29(9):591-600",
+                                "ArticleIdList": [
+                                    "19663521"
+                                ]
+                            },
+                            {
+                                "Citation": "J Okla State Med Assoc. 2008 May;101(5):84-5",
+                                "ArticleIdList": [
+                                    "18678203"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1999 Aug 19;341(8):577-85",
+                                "ArticleIdList": [
+                                    "10451464"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Cardiovasc Drugs. 2008;8(1):9-14",
+                                "ArticleIdList": [
+                                    "18303933"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Nephrol. 2015;41(6):456-63",
+                                "ArticleIdList": [
+                                    "26228532"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Res Cardiol. 2016 Jan;105(1):10-6",
+                                "ArticleIdList": [
+                                    "26123828"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Ther. 2007 Nov-Dec;24(6):1260-70",
+                                "ArticleIdList": [
+                                    "18165208"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Med Inform Assoc. 1995 Sep-Oct;2(5):316-22",
+                                "ArticleIdList": [
+                                    "7496881"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Heart J. 2012 Mar;163(3):407-14, 414.e1",
+                                "ArticleIdList": [
+                                    "22424011"
+                                ]
+                            },
+                            {
+                                "Citation": "Ned Tijdschr Geneeskd. 2007 Apr 7;151(14):795-8",
+                                "ArticleIdList": [
+                                    "17469317"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Soc Nephrol. 2004 Aug;15(8):2195-203",
+                                "ArticleIdList": [
+                                    "15284305"
+                                ]
+                            },
+                            {
+                                "Citation": "J Card Fail. 2010 May;16(5):374-80",
+                                "ArticleIdList": [
+                                    "20447572"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Pharm Ther. 2014 Feb;39(1):61-8",
+                                "ArticleIdList": [
+                                    "24262001"
+                                ]
+                            },
+                            {
+                                "Citation": "Nucleic Acids Res. 2016 Jan 4;44(D1):D1054-68",
+                                "ArticleIdList": [
+                                    "26464438"
+                                ]
+                            },
+                            {
+                                "Citation": "Postgrad Med. 2016 May;128(4):427-31",
+                                "ArticleIdList": [
+                                    "27007065"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Soc Nephrol. 2004 May;15(5):1307-15",
+                                "ArticleIdList": [
+                                    "15100371"
+                                ]
+                            },
+                            {
+                                "Citation": "QJM. 2013 Nov;106(11):979-82",
+                                "ArticleIdList": [
+                                    "23904521"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 2006 May 16;47(10):1987-96",
+                                "ArticleIdList": [
+                                    "16697315"
+                                ]
+                            },
+                            {
+                                "Citation": "West Afr J Med. 2011 Nov-Dec;30(6):442-6",
+                                "ArticleIdList": [
+                                    "22786862"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Heart Fail. 2001 Aug;3(4):495-502",
+                                "ArticleIdList": [
+                                    "11511437"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Cardiol. 2016 Mar 15;207:252-7",
+                                "ArticleIdList": [
+                                    "26808987"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "04",
+                        "Day": "23"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "08",
+                        "Day": "31"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "09",
+                        "Day": "05"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "9",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "9",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28901643",
+                    "10.1111/bcp.13434",
+                    "PMC5736847"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28901643)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828901643%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828901643%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85031740068"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85031740068?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85031740068&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85031740068&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85031740068",
+                        "dc:identifier": "SCOPUS_ID:85031740068",
+                        "eid": "2-s2.0-85031740068",
+                        "dc:title": "Renal function monitoring in heart failure \u2013 what is the optimal frequency? A narrative review",
+                        "dc:creator": "Al-Naher A.",
+                        "prism:publicationName": "British Journal of Clinical Pharmacology",
+                        "prism:issn": "03065251",
+                        "prism:eIssn": "13652125",
+                        "prism:volume": "84",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "5-17",
+                        "prism:coverDate": "2018-01-01",
+                        "prism:coverDisplayDate": "January 2018",
+                        "prism:doi": "10.1111/bcp.13434",
+                        "citedby-count": "7",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28901643",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "20082",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "M53EJBD9.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28901643"
+            }
+        },
+        "title": "Renal function monitoring in heart failure - what is the optimal frequency? A narrative review.",
+        "full_author_list": [
+            {
+                "clean": "Al-Naher A",
+                "family": "Al-Naher",
+                "given": "Ahmed",
+                "affiliation": {
+                    "name": "The Wolfson Centre for Personalised Medicine, The University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wright D",
+                "family": "Wright",
+                "given": "David",
+                "affiliation": {
+                    "name": "Institute of Cardiovascular Medicine and Science, Liverpool Heart and Chest Hospital, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Devonald M",
+                "family": "Devonald",
+                "given": "Mark Alexander John",
+                "affiliation": {
+                    "name": "Renal and Transplant Unit, Nottingham University Hospitals NHS Trust, Nottingham, UK."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "The Wolfson Centre for Personalised Medicine, The University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Al-Naher A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Acute Kidney Injury",
+                    "major": "N"
+                },
+                {
+                    "term": "Angiotensin-Converting Enzyme Inhibitors",
+                    "major": "N"
+                },
+                {
+                    "term": "Biomarkers",
+                    "major": "N"
+                },
+                {
+                    "term": "Decision Support Systems, Clinical",
+                    "major": "N"
+                },
+                {
+                    "term": "Diuretics",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Therapy, Combination",
+                    "major": "N"
+                },
+                {
+                    "term": "Glomerular Filtration Rate",
+                    "major": "N"
+                },
+                {
+                    "term": "Heart Failure",
+                    "major": "N"
+                },
+                {
+                    "term": "Hospitalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Kidney",
+                    "major": "N"
+                },
+                {
+                    "term": "Practice Guidelines as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Time Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Br J Clin Pharmacol",
+            "volume": "84",
+            "issue": "1"
+        },
+        "abstract": "['The second most common cause of hospitalization due to adverse drug reactions in the UK is renal dysfunction due to diuretics, particularly in patients with heart failure, where diuretic therapy is a mainstay of treatment regimens. Therefore, the optimal frequency for monitoring renal function in these patients is an important consideration for preventing renal failure and hospitalization. This review looks at the current evidence for optimal monitoring practices of renal function in patients with heart failure according to national and international guidelines on the management of heart failure (AHA/NICE/ESC/SIGN). Current guidance of renal function monitoring is in large part based on expert opinion, with a lack of clinical studies that have specifically evaluated the optimal frequency of renal function monitoring in patients with heart failure. Furthermore, there is variability between guidelines, and recommendations are typically nonspecific. Safer prescribing of diuretics in combination with other antiheart failure treatments requires better evidence for frequency of renal function monitoring. We suggest developing more personalized monitoring rather than from the current medication-based guidance. Such flexible clinical guidelines could be implemented using intelligent clinical decision support systems. Personalized renal function monitoring would be more effective in preventing renal decline, rather than reacting to it.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "7"
+            }
+        },
+        "location": {
+            "candidate_institute": "The Wolfson Centre for Personalised Medicine, The University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

@@ -1,0 +1,838 @@
+{
+    "IDs": {
+        "zotero": "P7XCPV3G",
+        "DOI": "10.1177/1744629518773938",
+        "DOI_filename": "fc86ea24f65c34c14242cc60314d06be",
+        "PMID": "29764278",
+        "scopus": "2-s2.0-85064493983",
+        "hash": "3a9a1eab243bbbe04dbc592994b66c95"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "P7XCPV3G",
+            "version": 173,
+            "itemType": "journalArticle",
+            "title": "Eating well, living well and weight management: A co-produced semi-qualitative study of barriers and facilitators experienced by adults with intellectual disabilities",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Aj",
+                    "lastName": "Doherty"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sp",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "U",
+                    "lastName": "Chauhan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jme",
+                    "lastName": "Gibson"
+                }
+            ],
+            "abstractNote": "Adults with intellectual disabilities in England experience health inequalities. They are more likely than their non-disabled peers to be obese and at risk of serious medical conditions such as heart disease, stroke and type 2 diabetes. This semi-qualitative study engaged adults with intellectual disabilities in a co-production process to explore their perceived barriers and facilitators to eating well, living well and weight management. Nineteen participants with intellectual disabilities took part in four focus groups and one wider group discussion. They were supported by eight of their carers or support workers. Several barriers were identified including personal income restrictions, carers\u2019 and support workers\u2019 unmet training needs, a lack of accessible information, inaccessible services and societal barriers such as the widespread advertising of less healthy foodstuffs. A key theme of frustration with barriers emerged from analysis of participants\u2019 responses. Practical solutions suggested by participants included provision of clear and accessible healthy lifestyle information, reasonable adjustments to services, training, \u2018buddying\u2019 support systems or schemes and collaborative working to improve policy and practice.",
+            "publicationTitle": "Journal of Intellectual Disabilities",
+            "volume": "24",
+            "issue": "2",
+            "pages": "158-176",
+            "date": "06/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Intellect Disabil",
+            "language": "en",
+            "DOI": "10.1177/1744629518773938",
+            "ISSN": "1744-6295, 1744-6309",
+            "shortTitle": "Eating well, living well and weight management",
+            "url": "http://journals.sagepub.com/doi/10.1177/1744629518773938",
+            "accessDate": "2020-09-10T17:09:35Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29764278",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:35Z",
+            "dateModified": "2020-09-15T14:18:07Z",
+            "pmid": "29764278"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        6
+                    ]
+                ],
+                "date-time": "2020-07-06T12:24:34Z",
+                "timestamp": 1594038274223
+            },
+            "reference-count": 49,
+            "publisher": "SAGE Publications",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                5,
+                                15
+                            ]
+                        ],
+                        "date-time": "2018-05-15T00:00:00Z",
+                        "timestamp": 1526342400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "journals.sagepub.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "abstract": "<jats:p> Adults with intellectual disabilities in England experience health inequalities. They are more likely than their non-disabled peers to be obese and at risk of serious medical conditions such as heart disease, stroke and type 2 diabetes. This semi-qualitative study engaged adults with intellectual disabilities in a co-production process to explore their perceived barriers and facilitators to eating well, living well and weight management. Nineteen participants with intellectual disabilities took part in four focus groups and one wider group discussion. They were supported by eight of their carers or support workers. Several barriers were identified including personal income restrictions, carers\u2019 and support workers\u2019 unmet training needs, a lack of accessible information, inaccessible services and societal barriers such as the widespread advertising of less healthy foodstuffs. A key theme of frustration with barriers emerged from analysis of participants\u2019 responses. Practical solutions suggested by participants included provision of clear and accessible healthy lifestyle information, reasonable adjustments to services, training, \u2018buddying\u2019 support systems or schemes and collaborative working to improve policy and practice. </jats:p>",
+            "DOI": "10.1177/1744629518773938",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        16
+                    ]
+                ],
+                "date-time": "2018-05-16T03:47:19Z",
+                "timestamp": 1526442439000
+            },
+            "page": "158-176",
+            "update-policy": "http://dx.doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Eating well, living well and weight management: A co-produced semi-qualitative study of barriers and facilitators experienced by adults with intellectual disabilities",
+            "prefix": "10.1177",
+            "volume": "24",
+            "author": [
+                {
+                    "given": "AJ",
+                    "family": "Doherty",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "SP",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "U",
+                    "family": "Chauhan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "MacKenzie Chair in Primary Care Medicine, Faculty of Clinical and Biomedical Sciences, University of Central Lancashire"
+                        }
+                    ]
+                },
+                {
+                    "given": "JME",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "179",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "bibr1-1744629518773938",
+                    "DOI": "10.1177/146879410100100307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr2-1744629518773938",
+                    "DOI": "10.1177/1744629514544074",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr3-1744629518773938",
+                    "DOI": "10.1111/jar.12083",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr4-1744629518773938",
+                    "DOI": "10.1080/09687599650023326",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr5-1744629518773938",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr6-1744629518773938",
+                    "DOI": "10.1111/jir.12369",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr8-1744629518773938",
+                    "DOI": "10.1111/bld.12175",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr9-1744629518773938",
+                    "DOI": "10.1177/1744629505053926",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr10-1744629518773938",
+                    "DOI": "10.1111/jar.12084",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr11-1744629518773938",
+                    "DOI": "10.1177/0306312702032002003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr12-1744629518773938",
+                    "DOI": "10.1080/0312407X.2015.1024268",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr13-1744629518773938",
+                    "DOI": "10.1111/jar.12367",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr14-1744629518773938",
+                    "DOI": "10.1002/(SICI)1099-1298(199801/02)8:1<57::AID-CASP438>3.0.CO;2-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr15-1744629518773938",
+                    "DOI": "10.1046/j.1365-2788.2003.00498.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr16-1744629518773938",
+                    "DOI": "10.1093/eurpub/ckm041",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr17-1744629518773938",
+                    "author": "Emerson E",
+                    "year": "2014",
+                    "volume-title": "Health Inequalities and People with Learning Disabilities"
+                },
+                {
+                    "key": "bibr18-1744629518773938",
+                    "DOI": "10.1046/j.1365-2648.2001.01657.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr19-1744629518773938",
+                    "DOI": "10.1352/0047-6765(2005)43[241:IRWTAE]2.0.CO;2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr20-1744629518773938",
+                    "DOI": "10.1177/1744987106075617",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr21-1744629518773938",
+                    "DOI": "10.1080/09687599.2017.1294049",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr22-1744629518773938",
+                    "author": "Hatton C",
+                    "year": "2011",
+                    "volume-title": "Reasonable Adjustments for People with Learning Disabilities in England: A National Survey of NHS Trusts"
+                },
+                {
+                    "key": "bibr23-1744629518773938",
+                    "DOI": "10.1080/02701367.2001.10608949",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr24-1744629518773938",
+                    "DOI": "10.1111/jar.12085",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr25-1744629518773938",
+                    "DOI": "10.1177/1744629510381939",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr26-1744629518773938",
+                    "author": "Matthews L",
+                    "volume": "5",
+                    "year": "2011",
+                    "journal-title": "Preventative Medicine"
+                },
+                {
+                    "key": "bibr27-1744629518773938",
+                    "DOI": "10.1111/j.1365-2788.2011.01527.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr28-1744629518773938",
+                    "DOI": "10.1111/j.1365-2788.2006.00915.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr29-1744629518773938",
+                    "DOI": "10.1111/j.1468-3148.2005.00261.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr30-1744629518773938",
+                    "DOI": "10.1111/j.1468-3148.2007.00412.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr31-1744629518773938",
+                    "DOI": "10.1111/j.1365-2788.2005.00640.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr32-1744629518773938",
+                    "DOI": "10.1111/j.1467-789X.2006.00296.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr33-1744629518773938",
+                    "DOI": "10.1111/j.1468-3156.1998.tb00041.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr35-1744629518773938",
+                    "author": "Nelson P",
+                    "year": "2013",
+                    "volume-title": "Warm Well Families: Doncaster Final Report. Project Report"
+                },
+                {
+                    "key": "bibr37-1744629518773938",
+                    "DOI": "10.1111/j.1365-2788.2012.01573.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr38-1744629518773938",
+                    "author": "Nind M",
+                    "year": "2008",
+                    "volume-title": "Project Report. National Centre fro Research Methods"
+                },
+                {
+                    "key": "bibr39-1744629518773938",
+                    "DOI": "10.1111/bld.12013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr40-1744629518773938",
+                    "DOI": "10.1177/1744629513494927",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr41-1744629518773938",
+                    "DOI": "10.1111/jir.12353",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr43-1744629518773938",
+                    "DOI": "10.1002/mrdd.20091",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr45-1744629518773938",
+                    "DOI": "10.1080/13575279.2014.976179",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr46-1744629518773938",
+                    "DOI": "10.1111/jhn.12051",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr47-1744629518773938",
+                    "DOI": "10.1111/j.1365-2788.2011.01530.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr48-1744629518773938",
+                    "DOI": "10.1186/1475-2891-12-132",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr49-1744629518773938",
+                    "DOI": "10.1111/jppi.12074",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr50-1744629518773938",
+                    "DOI": "10.1111/jar.12139",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr51-1744629518773938",
+                    "author": "Taggart L",
+                    "volume": "27",
+                    "first-page": "289",
+                    "year": "2014",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities",
+                    "DOI": "10.1111/jar.12102",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "bibr52-1744629518773938",
+                    "author": "Taggart L",
+                    "year": "2014",
+                    "volume-title": "Health Promotion for People with Intellectual and Developmental Disabilities"
+                },
+                {
+                    "key": "bibr53-1744629518773938",
+                    "DOI": "10.1080/09687590120035807",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr54-1744629518773938",
+                    "author": "Walmsley J",
+                    "year": "2003",
+                    "volume-title": "Inclusive Research with People with Intellectual Disabilities: Past, Present and Futures"
+                }
+            ],
+            "container-title": "Journal of Intellectual Disabilities",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/1744629518773938",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/1744629518773938",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/1744629518773938",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        3
+                    ]
+                ],
+                "date-time": "2020-06-03T10:17:47Z",
+                "timestamp": 1591179467000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 49,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            6
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1177/1744629518773938"
+            ],
+            "URL": "http://dx.doi.org/10.1177/1744629518773938",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1744-6295",
+                "1744-6309"
+            ],
+            "subject": [
+                "Health Professions (miscellaneous)",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "J Intellect Disabil"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "intellectual disabilities",
+                        "learning disabilities",
+                        "obesity",
+                        "participatory research",
+                        "weight"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29764278",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "03"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1177/1744629518773938"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "05",
+                            "Day": "15"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1744-6309",
+                        "JournalIssue": {
+                            "Volume": "24",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "Journal of intellectual disabilities : JOID",
+                        "ISOAbbreviation": "J Intellect Disabil"
+                    },
+                    "ArticleTitle": "Eating well, living well and weight management: A co-produced semi-qualitative study of barriers and facilitators experienced by adults with intellectual disabilities.",
+                    "Pagination": {
+                        "MedlinePgn": "158-176"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Adults with intellectual disabilities in England experience health inequalities. They are more likely than their non-disabled peers to be obese and at risk of serious medical conditions such as heart disease, stroke and type 2 diabetes. This semi-qualitative study engaged adults with intellectual disabilities in a co-production process to explore their perceived barriers and facilitators to eating well, living well and weight management. Nineteen participants with intellectual disabilities took part in four focus groups and one wider group discussion. They were supported by eight of their carers or support workers. Several barriers were identified including personal income restrictions, carers' and support workers' unmet training needs, a lack of accessible information, inaccessible services and societal barriers such as the widespread advertising of less healthy foodstuffs. A key theme of frustration with barriers emerged from analysis of participants' responses. Practical solutions suggested by participants included provision of clear and accessible healthy lifestyle information, reasonable adjustments to services, training, 'buddying' support systems or schemes and collaborative working to improve policy and practice."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Doherty",
+                            "ForeName": "A J",
+                            "Initials": "AJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jones",
+                            "ForeName": "S P",
+                            "Initials": "SP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "MacKenzie Chair in Primary Care Medicine, Faculty of Clinical and Biomedical Sciences, University of Central Lancashire."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chauhan",
+                            "ForeName": "U",
+                            "Initials": "U"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gibson",
+                            "ForeName": "Jme",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Intellect Disabil",
+                    "NlmUniqueID": "101229024",
+                    "ISSNLinking": "1744-6295"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29764278",
+                    "10.1177/1744629518773938"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29764278)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829764278%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829764278%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064493983"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064493983?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064493983&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064493983&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064493983",
+                        "dc:identifier": "SCOPUS_ID:85064493983",
+                        "eid": "2-s2.0-85064493983",
+                        "dc:title": "Eating well, living well and weight management: A co-produced semi-qualitative study of barriers and facilitators experienced by adults with intellectual disabilities",
+                        "dc:creator": "Doherty A.J.",
+                        "prism:publicationName": "Journal of Intellectual Disabilities",
+                        "prism:issn": "17446295",
+                        "prism:eIssn": "17446309",
+                        "prism:volume": "24",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "158-176",
+                        "prism:coverDate": "2020-06-01",
+                        "prism:coverDisplayDate": "1 June 2020",
+                        "prism:doi": "10.1177/1744629518773938",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29764278",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "144939",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "P7XCPV3G.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29764278"
+            }
+        },
+        "title": "Eating well, living well and weight management: A co-produced semi-qualitative study of barriers and facilitators experienced by adults with intellectual disabilities.",
+        "full_author_list": [
+            {
+                "clean": "Doherty A",
+                "family": "Doherty",
+                "given": "A J",
+                "affiliation": {
+                    "name": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "S P",
+                "affiliation": {
+                    "name": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Chauhan U",
+                "family": "Chauhan",
+                "given": "U",
+                "affiliation": {
+                    "name": "MacKenzie Chair in Primary Care Medicine, Faculty of Clinical and Biomedical Sciences, University of Central Lancashire."
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Jme",
+                "affiliation": {
+                    "name": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK."
+                }
+            }
+        ],
+        "first_author": "Doherty A",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Intellect Disabil",
+            "volume": "24",
+            "issue": "2"
+        },
+        "abstract": "[\"Adults with intellectual disabilities in England experience health inequalities. They are more likely than their non-disabled peers to be obese and at risk of serious medical conditions such as heart disease, stroke and type 2 diabetes. This semi-qualitative study engaged adults with intellectual disabilities in a co-production process to explore their perceived barriers and facilitators to eating well, living well and weight management. Nineteen participants with intellectual disabilities took part in four focus groups and one wider group discussion. They were supported by eight of their carers or support workers. Several barriers were identified including personal income restrictions, carers' and support workers' unmet training needs, a lack of accessible information, inaccessible services and societal barriers such as the widespread advertising of less healthy foodstuffs. A key theme of frustration with barriers emerged from analysis of participants' responses. Practical solutions suggested by participants included provision of clear and accessible healthy lifestyle information, reasonable adjustments to services, training, 'buddying' support systems or schemes and collaborative working to improve policy and practice.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Nursing, Faculty of Health & Wellbeing, University of Central Lancashire, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

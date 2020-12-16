@@ -1,0 +1,851 @@
+{
+    "IDs": {
+        "zotero": "LLL8VI36",
+        "DOI": "10.1080/0167482X.2018.1512577",
+        "DOI_filename": "0fdfcd2c7188f3f2bdf6e04ad3b280c2",
+        "PMID": "30204522",
+        "scopus": "2-s2.0-85053557672",
+        "hash": "87685585e5ed07b4c55964a40fd88a47"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "LLL8VI36",
+            "version": 168,
+            "itemType": "journalArticle",
+            "title": "Approaches to the prevention of postnatal depression and anxiety \u2013 a review of the literature",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Amy",
+                    "lastName": "Mahdi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Melanie",
+                    "lastName": "Dembinsky"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katie",
+                    "lastName": "Bristow"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pauline",
+                    "lastName": "Slade"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Psychosomatic Obstetrics & Gynecology",
+            "volume": "40",
+            "issue": "4",
+            "pages": "250-263",
+            "date": "2019-10-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Psychosomatic Obstetrics & Gynecology",
+            "language": "en",
+            "DOI": "10.1080/0167482X.2018.1512577",
+            "ISSN": "0167-482X, 1743-8942",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/0167482X.2018.1512577",
+            "accessDate": "2020-09-10T17:08:29Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30204522",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:29Z",
+            "dateModified": "2020-09-15T13:10:26Z",
+            "pmid": "30204522"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        24
+                    ]
+                ],
+                "date-time": "2020-03-24T02:22:51Z",
+                "timestamp": 1585016571644
+            },
+            "reference-count": 30,
+            "publisher": "Informa UK Limited",
+            "issue": "4",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/0167482x.2018.1512577",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        11
+                    ]
+                ],
+                "date-time": "2018-09-11T21:41:39Z",
+                "timestamp": 1536702099000
+            },
+            "page": "250-263",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Approaches to the prevention of postnatal depression and anxiety \u2013 a review of the literature",
+            "prefix": "10.1080",
+            "volume": "40",
+            "author": [
+                {
+                    "given": "Amy",
+                    "family": "Mahdi",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "NHS Foundation Trust, Liverpool Women\u2019s Hospital, Liverpool, UK;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Melanie",
+                    "family": "Dembinsky",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Katie",
+                    "family": "Bristow",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK;"
+                        },
+                        {
+                            "name": "Improving Mental Health, NIHR CLAHRC North West Coast, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Pauline",
+                    "family": "Slade",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, UK;"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        11
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1207/S1532480XADS0601_03",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "author": "Acheson D",
+                    "year": "1998",
+                    "volume-title": "Independent inquiry into inequalities in health"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.4088/JCP.12r07968",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1001/archgenpsychiatry.2010.111",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "author": "Marmot MG",
+                    "year": "2010",
+                    "volume-title": "Fair society, healthy lives: The marmot review: Strategic review of health inequalities in England post-2010"
+                },
+                {
+                    "key": "CIT0006",
+                    "author": "Bauer A",
+                    "year": "2014",
+                    "volume-title": "The cost of perinatal mental health problems"
+                },
+                {
+                    "key": "CIT0007",
+                    "author": "Knight M",
+                    "year": "2016",
+                    "volume-title": "Saving lives, improving mothers\u2019 care \u2013 surveillance of maternal deaths in the UK 2012-14 and lessons learned to inform maternity care from the UK and Ireland confidential enquiries into maternal deaths and morbidity 2009-14"
+                },
+                {
+                    "key": "CIT0008",
+                    "author": "United Nations",
+                    "year": "2015",
+                    "volume-title": "Millennium development goals report 2015"
+                },
+                {
+                    "key": "CIT0009",
+                    "author": "United Nations",
+                    "year": "2008",
+                    "volume-title": "The millennium development goals report 2008"
+                },
+                {
+                    "key": "CIT0011",
+                    "author": "Department of Health",
+                    "year": "2014",
+                    "volume-title": "Closing the gap: priorities for essential change in mental health;"
+                },
+                {
+                    "key": "CIT0012",
+                    "author": "World Health Organisation",
+                    "year": "2004",
+                    "volume-title": "Prevention of mental disorders: effective interventions and policy options \u2013 a summary report;"
+                },
+                {
+                    "key": "CIT0013",
+                    "author": "Royal College of Obstetricians and Gynaecologists",
+                    "year": "2011",
+                    "volume-title": "Management of women with mental health issues during pregnancy and the postnatal period"
+                },
+                {
+                    "key": "CIT0014",
+                    "unstructured": "National Collaborating Centre for Mental Health (Great Britain), British Psychological Society, Royal College of Psychiatrists, & National Institute for Health and Care Excellence (Great Britain). Antenatal and postnatal mental health: clinical management and service guidance [CG192]. 2014. [cited 2016 Dec 10]. https://www.nice.org.uk/guidance/CG192"
+                },
+                {
+                    "key": "CIT0015",
+                    "author": "Dennis C",
+                    "volume": "2013",
+                    "year": "2013",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.3310/hta20370",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1016/j.jad.2015.12.082",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "author": "Higgins JPT",
+                    "year": "2011",
+                    "volume-title": "Cochrane handbook for systematic reviews of interventions"
+                },
+                {
+                    "key": "CIT0019",
+                    "author": "Anton R",
+                    "volume": "15",
+                    "first-page": "3",
+                    "year": "2015",
+                    "journal-title": "J Evid Based Psychotherap"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1016/j.invent.2015.06.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1136/bmjopen-2015-009203",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1111/jocn.12505",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1111/ijn.12259",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1007/s10995-015-1755-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.5964/ejop.v11i2.779",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1136/bmjopen-2015-009396",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1016/j.ijnurstu.2014.06.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1007/s00737-013-0381-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1016/j.mhpa.2013.11.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "DOI": "10.1007/s00737-013-0337-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.3399/bjgp10X532611",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Journal of Psychosomatic Obstetrics & Gynecology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/0167482X.2018.1512577",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        17
+                    ]
+                ],
+                "date-time": "2019-10-17T12:22:01Z",
+                "timestamp": 1571314921000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        11
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            8,
+                            15
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            10,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1080/0167482X.2018.1512577"
+            ],
+            "URL": "http://dx.doi.org/10.1080/0167482X.2018.1512577",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0167-482X",
+                "1743-8942"
+            ],
+            "subject": [
+                "Obstetrics and Gynaecology",
+                "Reproductive Medicine",
+                "Clinical Psychology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Journal of Psychosomatic Obstetrics & Gynecology",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ipob20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ipob20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2017-07-12",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-07-30",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-08-11",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-09-11",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Prevention",
+                        "RCT",
+                        "intervention",
+                        "postnatal depression",
+                        "psychological"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30204522",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "15"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "15"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/0167482X.2018.1512577"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "09",
+                            "Day": "11"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1743-8942",
+                        "JournalIssue": {
+                            "Volume": "40",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "12"
+                            }
+                        },
+                        "Title": "Journal of psychosomatic obstetrics and gynaecology",
+                        "ISOAbbreviation": "J Psychosom Obstet Gynaecol"
+                    },
+                    "ArticleTitle": "Approaches to the prevention of postnatal depression and anxiety - a review of the literature.",
+                    "Pagination": {
+                        "MedlinePgn": "250-263"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "<b>Introduction:</b> Poor maternal mental health during the perinatal period has been shown to have potentially long-lasting effects for mother and child. In recognition of this, maternal mental health is receiving increased attention from political and healthcare organizations, with a growing focus on preventing the onset of common mental health disorders. <b>Objective:</b> The objective for this review is to provide an update of randomized controlled trials examining the use of interventions targeted to prevent the onset of postnatal depression and anxiety in nondiagnostic populations with universal or selected samples. <b>Methods:</b> A total of four databases, EBSCO Host, Science Direct, Scopus, and Web of Science, incorporating PsychINFO were searched and papers selected according to clearly specified inclusion criteria. A large Health Technology review was published in 2016, for which the final search was conducted in December 2012. Therefore inclusion criteria were studies published from January 2013 onwards, available in English language, had a focus on prevention of postnatal maternal depression and anxiety, and used psychological interventions. Drug intervention trials were excluded. <b>Findings:</b> 12 studies were identified as examining antenatal or postnatal intervention trials with an aim of preventing maternal postnatal depression and/or anxiety. There continues to be limited evidence to recommend specific prevention strategies for universal samples without further testing. There is evidence to suggest the use of rational-emotive behavioral therapy in an antenatal sample may have some utility, and the use of psychotherapy-based interventions in a postnatal setting is also supported although both require further investigation. Additionally, there is a need to gather information on acceptability, as many trials were hindered by poor adherence to interventions and high attrition that were otherwise unexplained."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NHS Foundation Trust, Liverpool Women's Hospital , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mahdi",
+                            "ForeName": "Amy",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology Health and Society, University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dembinsky",
+                            "ForeName": "Melanie",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology Health and Society, University of Liverpool , Liverpool , UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Improving Mental Health, NIHR CLAHRC North West Coast, University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bristow",
+                            "ForeName": "Katie",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology Health and Society, University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Slade",
+                            "ForeName": "Pauline",
+                            "Initials": "P"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Psychosom Obstet Gynaecol",
+                    "NlmUniqueID": "8308648",
+                    "ISSNLinking": "0167-482X"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Anxiety",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Depression, Postpartum",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Postpartum Period",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30204522",
+                    "10.1080/0167482X.2018.1512577"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30204522)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830204522%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830204522%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053557672"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053557672?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053557672&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053557672&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053557672",
+                        "dc:identifier": "SCOPUS_ID:85053557672",
+                        "eid": "2-s2.0-85053557672",
+                        "dc:title": "Approaches to the prevention of postnatal depression and anxiety\u2013a review of the literature",
+                        "dc:creator": "Mahdi A.",
+                        "prism:publicationName": "Journal of Psychosomatic Obstetrics and Gynecology",
+                        "prism:issn": "0167482X",
+                        "prism:eIssn": "17438942",
+                        "prism:volume": "40",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "250-263",
+                        "prism:coverDate": "2019-10-02",
+                        "prism:coverDisplayDate": "2 October 2019",
+                        "prism:doi": "10.1080/0167482X.2018.1512577",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Liverpool Women's Hospital",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30204522",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "27628",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "LLL8VI36.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30204522"
+            }
+        },
+        "title": "Approaches to the prevention of postnatal depression and anxiety - a review of the literature.",
+        "full_author_list": [
+            {
+                "clean": "Mahdi A",
+                "family": "Mahdi",
+                "given": "Amy",
+                "affiliation": {
+                    "name": "NHS Foundation Trust, Liverpool Women's Hospital , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Dembinsky M",
+                "family": "Dembinsky",
+                "given": "Melanie",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Bristow K",
+                "family": "Bristow",
+                "given": "Katie",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Slade P",
+                "family": "Slade",
+                "given": "Pauline",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool , Liverpool , UK."
+                }
+            }
+        ],
+        "first_author": "Mahdi A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anxiety",
+                    "major": "N"
+                },
+                {
+                    "term": "Depression, Postpartum",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Postpartum Period",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Psychosom Obstet Gynaecol",
+            "volume": "40",
+            "issue": "4"
+        },
+        "abstract": "['<b>Introduction:</b> Poor maternal mental health during the perinatal period has been shown to have potentially long-lasting effects for mother and child. In recognition of this, maternal mental health is receiving increased attention from political and healthcare organizations, with a growing focus on preventing the onset of common mental health disorders. <b>Objective:</b> The objective for this review is to provide an update of randomized controlled trials examining the use of interventions targeted to prevent the onset of postnatal depression and anxiety in nondiagnostic populations with universal or selected samples. <b>Methods:</b> A total of four databases, EBSCO Host, Science Direct, Scopus, and Web of Science, incorporating PsychINFO were searched and papers selected according to clearly specified inclusion criteria. A large Health Technology review was published in 2016, for which the final search was conducted in December 2012. Therefore inclusion criteria were studies published from January 2013 onwards, available in English language, had a focus on prevention of postnatal maternal depression and anxiety, and used psychological interventions. Drug intervention trials were excluded. <b>Findings:</b> 12 studies were identified as examining antenatal or postnatal intervention trials with an aim of preventing maternal postnatal depression and/or anxiety. There continues to be limited evidence to recommend specific prevention strategies for universal samples without further testing. There is evidence to suggest the use of rational-emotive behavioral therapy in an antenatal sample may have some utility, and the use of psychotherapy-based interventions in a postnatal setting is also supported although both require further investigation. Additionally, there is a need to gather information on acceptability, as many trials were hindered by poor adherence to interventions and high attrition that were otherwise unexplained.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "NHS Foundation Trust, Liverpool Women's Hospital , Liverpool , UK.",
+            "clean_institute": "Liverpool Women's Hospital",
+            "latitude": "53.39856",
+            "longitude": "-2.960092",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

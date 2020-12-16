@@ -1,0 +1,2221 @@
+{
+    "IDs": {
+        "zotero": "LEG3F22U",
+        "DOI": "10.1186/s12884-019-2291-x",
+        "DOI_filename": "bc27b213bb029d9360c5e37eaa975a3b",
+        "PMID": "31046710",
+        "scopus": "2-s2.0-85065211361",
+        "hash": "36c7a0fb2695f190c6d689ed378d71bd"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "LEG3F22U",
+            "version": 167,
+            "itemType": "journalArticle",
+            "title": "Assisted reproductive technology and the risk of preeclampsia: an updated systematic review and meta-analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Amir",
+                    "lastName": "Almasi-Hashiani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Reza",
+                    "lastName": "Omani-Samani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maryam",
+                    "lastName": "Mohammadi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Payam",
+                    "lastName": "Amini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Behnaz",
+                    "lastName": "Navid"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ahad",
+                    "lastName": "Alizadeh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil",
+                    "lastName": "Khedmati Morasae"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saman",
+                    "lastName": "Maroufizadeh"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMC Pregnancy and Childbirth",
+            "volume": "19",
+            "issue": "1",
+            "pages": "149",
+            "date": "12/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Pregnancy Childbirth",
+            "language": "en",
+            "DOI": "10.1186/s12884-019-2291-x",
+            "ISSN": "1471-2393",
+            "shortTitle": "Assisted reproductive technology and the risk of preeclampsia",
+            "url": "https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-019-2291-x",
+            "accessDate": "2020-09-10T17:10:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31046710",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:07Z",
+            "dateModified": "2020-09-15T13:09:50Z",
+            "pmid": "31046710"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        30
+                    ]
+                ],
+                "date-time": "2020-04-30T23:40:34Z",
+                "timestamp": 1588290034557
+            },
+            "reference-count": 82,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                5,
+                                2
+                            ]
+                        ],
+                        "date-time": "2019-05-02T00:00:00Z",
+                        "timestamp": 1556755200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12884-019-2291-x",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        2
+                    ]
+                ],
+                "date-time": "2019-05-02T16:05:52Z",
+                "timestamp": 1556813152000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "Assisted reproductive technology and the risk of preeclampsia: an updated systematic review and meta-analysis",
+            "prefix": "10.1186",
+            "volume": "19",
+            "author": [
+                {
+                    "given": "Amir",
+                    "family": "Almasi-Hashiani",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Reza",
+                    "family": "Omani-Samani",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Maryam",
+                    "family": "Mohammadi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Payam",
+                    "family": "Amini",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Behnaz",
+                    "family": "Navid",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ahad",
+                    "family": "Alizadeh",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Esmaeil",
+                    "family": "Khedmati Morasae",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5794-3876",
+                    "authenticated-orcid": false,
+                    "given": "Saman",
+                    "family": "Maroufizadeh",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2291_CR1",
+                    "unstructured": "Zegers-Hochschild F, Adamson GD, Dyer S, Racowsky C, de Mouzon J, Sokol R, Rienzi L, Sunde A, Schmidt L, Cooke ID, et al. The International Glossary on Infertility and Fertility Care, 2017. Fertil Steril. 2017;108(3):393\u2013406.",
+                    "DOI": "10.1016/j.fertnstert.2017.06.005",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "443",
+                    "DOI": "10.1017/S2040174417000526",
+                    "volume": "8",
+                    "author": "M Davies",
+                    "year": "2017",
+                    "unstructured": "Davies M, Rumbold A, Moore V. Assisted reproductive technologies: a hierarchy of risks for conception, pregnancy outcomes and treatment decisions. J Dev Orig Health Dis. 2017;8(4):443\u20137.",
+                    "journal-title": "J Dev Orig Health Dis"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "451",
+                    "DOI": "10.1016/j.fertnstert.2015.10.007",
+                    "volume": "105",
+                    "author": "EH Stephen",
+                    "year": "2016",
+                    "unstructured": "Stephen EH, Chandra A, King RB. Supply of and demand for assisted reproductive technologies in the United States: clinic-and population-based data, 1995\u20132010. Fertil Steril. 2016;105(2):451\u20138.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1438",
+                    "DOI": "10.1016/j.fertnstert.2015.02.027",
+                    "volume": "103",
+                    "author": "JE Stern",
+                    "year": "2015",
+                    "unstructured": "Stern JE, Luke B, Tobias M, Gopal D, Hornstein MD, Diop H. Adverse pregnancy and birth outcomes associated with underlying diagnosis with and without assisted reproductive technology treatment. Fertil Steril. 2015;103(6):1438\u201345.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "s1",
+                    "DOI": "10.1067/mob.2000.107928",
+                    "volume": "183",
+                    "author": "Program NHBPE",
+                    "year": "2000",
+                    "unstructured": "Program NHBPE. Report of the national high blood pressure education program working group on high blood pressure in pregnancy. Am J Obstet Gynecol. 2000;183(1):s1\u2013s22.",
+                    "journal-title": "Am J Obstet Gynecol"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "763",
+                    "DOI": "10.1097/AOG.0000000000000451",
+                    "volume": "124",
+                    "author": "E Par\u00e9",
+                    "year": "2014",
+                    "unstructured": "Par\u00e9 E, Parry S, McElrath TF, Pucci D, Newton A, Lim K-H. Clinical risk factors for preeclampsia in the 21st century. Obstet Gynecol. 2014;124(4):763\u201370.",
+                    "journal-title": "Obstet Gynecol"
+                },
+                {
+                    "issue": "7",
+                    "key": "2291_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "923",
+                    "DOI": "10.1111/1471-0528.13090",
+                    "volume": "122",
+                    "author": "B Sibai",
+                    "year": "2015",
+                    "unstructured": "Sibai B. Subfertility/infertility and assisted reproductive conception are independent risk factors for pre-eclampsia. BJOG. 2015;122(7):923.",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "issue": "9461",
+                    "key": "2291_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "785",
+                    "DOI": "10.1016/S0140-6736(05)17987-2",
+                    "volume": "365",
+                    "author": "B Sibai",
+                    "year": "2005",
+                    "unstructured": "Sibai B, Dekker G, Kupferminc M. Pre-eclampsia. Lancet. 2005;365(9461):785\u201399.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "9859",
+                    "key": "2291_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2197",
+                    "DOI": "10.1016/S0140-6736(12)61689-4",
+                    "volume": "380",
+                    "author": "CJL Murray",
+                    "year": "2012",
+                    "unstructured": "Murray CJL, Vos T, Lozano R, Naghavi M, Flaxman AD, Michaud C, Ezzati M, Shibuya K, Salomon JA, Abdalla S, et al. Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990-2010: a systematic analysis for the global burden of disease study 2010. Lancet. 2012;380(9859):2197\u2013223.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "9575",
+                    "key": "2291_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1791",
+                    "DOI": "10.1016/S0140-6736(07)60712-0",
+                    "volume": "369",
+                    "author": "LM Askie",
+                    "year": "2007",
+                    "unstructured": "Askie LM, Duley L, Henderson-Smart DJ, Stewart LA. Antiplatelet agents for prevention of pre-eclampsia: a meta-analysis of individual patient data. Lancet. 2007;369(9575):1791\u20138.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "64",
+                    "DOI": "10.1111/j.1471-0528.2012.03493.x",
+                    "volume": "120",
+                    "author": "P Villa",
+                    "year": "2013",
+                    "unstructured": "Villa P, Kajantie E, R\u00e4ikk\u00f6nen K, Pesonen AK, H\u00e4m\u00e4l\u00e4inen E, Vainio M, Taipale P, Laivuori H. Aspirin in the prevention of pre-eclampsia in high-risk women: a randomised placebo-controlled PREDO trial and a meta-analysis of randomised trials. BJOG. 2013;120(1):64\u201374.",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "key": "2291_CR12",
+                    "author": "Women's NCCf, Health Cs",
+                    "year": "2010",
+                    "unstructured": "Women's NCCf, Health Cs: Hypertension in pregnancy: the management of hypertensive disorders during pregnancy. 2010.",
+                    "volume-title": "Hypertension in pregnancy: the management of hypertensive disorders during pregnancy"
+                },
+                {
+                    "issue": "3",
+                    "key": "2291_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "341",
+                    "DOI": "10.1016/j.tjog.2016.04.009",
+                    "volume": "55",
+                    "author": "H Muto",
+                    "year": "2016",
+                    "unstructured": "Muto H, Yamamoto R, Ishii K, Kakubari R, Takaoka S, Mabuchi A, Mitsuda N. Risk assessment of hypertensive disorders in pregnancy with maternal characteristics in early gestation: a single-center cohort study. Taiwan J Obstet Gynecol. 2016;55(3):341\u20135.",
+                    "journal-title": "Taiwan J Obstet Gynecol"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "97",
+                    "DOI": "10.1016/j.preghy.2014.02.001",
+                    "volume": "4",
+                    "author": "A Tranquilli",
+                    "year": "2014",
+                    "unstructured": "Tranquilli A, Dekker G, Magee L, Roberts J, Sibai B, Steyn W, Zeeman G, Brown M. The classification, diagnosis and management of the hypertensive disorders of pregnancy: a revised statement from the ISSHP. Pregnancy Hypertens. 2014;4(2):97\u2013104.",
+                    "journal-title": "Pregnancy Hypertens"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "264",
+                    "DOI": "10.7326/0003-4819-151-4-200908180-00135",
+                    "volume": "151",
+                    "author": "D Moher",
+                    "year": "2009",
+                    "unstructured": "Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Ann Intern Med. 2009;151(4):264\u20139.",
+                    "journal-title": "Ann Intern Med"
+                },
+                {
+                    "key": "2291_CR16",
+                    "unstructured": "Wells G, Shea B, O\u2019Connell D, Peterson J, Welch V, Losos M. The Newcastle\u2013Ottawa Scale (NOS) for assessing the quality if nonrandomized studies in meta-analyses. 2010. \n                    http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp\n                    \n                  ."
+                },
+                {
+                    "issue": "11",
+                    "key": "2291_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1539",
+                    "DOI": "10.1002/sim.1186",
+                    "volume": "21",
+                    "author": "J Higgins",
+                    "year": "2002",
+                    "unstructured": "Higgins J, Thompson SG. Quantifying heterogeneity in a meta-analysis. Stat Med. 2002;21(11):1539\u201358.",
+                    "journal-title": "Stat Med"
+                },
+                {
+                    "issue": "8",
+                    "key": "2291_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "889",
+                    "DOI": "10.1002/sim.4780070807",
+                    "volume": "7",
+                    "author": "R Galbraith",
+                    "year": "1988",
+                    "unstructured": "Galbraith R. A note on graphical presentation of estimated odds ratios from several clinical trials. Stat Med. 1988;7(8):889\u201394.",
+                    "journal-title": "Stat Med"
+                },
+                {
+                    "key": "2291_CR19",
+                    "unstructured": "Begg CB, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. Biometrics. 1994:1088\u2013101.",
+                    "DOI": "10.2307/2533446",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "7109",
+                    "key": "2291_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "629",
+                    "DOI": "10.1136/bmj.315.7109.629",
+                    "volume": "315",
+                    "author": "M Egger",
+                    "year": "1997",
+                    "unstructured": "Egger M, Smith GD, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. BMJ. 1997;315(7109):629\u201334.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "5, Part 1",
+                    "key": "2291_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1039",
+                    "DOI": "10.1097/01.AOG.0000183593.24583.7c",
+                    "volume": "106",
+                    "author": "T Shevell",
+                    "year": "2005",
+                    "unstructured": "Shevell T, Malone FD, Vidaver J, Porter TF, Luthy DA, Comstock CH, Hankins GD, Eddleman K, Dolan S, Dugoff L. Assisted reproductive technology and pregnancy outcome. Obstet Gynecol. 2005;106(5, Part 1):1039\u201345.",
+                    "journal-title": "Obstet Gynecol"
+                },
+                {
+                    "issue": "9",
+                    "key": "2291_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2341",
+                    "DOI": "10.1093/humrep/dep186",
+                    "volume": "24",
+                    "author": "O Stephansson",
+                    "year": "2009",
+                    "unstructured": "Stephansson O, Kieler H, Granath F, Falconer H. Endometriosis, assisted reproduction technology, and risk of adverse pregnancy outcome. Hum Reprod. 2009;24(9):2341\u20137.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "15",
+                    "key": "2291_CR23",
+                    "first-page": "2474",
+                    "volume": "29",
+                    "author": "\u00c7 Ar\u0131o\u011flu Ayd\u0131n",
+                    "year": "2016",
+                    "unstructured": "Ar\u0131o\u011flu Ayd\u0131n \u00c7, Ayd\u0131n S, Serdaro\u011flu H. Multifetal gestations with assisted reproductive technique before the single-embryo transfer legislation: obstetric, neonatal outcomes and congenital anomalies. J Matern Fetal Neonatal Med. 2016;29(15):2474\u20139.",
+                    "journal-title": "J Matern Fetal Neonatal Med"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "398",
+                    "DOI": "10.1080/01443610802091792",
+                    "volume": "28",
+                    "author": "O Apantaku",
+                    "year": "2008",
+                    "unstructured": "Apantaku O, Chandrasekaran I, Bentick B. Obstetric outcome of singleton pregnancies achieved with in vitro fertilisation and intracytoplasmic sperm injection: experience from a district general hospital. J Obstet Gynaecol. 2008;28(4):398\u2013402.",
+                    "journal-title": "J Obstet Gynaecol"
+                },
+                {
+                    "key": "2291_CR25",
+                    "unstructured": "Guilbaud L, Santulli P, Studer E, Gayet V, Goffinet F, Le Ray C: Impact of oocyte donation on perinatal outcome in twin pregnancies. Fertil Steril. 2017;107(4):948\u201353.",
+                    "DOI": "10.1016/j.fertnstert.2017.01.019",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "23",
+                    "key": "2291_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3879",
+                    "DOI": "10.3109/14767058.2016.1151868",
+                    "volume": "29",
+                    "author": "B Valenzuela-Alcaraz",
+                    "year": "2016",
+                    "unstructured": "Valenzuela-Alcaraz B, Crispi F, Manau D, Cruz-Lemini M, Borras A, Balasch J, Gratacos E. J Matern fetal neonatal med. J Matern Fetal Neonatal Med. 2016;29(23):3879\u201384.",
+                    "journal-title": "J Matern Fetal Neonatal Med"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR27",
+                    "first-page": "16",
+                    "volume": "19",
+                    "author": "R Johnston",
+                    "year": "2015",
+                    "unstructured": "Johnston R, Fong A, Lovell S, Sobolewski PS, Rad S, Turner A. Demographic and obstetric outcomes of pregnancies conceived by assisted reproductive technology (ART) compared to non-ART pregnancies. J Bras Reprod Assist. 2015;19(1):16\u201320.",
+                    "journal-title": "J Bras Reprod Assist"
+                },
+                {
+                    "issue": "8",
+                    "key": "2291_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "669",
+                    "DOI": "10.1055/s-0031-1280130",
+                    "volume": "71",
+                    "author": "H Lehnen",
+                    "year": "2011",
+                    "unstructured": "Lehnen H, Schafer S, Reineke T, Puchooa A, Maiwald R, Zechner U. Twin pregnancies conceived spontaneously and by ART (assisted reproductive technologies) - a retrospective analysis and review. Geburtshilfe Frauenheilkd. 2011;71(8):669\u201376.",
+                    "journal-title": "Geburtshilfe Frauenheilkd"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "510",
+                    "DOI": "10.1016/j.ajog.2013.10.879",
+                    "volume": "210",
+                    "author": "A Nakimuli",
+                    "year": "2014",
+                    "unstructured": "Nakimuli A, Chazara O, Byamugisha J, Elliott AM, Kaleebu P, Mirembe F, Moffett A. Pregnancy, parturition and preeclampsia in women of African ancestry. Am J Obstet Gynecol. 2014;210(6):510\u2013520. e511.",
+                    "journal-title": "Am J Obstet Gynecol"
+                },
+                {
+                    "key": "2291_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "f6564",
+                    "DOI": "10.1136/bmj.f6564",
+                    "volume": "347",
+                    "author": "CV Ananth",
+                    "year": "2013",
+                    "unstructured": "Ananth CV, Keyes KM, Wapner RJ. Pre-eclampsia rates in the United States, 1980-2010: age-period-cohort analysis. BMJ. 2013;347:f6564.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR31",
+                    "doi-asserted-by": "publisher",
+                    "DOI": "10.1371/journal.pone.0100180",
+                    "volume": "9",
+                    "author": "C Ye",
+                    "year": "2014",
+                    "unstructured": "Ye C, Ruan Y, Zou L, Li G, Li C, Chen Y, Jia C, Megson IL, Wei J, Zhang W. The 2011 survey on hypertensive disorders of pregnancy (HDP) in China: prevalence, risk factors, complications, pregnancy and perinatal outcomes. PLoS One. 2014;9(6):e100180.",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "issue": "5",
+                    "key": "2291_CR32",
+                    "first-page": "1",
+                    "volume": "58",
+                    "author": "S Sunderam",
+                    "year": "2009",
+                    "unstructured": "Sunderam S, Chang J, Flowers L, Kulkarni A, Sentelle G, Jeng G, Macaluso M. Assisted reproductive technology surveillance\u2014United States, 2006. MMWR Surveill Summ. 2009;58(5):1\u201325.",
+                    "journal-title": "MMWR Surveill Summ"
+                },
+                {
+                    "issue": "suppl 1",
+                    "key": "2291_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "S18",
+                    "DOI": "10.1111/nure.12055",
+                    "volume": "71",
+                    "author": "A Jeyabalan",
+                    "year": "2013",
+                    "unstructured": "Jeyabalan A. Epidemiology of preeclampsia: impact of obesity. Nutr Rev. 2013;71(suppl 1):S18\u201325.",
+                    "journal-title": "Nutr Rev"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR34",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "98",
+                    "DOI": "10.1038/ncpneph0035",
+                    "volume": "1",
+                    "author": "M Noris",
+                    "year": "2005",
+                    "unstructured": "Noris M, Perico N, Remuzzi G. Mechanisms of disease: pre-eclampsia. Nat Rev Nephrol. 2005;1(2):98\u2013114.",
+                    "journal-title": "Nat Rev Nephrol"
+                },
+                {
+                    "issue": "5728",
+                    "key": "2291_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1592",
+                    "DOI": "10.1126/science.1111726",
+                    "volume": "308",
+                    "author": "CW Redman",
+                    "year": "2005",
+                    "unstructured": "Redman CW, Sargent IL. Latest advances in understanding preeclampsia. Science. 2005;308(5728):1592\u20134.",
+                    "journal-title": "Science"
+                },
+                {
+                    "key": "2291_CR36",
+                    "first-page": "7",
+                    "volume": "8",
+                    "author": "FA English",
+                    "year": "2015",
+                    "unstructured": "English FA, Kenny LC, McCarthy FP. Risk factors and effective management of preeclampsia. Integr Blood Press Control. 2015;8:7.",
+                    "journal-title": "Integr Blood Press Control"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR37",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1107",
+                    "DOI": "10.1093/humrep/14.4.1107",
+                    "volume": "14",
+                    "author": "Y Daniel",
+                    "year": "1999",
+                    "unstructured": "Daniel Y, Schreiber L, Geva E, Amit A, Pausner D, Kupferminc M, Lessing J. Do placentae of term singleton pregnancies obtained by assisted reproductive technologies differ from those of spontaneously conceived pregnancies? Hum Reprod. 1999;14(4):1107\u201310.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "3",
+                    "key": "2291_CR38",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "148",
+                    "DOI": "10.1038/jhh.2012.13",
+                    "volume": "27",
+                    "author": "C Thomopoulos",
+                    "year": "2013",
+                    "unstructured": "Thomopoulos C, Tsioufis C, Michalopoulou H, Makris T, Papademetriou V, Stefanadis C. Assisted reproductive technology and pregnancy-related hypertensive complications: a systematic review. J Hum Hypertens. 2013;27(3):148.",
+                    "journal-title": "J Hum Hypertens"
+                },
+                {
+                    "issue": "7",
+                    "key": "2291_CR39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "915",
+                    "DOI": "10.1111/1471-0528.13051",
+                    "volume": "122",
+                    "author": "A Tandberg",
+                    "year": "2015",
+                    "unstructured": "Tandberg A, Klungs\u00f8yr K, Romundstad L, Skjaerven R. Pre-eclampsia and assisted reproductive technologies: consequences of advanced maternal age, interbirth intervals, new partner and smoking habits. BJOG. 2015;122(7):915\u201322.",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR40",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "173",
+                    "DOI": "10.1111/jch.12945",
+                    "volume": "19",
+                    "author": "C Thomopoulos",
+                    "year": "2017",
+                    "unstructured": "Thomopoulos C, Salamalekis G, Kintis K, Andrianopoulou I, Michalopoulou H, Skalis G, Archontakis S, Argyri O, Tsioufis C, Makris TK, et al. Risk of hypertensive disorders in pregnancy following assisted reproductive technology: overview and meta-analysis. J Clin Hypertens. 2017;19(2):173\u201383.",
+                    "journal-title": "J Clin Hypertens"
+                },
+                {
+                    "key": "2291_CR41",
+                    "unstructured": "Higgins JP, Green S. Cochrane handbook for systematic reviews of interventions. Hoboken: Wiley; 2011."
+                },
+                {
+                    "issue": "7",
+                    "key": "2291_CR42",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1760",
+                    "DOI": "10.1093/humrep/14.7.1760",
+                    "volume": "14",
+                    "author": "J Hoy",
+                    "year": "1999",
+                    "unstructured": "Hoy J, Venn A, Halliday J, Kovacs G, Waalwyk K. Perinatal and obstetric outcomes of donor insemination using cryopreserved semen in Victoria, Australia. Hum Reprod. 1999;14(7):1760\u20134.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "9",
+                    "key": "2291_CR43",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2268",
+                    "DOI": "10.1093/humrep/14.9.2268",
+                    "volume": "14",
+                    "author": "O Salha",
+                    "year": "1999",
+                    "unstructured": "Salha O, Sharma V, Dada T, Nugent D, Rutherford A, Tomlinson A, Philips S, Allgar V, Walker J. The influence of donated gametes on the incidence of hypertensive disorders of pregnancy. Hum Reprod. 1999;14(9):2268\u201373.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "7",
+                    "key": "2291_CR44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1397",
+                    "DOI": "10.1093/humrep/16.7.1397",
+                    "volume": "16",
+                    "author": "A Geipel",
+                    "year": "2001",
+                    "unstructured": "Geipel A, Ludwig M, Germer U, Katalinic A, Diedrich K, Gembruch U. Uterine artery Doppler velocimetry and the outcome of pregnancies resulting from ICSI. Hum Reprod. 2001;16(7):1397\u2013402.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "3",
+                    "key": "2291_CR45",
+                    "first-page": "445",
+                    "volume": "99",
+                    "author": "A Lynch",
+                    "year": "2002",
+                    "unstructured": "Lynch A, McDuffie R, Murphy J, Faber K, Orleans M. Preeclampsia in multiple gestation: the role of assisted reproductive technologies. Obstet Gynecol. 2002;99(3):445\u201351.",
+                    "journal-title": "Obstet Gynecol"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR46",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "51",
+                    "DOI": "10.1016/S0301-2115(02)00468-2",
+                    "volume": "109",
+                    "author": "S Zaib-un-Nisa",
+                    "year": "2003",
+                    "unstructured": "Zaib-un-Nisa S, Ghazal-Aswad S, Badrinath P. Outcome of twin pregnancies after assisted reproductive techniques\u2014a comparative study. Eur J Obstet Gynecol Reprod Biol. 2003;109(1):51\u20134.",
+                    "journal-title": "Eur J Obstet Gynecol Reprod Biol"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR47",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "75",
+                    "DOI": "10.1111/j.1600-0412.2004.00279.x",
+                    "volume": "83",
+                    "author": "A Pinborg",
+                    "year": "2004",
+                    "unstructured": "Pinborg A, Loft A, Schmidt L, Langhoff-Roos J, Andersen AN. Maternal risks and perinatal outcome in a Danish national cohort of 1005 twin pregnancies: the role of in vitro fertilization. Acta Obstet Gynecol Scand. 2004;83(1):75\u201384.",
+                    "journal-title": "Acta Obstet Gynecol Scand"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR48",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "315",
+                    "DOI": "10.1016/j.fertnstert.2003.07.012",
+                    "volume": "81",
+                    "author": "B Luke",
+                    "year": "2004",
+                    "unstructured": "Luke B, Brown MB, Nugent C, Gonzalez-Quintero VH, Witter FR, Newman RB. Risk factors for adverse outcomes in spontaneous versus assisted conception twin pregnancies. Fertil Steril. 2004;81(2):315\u20139.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "11",
+                    "key": "2291_CR49",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1529",
+                    "DOI": "10.1111/j.1471-0528.2005.00745.x",
+                    "volume": "112",
+                    "author": "B K\u00e4ll\u00e9n",
+                    "year": "2005",
+                    "unstructured": "K\u00e4ll\u00e9n B, Finnstr\u00f6m O, Nygren K, Otterblad Olausson P, Wennerholm UB. In vitro fertilisation in Sweden: obstetric characteristics, maternal morbidity and mortality. BJOG. 2005;112(11):1529\u201335.",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "issue": "5",
+                    "key": "2291_CR50",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "632",
+                    "DOI": "10.1111/j.1471-0528.2004.00489.x",
+                    "volume": "112",
+                    "author": "F Thomson",
+                    "year": "2005",
+                    "unstructured": "Thomson F, Shanbhag S, Templeton A, Bhattacharya S. Obstetric outcome in women with subfertility. BJOG. 2005;112(5):632\u20137.",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR51",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "438",
+                    "DOI": "10.1016/j.fertnstert.2006.11.131",
+                    "volume": "88",
+                    "author": "S Hern\u00e1ndez-D\u00edaz",
+                    "year": "2007",
+                    "unstructured": "Hern\u00e1ndez-D\u00edaz S, Werler MM, Mitchell AA. Gestational hypertension in pregnancies supported by infertility treatments: role of infertility, treatments, and multiple gestations. Fertil Steril. 2007;88(2):438\u201345.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "3",
+                    "key": "2291_CR52",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "141",
+                    "DOI": "10.1080/14767050500246045",
+                    "volume": "19",
+                    "author": "O Erez",
+                    "year": "2006",
+                    "unstructured": "Erez O, Vardi IS, Hallak M, Hershkovitz R, Dukler D, Mazor M. Preeclampsia in twin gestations: association with IVF treatments, parity and maternal age. J Matern Fetal Neonatal Med. 2006;19(3):141\u20136.",
+                    "journal-title": "J Matern Fetal Neonatal Med"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR53",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "141",
+                    "DOI": "10.1002/uog.3842",
+                    "volume": "29",
+                    "author": "F Prefumo",
+                    "year": "2007",
+                    "unstructured": "Prefumo F, Fratelli N, Soares S, Thilaganathan B. Uterine artery Doppler velocimetry at 11\u201314 weeks in singleton pregnancies conceived by assisted reproductive technology. Ultrasound Obstet Gynecol. 2007;29(2):141\u20135.",
+                    "journal-title": "Ultrasound Obstet Gynecol"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR54",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1080/10641950802001859",
+                    "volume": "28",
+                    "author": "XK Chen",
+                    "year": "2009",
+                    "unstructured": "Chen XK, Wen SW, Bottomley J, Smith GN, Leader A, Walker MC. In vitro fertilization is associated with an increased risk for preeclampsia. Hypertension in pregnancy. 2009;28(1):1\u201312.",
+                    "journal-title": "Hypertension in pregnancy"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR55",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "818",
+                    "DOI": "10.1097/AOG.0b013e3181b76bd1",
+                    "volume": "114",
+                    "author": "LM Sun",
+                    "year": "2009",
+                    "unstructured": "Sun LM, Walker MC, Cao HL, Yang QY, Duan T, Kingdom JCP. Assisted reproductive technology and placenta-mediated adverse pregnancy outcomes. Obstet Gynecol. 2009;114(4):818\u201324.",
+                    "journal-title": "Obstet Gynecol"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR56",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "138",
+                    "DOI": "10.1016/j.ejogrb.2010.07.010",
+                    "volume": "153",
+                    "author": "K Morcel",
+                    "year": "2010",
+                    "unstructured": "Morcel K, Lavou\u00e9 V, Beuch\u00e9e A, Le Lannou D, Poulain P, Pladys P. Perinatal morbidity and mortality in twin pregnancies with dichorionic placentas following assisted reproductive techniques or ovarian induction alone: a comparative study. Eur J Obstet Gynecol Reprod Biol. 2010;153(2):138\u201342.",
+                    "journal-title": "Eur J Obstet Gynecol Reprod Biol"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR57",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "312",
+                    "DOI": "10.1272/jnms.77.312",
+                    "volume": "77",
+                    "author": "H Miyake",
+                    "year": "2010",
+                    "unstructured": "Miyake H, Iwasaki N, Nakai A, Suzuki S, Takeshita T. The influence of assisted reproductive technology on women with pregnancy-induced hypertension: a retrospective study at a Japanese Regional Perinatal Center. J Nippon Med Sch. 2010;77(6):312\u20137.",
+                    "journal-title": "J Nippon Med Sch"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR58",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "87",
+                    "DOI": "10.1007/s00404-009-1083-3",
+                    "volume": "281",
+                    "author": "S Suzuki",
+                    "year": "2010",
+                    "unstructured": "Suzuki S, Miyake H. Perinatal outcomes of elderly primiparous dichorionic twin pregnancies conceived by in vitro fertilization compared with those conceived spontaneously. Arch Gynecol Obstet. 2010;281(1):87.",
+                    "journal-title": "Arch Gynecol Obstet"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR59",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "98",
+                    "DOI": "10.1375/twin.14.1.98",
+                    "volume": "14",
+                    "author": "H Yang",
+                    "year": "2011",
+                    "unstructured": "Yang H, Choi YS, Nam KH, Kwon JY, Park YW, Kim YH. Obstetric and perinatal outcomes of dichorionic twin pregnancies according to methods of conception: spontaneous versus in-vitro fertilization. Twin Res Hum Genet. 2011;14(1):98\u2013103.",
+                    "journal-title": "Twin Res Hum Genet"
+                },
+                {
+                    "key": "2291_CR60",
+                    "unstructured": "Kuivasaari-Pirinen P, Raatikainen K, Hippel\u00e4inen M, Heinonen S. Adverse outcomes of IVF/ICSI pregnancies vary depending on aetiology of infertility. ISRN Obstet Gynecol. 2012.",
+                    "DOI": "10.5402/2012/451915",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR61",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "95",
+                    "DOI": "10.1016/j.fertnstert.2012.04.009",
+                    "volume": "98",
+                    "author": "C Bamberg",
+                    "year": "2012",
+                    "unstructured": "Bamberg C, Fotopoulou C, Neissner P, Slowinski T, Dudenhausen JW, Proquitte H, B\u00fchrer C, Henrich W. Maternal characteristics and twin gestation outcomes over 10 years: impact of conception methods. Fertil Steril. 2012;98(1):95\u2013101.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR62",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "379",
+                    "DOI": "10.1515/jpm-2011-0252",
+                    "volume": "40",
+                    "author": "M Lu\u010dovnik",
+                    "year": "2012",
+                    "unstructured": "Lu\u010dovnik M, Tul N, Verdenik I, Novak Z, Blickstein I. Risk factors for preeclampsia in twin pregnancies: a population-based matched case-control study. J Perinat Med. 2012;40(4):379\u201382.",
+                    "journal-title": "J Perinat Med"
+                },
+                {
+                    "issue": "5",
+                    "key": "2291_CR63",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1343",
+                    "DOI": "10.1093/humrep/des036",
+                    "volume": "27",
+                    "author": "A Sazonova",
+                    "year": "2012",
+                    "unstructured": "Sazonova A, Kallen K, Thurin-Kjellberg A, Wennerholm UB, Bergh C. Obstetric outcome in singletons after in vitro fertilization with cryopreserved/thawed embryos. Hum Reprod. 2012;27(5):1343\u201350.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "4",
+                    "key": "2291_CR64",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "231",
+                    "DOI": "10.1016/j.mefs.2012.02.008",
+                    "volume": "17",
+                    "author": "ABF Mohammed",
+                    "year": "2012",
+                    "unstructured": "Mohammed ABF, Abdel-Maaboud M. Obstetric and neonatal outcomes of IVF versus spontaneously conceived dichorionic twins. Middle East Fertil Soc J. 2012;17(4):231\u20135.",
+                    "journal-title": "Middle East Fertil Soc J"
+                },
+                {
+                    "issue": "3",
+                    "key": "2291_CR65",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "896",
+                    "DOI": "10.1093/humrep/der469",
+                    "volume": "27",
+                    "author": "C Le Ray",
+                    "year": "2012",
+                    "unstructured": "Le Ray C, Scherier S, Anselem O, Marszalek A, Tsatsaris V, Cabrol D, Goffinet F. Association between oocyte donation and maternal and perinatal outcomes in women aged 43 years or older. Hum Reprod. 2012;27(3):896\u2013901.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR66",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "142",
+                    "DOI": "10.1016/j.fertnstert.2013.01.153",
+                    "volume": "100",
+                    "author": "E Werder",
+                    "year": "2013",
+                    "unstructured": "Werder E, Mendola P, M\u00e4nnist\u00f6 T, O'Loughlin J, Laughon SK. Effect of maternal chronic disease on obstetric complications in twin pregnancies in a United States cohort. Fertil Steril. 2013;100(1):142\u2013149. e142.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR67",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1637",
+                    "DOI": "10.1016/j.fertnstert.2013.01.128",
+                    "volume": "99",
+                    "author": "SS Malchau",
+                    "year": "2013",
+                    "unstructured": "Malchau SS, Loft A, Larsen EC, Henningsen A-KA, Rasmussen S, Andersen AN, Pinborg A. Perinatal outcomes in 375 children born after oocyte donation: a Danish national cohort study. Fertil Steril. 2013;99(6):1637\u20131643. e1633.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR68",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "193",
+                    "DOI": "10.3109/14767058.2012.722723",
+                    "volume": "26",
+                    "author": "R Revello",
+                    "year": "2013",
+                    "unstructured": "Revello R, De la Calle M, Moreno E, Duyos I, Salas P, Zapardiel I. J Matern Fetal Neonatal Med. 2013;26(2):193\u20136.",
+                    "journal-title": "J Matern Fetal Neonatal Med"
+                },
+                {
+                    "issue": "11",
+                    "key": "2291_CR69",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3118",
+                    "DOI": "10.1093/humrep/det307",
+                    "volume": "28",
+                    "author": "S R\u00e4is\u00e4nen",
+                    "year": "2013",
+                    "unstructured": "R\u00e4is\u00e4nen S, Randell K, Nielsen HS, Gissler M, Kramer MR, Klemetti R, Heinonen S. Socioeconomic status affects the prevalence, but not the perinatal outcomes, of in vitro fertilization pregnancies. Hum Reprod. 2013;28(11):3118\u201325.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR70",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "S219",
+                    "DOI": "10.1016/j.ajog.2013.10.466",
+                    "volume": "210",
+                    "author": "A Fong",
+                    "year": "2014",
+                    "unstructured": "Fong A, Lovell S, Rad S, Turner A, Pan D, Ogunyemi D. 433: obstetrical complications of deliveries conceived by assisted reproductive technology in California. Am J Obstet Gynecol. 2014;210(1):S219\u201320.",
+                    "journal-title": "Am J Obstet Gynecol"
+                },
+                {
+                    "issue": "02",
+                    "key": "2291_CR71",
+                    "first-page": "163",
+                    "volume": "31",
+                    "author": "NS Fox",
+                    "year": "2014",
+                    "unstructured": "Fox NS, Roman AS, Saltzman DH, Hourizadeh T, Hastings J, Rebarber A. Risk factors for preeclampsia in twin pregnancies. Am J Perinatol. 2014;31(02):163\u20136.",
+                    "journal-title": "Am J Perinatol"
+                },
+                {
+                    "issue": "13",
+                    "key": "2291_CR72",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1316",
+                    "DOI": "10.3109/14767058.2013.856415",
+                    "volume": "27",
+                    "author": "T Silberstein",
+                    "year": "2014",
+                    "unstructured": "Silberstein T, Levy A, Harlev A, Saphier O, Sheiner E. Perinatal outcome of pregnancies following in vitro fertilization and ovulation induction. J Matern Fetal Neonatal Med. 2014;27(13):1316\u20139.",
+                    "journal-title": "J Matern Fetal Neonatal Med"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR73",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "938",
+                    "DOI": "10.3109/14767058.2015.1024649",
+                    "volume": "29",
+                    "author": "A-M Morency",
+                    "year": "2016",
+                    "unstructured": "Morency A-M, Shah PS, Seaward PGR, Whittle W, Murphy KE. Obstetrical and neonatal outcomes of triplet births\u2013spontaneous versus assisted reproductive technology conception. J Matern Fetal Neonatal Med. 2016;29(6):938\u201343.",
+                    "journal-title": "J Matern Fetal Neonatal Med"
+                },
+                {
+                    "issue": "2",
+                    "key": "2291_CR74",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "212. e211",
+                    "DOI": "10.1016/j.ajog.2015.03.032",
+                    "volume": "213",
+                    "author": "MS Lee",
+                    "year": "2015",
+                    "unstructured": "Lee MS, Cantonwine D, Little SE, McElrath TF, Parry SI, Lim K-H, Wilkins-Haug LE. Angiogenic markers in pregnancies conceived through in vitro fertilization. Am J Obstet Gynecol. 2015;213(2):212. e211\u20138.",
+                    "journal-title": "Am J Obstet Gynecol"
+                },
+                {
+                    "issue": "6",
+                    "key": "2291_CR75",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1363",
+                    "DOI": "10.1016/j.fertnstert.2016.07.1092",
+                    "volume": "106",
+                    "author": "B Bay",
+                    "year": "2016",
+                    "unstructured": "Bay B, Ingerslev HJ, Lemmen JG, Degn B, Rasmussen IA, Kesmodel US. Preimplantation genetic diagnosis: a national multicenter obstetric and neonatal follow-up study. Fertil Steril. 2016;106(6):1363.",
+                    "journal-title": "Fertil Steril"
+                },
+                {
+                    "issue": "8",
+                    "key": "2291_CR76",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1320",
+                    "DOI": "10.1111/1471-0528.13584",
+                    "volume": "123",
+                    "author": "AL DoPierala",
+                    "year": "2016",
+                    "unstructured": "DoPierala AL, Bhatta S, Raja EA, Bhattacharya S, Bhattacharya S. Obstetric consequences of subfertility: a retrospective cohort study. BJOG. 2016;123(8):1320\u20138.",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "issue": "8",
+                    "key": "2291_CR77",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "879",
+                    "DOI": "10.1111/aogs.12904",
+                    "volume": "95",
+                    "author": "S Nejdet",
+                    "year": "2016",
+                    "unstructured": "Nejdet S, Bergh C, Kallen K, Wennerholm UB, Thurin-Kjellberg A. High risks of maternal and perinatal complications in singletons born after oocyte donation. Acta Obstet Gynecol Scand. 2016;95(8):879\u201386.",
+                    "journal-title": "Acta Obstet Gynecol Scand"
+                },
+                {
+                    "key": "2291_CR78",
+                    "unstructured": "Zhu LL, Zhang Y, Liu YF, Zhang RJ, Wu YQ, Huang Y, Liu F, Li MG, Sun SJ, Xing LF, et al. Maternal and live-birth outcomes of pregnancies following assisted reproductive technology: a retrospective cohort study. Sci Rep. 2016;6:35141. \n                    https://doi.org/10.1038/srep35141\n                    \n                  .",
+                    "DOI": "10.1038/srep35141",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "2291_CR79",
+                    "first-page": "139",
+                    "volume": "32",
+                    "author": "J Vikstrom",
+                    "year": "2017",
+                    "unstructured": "Vikstrom J, Josefsson A, Hammar M, Bladh M, Sydsjo G. Risk of postpartum psychosis after IVF treatment: a nationwide case-control study. Hum Reprod. 2017;32(1):139\u201346.",
+                    "journal-title": "Hum Reprod"
+                },
+                {
+                    "issue": "14",
+                    "key": "2291_CR80",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1388",
+                    "DOI": "10.1055/s-0036-1582444",
+                    "volume": "33",
+                    "author": "RD Ben-Yaakov",
+                    "year": "2016",
+                    "unstructured": "Ben-Yaakov RD, Kessous R, Shoham-Vardi I, Sergienko R, Pariente G, Sheiner E. Fertility treatments in women who become pregnant and carried to viability, and the risk for long-term maternal cardiovascular morbidity. Am J Perinatol. 2016;33(14):1388\u201393.",
+                    "journal-title": "Am J Perinatol"
+                },
+                {
+                    "key": "2291_CR81",
+                    "unstructured": "Sun L, Zou G, Wei X, Chen Y, Zhang J, Okun N, Duan T. Clinical outcomes after assisted reproductive technology in twin pregnancies: chorionicity-based comparison. Sci Rep. 2016;6:26869. \n                    https://doi.org/10.1038/srep26869\n                    \n                  .",
+                    "DOI": "10.1038/srep26869",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "10",
+                    "key": "2291_CR82",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1381",
+                    "DOI": "10.1177/1933719116641765",
+                    "volume": "23",
+                    "author": "G Rizzo",
+                    "year": "2016",
+                    "unstructured": "Rizzo G, Aiello E, Pietrolucci ME, Arduini D. Are there differences in placental volume and uterine artery Doppler in pregnancies resulting from the transfer of fresh versus frozen-thawed embryos through in vitro fertilization. Reprod Sci. 2016;23(10):1381\u20136.",
+                    "journal-title": "Reprod Sci"
+                }
+            ],
+            "container-title": "BMC Pregnancy and Childbirth",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12884-019-2291-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12884-019-2291-x/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12884-019-2291-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        30
+                    ]
+                ],
+                "date-time": "2020-04-30T23:20:37Z",
+                "timestamp": 1588288837000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 82,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "2291"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12884-019-2291-x",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2393"
+            ],
+            "subject": [
+                "Obstetrics and Gynaecology"
+            ],
+            "container-title-short": "BMC Pregnancy Childbirth",
+            "assertion": [
+                {
+                    "value": "11 January 2018",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "12 April 2019",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "2 May 2019",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors declare that they have no competing interests.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                },
+                {
+                    "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Publisher\u2019s Note"
+                    }
+                }
+            ],
+            "article-number": "149"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Assisted reproductive technology",
+                        "Infertility",
+                        "Meta-analysis",
+                        "Preeclampsia",
+                        "Systematic review"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31046710",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "02",
+                    "Day": "25"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12884-019-2291-x"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "05",
+                            "Day": "02"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2393",
+                        "JournalIssue": {
+                            "Volume": "19",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "May",
+                                "Day": "02"
+                            }
+                        },
+                        "Title": "BMC pregnancy and childbirth",
+                        "ISOAbbreviation": "BMC Pregnancy Childbirth"
+                    },
+                    "ArticleTitle": "Assisted reproductive technology and the risk of preeclampsia: an updated systematic review and meta-analysis.",
+                    "Pagination": {
+                        "MedlinePgn": "149"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The objective of this systematic review and meta-analyses was to assess the risk of preeclampsia among women who conceived with assisted reproductive technology (ART).",
+                            "We searched the ISI Web of Knowledge, Medline/PubMed, Scopus, and Embase (from inception to May 2017) for English language articles using a list of key words. In addition, reference lists from identified studies and relevant review articles were also searched. Data extraction was performed by two authors, and the study quality was assessed using the Newcastle-Ottawa Scale. Random-effects model meta-analysis was applied to pool the relative risks (RR) across studies.",
+                            "A total of 48 studies (5 case-control studies and 43 cohort studies) were included in this meta-analysis. The Cochran Q test and I<sup>2</sup> statistics revealed substantial heterogeneity (Q\u2009=\u200926,313.92, d.f. = 47, p\u00a0<\u20090.001 and I<sup>2</sup>\u00a0=\u200999.8%). Meta-analysis showed a significant increase in preeclampsia in women who conceived by ART compared with those who conceived spontaneously (RR\u2009=\u20091.71, 95% CI\u2009=\u20091.11-2.62, p\u00a0=\u20090.015).",
+                            "The findings of this systematic review indicate that the use of ART treatment is associated with a 1.71-fold increase in preeclampsia."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Almasi-Hashiani",
+                            "ForeName": "Amir",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Omani-Samani",
+                            "ForeName": "Reza",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mohammadi",
+                            "ForeName": "Maryam",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics and Epidemiology, School of Public Health, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Amini",
+                            "ForeName": "Payam",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Navid",
+                            "ForeName": "Behnaz",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alizadeh",
+                            "ForeName": "Ahad",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health, and Society, Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Khedmati Morasae",
+                            "ForeName": "Esmaeil",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing and Midwifery, Guilan University of Medical Sciences, Rasht, Iran. saman.maroufizadeh@gmail.com."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-5794-3876"
+                            ],
+                            "LastName": "Maroufizadeh",
+                            "ForeName": "Saman",
+                            "Initials": "S"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Pregnancy Childbirth",
+                    "NlmUniqueID": "100967799",
+                    "ISSNLinking": "1471-2393"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Case-Control Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cohort Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "etiology"
+                        ],
+                        "DescriptorName": "Pre-Eclampsia",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Reproductive Techniques, Assisted",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Hum Reprod. 1999 Apr;14(4):1107-10",
+                                "ArticleIdList": [
+                                    "10221249"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 1999 Jul;14(7):1760-4",
+                                "ArticleIdList": [
+                                    "10402384"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 1999 Sep;14(9):2268-73",
+                                "ArticleIdList": [
+                                    "10469693"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2000 Jul;183(1):S1-S22",
+                                "ArticleIdList": [
+                                    "10920346"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 2001 Jul;16(7):1397-402",
+                                "ArticleIdList": [
+                                    "11425819"
+                                ]
+                            },
+                            {
+                                "Citation": "Obstet Gynecol. 2002 Mar;99(3):445-51",
+                                "ArticleIdList": [
+                                    "11864672"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2002 Jun 15;21(11):1539-58",
+                                "ArticleIdList": [
+                                    "12111919"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Obstet Gynecol Reprod Biol. 2003 Jul 1;109(1):51-4",
+                                "ArticleIdList": [
+                                    "12818443"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Obstet Gynecol Scand. 2004 Jan;83(1):75-84",
+                                "ArticleIdList": [
+                                    "14678089"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2004 Feb;81(2):315-9",
+                                "ArticleIdList": [
+                                    "14967366"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2005 Feb 26-Mar 4;365(9461):785-99",
+                                "ArticleIdList": [
+                                    "15733721"
+                                ]
+                            },
+                            {
+                                "Citation": "BJOG. 2005 May;112(5):632-7",
+                                "ArticleIdList": [
+                                    "15842289"
+                                ]
+                            },
+                            {
+                                "Citation": "Science. 2005 Jun 10;308(5728):1592-4",
+                                "ArticleIdList": [
+                                    "15947178"
+                                ]
+                            },
+                            {
+                                "Citation": "BJOG. 2005 Nov;112(11):1529-35",
+                                "ArticleIdList": [
+                                    "16225574"
+                                ]
+                            },
+                            {
+                                "Citation": "Obstet Gynecol. 2005 Nov;106(5 Pt 1):1039-45",
+                                "ArticleIdList": [
+                                    "16260523"
+                                ]
+                            },
+                            {
+                                "Citation": "J Matern Fetal Neonatal Med. 2006 Mar;19(3):141-6",
+                                "ArticleIdList": [
+                                    "16690506"
+                                ]
+                            },
+                            {
+                                "Citation": "Nat Clin Pract Nephrol. 2005 Dec;1(2):98-114; quiz 120",
+                                "ArticleIdList": [
+                                    "16932375"
+                                ]
+                            },
+                            {
+                                "Citation": "Ultrasound Obstet Gynecol. 2007 Feb;29(2):141-5",
+                                "ArticleIdList": [
+                                    "17072900"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2007 Aug;88(2):438-45",
+                                "ArticleIdList": [
+                                    "17449034"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 May 26;369(9575):1791-1798",
+                                "ArticleIdList": [
+                                    "17512048"
+                                ]
+                            },
+                            {
+                                "Citation": "J Obstet Gynaecol. 2008 May;28(4):398-402",
+                                "ArticleIdList": [
+                                    "18604672"
+                                ]
+                            },
+                            {
+                                "Citation": "Hypertens Pregnancy. 2009 Feb;28(1):1-12",
+                                "ArticleIdList": [
+                                    "19165665"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gynecol Obstet. 2010 Jan;281(1):87-90",
+                                "ArticleIdList": [
+                                    "19381666"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 2009 Sep;24(9):2341-7",
+                                "ArticleIdList": [
+                                    "19439428"
+                                ]
+                            },
+                            {
+                                "Citation": "MMWR Surveill Summ. 2009 Jun 12;58(5):1-25",
+                                "ArticleIdList": [
+                                    "19521336"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Intern Med. 2009 Aug 18;151(4):264-9, W64",
+                                "ArticleIdList": [
+                                    "19622511"
+                                ]
+                            },
+                            {
+                                "Citation": "Obstet Gynecol. 2009 Oct;114(4):818-24",
+                                "ArticleIdList": [
+                                    "19888040"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Obstet Gynecol Reprod Biol. 2010 Dec;153(2):138-42",
+                                "ArticleIdList": [
+                                    "20674134"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nippon Med Sch. 2010 Dec;77(6):312-7",
+                                "ArticleIdList": [
+                                    "21206144"
+                                ]
+                            },
+                            {
+                                "Citation": "Twin Res Hum Genet. 2011 Feb;14(1):98-103",
+                                "ArticleIdList": [
+                                    "21314262"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 2012 Mar;27(3):896-901",
+                                "ArticleIdList": [
+                                    "22252087"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 2012 May;27(5):1343-50",
+                                "ArticleIdList": [
+                                    "22362926"
+                                ]
+                            },
+                            {
+                                "Citation": "J Hum Hypertens. 2013 Mar;27(3):148-57",
+                                "ArticleIdList": [
+                                    "22495105"
+                                ]
+                            },
+                            {
+                                "Citation": "ISRN Obstet Gynecol. 2012;2012:451915",
+                                "ArticleIdList": [
+                                    "22570795"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2012 Jul;98(1):95-101",
+                                "ArticleIdList": [
+                                    "22608318"
+                                ]
+                            },
+                            {
+                                "Citation": "J Perinat Med. 2012 Feb 14;40(4):379-82",
+                                "ArticleIdList": [
+                                    "22752768"
+                                ]
+                            },
+                            {
+                                "Citation": "J Matern Fetal Neonatal Med. 2013 Jan;26(2):193-6",
+                                "ArticleIdList": [
+                                    "22928531"
+                                ]
+                            },
+                            {
+                                "Citation": "BJOG. 2013 Jan;120(1):64-74",
+                                "ArticleIdList": [
+                                    "23126307"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2012 Dec 15;380(9859):2197-223",
+                                "ArticleIdList": [
+                                    "23245608"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2013 May;99(6):1637-43",
+                                "ArticleIdList": [
+                                    "23465822"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2013 Jul;100(1):142-9.e1-2",
+                                "ArticleIdList": [
+                                    "23541402"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Perinatol. 2014 Feb;31(2):163-6",
+                                "ArticleIdList": [
+                                    "23592316"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 2013 Nov;28(11):3118-25",
+                                "ArticleIdList": [
+                                    "23892321"
+                                ]
+                            },
+                            {
+                                "Citation": "Nutr Rev. 2013 Oct;71 Suppl 1:S18-25",
+                                "ArticleIdList": [
+                                    "24147919"
+                                ]
+                            },
+                            {
+                                "Citation": "J Matern Fetal Neonatal Med. 2014 Sep;27(13):1316-9",
+                                "ArticleIdList": [
+                                    "24175873"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2014 Jun;210(6):510-520.e1",
+                                "ArticleIdList": [
+                                    "24184340"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2013 Nov 07;347:f6564",
+                                "ArticleIdList": [
+                                    "24201165"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Jun 17;9(6):e100180",
+                                "ArticleIdList": [
+                                    "24937406"
+                                ]
+                            },
+                            {
+                                "Citation": "BJOG. 2015 Jun;122(7):915-22",
+                                "ArticleIdList": [
+                                    "25163925"
+                                ]
+                            },
+                            {
+                                "Citation": "Obstet Gynecol. 2014 Oct;124(4):763-70",
+                                "ArticleIdList": [
+                                    "25198274"
+                                ]
+                            },
+                            {
+                                "Citation": "BJOG. 2015 Jun;122(7):923",
+                                "ArticleIdList": [
+                                    "25288131"
+                                ]
+                            },
+                            {
+                                "Citation": "Integr Blood Press Control. 2015 Mar 03;8:7-12",
+                                "ArticleIdList": [
+                                    "25767405"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2015 Aug;213(2):212.e1-8",
+                                "ArticleIdList": [
+                                    "25797229"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2015 Jun;103(6):1438-45",
+                                "ArticleIdList": [
+                                    "25813277"
+                                ]
+                            },
+                            {
+                                "Citation": "J Matern Fetal Neonatal Med. 2016 Mar;29(6):938-43",
+                                "ArticleIdList": [
+                                    "25902395"
+                                ]
+                            },
+                            {
+                                "Citation": "Pregnancy Hypertens. 2014 Apr;4(2):97-104",
+                                "ArticleIdList": [
+                                    "26104417"
+                                ]
+                            },
+                            {
+                                "Citation": "BJOG. 2016 Jul;123(8):1320-8",
+                                "ArticleIdList": [
+                                    "26335260"
+                                ]
+                            },
+                            {
+                                "Citation": "J Matern Fetal Neonatal Med. 2016;29(15):2475-80",
+                                "ArticleIdList": [
+                                    "26414487"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2016 Feb;105(2):451-8",
+                                "ArticleIdList": [
+                                    "26597629"
+                                ]
+                            },
+                            {
+                                "Citation": "J Matern Fetal Neonatal Med. 2016 Dec;29(23):3879-84",
+                                "ArticleIdList": [
+                                    "26856245"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Obstet Gynecol Scand. 2016 Aug;95(8):879-86",
+                                "ArticleIdList": [
+                                    "27060438"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Sci. 2016 Oct;23(10):1381-6",
+                                "ArticleIdList": [
+                                    "27071962"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Perinatol. 2016 Dec;33(14):1388-1393",
+                                "ArticleIdList": [
+                                    "27159201"
+                                ]
+                            },
+                            {
+                                "Citation": "JBRA Assist Reprod. 2015 Feb 01;19(1):16-20",
+                                "ArticleIdList": [
+                                    "27205861"
+                                ]
+                            },
+                            {
+                                "Citation": "Sci Rep. 2016 May 31;6:26869",
+                                "ArticleIdList": [
+                                    "27243373"
+                                ]
+                            },
+                            {
+                                "Citation": "Taiwan J Obstet Gynecol. 2016 Jun;55(3):341-5",
+                                "ArticleIdList": [
+                                    "27343312"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2016 Nov;106(6):1363-1369.e1",
+                                "ArticleIdList": [
+                                    "27542705"
+                                ]
+                            },
+                            {
+                                "Citation": "Sci Rep. 2016 Oct 20;6:35141",
+                                "ArticleIdList": [
+                                    "27762324"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Reprod. 2017 Jan;32(1):139-146",
+                                "ArticleIdList": [
+                                    "27927846"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Hypertens (Greenwich). 2017 Feb;19(2):173-183",
+                                "ArticleIdList": [
+                                    "28071857"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2017 Apr;107(4):948-953.e1",
+                                "ArticleIdList": [
+                                    "28283263"
+                                ]
+                            },
+                            {
+                                "Citation": "J Dev Orig Health Dis. 2017 Aug;8(4):443-447",
+                                "ArticleIdList": [
+                                    "28721836"
+                                ]
+                            },
+                            {
+                                "Citation": "Fertil Steril. 2017 Sep;108(3):393-406",
+                                "ArticleIdList": [
+                                    "28760517"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1988 Aug;7(8):889-94",
+                                "ArticleIdList": [
+                                    "3413368"
+                                ]
+                            },
+                            {
+                                "Citation": "Biometrics. 1994 Dec;50(4):1088-101",
+                                "ArticleIdList": [
+                                    "7786990"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1997 Sep 13;315(7109):629-34",
+                                "ArticleIdList": [
+                                    "9310563"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "01",
+                        "Day": "11"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "04",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "4",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "31046710",
+                    "10.1186/s12884-019-2291-x",
+                    "10.1186/s12884-019-2291-x",
+                    "PMC6498659"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31046710)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831046710%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831046710%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065211361"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065211361?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065211361&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065211361&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065211361",
+                        "dc:identifier": "SCOPUS_ID:85065211361",
+                        "eid": "2-s2.0-85065211361",
+                        "dc:title": "Assisted reproductive technology and the risk of preeclampsia: An updated systematic review and meta-analysis",
+                        "dc:creator": "Almasi-Hashiani A.",
+                        "prism:publicationName": "BMC Pregnancy and Childbirth",
+                        "prism:eIssn": "14712393",
+                        "prism:volume": "19",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-05-02",
+                        "prism:coverDisplayDate": "2 May 2019",
+                        "prism:doi": "10.1186/s12884-019-2291-x",
+                        "citedby-count": "9",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Arak University of Medical Sciences",
+                                "affiliation-city": "Arak",
+                                "affiliation-country": "Iran"
+                            }
+                        ],
+                        "pubmed-id": "31046710",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "149",
+                        "source-id": "12550",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "LEG3F22U.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31046710"
+            }
+        },
+        "title": "Assisted reproductive technology and the risk of preeclampsia: an updated systematic review and meta-analysis.",
+        "full_author_list": [
+            {
+                "clean": "Almasi-Hashiani A",
+                "family": "Almasi-Hashiani",
+                "given": "Amir",
+                "affiliation": {
+                    "name": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran."
+                }
+            },
+            {
+                "clean": "Omani-Samani R",
+                "family": "Omani-Samani",
+                "given": "Reza",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Mohammadi M",
+                "family": "Mohammadi",
+                "given": "Maryam",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Amini P",
+                "family": "Amini",
+                "given": "Payam",
+                "affiliation": {
+                    "name": "Department of Biostatistics and Epidemiology, School of Public Health, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+                }
+            },
+            {
+                "clean": "Navid B",
+                "family": "Navid",
+                "given": "Behnaz",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Alizadeh A",
+                "family": "Alizadeh",
+                "given": "Ahad",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Khedmati Morasae E",
+                "family": "Khedmati Morasae",
+                "given": "Esmaeil",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health, and Society, Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Maroufizadeh S",
+                "family": "Maroufizadeh",
+                "given": "Saman",
+                "affiliation": {
+                    "name": "School of Nursing and Midwifery, Guilan University of Medical Sciences, Rasht, Iran. saman.maroufizadeh@gmail.com."
+                }
+            }
+        ],
+        "first_author": "Almasi-Hashiani A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Case-Control Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Cohort Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Pre-Eclampsia",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Reproductive Techniques, Assisted",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMC Pregnancy Childbirth",
+            "volume": "19",
+            "issue": "1"
+        },
+        "abstract": "['The objective of this systematic review and meta-analyses was to assess the risk of preeclampsia among women who conceived with assisted reproductive technology (ART).', 'We searched the ISI Web of Knowledge, Medline/PubMed, Scopus, and Embase (from inception to May 2017) for English language articles using a list of key words. In addition, reference lists from identified studies and relevant review articles were also searched. Data extraction was performed by two authors, and the study quality was assessed using the Newcastle-Ottawa Scale. Random-effects model meta-analysis was applied to pool the relative risks (RR) across studies.', 'A total of 48 studies (5 case-control studies and 43 cohort studies) were included in this meta-analysis. The Cochran Q test and I<sup>2</sup> statistics revealed substantial heterogeneity (Q\\u2009=\\u200926,313.92, d.f. = 47, p\\xa0<\\u20090.001 and I<sup>2</sup>\\xa0=\\u200999.8%). Meta-analysis showed a significant increase in preeclampsia in women who conceived by ART compared with those who conceived spontaneously (RR\\u2009=\\u20091.71, 95% CI\\u2009=\\u20091.11-2.62, p\\xa0=\\u20090.015).', 'The findings of this systematic review indicate that the use of ART treatment is associated with a 1.71-fold increase in preeclampsia.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "9"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran."
+        }
+    }
+}

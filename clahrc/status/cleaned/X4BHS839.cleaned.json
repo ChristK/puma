@@ -1,0 +1,753 @@
+{
+    "IDs": {
+        "zotero": "X4BHS839",
+        "DOI": "10.1017/S1463423616000074",
+        "DOI_filename": "533f7f5a1c8823a42cf13760ddf8aab8",
+        "PMID": "26961125",
+        "scopus": "2-s2.0-84983752591",
+        "hash": "aab17e121aa6345718c3c8ead9be9d4d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "X4BHS839",
+            "version": 199,
+            "itemType": "journalArticle",
+            "title": "Sickness certification for common mental disorders and GP return-to-work advice",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Chris",
+                    "lastName": "Shiels"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jim",
+                    "lastName": "Hillage"
+                }
+            ],
+            "abstractNote": "Aim\n              To report the types and duration of sickness certification for different common mental disorders (CMDs) and the prevalence of GP advice aimed at returning the patient to work.\n            \n            \n              Background\n              In the United Kingdom, common mental health problems, such and depression and stress, have become the main reasons for patients requesting a sickness certificate to abstain from usual employment. Increasing attention is being paid to mental health and its impact on employability and work capacity in all parts of the welfare system. However, relatively little is known about the extent to which different mental health diagnoses impact upon sickness certification outcomes, and how the GP has used the new fit note (introduced in 2010) to support a return to work for patients with mental health diagnoses.\n            \n            \n              Methods\n              Sickness certification data was collected from 68 UK-based general practices for a period of 12 months.\n            \n            \n              Findings\n              The study found a large part of all sickness absence certified by GPs was due to CMDs (29% of all sickness absence episodes). Females, younger patients and those living in deprived areas were more likely to receive a fit note for a CMD (compared with one for a physical health problem). The highest proportion of CMD fit notes were issued for \u2018stress\u2019. However, sickness certification for depression contributed nearly half of all weeks certified for mental health problems. Only 7% of CMD fit notes included any \u2018may be fit\u2019 advice from the GP, with type of advice varying by mental health diagnostic category. Patients living in the most socially deprived neighbourhoods were less likely to receive \u2018may be fit\u2019 advice on their CMD fit notes.",
+            "publicationTitle": "Primary Health Care Research & Development",
+            "volume": "17",
+            "issue": "05",
+            "pages": "437-447",
+            "date": "09/2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Prim Health Care Res Dev",
+            "language": "en",
+            "DOI": "10.1017/S1463423616000074",
+            "ISSN": "1463-4236, 1477-1128",
+            "shortTitle": "",
+            "url": "http://www.journals.cambridge.org/abstract_S1463423616000074",
+            "accessDate": "2020-09-10T17:09:08Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 26961125",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:08Z",
+            "dateModified": "2020-09-15T14:39:19Z",
+            "pmid": "26961125"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        2
+                    ]
+                ],
+                "date-time": "2020-07-02T11:43:52Z",
+                "timestamp": 1593690232165
+            },
+            "reference-count": 28,
+            "publisher": "Cambridge University Press (CUP)",
+            "issue": "05",
+            "content-domain": {
+                "domain": [
+                    "journals.cambridge.org"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        9
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec id=\"S1463423616000074_abs1\" sec-type=\"general\"><jats:title>Aim</jats:title><jats:p>To report the types and duration of sickness certification for different common mental disorders (CMDs) and the prevalence of GP advice aimed at returning the patient to work.</jats:p></jats:sec><jats:sec id=\"S1463423616000074_abs2\" sec-type=\"general\"><jats:title>Background</jats:title><jats:p>In the United Kingdom, common mental health problems, such and depression and stress, have become the main reasons for patients requesting a sickness certificate to abstain from usual employment. Increasing attention is being paid to mental health and its impact on employability and work capacity in all parts of the welfare system. However, relatively little is known about the extent to which different mental health diagnoses impact upon sickness certification outcomes, and how the GP has used the new fit note (introduced in 2010) to support a return to work for patients with mental health diagnoses.</jats:p></jats:sec><jats:sec id=\"S1463423616000074_abs3\" sec-type=\"methods\"><jats:title>Methods</jats:title><jats:p>Sickness certification data was collected from 68 UK-based general practices for a period of 12 months.</jats:p></jats:sec><jats:sec id=\"S1463423616000074_abs4\" sec-type=\"general\"><jats:title>Findings</jats:title><jats:p>The study found a large part of all sickness absence certified by GPs was due to CMDs (29% of all sickness absence episodes). Females, younger patients and those living in deprived areas were more likely to receive a fit note for a CMD (compared with one for a physical health problem). The highest proportion of CMD fit notes were issued for \u2018stress\u2019. However, sickness certification for depression contributed nearly half of all weeks certified for mental health problems. Only 7% of CMD fit notes included any \u2018may be fit\u2019 advice from the GP, with type of advice varying by mental health diagnostic category. Patients living in the most socially deprived neighbourhoods were less likely to receive \u2018may be fit\u2019 advice on their CMD fit notes.</jats:p></jats:sec>",
+            "DOI": "10.1017/s1463423616000074",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        3,
+                        10
+                    ]
+                ],
+                "date-time": "2016-03-10T10:49:09Z",
+                "timestamp": 1457606949000
+            },
+            "page": "437-447",
+            "update-policy": "http://dx.doi.org/10.1017/policypage",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "Sickness certification for common mental disorders and GP return-to-work advice",
+            "prefix": "10.1017",
+            "volume": "17",
+            "author": [
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Chris",
+                    "family": "Shiels",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jim",
+                    "family": "Hillage",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "56",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        3,
+                        10
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "S1463423616000074_ref14",
+                    "DOI": "10.1192/bjp.169.6.740",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref9",
+                    "year": "2007",
+                    "volume-title": "Fourth European work conditions survey"
+                },
+                {
+                    "key": "S1463423616000074_ref12",
+                    "year": "2013",
+                    "volume-title": "General practitioners\u2019 attitudes towards patients\u2019 health and work, 2010\u201312. DWP research report no 835"
+                },
+                {
+                    "key": "S1463423616000074_ref11",
+                    "year": "2009",
+                    "volume-title": "Primary care mental health"
+                },
+                {
+                    "key": "S1463423616000074_ref10",
+                    "DOI": "10.1136/oemed-2014-102307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref4",
+                    "year": "2013",
+                    "volume-title": "An evaluation of the statement of fitness for work (Fit note): a survey of employees. DWP research report no 840"
+                },
+                {
+                    "key": "S1463423616000074_ref3",
+                    "year": "2011",
+                    "volume-title": "Health at work: an independent review of sickness absence"
+                },
+                {
+                    "key": "S1463423616000074_ref2",
+                    "year": "2008",
+                    "volume-title": "Working for a healthier tomorrow"
+                },
+                {
+                    "key": "S1463423616000074_ref29",
+                    "year": "2010",
+                    "volume-title": "Common mental disorders at work"
+                },
+                {
+                    "key": "S1463423616000074_ref28",
+                    "DOI": "10.1001/jama.286.11.1325",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref27",
+                    "DOI": "10.1111/1475-6773.01086",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref26",
+                    "year": "2007",
+                    "volume-title": "Mental health at work: developing the business case"
+                },
+                {
+                    "key": "S1463423616000074_ref25",
+                    "DOI": "10.1097/00005650-200412000-00007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref24",
+                    "year": "2014",
+                    "volume-title": "Mental health and work: United Kingdom"
+                },
+                {
+                    "key": "S1463423616000074_ref22",
+                    "year": "2009",
+                    "volume-title": "Returning to work: the role of depression"
+                },
+                {
+                    "key": "S1463423616000074_ref21",
+                    "year": "2009",
+                    "volume-title": "Adult psychiatric morbidity in England, 2007: results of a household survey"
+                },
+                {
+                    "key": "S1463423616000074_ref20",
+                    "DOI": "10.5271/sjweh.1295",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref34",
+                    "DOI": "10.1016/S0140-6736(12)61729-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref33",
+                    "DOI": "10.1007/s00127-007-0189-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref32",
+                    "DOI": "10.1017/S0033291798006588",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref31",
+                    "year": "2013",
+                    "volume-title": "National evaluation of the statement of fitness for work (Fit note): quantitative survey of fit notes. DWP research report no 841"
+                },
+                {
+                    "key": "S1463423616000074_ref30",
+                    "DOI": "10.3399/bjgp14X677509",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref19",
+                    "DOI": "10.1017/S1463423610000472",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref18",
+                    "DOI": "10.1186/1471-2296-13-82",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref17",
+                    "DOI": "10.1097/01.mlr.0000204049.30620.1e",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref16",
+                    "DOI": "10.1007/s001270050010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref15",
+                    "DOI": "10.1111/j.1600-0447.2012.01902.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1463423616000074_ref13",
+                    "year": "2013",
+                    "volume-title": "Work and depression/anxiety disorders \u2013 a systematic review of reviews: final report"
+                }
+            ],
+            "container-title": "Primary Health Care Research & Development",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1463423616000074",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        4,
+                        23
+                    ]
+                ],
+                "date-time": "2017-04-23T00:00:51Z",
+                "timestamp": 1492905651000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3,
+                        10
+                    ]
+                ]
+            },
+            "references-count": 28,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            9
+                        ]
+                    ]
+                },
+                "issue": "05"
+            },
+            "alternative-id": [
+                "S1463423616000074"
+            ],
+            "URL": "http://dx.doi.org/10.1017/S1463423616000074",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1463-4236",
+                "1477-1128"
+            ],
+            "container-title-short": "Prim Health Care Res Dev",
+            "assertion": [
+                {
+                    "value": "\u00a9 Cambridge University Press 2016\u00a0",
+                    "name": "license",
+                    "label": "License",
+                    "group": {
+                        "name": "copyright_and_licensing",
+                        "label": "Copyright and Licensing"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "common mental disorders",
+                        "return-to-work advice",
+                        "sickness absence",
+                        "sickness certification"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "26961125",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "11",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2017",
+                    "Month": "11",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1017/S1463423616000074"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "03",
+                            "Day": "10"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1477-1128",
+                        "JournalIssue": {
+                            "Volume": "17",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "09"
+                            }
+                        },
+                        "Title": "Primary health care research & development",
+                        "ISOAbbreviation": "Prim Health Care Res Dev"
+                    },
+                    "ArticleTitle": "Sickness certification for common mental disorders and GP return-to-work advice.",
+                    "Pagination": {
+                        "MedlinePgn": "437-47"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Aim To report the types and duration of sickness certification for different common mental disorders (CMDs) and the prevalence of GP advice aimed at returning the patient to work.",
+                            "In the United Kingdom, common mental health problems, such and depression and stress, have become the main reasons for patients requesting a sickness certificate to abstain from usual employment. Increasing attention is being paid to mental health and its impact on employability and work capacity in all parts of the welfare system. However, relatively little is known about the extent to which different mental health diagnoses impact upon sickness certification outcomes, and how the GP has used the new fit note (introduced in 2010) to support a return to work for patients with mental health diagnoses.",
+                            "Sickness certification data was collected from 68 UK-based general practices for a period of 12 months. Findings The study found a large part of all sickness absence certified by GPs was due to CMDs (29% of all sickness absence episodes). Females, younger patients and those living in deprived areas were more likely to receive a fit note for a CMD (compared with one for a physical health problem). The highest proportion of CMD fit notes were issued for 'stress'. However, sickness certification for depression contributed nearly half of all weeks certified for mental health problems. Only 7% of CMD fit notes included any 'may be fit' advice from the GP, with type of advice varying by mental health diagnostic category. Patients living in the most socially deprived neighbourhoods were less likely to receive 'may be fit' advice on their CMD fit notes."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "1Division of Health Services Research,University of Liverpool,Liverpool,UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "1Division of Health Services Research,University of Liverpool,Liverpool,UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shiels",
+                            "ForeName": "Chris",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "2Institute for Employment Studies,Brighton,UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hillage",
+                            "ForeName": "Jim",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Prim Health Care Res Dev",
+                    "NlmUniqueID": "100897390",
+                    "ISSNLinking": "1463-4236"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "General Practice",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Mental Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Return to Work",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Sick Leave",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "3",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "3",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "26961125",
+                    "S1463423616000074",
+                    "10.1017/S1463423616000074"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(26961125)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2826961125%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2826961125%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84983752591"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84983752591?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84983752591&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84983752591&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84983752591",
+                        "dc:identifier": "SCOPUS_ID:84983752591",
+                        "eid": "2-s2.0-84983752591",
+                        "dc:title": "Sickness certification for common mental disorders and GP return-to-work advice",
+                        "dc:creator": "Gabbay M.",
+                        "prism:publicationName": "Primary Health Care Research and Development",
+                        "prism:issn": "14634236",
+                        "prism:volume": "17",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": "437-447",
+                        "prism:coverDate": "2016-09-01",
+                        "prism:coverDisplayDate": "1 September 2016",
+                        "prism:doi": "10.1017/S1463423616000074",
+                        "pii": "S1463423616000074",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "26961125",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19900193221",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "X4BHS839.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "26961125"
+            }
+        },
+        "title": "Sickness certification for common mental disorders and GP return-to-work advice.",
+        "full_author_list": [
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "1Division of Health Services Research,University of Liverpool,Liverpool,UK."
+                }
+            },
+            {
+                "clean": "Shiels C",
+                "family": "Shiels",
+                "given": "Chris",
+                "affiliation": {
+                    "name": "1Division of Health Services Research,University of Liverpool,Liverpool,UK."
+                }
+            },
+            {
+                "clean": "Hillage J",
+                "family": "Hillage",
+                "given": "Jim",
+                "affiliation": {
+                    "name": "2Institute for Employment Studies,Brighton,UK."
+                }
+            }
+        ],
+        "first_author": "Gabbay M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "General Practice",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Return to Work",
+                    "major": "N"
+                },
+                {
+                    "term": "Sick Leave",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Prim Health Care Res Dev",
+            "volume": "17",
+            "issue": "5"
+        },
+        "abstract": "['Aim To report the types and duration of sickness certification for different common mental disorders (CMDs) and the prevalence of GP advice aimed at returning the patient to work.', 'In the United Kingdom, common mental health problems, such and depression and stress, have become the main reasons for patients requesting a sickness certificate to abstain from usual employment. Increasing attention is being paid to mental health and its impact on employability and work capacity in all parts of the welfare system. However, relatively little is known about the extent to which different mental health diagnoses impact upon sickness certification outcomes, and how the GP has used the new fit note (introduced in 2010) to support a return to work for patients with mental health diagnoses.', \"Sickness certification data was collected from 68 UK-based general practices for a period of 12 months. Findings The study found a large part of all sickness absence certified by GPs was due to CMDs (29% of all sickness absence episodes). Females, younger patients and those living in deprived areas were more likely to receive a fit note for a CMD (compared with one for a physical health problem). The highest proportion of CMD fit notes were issued for 'stress'. However, sickness certification for depression contributed nearly half of all weeks certified for mental health problems. Only 7% of CMD fit notes included any 'may be fit' advice from the GP, with type of advice varying by mental health diagnostic category. Patients living in the most socially deprived neighbourhoods were less likely to receive 'may be fit' advice on their CMD fit notes.\"]",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "1Division of Health Services Research,University of Liverpool,Liverpool,UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

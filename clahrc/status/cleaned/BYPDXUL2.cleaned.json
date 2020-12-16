@@ -1,0 +1,737 @@
+{
+    "IDs": {
+        "zotero": "BYPDXUL2",
+        "DOI": "10.1136/bmj.j3310",
+        "DOI_filename": "f624e6866f9535e6f4bf9926f5c98e68",
+        "PMID": "28747304",
+        "scopus": "2-s2.0-85026429345",
+        "hash": "76a7a239a2c43f6deefce0fbd7bf8a2f"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "BYPDXUL2",
+            "version": 136,
+            "itemType": "journalArticle",
+            "title": "Investigating the impact of the English health inequalities strategy: time trend analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Higgerson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Margaret",
+                    "lastName": "Whitehead"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMJ",
+            "volume": "",
+            "issue": "",
+            "pages": "j3310",
+            "date": "2017-07-26",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ",
+            "language": "en",
+            "DOI": "10.1136/bmj.j3310",
+            "ISSN": "0959-8138, 1756-1833",
+            "shortTitle": "Investigating the impact of the English health inequalities strategy",
+            "url": "http://www.bmj.com/lookup/doi/10.1136/bmj.j3310",
+            "accessDate": "2020-09-10T17:08:48Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28747304",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:48Z",
+            "dateModified": "2020-09-11T15:06:55Z",
+            "pmid": "28747304"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        20
+                    ]
+                ],
+                "date-time": "2020-08-20T16:45:12Z",
+                "timestamp": 1597941912574
+            },
+            "reference-count": 0,
+            "publisher": "BMJ",
+            "license": [
+                {
+                    "URL": "http://www.bmj.org/licenses/tdm/1.0/terms-and-conditions.html",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                7,
+                                26
+                            ]
+                        ],
+                        "date-time": "2017-07-26T00:00:00Z",
+                        "timestamp": 1501027200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1136/bmj.j3310",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        26
+                    ]
+                ],
+                "date-time": "2017-07-26T23:10:17Z",
+                "timestamp": 1501110617000
+            },
+            "page": "j3310",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 29,
+            "title": "Investigating the impact of the English health inequalities strategy: time trend analysis",
+            "prefix": "10.1136",
+            "author": [
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "James",
+                    "family": "Higgerson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Margaret",
+                    "family": "Whitehead",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        26
+                    ]
+                ]
+            },
+            "container-title": "BMJ",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://data.bmj.org/tdm/10.1136/bmj.j3310",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.j3310",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        26
+                    ]
+                ],
+                "date-time": "2017-07-26T23:10:17Z",
+                "timestamp": 1501110617000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        26
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "alternative-id": [
+                "10.1136/bmj.j3310"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmj.j3310",
+            "relation": {},
+            "ISSN": [
+                "0959-8138",
+                "1756-1833"
+            ],
+            "container-title-short": "BMJ"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28747304",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "08",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "11",
+                    "Day": "13"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmj.j3310"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "07",
+                            "Day": "26"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1756-1833",
+                        "JournalIssue": {
+                            "Volume": "358",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jul",
+                                "Day": "26"
+                            }
+                        },
+                        "Title": "BMJ (Clinical research ed.)",
+                        "ISOAbbreviation": "BMJ"
+                    },
+                    "ArticleTitle": "Investigating the impact of the English health inequalities strategy: time trend analysis.",
+                    "Pagination": {
+                        "MedlinePgn": "j3310"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "<b>Objective</b>\u00a0To investigate whether the English health inequalities strategy was associated with a decline in geographical health inequalities, compared with trends before and after the strategy.<b>Design</b>\u00a0Time trend analysis.<b>Setting</b>\u00a0Two groups of lower tier local authorities in England. The most deprived, bottom fifth and the rest of England.<b>Intervention</b>\u00a0The English health inequalities strategy-a cross government strategy implemented between 1997 and 2010 to reduce health inequalities in England. Trends in geographical health inequalities were assessed before (1983-2003), during (2004-12), and after (2013-15) the strategy using segmented linear regression.<b>Main outcome measure</b>\u00a0Geographical health inequalities measured as the relative and absolute differences in male and female life expectancy at birth between the most deprived local authorities in England and the rest of the country.<b>Results</b>\u00a0Before the strategy the gap in male and female life expectancy between the most deprived local authorities in England and the rest of the country increased at a rate of 0.57 months each year (95% confidence interval 0.40 to 0.74 months) and 0.30 months each year (0.12 to 0.48 months). During the strategy period this trend reversed and the gap in life expectancy for men reduced by 0.91 months each year (0.54 to 1.27 months) and for women by 0.50 months each year (0.15 to 0.86 months). Since the end of the strategy period the inequality gap has increased again at a rate of 0.68 months each year (-0.20 to 1.56 months) for men and 0.31 months each year (-0.26 to 0.88) for women. By 2012 the gap in male life expectancy was 1.2 years smaller (95% confidence interval 0.8 to 1.5 years smaller) and the gap in female life expectancy was 0.6 years smaller (0.3 to 1.0 years smaller) than it would have been if the trends in inequalities before the strategy had continued.<b>Conclusion</b>\u00a0The English health inequalities strategy was associated with a decline in geographical inequalities in life expectancy, reversing a previously increasing trend. Since the strategy ended, inequalities have started to increase again. The strategy may have reduced geographical health inequalities in life expectancy, and future approaches should learn from this experience. The concerns are that current policies are reversing the achievements of the strategy."
+                        ],
+                        "CopyrightInformation": "Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK benbarr@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Higgerson",
+                            "ForeName": "James",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whitehead",
+                            "ForeName": "Margaret",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Comparative Study",
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ",
+                    "NlmUniqueID": "8900488",
+                    "ISSNLinking": "0959-8138"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Government Programs",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Life Expectancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Linear Models",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Poverty Areas",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: no support from any organisation for the submitted work; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Health Place. 2017 Mar;44:77-85",
+                                "ArticleIdList": [
+                                    "28199896"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 Dec 02;349:g7350",
+                                "ArticleIdList": [
+                                    "25468834"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2012 Oct 17;2(5):null",
+                                "ArticleIdList": [
+                                    "23075569"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2015 Sep 07;15:865",
+                                "ArticleIdList": [
+                                    "26346197"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2012 Mar;74(5):647-53",
+                                "ArticleIdList": [
+                                    "22226605"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2011 Jul;65(7):568-75",
+                                "ArticleIdList": [
+                                    "21459930"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2016 Jul;70(7):637-43",
+                                "ArticleIdList": [
+                                    "26787198"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2011 Jun 11;377(9782):1986-8",
+                                "ArticleIdList": [
+                                    "21074842"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2017 Apr;110(4):153-162",
+                                "ArticleIdList": [
+                                    "28208027"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Public Health. 2012 Feb;22(1):9-13",
+                                "ArticleIdList": [
+                                    "21148179"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2015 Dec;147:324-31",
+                                "ArticleIdList": [
+                                    "26623942"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 May 27;348:g3231",
+                                "ArticleIdList": [
+                                    "24865459"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2016 Apr;70(4):339-45",
+                                "ArticleIdList": [
+                                    "26573235"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2016 Aug 24;16(1):865",
+                                "ArticleIdList": [
+                                    "27558269"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2016 Mar;109(3):109-16",
+                                "ArticleIdList": [
+                                    "26980412"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2017 Apr;110(4):131-137",
+                                "ArticleIdList": [
+                                    "28208024"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2012 Dec 04;345:e7831",
+                                "ArticleIdList": [
+                                    "23212879"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2016 Sep 06;354:i4588",
+                                "ArticleIdList": [
+                                    "27601477"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2012 Feb 14;12 :129",
+                                "ArticleIdList": [
+                                    "22333887"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2011 Mar 08;342:d1487",
+                                "ArticleIdList": [
+                                    "21385816"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2015 Jul;136-137:135-46",
+                                "ArticleIdList": [
+                                    "26004207"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 Jan 15;348:g160",
+                                "ArticleIdList": [
+                                    "24429924"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "8",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "28747304",
+                    "PMC5527348",
+                    "10.1136/bmj.j3310"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28747304)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828747304%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828747304%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026429345"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026429345?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026429345&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026429345&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026429345",
+                        "dc:identifier": "SCOPUS_ID:85026429345",
+                        "eid": "2-s2.0-85026429345",
+                        "dc:title": "Investigating the impact of the English health inequalities strategy: Time trend analysis",
+                        "dc:creator": "Barr B.",
+                        "prism:publicationName": "BMJ (Online)",
+                        "prism:issn": "09598146",
+                        "prism:eIssn": "17561833",
+                        "prism:volume": "358",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-01-01",
+                        "prism:coverDisplayDate": "2017",
+                        "prism:doi": "10.1136/bmj.j3310",
+                        "citedby-count": "39",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28747304",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "j3310",
+                        "source-id": "51748",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "BYPDXUL2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28747304"
+            }
+        },
+        "title": "Investigating the impact of the English health inequalities strategy: time trend analysis.",
+        "full_author_list": [
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK benbarr@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Higgerson J",
+                "family": "Higgerson",
+                "given": "James",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK."
+                }
+            },
+            {
+                "clean": "Whitehead M",
+                "family": "Whitehead",
+                "given": "Margaret",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK."
+                }
+            }
+        ],
+        "first_author": "Barr B",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Government Programs",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Life Expectancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Linear Models",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Poverty Areas",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ",
+            "volume": "358",
+            "issue": ""
+        },
+        "abstract": "['<b>Objective</b>\\xa0To investigate whether the English health inequalities strategy was associated with a decline in geographical health inequalities, compared with trends before and after the strategy.<b>Design</b>\\xa0Time trend analysis.<b>Setting</b>\\xa0Two groups of lower tier local authorities in England. The most deprived, bottom fifth and the rest of England.<b>Intervention</b>\\xa0The English health inequalities strategy-a cross government strategy implemented between 1997 and 2010 to reduce health inequalities in England. Trends in geographical health inequalities were assessed before (1983-2003), during (2004-12), and after (2013-15) the strategy using segmented linear regression.<b>Main outcome measure</b>\\xa0Geographical health inequalities measured as the relative and absolute differences in male and female life expectancy at birth between the most deprived local authorities in England and the rest of the country.<b>Results</b>\\xa0Before the strategy the gap in male and female life expectancy between the most deprived local authorities in England and the rest of the country increased at a rate of 0.57 months each year (95% confidence interval 0.40 to 0.74 months) and 0.30 months each year (0.12 to 0.48 months). During the strategy period this trend reversed and the gap in life expectancy for men reduced by 0.91 months each year (0.54 to 1.27 months) and for women by 0.50 months each year (0.15 to 0.86 months). Since the end of the strategy period the inequality gap has increased again at a rate of 0.68 months each year (-0.20 to 1.56 months) for men and 0.31 months each year (-0.26 to 0.88) for women. By 2012 the gap in male life expectancy was 1.2 years smaller (95% confidence interval 0.8 to 1.5 years smaller) and the gap in female life expectancy was 0.6 years smaller (0.3 to 1.0 years smaller) than it would have been if the trends in inequalities before the strategy had continued.<b>Conclusion</b>\\xa0The English health inequalities strategy was associated with a decline in geographical inequalities in life expectancy, reversing a previously increasing trend. Since the strategy ended, inequalities have started to increase again. The strategy may have reduced geographical health inequalities in life expectancy, and future approaches should learn from this experience. The concerns are that current policies are reversing the achievements of the strategy.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "39"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health and Policy, Institute of Psychology, Health and Society, University of Liverpool, Liverpool L69 3GB, UK benbarr@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

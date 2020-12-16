@@ -1,0 +1,658 @@
+{
+    "IDs": {
+        "zotero": "T4Q7ZEEI",
+        "DOI": "10.1097/SPC.0000000000000391",
+        "DOI_filename": "c977deb4df94b6f8fb1d5a8165a56fe4",
+        "PMID": "30300154",
+        "scopus": "2-s2.0-85055796735",
+        "hash": "b9314be3c9c4ad6d06016626e4370641"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "T4Q7ZEEI",
+            "version": 182,
+            "itemType": "journalArticle",
+            "title": "The role of day care in supporting older people living with long-term conditions:",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Catherine",
+                    "lastName": "Lunt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher",
+                    "lastName": "Dowrick"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mari",
+                    "lastName": "Lloyd-Williams"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Current Opinion in Supportive and Palliative Care",
+            "volume": "12",
+            "issue": "4",
+            "pages": "510-515",
+            "date": "12/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Current Opinion in Supportive and Palliative Care",
+            "language": "en",
+            "DOI": "10.1097/SPC.0000000000000391",
+            "ISSN": "1751-4258",
+            "shortTitle": "The role of day care in supporting older people living with long-term conditions",
+            "url": "http://journals.lww.com/01263393-201812000-00019",
+            "accessDate": "2020-09-10T17:09:45Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30300154",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:45Z",
+            "dateModified": "2020-09-15T14:27:51Z",
+            "pmid": "30300154"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        28
+                    ]
+                ],
+                "date-time": "2020-06-28T07:12:11Z",
+                "timestamp": 1593328331178
+            },
+            "reference-count": 18,
+            "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+            "issue": "4",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1097/spc.0000000000000391",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        9
+                    ]
+                ],
+                "date-time": "2018-10-09T12:21:24Z",
+                "timestamp": 1539087684000
+            },
+            "page": "510-515",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "The role of day care in supporting older people living with long-term conditions",
+            "prefix": "10.1097",
+            "volume": "12",
+            "author": [
+                {
+                    "given": "Catherine",
+                    "family": "Lunt",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher",
+                    "family": "Dowrick",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mari",
+                    "family": "Lloyd-Williams",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "276",
+            "container-title": "Current Opinion in Supportive and Palliative Care",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.lww.com/co-supportiveandpalliativecare/Fulltext/10.1097/SPC.0000000000000391",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        28
+                    ]
+                ],
+                "date-time": "2020-06-28T06:50:41Z",
+                "timestamp": 1593327041000
+            },
+            "score": 1.0,
+            "subtitle": [
+                ""
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 18,
+            "journal-issue": {
+                "issue": "4"
+            },
+            "URL": "http://dx.doi.org/10.1097/SPC.0000000000000391",
+            "relation": {},
+            "ISSN": [
+                "1751-4258"
+            ],
+            "subject": [
+                "Critical Care and Intensive Care Medicine",
+                "Oncology(nursing)",
+                "Oncology",
+                "General Medicine"
+            ],
+            "container-title-short": "Current Opinion in Supportive and Palliative Care"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30300154",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "09",
+                    "Day": "03"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "10"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1097/SPC.0000000000000391"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1751-4266",
+                        "JournalIssue": {
+                            "Volume": "12",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "12"
+                            }
+                        },
+                        "Title": "Current opinion in supportive and palliative care",
+                        "ISOAbbreviation": "Curr Opin Support Palliat Care"
+                    },
+                    "ArticleTitle": "The role of day care in supporting older people living with long-term conditions.",
+                    "Pagination": {
+                        "MedlinePgn": "510-515"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "For older people with long-term conditions, regular structured activities within a community setting meeting others are thought to improve well being and quality of life. Historically local authority-run day care centres were widely available, but austerity measures have meant that in many areas, such provision has been markedly reduced and different models of day care services are being developed. There is little known about outcomes of day care provision for older people with long-term conditions.",
+                            "This review has critically examined the recent evidence on outcomes of day care provision for older people with long-term conditions and will focus on three areas - physical functioning, intergenerational provision and measurement of outcomes. In terms of interventions to improve physical functioning for older people with long-term conditions attending day care, there are few studies and it is difficult to generalize but there appears to be a trend for positive impact on physical functioning when activities are incorporated into a day care programme. There is a paucity of research on intergenerational provision, however, the small number of studies suggest positive benefits. Studies measuring outcomes for older people with long-term conditions attending day care services are very limited in terms of outcome data with the exception of a Canadian study, which suggested that attendance at day care could reduce hospital attendance and admissions.",
+                            "This review reveals a lack of research of day care provision for older people with long-term conditions. There is a suggestion in the small number of articles included in this review that there can be benefits both in terms of global outcomes of attendance and in improved physical functioning; there is limited evidence of the value of intergenerational provision. Robust research with collection of meaningful outcomes is required to ensure that the increasing number of older people with long-term conditions are enabled to access high-quality day care provision."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Academic Palliative and Supportive Care Studies Group (APSCSG), University of Liverpool, Brownlow Hill, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lunt",
+                            "ForeName": "Catherine",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Dowrick",
+                            "ForeName": "Christopher",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Lloyd-Williams",
+                            "ForeName": "Mari",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Curr Opin Support Palliat Care",
+                    "NlmUniqueID": "101297402",
+                    "ISSNLinking": "1751-4258"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "organization & administration",
+                            "standards"
+                        ],
+                        "DescriptorName": "Adult Day Care Centers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Chronic Disease",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Intergenerational Relations",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration",
+                            "standards"
+                        ],
+                        "DescriptorName": "Long-Term Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Outcome Assessment, Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Gerontol Nurs. 2009 Aug;35(8):37-46",
+                                "ArticleIdList": [
+                                    "19681562"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Soc Care Community. 2014 Jul;22(4):352-60",
+                                "ArticleIdList": [
+                                    "23952653"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Technol Assess. 2007 Apr;11(15):1-157, iii",
+                                "ArticleIdList": [
+                                    "17459263"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2017 Mar;65(3):592-597",
+                                "ArticleIdList": [
+                                    "28008603"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Nurs Pract. 2017 Oct;23(5):null",
+                                "ArticleIdList": [
+                                    "28691357"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurs Health Sci. 2017 Mar;19(1):81-87",
+                                "ArticleIdList": [
+                                    "28026105"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gerontol Soc Work. 2010 Feb;53(2):176-92",
+                                "ArticleIdList": [
+                                    "20094936"
+                                ]
+                            },
+                            {
+                                "Citation": "J Appl Gerontol. 2014 Mar;33(2):130-63",
+                                "ArticleIdList": [
+                                    "24652952"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Nurs. 2015 May;24(9-10):1357-66",
+                                "ArticleIdList": [
+                                    "25620554"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Geriatr. 2017 Jan 5;17(1):5",
+                                "ArticleIdList": [
+                                    "28056843"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Geriatr. 2014 Oct 08;14:109",
+                                "ArticleIdList": [
+                                    "25292218"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Older People Nurs. 2017 Dec;12(4):null",
+                                "ArticleIdList": [
+                                    "28660749"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gerontol B Psychol Sci Soc Sci. 1998 Sep;53(5):S267-77",
+                                "ArticleIdList": [
+                                    "9750575"
+                                ]
+                            },
+                            {
+                                "Citation": "Gerontologist. 2017 Jun 1;57(3):552-562",
+                                "ArticleIdList": [
+                                    "26640154"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "9",
+                        "Day": "4",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30300154",
+                    "10.1097/SPC.0000000000000391",
+                    "PMC6221434"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30300154)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830300154%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830300154%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055796735"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055796735?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055796735&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055796735&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055796735",
+                        "dc:identifier": "SCOPUS_ID:85055796735",
+                        "eid": "2-s2.0-85055796735",
+                        "dc:title": "The role of day care in supporting older people living with long-term conditions",
+                        "dc:creator": "Lunt C.",
+                        "prism:publicationName": "Current opinion in supportive and palliative care",
+                        "prism:eIssn": "17514266",
+                        "prism:volume": "12",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "510-515",
+                        "prism:coverDate": "2018-12-01",
+                        "prism:coverDisplayDate": "1 December 2018",
+                        "prism:doi": "10.1097/SPC.0000000000000391",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30300154",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "12100155640",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "T4Q7ZEEI.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30300154"
+            }
+        },
+        "title": "The role of day care in supporting older people living with long-term conditions.",
+        "full_author_list": [
+            {
+                "clean": "Lunt C",
+                "family": "Lunt",
+                "given": "Catherine",
+                "affiliation": {
+                    "name": "Academic Palliative and Supportive Care Studies Group (APSCSG), University of Liverpool, Brownlow Hill, Liverpool, England."
+                }
+            },
+            {
+                "clean": "Dowrick C",
+                "family": "Dowrick",
+                "given": "Christopher",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Lloyd-Williams M",
+                "family": "Lloyd-Williams",
+                "given": "Mari",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Lunt C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult Day Care Centers",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Chronic Disease",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Intergenerational Relations",
+                    "major": "N"
+                },
+                {
+                    "term": "Long-Term Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Outcome Assessment, Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Curr Opin Support Palliat Care",
+            "volume": "12",
+            "issue": "4"
+        },
+        "abstract": "['For older people with long-term conditions, regular structured activities within a community setting meeting others are thought to improve well being and quality of life. Historically local authority-run day care centres were widely available, but austerity measures have meant that in many areas, such provision has been markedly reduced and different models of day care services are being developed. There is little known about outcomes of day care provision for older people with long-term conditions.', 'This review has critically examined the recent evidence on outcomes of day care provision for older people with long-term conditions and will focus on three areas - physical functioning, intergenerational provision and measurement of outcomes. In terms of interventions to improve physical functioning for older people with long-term conditions attending day care, there are few studies and it is difficult to generalize but there appears to be a trend for positive impact on physical functioning when activities are incorporated into a day care programme. There is a paucity of research on intergenerational provision, however, the small number of studies suggest positive benefits. Studies measuring outcomes for older people with long-term conditions attending day care services are very limited in terms of outcome data with the exception of a Canadian study, which suggested that attendance at day care could reduce hospital attendance and admissions.', 'This review reveals a lack of research of day care provision for older people with long-term conditions. There is a suggestion in the small number of articles included in this review that there can be benefits both in terms of global outcomes of attendance and in improved physical functioning; there is limited evidence of the value of intergenerational provision. Robust research with collection of meaningful outcomes is required to ensure that the increasing number of older people with long-term conditions are enabled to access high-quality day care provision.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Academic Palliative and Supportive Care Studies Group (APSCSG), University of Liverpool, Brownlow Hill, Liverpool, England.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

@@ -1,0 +1,1179 @@
+{
+    "IDs": {
+        "zotero": "HEWBNGIM",
+        "DOI": "10.1007/s11136-019-02193-x",
+        "DOI_filename": "accf484364b87708dfb3589ffb10980f",
+        "PMID": "31041602",
+        "scopus": "2-s2.0-85065258581",
+        "hash": "059a3063dd6e68c33e4b70c25d4e7256"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "HEWBNGIM",
+            "version": 150,
+            "itemType": "journalArticle",
+            "title": "Communicating psychosocial well-being in motor neurone disease to staff: results from a World Caf\u00e9 approach",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gillian",
+                    "lastName": "Medley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sandra",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maria",
+                    "lastName": "Thornton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Moira",
+                    "lastName": "Furlong"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Ennis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carolyn",
+                    "lastName": "Young"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Quality of Life Research",
+            "volume": "28",
+            "issue": "9",
+            "pages": "2579-2584",
+            "date": "9/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Qual Life Res",
+            "language": "en",
+            "DOI": "10.1007/s11136-019-02193-x",
+            "ISSN": "0962-9343, 1573-2649",
+            "shortTitle": "Communicating psychosocial well-being in motor neurone disease to staff",
+            "url": "http://link.springer.com/10.1007/s11136-019-02193-x",
+            "accessDate": "2020-09-10T17:09:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31041602",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:10Z",
+            "dateModified": "2020-09-15T12:55:56Z",
+            "pmid": "31041602"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        2
+                    ]
+                ],
+                "date-time": "2020-06-02T06:23:39Z",
+                "timestamp": 1591079019106
+            },
+            "reference-count": 25,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "9",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                4,
+                                30
+                            ]
+                        ],
+                        "date-time": "2019-04-30T00:00:00Z",
+                        "timestamp": 1556582400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        9
+                    ]
+                ]
+            },
+            "DOI": "10.1007/s11136-019-02193-x",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        30
+                    ]
+                ],
+                "date-time": "2019-04-30T18:44:18Z",
+                "timestamp": 1556649858000
+            },
+            "page": "2579-2584",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Communicating psychosocial well-being in motor neurone disease to staff: results from a World Caf\u00e9 approach",
+            "prefix": "10.1007",
+            "volume": "28",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gillian",
+                    "family": "Medley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sandra",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Maria",
+                    "family": "Thornton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Moira",
+                    "family": "Furlong",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michelle",
+                    "family": "Ennis",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carolyn",
+                    "family": "Young",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        30
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2193_CR1",
+                    "author": "Motor Neurone Disease Association",
+                    "year": "2018",
+                    "unstructured": "Motor Neurone Disease Association. (2018). Annual report 2017. England: MNDA.",
+                    "volume-title": "Annual report 2017"
+                },
+                {
+                    "issue": "12",
+                    "key": "2193_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1435",
+                    "DOI": "10.1007/s00415-005-0007-9",
+                    "volume": "252",
+                    "author": "JA Rocha",
+                    "year": "2005",
+                    "unstructured": "Rocha, J. A., Reis, C., Simoes, F., Fonseca, J., & Mendes, Ribeiro J. (2005). Diagnostic investigation and multidisciplinary management in motor neuron disease. Journal of Neurology,\n                           252(12), 1435\u20131447.",
+                    "journal-title": "Journal of Neurology"
+                },
+                {
+                    "key": "2193_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "496",
+                    "DOI": "10.1136/jnnp-2014-309601",
+                    "volume": "86",
+                    "author": "J Rooney",
+                    "year": "2015",
+                    "unstructured": "Rooney, J., Byrne, S., Heverin, M., Tobin, K., Dick, A., Donaghy, C., et al. (2015). A multidisciplinary clinic approach improves survival in ALS: A comparative study of ALS in Ireland and Northern Ireland. The Journal of Neurology, Neurosurgery, and Psychiatry,\n                           86, 496\u2013501.",
+                    "journal-title": "The Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "2193_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "164",
+                    "DOI": "10.1080/17482960601164532",
+                    "volume": "8",
+                    "author": "G Foley",
+                    "year": "2007",
+                    "unstructured": "Foley, G., O\u2019Mahony, P., & Hardiman, O. (2007). Perceptions of quality of life in people with ALS: Effects of coping and health care. Amyotrophic Lateral Sclerosis,\n                           8(3), 164\u2013169.",
+                    "journal-title": "Amyotrophic Lateral Sclerosis"
+                },
+                {
+                    "issue": "3",
+                    "key": "2193_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "194",
+                    "DOI": "10.1080/00207594.2012.691977",
+                    "volume": "48",
+                    "author": "F Pagnini",
+                    "year": "2013",
+                    "unstructured": "Pagnini, F. (2013). Psychological wellbeing and quality of life in amyotrophic lateral sclerosis: A review. The International Journal of Psychology,\n                           48(3), 194\u2013205.",
+                    "journal-title": "The International Journal of Psychology"
+                },
+                {
+                    "key": "2193_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "639",
+                    "DOI": "10.1038/nrneurol.2011.153",
+                    "volume": "7",
+                    "author": "O Hardiman",
+                    "year": "2011",
+                    "unstructured": "Hardiman, O., van den Berg, L. H., & Kiernan, M. C. (2011). Clinical diagnosis and management of amyotrophic lateral sclerosis. Nature Reviews Neurology,\n                           7, 639\u2013649.",
+                    "journal-title": "Nature Reviews Neurology"
+                },
+                {
+                    "key": "2193_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "80",
+                    "DOI": "10.1016/j.jns.2018.01.026",
+                    "volume": "387",
+                    "author": "SM Aoun",
+                    "year": "2018",
+                    "unstructured": "Aoun, S. M., O\u2019Brien, M. R., Breen, L. J., & O\u2019Connor, M. (2018). \u2018The shock of diagnosis\u2019: Qualitative accounts from people with Motor Neuron Disease reflecting the need for more person-centred care. The Journal of the Neurological Sciences,\n                           387, 80\u201384.",
+                    "journal-title": "The Journal of the Neurological Sciences"
+                },
+                {
+                    "key": "2193_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "107",
+                    "DOI": "10.1186/s12955-016-0507-6",
+                    "volume": "14",
+                    "author": "AC Groenestijn Van",
+                    "year": "2016",
+                    "unstructured": "Van Groenestijn, A. C., Kruitwagen-van Reenen, E. T., Visser-Meily, J. M. A., van den Berg, L. H., & Schroeder, C. D. (2016). Associations between psychological factors and health-related quality of life and global quality o life in patients with ALS: A systematic review. Health and Quality of Life,\n                           14, 107.",
+                    "journal-title": "Health and Quality of Life"
+                },
+                {
+                    "key": "2193_CR9",
+                    "first-page": "123",
+                    "volume": "3",
+                    "author": "LH Goldstein",
+                    "year": "2009",
+                    "unstructured": "Goldstein, L. H., Atkins, L., & Leigh, P. N. (2009). Correlates of quality of life in people with motor neuron disease (MND). Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration,\n                           3, 123\u2013129.",
+                    "journal-title": "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration"
+                },
+                {
+                    "issue": "2",
+                    "key": "2193_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "228",
+                    "DOI": "10.1017/S1478951517000700",
+                    "volume": "16",
+                    "author": "M Harris",
+                    "year": "2018",
+                    "unstructured": "Harris, M., Thomas, G., Thomas, M., Carafella, P., Stocks, A., Greig, J., et al. (2018). Supporting wellbeing in motor neuron disease for patients, carers, social networks, and health professionals: A scoping review and synthesis. Palliative Supportive Care,\n                           16(2), 228\u2013237.",
+                    "journal-title": "Palliative Supportive Care"
+                },
+                {
+                    "issue": "3",
+                    "key": "2193_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "871",
+                    "DOI": "10.1007/s11205-014-0621-y",
+                    "volume": "120",
+                    "author": "B Ilse",
+                    "year": "2015",
+                    "unstructured": "Ilse, B., Prell, T., Walther, M., Hartung, V., Pnezlin, S., Tietz, F., et al. (2015). Relationships between disease severity, social support and health-related quality of life in patients with amyotrophic lateral sclerosis. Social Indicators Research,\n                           120(3), 871\u2013882.",
+                    "journal-title": "Social Indicators Research"
+                },
+                {
+                    "issue": "1",
+                    "key": "2193_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "31",
+                    "DOI": "10.1089/jpm.2014.0213",
+                    "volume": "18",
+                    "author": "SM Aoun",
+                    "year": "2015",
+                    "unstructured": "Aoun, S. M., Chochinov, H. M., & Kristjanson, L. J. (2015). Dignity therapy for people with motor neuron disease and their family caregivers: A feasibility study. The Journal of Palliative Medicine,\n                           18(1), 31\u201337.",
+                    "journal-title": "The Journal of Palliative Medicine"
+                },
+                {
+                    "issue": "7",
+                    "key": "2193_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1426",
+                    "DOI": "10.1177/1359105314554819",
+                    "volume": "21",
+                    "author": "JL Diaz",
+                    "year": "2016",
+                    "unstructured": "Diaz, J. L., Sancho, J., Barreto, P., Banuls, P., Renovell, M., & Servera, E. (2016). Effect of a short-term psychological intervention on the anxiety and depression of amyotrophic lateral sclerosis patients. Journal of Health Psychology,\n                           21(7), 1426\u20131435.",
+                    "journal-title": "Journal of Health Psychology"
+                },
+                {
+                    "key": "2193_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "465",
+                    "DOI": "10.3389/fpsyg.2012.00465",
+                    "volume": "3",
+                    "author": "A Palmieri",
+                    "year": "2012",
+                    "unstructured": "Palmieri, A., Kleinbub, J. R., Calvo, V., Soraru, G., Grasso, I., & Messina, I. (2012). Efficacy of hypnosis-based treatment in amyotrophic lateral sclerosis: A pilot study. Frontiers in Psychology,\n                           3, 465.",
+                    "journal-title": "Frontiers in Psychology"
+                },
+                {
+                    "key": "2193_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "293",
+                    "DOI": "10.3109/21678421.2015.1062515",
+                    "volume": "5\u20136",
+                    "author": "RL Gould",
+                    "year": "2015",
+                    "unstructured": "Gould, R. L., Coulson, M. C., Brown, R. G., Goldstein, L. H., Al-Chalabi, A., & Howard, R. J. (2015). Psychotherapy and pharmacotherapy interventions to reduce distress or improve well-being in people with amyotrophic lateral sclerosis: A systematic review. Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration,\n                           5\u20136, 293\u2013302.",
+                    "journal-title": "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration"
+                },
+                {
+                    "issue": "1",
+                    "key": "2193_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "96",
+                    "DOI": "10.1177/1471301216634926",
+                    "volume": "17",
+                    "author": "R Elvish",
+                    "year": "2018",
+                    "unstructured": "Elvish, R., Burrow, S., Cawley, R., Harney, K., Pilling, M., Gregory, J., et al. (2018). \u2018Getting to know me\u2019: The second phase of a staff training progamme for supporting people with dementia in general hospitals. Dement,\n                           17(1), 96\u2013109.",
+                    "journal-title": "Dement"
+                },
+                {
+                    "issue": "11",
+                    "key": "2193_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1172",
+                    "DOI": "10.1002/gps.4488",
+                    "volume": "31",
+                    "author": "A Spector",
+                    "year": "2016",
+                    "unstructured": "Spector, A., Revolta, C., & Orrell, M. (2016). The impact of staff training on staff outcomes in dementia care: A systematic review. International Journal of Geriatric Psychiatry,\n                           31(11), 1172\u20131187.",
+                    "journal-title": "International Journal of Geriatric Psychiatry"
+                },
+                {
+                    "key": "2193_CR18",
+                    "author": "J Brown",
+                    "year": "2005",
+                    "edition": "1",
+                    "unstructured": "Brown, J. (2005). The World Caf\u00e9: Shaping our futures through conversations that matter (1st ed.). San Francisco, CA: Berrett-Koehler Publishers.",
+                    "volume-title": "The World Caf\u00e9: Shaping our futures through conversations that matter"
+                },
+                {
+                    "issue": "S1",
+                    "key": "2193_CR19",
+                    "first-page": "26",
+                    "volume": "17",
+                    "author": "CA Young",
+                    "year": "2016",
+                    "unstructured": "Young, C. A., Mills, R. J., Tennant, A., & on behalf of The Tonic Group. (2016). Physical and psychological influences upon quality of life in Motor Neurone Disease/ALS. Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration,\n                           17(S1), 26.",
+                    "journal-title": "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration"
+                },
+                {
+                    "key": "2193_CR20",
+                    "author": "V Braun",
+                    "year": "2013",
+                    "unstructured": "Braun, V., & Clarke, V. (2013). Successful qualitative research: A practical guide for beginners. London: Sage.",
+                    "volume-title": "Successful qualitative research: A practical guide for beginners"
+                },
+                {
+                    "key": "2193_CR21",
+                    "author": "NIHR Involve",
+                    "year": "2015",
+                    "unstructured": "Involve, N. I. H. R. (2015). Public involvement in research: Values and principles framework. Eastleigh, UK: NIHR INVOLVE.",
+                    "volume-title": "Public involvement in research: Values and principles framework"
+                },
+                {
+                    "issue": "2",
+                    "key": "2193_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "89",
+                    "DOI": "10.5750/ejpch.v6i2.1488",
+                    "volume": "6",
+                    "author": "SM Aoun",
+                    "year": "2018",
+                    "unstructured": "Aoun, S. M., Hogden, A., & Kho, L. K. (2018). \u201cUntil there is a cure, there is care\u201d: A person-centered approach to supporting the wellbeing of people with motor neuron disease and their family carers. European Journal for Person Centered Healthcare,\n                           6(2), 89. \n                    https://doi.org/10.5750/ejpch.v6i2.1488\n                    \n                  .",
+                    "journal-title": "European Journal for Person Centered Healthcare"
+                },
+                {
+                    "key": "2193_CR23",
+                    "author": "S Vibert",
+                    "year": "2017",
+                    "unstructured": "Vibert, S. (2017). MND costs: Exploring the financial impact of motor neuron disease. England: DEMOS.",
+                    "volume-title": "MND costs: Exploring the financial impact of motor neuron disease"
+                },
+                {
+                    "issue": "2",
+                    "key": "2193_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "268",
+                    "DOI": "10.1016/j.apmr.2009.10.023",
+                    "volume": "91",
+                    "author": "AL Ward",
+                    "year": "2010",
+                    "unstructured": "Ward, A. L., Sanjak, M., Duffy, K., et al. (2010). Power Wheelchair prescription, utilization, satisfaction, and cost for patients with amyotrophic lateral sclerosis: Preliminary data for evidence-based guidelines. Archives of Physical Medicine and Rehabilitation,\n                           91(2), 268\u2013272.",
+                    "journal-title": "Archives of Physical Medicine and Rehabilitation"
+                },
+                {
+                    "issue": "5",
+                    "key": "2193_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "497",
+                    "DOI": "10.1111/j.1468-1331.2008.02107.x",
+                    "volume": "15",
+                    "author": "P Wicks",
+                    "year": "2008",
+                    "unstructured": "Wicks, P., & Frost, J. (2008). ALS patients request more information about cognitive symptoms. European Journal of Neurology,\n                           15(5), 497\u2013500.",
+                    "journal-title": "European Journal of Neurology"
+                }
+            ],
+            "container-title": "Quality of Life Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s11136-019-02193-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1007/s11136-019-02193-x/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s11136-019-02193-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        28
+                    ]
+                ],
+                "date-time": "2020-04-28T23:35:41Z",
+                "timestamp": 1588116941000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        30
+                    ]
+                ]
+            },
+            "references-count": 25,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            9
+                        ]
+                    ]
+                },
+                "issue": "9"
+            },
+            "alternative-id": [
+                "2193"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s11136-019-02193-x",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0962-9343",
+                "1573-2649"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "Qual Life Res",
+            "assertion": [
+                {
+                    "value": "26 April 2019",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "30 April 2019",
+                    "order": 2,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Compliance with ethical standards"
+                    }
+                },
+                {
+                    "value": "The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Conflict of interest"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Health inequalities",
+                        "Motor neurone disease",
+                        "Psychosocial well-being",
+                        "Quality of life",
+                        "Service evaluation",
+                        "Staff training"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31041602",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "13"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "02",
+                    "Day": "25"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1007/s11136-019-02193-x"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "04",
+                            "Day": "30"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1573-2649",
+                        "JournalIssue": {
+                            "Volume": "28",
+                            "Issue": "9",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Sep"
+                            }
+                        },
+                        "Title": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+                        "ISOAbbreviation": "Qual Life Res"
+                    },
+                    "ArticleTitle": "Communicating psychosocial well-being in motor neurone disease to staff: results from a World Caf\u00e9 approach.",
+                    "Pagination": {
+                        "MedlinePgn": "2579-2584"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Little to no research has evaluated staff training and its effects on the well-being of people with MND. The aim of this study was to assess how educating multi-disciplinary staff about psychosocial well-being in MND can change approaches to working with people with MND.",
+                            "Multi-disciplinary staff attended a half-day workshop to receive training on psychosocial well-being in people with MND and to discuss QoL issues using the World Caf\u00e9 approach. Prior to the workshop and 2 weeks post-workshop, staff completed a questionnaire on their knowledge of this topic. A selection of staff completed a follow-up interview 2 months later to assess changes in their practice.",
+                            "19 staff, including dieticians and occupational therapists, attended the workshop and completed the pre-workshop questionnaire. Ten filled in the post-workshop questionnaire and were interviewed. Clinicians identified six strategies/barriers of improving communication amongst MND staff, suggesting the need for better collaborative working, raising awareness of psychological and emotional issues in MND and barriers to service access due to health inequalities, amongst others.",
+                            "This workshop raised staff awareness on communicating QoL in MND. Future work needs to look into implementing this training in clinical practice and evaluate their impact on QoL in MND."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Medley",
+                            "ForeName": "Gillian",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Motor Neurone Disease Association, Northampton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Smith",
+                            "ForeName": "Sandra",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Thornton",
+                            "ForeName": "Maria",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Motor Neurone Disease Association, Northampton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Furlong",
+                            "ForeName": "Moira",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ennis",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Young",
+                            "ForeName": "Carolyn",
+                            "Initials": "C"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Netherlands",
+                    "MedlineTA": "Qual Life Res",
+                    "NlmUniqueID": "9210257",
+                    "ISSNLinking": "0962-9343"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Communication",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "education"
+                        ],
+                        "DescriptorName": "Medical Staff, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "pathology",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Motor Neuron Disease",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Professional-Patient Relations",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Surveys and Questionnaires",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Amyotroph Lateral Scler Other Motor Neuron Disord. 2002 Sep;3(3):123-9",
+                                "ArticleIdList": [
+                                    "12495573"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol. 2005 Dec;252(12):1435-47",
+                                "ArticleIdList": [
+                                    "16362828"
+                                ]
+                            },
+                            {
+                                "Citation": "Amyotroph Lateral Scler. 2007 Jun;8(3):164-9",
+                                "ArticleIdList": [
+                                    "17538778"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Neurol. 2008 May;15(5):497-500",
+                                "ArticleIdList": [
+                                    "18325023"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Phys Med Rehabil. 2010 Feb;91(2):268-72",
+                                "ArticleIdList": [
+                                    "20159132"
+                                ]
+                            },
+                            {
+                                "Citation": "Nat Rev Neurol. 2011 Oct 11;7(11):639-49",
+                                "ArticleIdList": [
+                                    "21989247"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Psychol. 2013;48(3):194-205",
+                                "ArticleIdList": [
+                                    "22731673"
+                                ]
+                            },
+                            {
+                                "Citation": "Front Psychol. 2012 Nov 05;3:465",
+                                "ArticleIdList": [
+                                    "23162510"
+                                ]
+                            },
+                            {
+                                "Citation": "J Palliat Med. 2015 Jan;18(1):31-7",
+                                "ArticleIdList": [
+                                    "25314244"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Psychol. 2016 Jul;21(7):1426-35",
+                                "ArticleIdList": [
+                                    "25370571"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2015 May;86(5):496-501",
+                                "ArticleIdList": [
+                                    "25550416"
+                                ]
+                            },
+                            {
+                                "Citation": "Amyotroph Lateral Scler Frontotemporal Degener. 2015;16(5-6):293-302",
+                                "ArticleIdList": [
+                                    "26174444"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2018 Jan;17(1):96-109",
+                                "ArticleIdList": [
+                                    "26924840"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2016 Nov;31(11):1172-1187",
+                                "ArticleIdList": [
+                                    "27161855"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Qual Life Outcomes. 2016 Jul 20;14(1):107",
+                                "ArticleIdList": [
+                                    "27439463"
+                                ]
+                            },
+                            {
+                                "Citation": "Palliat Support Care. 2018 Apr;16(2):228-237",
+                                "ArticleIdList": [
+                                    "28829002"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Sci. 2018 Apr 15;387:80-84",
+                                "ArticleIdList": [
+                                    "29571877"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "04",
+                        "Day": "26"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "11",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31041602",
+                    "10.1007/s11136-019-02193-x",
+                    "10.1007/s11136-019-02193-x",
+                    "PMC6698267"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31041602)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831041602%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831041602%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065258581"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065258581?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065258581&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065258581&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065258581",
+                        "dc:identifier": "SCOPUS_ID:85065258581",
+                        "eid": "2-s2.0-85065258581",
+                        "dc:title": "Communicating psychosocial well-being in motor neurone disease to staff: results from a World Caf\u00e9 approach",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "Quality of Life Research",
+                        "prism:issn": "09629343",
+                        "prism:eIssn": "15732649",
+                        "prism:volume": "28",
+                        "prism:issueIdentifier": "9",
+                        "prism:pageRange": "2579-2584",
+                        "prism:coverDate": "2019-09-15",
+                        "prism:coverDisplayDate": "15 September 2019",
+                        "prism:doi": "10.1007/s11136-019-02193-x",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31041602",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "17732",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "HEWBNGIM.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31041602"
+            }
+        },
+        "title": "Communicating psychosocial well-being in motor neurone disease to staff: results from a World Caf\u00e9 approach.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Medley G",
+                "family": "Medley",
+                "given": "Gillian",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Smith S",
+                "family": "Smith",
+                "given": "Sandra",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Thornton M",
+                "family": "Thornton",
+                "given": "Maria",
+                "affiliation": {
+                    "name": "Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Furlong M",
+                "family": "Furlong",
+                "given": "Moira",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ennis M",
+                "family": "Ennis",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Young C",
+                "family": "Young",
+                "given": "Carolyn",
+                "affiliation": {
+                    "name": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Communication",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Medical Staff, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "Motor Neuron Disease",
+                    "major": "N"
+                },
+                {
+                    "term": "Professional-Patient Relations",
+                    "major": "Y"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "Surveys and Questionnaires",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Qual Life Res",
+            "volume": "28",
+            "issue": "9"
+        },
+        "abstract": "['Little to no research has evaluated staff training and its effects on the well-being of people with MND. The aim of this study was to assess how educating multi-disciplinary staff about psychosocial well-being in MND can change approaches to working with people with MND.', 'Multi-disciplinary staff attended a half-day workshop to receive training on psychosocial well-being in people with MND and to discuss QoL issues using the World Caf\u00e9 approach. Prior to the workshop and 2 weeks post-workshop, staff completed a questionnaire on their knowledge of this topic. A selection of staff completed a follow-up interview 2 months later to assess changes in their practice.', '19 staff, including dieticians and occupational therapists, attended the workshop and completed the pre-workshop questionnaire. Ten filled in the post-workshop questionnaire and were interviewed. Clinicians identified six strategies/barriers of improving communication amongst MND staff, suggesting the need for better collaborative working, raising awareness of psychological and emotional issues in MND and barriers to service access due to health inequalities, amongst others.', 'This workshop raised staff awareness on communicating QoL in MND. Future work needs to look into implementing this training in clinical practice and evaluate their impact on QoL in MND.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

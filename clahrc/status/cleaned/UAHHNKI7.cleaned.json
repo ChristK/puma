@@ -1,0 +1,747 @@
+{
+    "IDs": {
+        "zotero": "UAHHNKI7",
+        "DOI": "10.1080/09638237.2017.1340620",
+        "DOI_filename": "f184be81d7e72a96a7c5c38231b650e2",
+        "PMID": "28686477",
+        "scopus": "2-s2.0-85021863930",
+        "hash": "d729f9c7ec69ddb62cdfcaf931baea08"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "UAHHNKI7",
+            "version": 186,
+            "itemType": "journalArticle",
+            "title": "The issue of \u201clong-term\u201d fit notes for depression in the UK: patient, GP and general practice variation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Chris",
+                    "lastName": "Shiels"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jim",
+                    "lastName": "Hillage"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Mental Health",
+            "volume": "",
+            "issue": "",
+            "pages": "1-8",
+            "date": "2017-07-07",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Mental Health",
+            "language": "en",
+            "DOI": "10.1080/09638237.2017.1340620",
+            "ISSN": "0963-8237, 1360-0567",
+            "shortTitle": "The issue of \u201clong-term\u201d fit notes for depression in the UK",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09638237.2017.1340620",
+            "accessDate": "2020-09-10T17:09:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28686477",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:09Z",
+            "dateModified": "2020-09-15T14:30:43Z",
+            "pmid": "28686477"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        15
+                    ]
+                ],
+                "date-time": "2020-08-15T18:40:34Z",
+                "timestamp": 1597516834651
+            },
+            "reference-count": 39,
+            "publisher": "Informa UK Limited",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1080/09638237.2017.1340620",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        7
+                    ]
+                ],
+                "date-time": "2017-07-07T18:16:19Z",
+                "timestamp": 1499451379000
+            },
+            "page": "1-8",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "The issue of \u201clong-term\u201d fit notes for depression in the UK: patient, GP and general practice variation",
+            "prefix": "10.1080",
+            "author": [
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK and"
+                        }
+                    ]
+                },
+                {
+                    "given": "Chris",
+                    "family": "Shiels",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK and"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jim",
+                    "family": "Hillage",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute for Employment Studies, Brighton, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        7
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1016/j.socscimed.2010.01.031",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1001/archinte.163.20.2433",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "Black C.",
+                    "year": "2008",
+                    "volume-title": "Working for a healthier tomorrow"
+                },
+                {
+                    "key": "CIT0004",
+                    "author": "Black C",
+                    "year": "2011",
+                    "volume-title": "Health at work: An independent review of sickness absence"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1016/j.ejpain.2005.06.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1093/pubmed/fdn098",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1093/occmed/kqr008",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.7870/cjcmh-2006-0025",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1007/s10926-010-9261-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1371/journal.pone.0069637",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1007/s00586-004-0863-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1093/occmed/kqr020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1186/1741-7015-4-19",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "author": "Hensing G",
+                    "volume": "63",
+                    "first-page": "152",
+                    "year": "2007",
+                    "journal-title": "Scand J Public Health"
+                },
+                {
+                    "key": "CIT0015",
+                    "author": "Joyce S",
+                    "volume": "1",
+                    "first-page": "1",
+                    "year": "2015",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1111/j.1600-0447.2012.01902.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1007/s00420-010-0540-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1007/s00420-007-0243-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1016/j.jpain.2011.03.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1097/JOM.0b013e31816bae50",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1017/S1463423610000472",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.3109/09638288.2011.641664",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1177/1403494810384424",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.5271/sjweh.978",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1002/14651858.CD006237.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1016/j.jpsychires.2009.10.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1186/1477-7525-8-95",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "author": "Organisation for Economic Co-operation and Development (OECD)",
+                    "year": "2014",
+                    "volume-title": "Mental health and work: United Kingdom"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1136/jech.56.11.861",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "DOI": "10.1007/s10926-012-9363-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1093/occmed/kqp147",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1093/fampra/cmi110",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "author": "Shiels C",
+                    "volume": "54",
+                    "first-page": "86",
+                    "year": "2004",
+                    "journal-title": "Br J Gen Pract"
+                },
+                {
+                    "key": "CIT0034",
+                    "unstructured": "Shiels C, Hillage J, Pollard E, Gabbay M. (2013). National evaluation of the statement of fitness for work (Fit Note): Quantitative survey of fit notes. DWP Research Report No 841. London: The Stationery Office"
+                },
+                {
+                    "key": "CIT0035",
+                    "DOI": "10.3399/bjgp14X677509",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1155/2012/474989",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "DOI": "10.1177/1403494815591898",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1007/s00127-007-0189-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "author": "Waddel G",
+                    "year": "2006",
+                    "volume-title": "Is work good for your health and well-being"
+                }
+            ],
+            "container-title": "Journal of Mental Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09638237.2017.1340620",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        15
+                    ]
+                ],
+                "date-time": "2020-08-15T18:09:29Z",
+                "timestamp": 1597514969000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 39,
+            "alternative-id": [
+                "10.1080/09638237.2017.1340620"
+            ],
+            "URL": "http://dx.doi.org/10.1080/09638237.2017.1340620",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0963-8237",
+                "1360-0567"
+            ],
+            "subject": [
+                "Psychiatry and Mental health",
+                "General Medicine"
+            ],
+            "container-title-short": "Journal of Mental Health",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmh20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmh20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2016-12-04",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2017-02-22",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2017-05-03",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2017-07-07",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "KeywordList": [
+                    [
+                        "depression",
+                        "duration of sickness absence",
+                        "fit note",
+                        "return to work",
+                        "sickness certification"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28686477",
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "20"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/09638237.2017.1340620"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "07",
+                            "Day": "07"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1360-0567",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jul",
+                                "Day": "07"
+                            }
+                        },
+                        "Title": "Journal of mental health (Abingdon, England)",
+                        "ISOAbbreviation": "J Ment Health"
+                    },
+                    "ArticleTitle": "The issue of \"long-term\" fit notes for depression in the UK: patient, GP and general practice variation.",
+                    "Pagination": {
+                        "MedlinePgn": "1-8"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Depression is an important cause of certified sickness absence in the UK. It is not known what factors are associated with variation in length of sickness certificates issued by the GP to the depressed patient.",
+                            "The purpose of the study was to identify patient, GP and practice factors associated with the issue of a long-term (>\u20094 week) fit note for depression.",
+                            "Sixty-eight UK general practices collected sickness certification data for 12 months.",
+                            "Over 35% of 8127 fit notes issued to 3361 patients for depression were classed as long-term (over four weeks in duration). Having previous fit notes for depression, not having \"may be fit\" advice on the fit note, older patient age, the patient living in a deprived neighbourhood and a higher practice deprivation status were all significant predictors of a long-term fit note. Depression fit notes issued by female GPs to female patients were less likely to be long-term. Other GP factors were not significant predictors of a long-term depression note.",
+                            "Reducing the number of long-term sickness certificates issued to people with depression should be considered part of return-to work and job retention strategies."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , Liverpool , UK and."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , Liverpool , UK and."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shiels",
+                            "ForeName": "Chris",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b Institute for Employment Studies , Brighton , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hillage",
+                            "ForeName": "Jim",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Ment Health",
+                    "NlmUniqueID": "9212352",
+                    "ISSNLinking": "0963-8237"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "7",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "28686477",
+                    "10.1080/09638237.2017.1340620"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1080/09638237.2017.1340620)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F09638237.2017.1340620%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F09638237.2017.1340620%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021863930"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021863930?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021863930&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021863930&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021863930",
+                        "dc:identifier": "SCOPUS_ID:85021863930",
+                        "eid": "2-s2.0-85021863930",
+                        "dc:title": "The issue of \u201clong-term\u201d fit notes for depression in the UK: patient, GP and general practice variation",
+                        "dc:creator": "Gabbay M.",
+                        "prism:publicationName": "Journal of Mental Health",
+                        "prism:issn": "09638237",
+                        "prism:eIssn": "13600567",
+                        "prism:pageRange": "1-8",
+                        "prism:coverDate": "2017-07-06",
+                        "prism:coverDisplayDate": "6 July 2017",
+                        "prism:doi": "10.1080/09638237.2017.1340620",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "undefined",
+                        "subtypeDescription": null,
+                        "source-id": "16727",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "UAHHNKI7.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28686477"
+            }
+        },
+        "title": "The issue of \"long-term\" fit notes for depression in the UK: patient, GP and general practice variation.",
+        "full_author_list": [
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , Liverpool , UK and."
+                }
+            },
+            {
+                "clean": "Shiels C",
+                "family": "Shiels",
+                "given": "Chris",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , Liverpool , UK and."
+                }
+            },
+            {
+                "clean": "Hillage J",
+                "family": "Hillage",
+                "given": "Jim",
+                "affiliation": {
+                    "name": "b Institute for Employment Studies , Brighton , UK."
+                }
+            }
+        ],
+        "first_author": "Gabbay M",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Ment Health",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "['Depression is an important cause of certified sickness absence in the UK. It is not known what factors are associated with variation in length of sickness certificates issued by the GP to the depressed patient.', 'The purpose of the study was to identify patient, GP and practice factors associated with the issue of a long-term (>\\u20094 week) fit note for depression.', 'Sixty-eight UK general practices collected sickness certification data for 12 months.', 'Over 35% of 8127 fit notes issued to 3361 patients for depression were classed as long-term (over four weeks in duration). Having previous fit notes for depression, not having \"may be fit\" advice on the fit note, older patient age, the patient living in a deprived neighbourhood and a higher practice deprivation status were all significant predictors of a long-term fit note. Depression fit notes issued by female GPs to female patients were less likely to be long-term. Other GP factors were not significant predictors of a long-term depression note.', 'Reducing the number of long-term sickness certificates issued to people with depression should be considered part of return-to work and job retention strategies.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Department of Health Services Research , University of Liverpool , Liverpool , UK and.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

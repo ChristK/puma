@@ -1,0 +1,1164 @@
+{
+    "IDs": {
+        "zotero": "8UM5E6FU",
+        "DOI": "10.1002/14651858.CD007124.pub5",
+        "DOI_filename": "7deb031a2b6214717f66709ef4821aa5",
+        "PMID": "27933615",
+        "scopus": "2-s2.0-85003689195",
+        "hash": "ef5f9f5145161418697f39739d1079c9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "8UM5E6FU",
+            "version": 129,
+            "itemType": "journalArticle",
+            "title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham",
+                    "lastName": "Powell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthew",
+                    "lastName": "Saunders"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexandra",
+                    "lastName": "Rigby"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-12-09",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD007124.pub5",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD007124.pub5",
+            "accessDate": "2020-09-10T17:09:59Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27933615",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:59Z",
+            "dateModified": "2020-09-11T15:02:37Z",
+            "pmid": "27933615"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        8
+                    ]
+                ],
+                "date-time": "2020-06-08T19:04:25Z",
+                "timestamp": 1591643065968
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                12,
+                                9
+                            ]
+                        ],
+                        "date-time": "2016-12-09T00:00:00Z",
+                        "timestamp": 1481241600000
+                    },
+                    "DOI": "10.1002/14651858.cd007124.pub4",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 34,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd007124.pub5",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        9
+                    ]
+                ],
+                "date-time": "2016-12-09T08:59:54Z",
+                "timestamp": 1481273994000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Graham",
+                    "family": "Powell",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "The Walton Centre for Neurology & Neurosurgery NHS Foundation Trust; Lower Lane Fazakerley Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Matthew",
+                    "family": "Saunders",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Alexandra",
+                    "family": "Rigby",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        9
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "507",
+                    "DOI": "10.1111/j.1528-1157.1987.tb03679.x",
+                    "article-title": "Controlled release carbamazepine: cognitive side effects in patients with epilepsy",
+                    "volume": "28(5)",
+                    "author": "Aldenkamp",
+                    "year": "1987",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1703",
+                    "DOI": "10.1212/WNL.45.9.1703",
+                    "article-title": "Double-blind crossover comparison of Tegretol-XR and Tegretol in patients with epilepsy. The Tegretol OROS Osmotic Release Delivery System Study Group",
+                    "volume": "45",
+                    "author": "Anonymous",
+                    "year": "1995",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0003|cit3",
+                    "first-page": "9",
+                    "article-title": "Conventional vs controlled release carbamazepine: a multicentre, double blind, crossover study",
+                    "volume": "82(1)",
+                    "author": "Canger",
+                    "year": "1990",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "274",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01372.x",
+                    "article-title": "Pharmacokinetic evaluation of twice daily extended release carbamazepine and four times daily immediate release carbamazepine in patients with epilepsy",
+                    "volume": "39(3)",
+                    "author": "Garnett",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0005|cit5",
+                    "first-page": "231",
+                    "article-title": "Treatment of epilepsy in mentally retarded patients with a slow release carbamazepine preparation",
+                    "volume": "35(pt 3)",
+                    "author": "Kaski",
+                    "year": "1991",
+                    "journal-title": "Journal of Mental Deficiency Research"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "99",
+                    "DOI": "10.1111/j.1365-2125.1991.tb05619.x",
+                    "article-title": "Monotherapy with conventional and controlled release carbamazepine: a double blind, double dummy comparison in epileptic patients",
+                    "volume": "32",
+                    "author": "McKee",
+                    "year": "1991",
+                    "journal-title": "British Journal of Clinical Pharmacology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0007|cit7",
+                    "first-page": "185",
+                    "article-title": "A comparative evaluation of pharmacokinetics of conventional and slow release carbamazepine formulation in newly treated patients of epilepsy: a random evaluation",
+                    "volume": "46",
+                    "author": "Nag",
+                    "year": "1998",
+                    "journal-title": "Journal of the Association of Physicians of India"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "134",
+                    "DOI": "10.1016/0920-1211(90)90088-D",
+                    "article-title": "Differences in side effects between a conventional carbamazepine preparation and a slow release preparation of carbamazepine",
+                    "volume": "6",
+                    "author": "Persson",
+                    "year": "1990",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "126",
+                    "DOI": "10.1016/0920-1211(90)90087-C",
+                    "article-title": "Multiple dose pharmacokinetic study with a slow release carbamazepine preparation",
+                    "volume": "6",
+                    "author": "Reunanen",
+                    "year": "1990",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "32",
+                    "DOI": "10.1016/0920-1211(88)90007-1",
+                    "article-title": "Reduction of dosing frequency of carbamazepine with a slow release preparation",
+                    "volume": "2",
+                    "author": "Sivenius",
+                    "year": "1988",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0011|cit11",
+                    "first-page": "96",
+                    "article-title": "Carbamazepine - efficacy and applicability of its different preparations in therapy of the epilepsies of childhood",
+                    "volume": "38 Suppl 3",
+                    "author": "Bojinova",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0012|cit12",
+                    "first-page": "1504",
+                    "article-title": "Carbamazepine",
+                    "volume": "142",
+                    "author": "Dam",
+                    "year": "1980",
+                    "journal-title": "Ugeskrift for Laeger"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "59",
+                    "DOI": "10.1007/BF00554668",
+                    "article-title": "Carbamazepine: a clinical biopharmaceutical study",
+                    "volume": "20",
+                    "author": "Dam",
+                    "year": "1981",
+                    "journal-title": "European Journal of Clinical Pharmacology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "375",
+                    "DOI": "10.1007/BF00610058",
+                    "article-title": "Effect of dosage frequency of carbamazepine on drug serum levels in epileptic patients",
+                    "volume": "24",
+                    "author": "Ghose",
+                    "year": "1983",
+                    "journal-title": "European Journal of Clinical Pharmacology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "135",
+                    "DOI": "10.1111/j.1600-0404.1990.tb01603.x",
+                    "article-title": "Pharmacokinetic comparison of two carbamazepine slow release formulations",
+                    "volume": "82",
+                    "author": "Jensen",
+                    "year": "1990",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1727",
+                    "DOI": "10.1212/WNL.51.6.1727",
+                    "article-title": "Six-month evaluation of Carbatrol (extended release carbamazepine) in complex partial seizures",
+                    "volume": "19",
+                    "author": "Mirza",
+                    "year": "1998",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "108",
+                    "DOI": "10.1177/030006058401200208",
+                    "article-title": "A comparison of the bioavailability of two carbamazepine preparations (200 mg and 400 mg tablets)",
+                    "volume": "12",
+                    "author": "Monaco",
+                    "year": "1984",
+                    "journal-title": "Journal of International Medical Research"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1137",
+                    "DOI": "10.1111/j.1528-1157.1992.tb01771.x",
+                    "article-title": "Carbamazepine controlled release compared with conventional carbamazepine: A controlled study of attention and vigilance in children with epilepsy",
+                    "volume": "33",
+                    "author": "Pieters",
+                    "year": "1992",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0019|cit19",
+                    "first-page": "638",
+                    "article-title": "Comparative pharmacokinetics of Tegretol controlled release system to Tegretol in epileptic patients",
+                    "volume": "30",
+                    "author": "Ramsay",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0020|cit20",
+                    "first-page": "511",
+                    "article-title": "Comparative open trial of carbamazepine and slow release carbamazepine in epilepsy in adults.",
+                    "volume": "19",
+                    "author": "Remy",
+                    "year": "1990",
+                    "journal-title": "Presse Medicale"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0021|cit21",
+                    "first-page": "486",
+                    "article-title": "A bioequivalence study on retarded formulations of carbamazepine tablets",
+                    "volume": "30",
+                    "author": "Scheuch",
+                    "year": "1992",
+                    "journal-title": "International Journal of Clinical Pharmacology, Therapy and Toxicology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0022|cit22",
+                    "first-page": "195",
+                    "article-title": "A multicentre, placebo controlled, double blind study of efficacy of a new form of carbamazepine (Carbatrol(R)) in refractory epileptic patients",
+                    "volume": "56",
+                    "author": "Sobaniec",
+                    "year": "2004",
+                    "journal-title": "Polish Journal of Pharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0023|cit23",
+                    "first-page": "3",
+                    "article-title": "Steady-state bioavailability and fluctuations of carbamazepine following crossover administration of qid conventional Tegretol tablets and bid Tegretol OROS tablets",
+                    "volume": "32 Suppl 3",
+                    "author": "Thakker",
+                    "year": "1991",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "203",
+                    "DOI": "10.2165/00023210-200014030-00003",
+                    "article-title": "Extended release formulations of anticonvulsant medications, clinical pharmacokinetics and therapeutic advantages",
+                    "volume": "14",
+                    "author": "Collins",
+                    "year": "2000",
+                    "journal-title": "CNS Drugs"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota: 1935 -1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0026|cit26",
+                    "author": "Higgins",
+                    "year": "2011. Available from www.cochrane-handbook.org",
+                    "article-title": "Chapter 8: Assessing risk of bias in included studies",
+                    "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011)"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0028|cit28",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from http://handbook.cochrane.org/"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0029|cit29",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0030|cit30",
+                    "unstructured": "NICE Epilepsies: diagnosis and management. Clinical guideline [CG137] 2012 https://www.nice.org.uk/guidance/cg137"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.2298/SARH0202019V",
+                    "article-title": "A practical study of the efficacy of a delayed-action preparation of carbamazepine (Tegretol CR 400) in the treatment of patients with partial epilepsy",
+                    "volume": "130",
+                    "author": "Vojvodic",
+                    "year": "2002",
+                    "journal-title": "Srpski Arhiv za Celokupno Lekarstvo"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0032|cit32",
+                    "author": "Powell",
+                    "issue": "1",
+                    "year": "2010",
+                    "article-title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007124.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0033|cit33",
+                    "author": "Powell",
+                    "issue": "2",
+                    "year": "2014",
+                    "article-title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007124.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007124.pub5-BIB0034|cit34",
+                    "author": "Powell",
+                    "issue": "12",
+                    "year": "2014",
+                    "article-title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007124.pub4",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD007124.pub5",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        12
+                    ]
+                ],
+                "date-time": "2020-05-12T07:51:15Z",
+                "timestamp": 1589269875000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        9
+                    ]
+                ]
+            },
+            "references-count": 34,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD007124.pub5",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27933615",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "02",
+                    "Day": "03"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "11"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD007124.pub5"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "12",
+                            "Day": "08"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "12",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "12",
+                                "Day": "08"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD007124"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Carbamazepine (CBZ) is a commonly used drug for epilepsy that is associated with troublesome adverse events including dizziness, double vision, drowsiness, poor co-ordination and unsteadiness. These adverse events often occur during peaks in drug plasma concentration. These adverse events may limit the daily dose of CBZ that can be tolerated and reduce the chances of seizure control in patients who require high doses. A controlled-release formulation of CBZ delivers the same dose over a longer period of time when compared to a standard immediate-release formulation, thereby reducing post-dose peaks in CBZ plasma concentration and potentially reducing adverse events.This is an updated version of the original Cochrane review published in Issue 12, 2014.",
+                            "To determine the efficacy of immediate-release CBZ (IR CBZ) versus controlled-release CBZ (CR CBZ) in patients diagnosed with epilepsy.The following review questions were investigated.(1) For newly diagnosed patients commencing CBZ, how do IR and CR formulations compare for efficacy and tolerability?(2) For patients on established treatment with IR CBZ but experiencing unacceptable adverse events, what is the effect on seizure control and the tolerability of a switch to a CR formulation versus remaining on the IR formulation?",
+                            "We searched the Cochrane Epilepsy Group Specialized Register, CENTRAL, and MEDLINE (Ovid) from inception to 30 August 2016.",
+                            "Randomised controlled trials comparing IR CBZ to CR CBZ in patients commencing monotherapy and patients presently treated with IR CBZ but experiencing unacceptable adverse events.Primary outcome measures included measures of seizure frequency, incidence of adverse events, proportion of patients with treatment failure and quality of life measures.",
+                            "Two review authors independently assessed trials for inclusion, extracted the data and recorded relevant information on a standardised data extraction form. We used the Cochrane risk of bias tool to assess the methodological quality of included studies.The heterogeneity of the included trials with respect to the reporting of outcomes resulted in only a narrative, descriptive analysis being possible for both the categorical and time-to-event data.",
+                            "Ten trials (296 participants) fulfilled the criteria for inclusion in this review. Only one study had a low risk of bias. Two studies had a high risk of bias and the rest of the studies were rated as unclear risk of bias. One trial included patients with newly diagnosed epilepsy and nine included patients on treatment with IR CBZ.Eight trials reported heterogeneous measures of seizure frequency with conflicting results. A statistically significant difference was observed in only one trial, with patients prescribed CR CBZ experiencing fewer seizures than patients prescribed IR CBZ.Nine trials reported measures of adverse events. There was a trend in favour of CR CBZ with four trials reporting a statistically significant reduction in adverse events compared to IR CBZ. A further two trials reported fewer adverse events with CR CBZ but the reduction was not statistically significant. One trial found no difference in adverse events, and another trial reported more adverse events in the CR CBZ group than the IR CBZ group, although the increase was not statistically significant.",
+                            "For this update no new eligible studies were identified and the conclusions drawn from the initial review remain unchanged.At present, data from trials do not confirm or refute an advantage for CR CBZ over IR CBZ for seizure frequency or adverse events in patients with newly diagnosed epilepsy.For trials involving epilepsy patients already prescribed IR CBZ, no conclusions can be drawn concerning the superiority of CR CBZ with respect to seizure frequency.There is a trend for CR CBZ to be associated with fewer adverse events when compared to IR CBZ. A change to CR CBZ may therefore be a worthwhile strategy in patients with acceptable seizure control on IR CBZ but experiencing unacceptable adverse events. The included trials were of small size and of poor methodological quality limiting the validity of this conclusion.Randomised controlled trials comparing CR CBZ to IR CBZ and using clinically relevant outcomes are required to inform the choice of CBZ preparation for patients with newly diagnosed epilepsy."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre for Neurology & Neurosurgery NHS Foundation Trust, Lower Lane, Fazakerley, Liverpool, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Powell",
+                            "ForeName": "Graham",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Saunders",
+                            "ForeName": "Matthew",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rigby",
+                            "ForeName": "Alexandra",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Delayed-Action Preparations"
+                    },
+                    {
+                        "RegistryNumber": "33CM23913M",
+                        "NameOfSubstance": "Carbamazepine"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2014 Dec 03;(12):CD007124",
+                        "PMID": "25470302"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Carbamazepine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Delayed-Action Preparations",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001030",
+                                "ArticleIdList": [
+                                    "10908558"
+                                ]
+                            },
+                            {
+                                "Citation": "J Assoc Physicians India. 1998 Feb;46(2):185-8",
+                                "ArticleIdList": [
+                                    "11273108"
+                                ]
+                            },
+                            {
+                                "Citation": "Srp Arh Celok Lek. 2002 Jan-Feb;130(1-2):19-26",
+                                "ArticleIdList": [
+                                    "12073283"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1992 Nov-Dec;33(6):1137-44",
+                                "ArticleIdList": [
+                                    "1464276"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Clin Pharmacol Ther Toxicol. 1992 Nov;30(11):486-7",
+                                "ArticleIdList": [
+                                    "1490797"
+                                ]
+                            },
+                            {
+                                "Citation": "Pol J Pharmacol. 2004 Mar-Apr;56(2):195-201",
+                                "ArticleIdList": [
+                                    "15156070"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Pharmacol. 1991 Jul;32(1):99-104",
+                                "ArticleIdList": [
+                                    "1888646"
+                                ]
+                            },
+                            {
+                                "Citation": "J Ment Defic Res. 1991 Jun;35 ( Pt 3):231-9",
+                                "ArticleIdList": [
+                                    "1920391"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2010 Jan 20;(1):CD007124",
+                                "ArticleIdList": [
+                                    "20091617"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Presse Med. 1990 Mar 24;19(11):511-3",
+                                "ArticleIdList": [
+                                    "2138749"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1990 Jul;6(2):134-40",
+                                "ArticleIdList": [
+                                    "2201541"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1990 Jul;82(1):9-13",
+                                "ArticleIdList": [
+                                    "2239143"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1990 Aug;82(2):135-7",
+                                "ArticleIdList": [
+                                    "2256443"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1990 Jul;6(2):126-33",
+                                "ArticleIdList": [
+                                    "2387286"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Feb 03;(2):CD007124",
+                                "ArticleIdList": [
+                                    "24488654"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Dec 03;(12):CD007124",
+                                "ArticleIdList": [
+                                    "25470302"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1988 Jan-Feb;2(1):32-6",
+                                "ArticleIdList": [
+                                    "3197677"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1987 Sep-Oct;28(5):507-14",
+                                "ArticleIdList": [
+                                    "3653052"
+                                ]
+                            },
+                            {
+                                "Citation": "J Int Med Res. 1984;12(2):108-13",
+                                "ArticleIdList": [
+                                    "6724125"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Clin Pharmacol. 1983;24(3):375-81",
+                                "ArticleIdList": [
+                                    "6861851"
+                                ]
+                            },
+                            {
+                                "Citation": "Ugeskr Laeger. 1980 Jun 2;142(23):1504-7",
+                                "ArticleIdList": [
+                                    "6996255"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Clin Pharmacol. 1981;20(1):59-64",
+                                "ArticleIdList": [
+                                    "7308274"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1995 Sep;45(9):1703-7",
+                                "ArticleIdList": [
+                                    "7675230"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1998 Mar;39(3):274-9",
+                                "ArticleIdList": [
+                                    "9578044"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1998 Dec;51(6):1727-9",
+                                "ArticleIdList": [
+                                    "9855533"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "2",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27933615",
+                    "10.1002/14651858.CD007124.pub5",
+                    "PMC6463840"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27933615)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827933615%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827933615%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85003689195"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85003689195?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85003689195&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85003689195&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85003689195",
+                        "dc:identifier": "SCOPUS_ID:85003689195",
+                        "eid": "2-s2.0-85003689195",
+                        "dc:title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy",
+                        "dc:creator": "Powell G.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "12",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-12-08",
+                        "prism:coverDisplayDate": "8 December 2016",
+                        "prism:doi": "10.1002/14651858.CD007124.pub5",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "The Walton Centre",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27933615",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD007124",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "8UM5E6FU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27933615"
+            }
+        },
+        "title": "Immediate-release versus controlled-release carbamazepine in the treatment of epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Powell G",
+                "family": "Powell",
+                "given": "Graham",
+                "affiliation": {
+                    "name": "The Walton Centre for Neurology & Neurosurgery NHS Foundation Trust, Lower Lane, Fazakerley, Liverpool, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Saunders M",
+                "family": "Saunders",
+                "given": "Matthew",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Rigby A",
+                "family": "Rigby",
+                "given": "Alexandra",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                }
+            }
+        ],
+        "first_author": "Powell G",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Carbamazepine",
+                    "major": "N"
+                },
+                {
+                    "term": "Delayed-Action Preparations",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "12",
+            "issue": ""
+        },
+        "abstract": "['Carbamazepine (CBZ) is a commonly used drug for epilepsy that is associated with troublesome adverse events including dizziness, double vision, drowsiness, poor co-ordination and unsteadiness. These adverse events often occur during peaks in drug plasma concentration. These adverse events may limit the daily dose of CBZ that can be tolerated and reduce the chances of seizure control in patients who require high doses. A controlled-release formulation of CBZ delivers the same dose over a longer period of time when compared to a standard immediate-release formulation, thereby reducing post-dose peaks in CBZ plasma concentration and potentially reducing adverse events.This is an updated version of the original Cochrane review published in Issue 12, 2014.', 'To determine the efficacy of immediate-release CBZ (IR CBZ) versus controlled-release CBZ (CR CBZ) in patients diagnosed with epilepsy.The following review questions were investigated.(1) For newly diagnosed patients commencing CBZ, how do IR and CR formulations compare for efficacy and tolerability?(2) For patients on established treatment with IR CBZ but experiencing unacceptable adverse events, what is the effect on seizure control and the tolerability of a switch to a CR formulation versus remaining on the IR formulation?', 'We searched the Cochrane Epilepsy Group Specialized Register, CENTRAL, and MEDLINE (Ovid) from inception to 30 August 2016.', 'Randomised controlled trials comparing IR CBZ to CR CBZ in patients commencing monotherapy and patients presently treated with IR CBZ but experiencing unacceptable adverse events.Primary outcome measures included measures of seizure frequency, incidence of adverse events, proportion of patients with treatment failure and quality of life measures.', 'Two review authors independently assessed trials for inclusion, extracted the data and recorded relevant information on a standardised data extraction form. We used the Cochrane risk of bias tool to assess the methodological quality of included studies.The heterogeneity of the included trials with respect to the reporting of outcomes resulted in only a narrative, descriptive analysis being possible for both the categorical and time-to-event data.', 'Ten trials (296 participants) fulfilled the criteria for inclusion in this review. Only one study had a low risk of bias. Two studies had a high risk of bias and the rest of the studies were rated as unclear risk of bias. One trial included patients with newly diagnosed epilepsy and nine included patients on treatment with IR CBZ.Eight trials reported heterogeneous measures of seizure frequency with conflicting results. A statistically significant difference was observed in only one trial, with patients prescribed CR CBZ experiencing fewer seizures than patients prescribed IR CBZ.Nine trials reported measures of adverse events. There was a trend in favour of CR CBZ with four trials reporting a statistically significant reduction in adverse events compared to IR CBZ. A further two trials reported fewer adverse events with CR CBZ but the reduction was not statistically significant. One trial found no difference in adverse events, and another trial reported more adverse events in the CR CBZ group than the IR CBZ group, although the increase was not statistically significant.', 'For this update no new eligible studies were identified and the conclusions drawn from the initial review remain unchanged.At present, data from trials do not confirm or refute an advantage for CR CBZ over IR CBZ for seizure frequency or adverse events in patients with newly diagnosed epilepsy.For trials involving epilepsy patients already prescribed IR CBZ, no conclusions can be drawn concerning the superiority of CR CBZ with respect to seizure frequency.There is a trend for CR CBZ to be associated with fewer adverse events when compared to IR CBZ. A change to CR CBZ may therefore be a worthwhile strategy in patients with acceptable seizure control on IR CBZ but experiencing unacceptable adverse events. The included trials were of small size and of poor methodological quality limiting the validity of this conclusion.Randomised controlled trials comparing CR CBZ to IR CBZ and using clinically relevant outcomes are required to inform the choice of CBZ preparation for patients with newly diagnosed epilepsy.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "The Walton Centre for Neurology & Neurosurgery NHS Foundation Trust, Lower Lane, Fazakerley, Liverpool, UK, L9 7LJ.",
+            "clean_institute": "Walton Centre",
+            "latitude": "53.46654",
+            "longitude": "-2.931",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

@@ -1,0 +1,869 @@
+{
+    "IDs": {
+        "zotero": "E52FADZP",
+        "DOI": "10.3109/13814788.2016.1156083",
+        "DOI_filename": "634d5a48baf1c91d3ed8c07a01525efa",
+        "PMID": "27102090",
+        "scopus": "2-s2.0-84964545623",
+        "hash": "a61374a22b03fcf9d03178028b140d4c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "E52FADZP",
+            "version": 141,
+            "itemType": "journalArticle",
+            "title": "Recurrence of sickness absence episodes certified by general practitioners in the UK",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Chris",
+                    "lastName": "Shiels"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jim",
+                    "lastName": "Hillage"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "European Journal of General Practice",
+            "volume": "22",
+            "issue": "2",
+            "pages": "83-90",
+            "date": "2016-04-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "European Journal of General Practice",
+            "language": "en",
+            "DOI": "10.3109/13814788.2016.1156083",
+            "ISSN": "1381-4788, 1751-1402",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.3109/13814788.2016.1156083",
+            "accessDate": "2020-09-10T17:09:23Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27102090",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:23Z",
+            "dateModified": "2020-09-15T12:13:06Z",
+            "pmid": "27102090"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        6
+                    ]
+                ],
+                "date-time": "2020-09-06T13:10:05Z",
+                "timestamp": 1599397805675
+            },
+            "reference-count": 30,
+            "publisher": "Informa UK Limited",
+            "issue": "2",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.3109/13814788.2016.1156083",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        22
+                    ]
+                ],
+                "date-time": "2016-04-22T09:20:34Z",
+                "timestamp": 1461316834000
+            },
+            "page": "83-90",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Recurrence of sickness absence episodes certified by general practitioners in the UK",
+            "prefix": "10.3109",
+            "volume": "22",
+            "author": [
+                {
+                    "given": "Chris",
+                    "family": "Shiels",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, UK;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, UK;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jim",
+                    "family": "Hillage",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute for Employment Studies, Brighton, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        22
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "unstructured": "Office for National Statistics (ONS). Sickness absence in the labour market, February 2014. http://www.ons.gov.uk/ons/dcp171776_353899.pdf"
+                },
+                {
+                    "key": "CIT0002",
+                    "author": "Black C",
+                    "year": "2011",
+                    "volume-title": "Health at work: an independent review of sickness absence"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "Head J",
+                    "volume": "337",
+                    "first-page": "a1469",
+                    "year": "2008",
+                    "journal-title": "Br Med J",
+                    "DOI": "10.1136/bmj.a1469",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0004",
+                    "author": "Blank N",
+                    "volume": "23",
+                    "first-page": "265",
+                    "year": "1995",
+                    "journal-title": "Scand J Soc Med",
+                    "DOI": "10.1177/140349489502300408",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1093/occmed/kqn040",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1080/14034940210165154",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1007/s00127-007-0189-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1136/oem.2007.034983",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1136/oemed-2014-102307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1097/01.brs.0000161484.89398.48",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1136/oem.2005.019745",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1136/oemed-2013-101571",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1007/s00420-010-0540-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1093/eurpub/cku202",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1016/j.socscimed.2013.10.041",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1007/s10926-005-8034-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.5271/sjweh.1132",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1007/s10926-009-9226-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "unstructured": "Shiels C, Hillage J, Pollard E, et\u00a0al. National evaluation of the Statement of Fitness for Work (Fit note): quantitative survey of fit notes. DWP Research Report No 841, June 2013."
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1136/oem.2010.061101",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "18",
+                    "key": "CIT0021",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2041S",
+                    "DOI": "10.1097/00007632-199409151-00005",
+                    "volume": "19",
+                    "author": "Von Korff M.",
+                    "year": "1994",
+                    "journal-title": "Spine"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1097/00005650-199902000-00006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1007/s00586-009-1214-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1097/BRS.0b013e31818a3167",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "unstructured": "Department for Work and Pensions (DWP). Employment and Support Allowance: outcomes of Work Capability Assessment. Quarterly Statistics, March 2015."
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.3109/02813432.2012.704812",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.3399/bjgp14X677509",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.5271/sjweh.3084",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1136/oemed-2013-101412",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "author": "Joyce S",
+                    "volume": "1",
+                    "first-page": "1",
+                    "year": "2015",
+                    "journal-title": "Psychol Med"
+                }
+            ],
+            "container-title": "European Journal of General Practice",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.3109/13814788.2016.1156083",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        6
+                    ]
+                ],
+                "date-time": "2020-09-06T12:49:59Z",
+                "timestamp": 1599396599000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            4,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.3109/13814788.2016.1156083"
+            ],
+            "URL": "http://dx.doi.org/10.3109/13814788.2016.1156083",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1381-4788",
+                "1751-1402"
+            ],
+            "subject": [
+                "Family Practice"
+            ],
+            "container-title-short": "European Journal of General Practice",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=igen20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=igen20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2015-07-29",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2016-02-01",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2016-02-10",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2016-04-22",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Sickness absence",
+                        "recurrent sickness absence",
+                        "return-to-work",
+                        "sickness certification"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27102090",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "01",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "01",
+                    "Day": "26"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.3109/13814788.2016.1156083"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "04",
+                            "Day": "22"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1751-1402",
+                        "JournalIssue": {
+                            "Volume": "22",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "The European journal of general practice",
+                        "ISOAbbreviation": "Eur J Gen Pract"
+                    },
+                    "ArticleTitle": "Recurrence of sickness absence episodes certified by general practitioners in the UK.",
+                    "Pagination": {
+                        "MedlinePgn": "83-90"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Compared to other areas of sickness certification, recurrence of certified sickness absence has been relatively under-researched.",
+                            "This study aims to report the extent and patterns of recurrence and to identify factors associated with higher rates of recurrence.",
+                            "Sickness certification ('fit note') data were collected from 68 general practices in eight regions of the UK for 12 months.",
+                            "Twenty percent of 31,453 patients in the study had a recurrent certified sickness episode, with over half of these having the second episode in the same diagnostic category as their first. Mental health problems accounted for over a half of all days certified in same-diagnosis recurrent episodes. Male gender, residing in an area of social deprivation, a longer episode of initial certified sickness absence, not having return to work ('may be fit') advice in the first episode, having a mental disorder or musculoskeletal (particularly back) problem were all independently associated with a higher incidence of recurrence.",
+                            "Differential risk of recurrence needs to be considered when designing return-to-work interventions. Evaluation of effectiveness of interventions (particularly for sickness absentees with mental health problems) has to consider the sustainability of employment after a return to work."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , UK ;"
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shiels",
+                            "ForeName": "Chris",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , University of Liverpool , UK ;"
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b Institute for Employment Studies , Brighton , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hillage",
+                            "ForeName": "Jim",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Eur J Gen Pract",
+                    "NlmUniqueID": "9513566",
+                    "ISSNLinking": "1381-4788"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "General Practice",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "General Practitioners",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Mental Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Recurrence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Return to Work",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Sex Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Sick Leave",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "27102090",
+                    "10.3109/13814788.2016.1156083"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27102090)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827102090%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827102090%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964545623"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964545623?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84964545623&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84964545623&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84964545623",
+                        "dc:identifier": "SCOPUS_ID:84964545623",
+                        "eid": "2-s2.0-84964545623",
+                        "dc:title": "Recurrence of sickness absence episodes certified by general practitioners in the UK",
+                        "dc:creator": "Shiels C.",
+                        "prism:publicationName": "European Journal of General Practice",
+                        "prism:issn": "13814788",
+                        "prism:eIssn": "17511402",
+                        "prism:volume": "22",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "83-90",
+                        "prism:coverDate": "2016-04-02",
+                        "prism:coverDisplayDate": "2 April 2016",
+                        "prism:doi": "10.3109/13814788.2016.1156083",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27102090",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "13214",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "E52FADZP.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27102090"
+            }
+        },
+        "title": "Recurrence of sickness absence episodes certified by general practitioners in the UK.",
+        "full_author_list": [
+            {
+                "clean": "Shiels C",
+                "family": "Shiels",
+                "given": "Chris",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , UK ;"
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , University of Liverpool , UK ;"
+                }
+            },
+            {
+                "clean": "Hillage J",
+                "family": "Hillage",
+                "given": "Jim",
+                "affiliation": {
+                    "name": "b Institute for Employment Studies , Brighton , UK."
+                }
+            }
+        ],
+        "first_author": "Shiels C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "General Practice",
+                    "major": "N"
+                },
+                {
+                    "term": "General Practitioners",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Recurrence",
+                    "major": "N"
+                },
+                {
+                    "term": "Return to Work",
+                    "major": "N"
+                },
+                {
+                    "term": "Sex Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Sick Leave",
+                    "major": "N"
+                },
+                {
+                    "term": "Time Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Eur J Gen Pract",
+            "volume": "22",
+            "issue": "2"
+        },
+        "abstract": "['Compared to other areas of sickness certification, recurrence of certified sickness absence has been relatively under-researched.', 'This study aims to report the extent and patterns of recurrence and to identify factors associated with higher rates of recurrence.', \"Sickness certification ('fit note') data were collected from 68 general practices in eight regions of the UK for 12 months.\", \"Twenty percent of 31,453 patients in the study had a recurrent certified sickness episode, with over half of these having the second episode in the same diagnostic category as their first. Mental health problems accounted for over a half of all days certified in same-diagnosis recurrent episodes. Male gender, residing in an area of social deprivation, a longer episode of initial certified sickness absence, not having return to work ('may be fit') advice in the first episode, having a mental disorder or musculoskeletal (particularly back) problem were all independently associated with a higher incidence of recurrence.\", 'Differential risk of recurrence needs to be considered when designing return-to-work interventions. Evaluation of effectiveness of interventions (particularly for sickness absentees with mental health problems) has to consider the sustainability of employment after a return to work.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Department of Health Services Research , University of Liverpool , UK ;",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

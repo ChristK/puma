@@ -1,0 +1,659 @@
+{
+    "IDs": {
+        "zotero": "XJGEX5TF",
+        "DOI": "10.1136/bmj.k223",
+        "DOI_filename": "5e84511f9c49064c8897dd38749d41d4",
+        "PMID": "29363539",
+        "scopus": "2-s2.0-85041296712",
+        "hash": "007b5202c3085b9b5e20cc593f1515cc"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "XJGEX5TF",
+            "version": 200,
+            "itemType": "journalArticle",
+            "title": "Nucleic acid based therapies: developing frontier for precision medicine",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMJ",
+            "volume": "",
+            "issue": "",
+            "pages": "k223",
+            "date": "2018-01-23",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ",
+            "language": "en",
+            "DOI": "10.1136/bmj.k223",
+            "ISSN": "0959-8138, 1756-1833",
+            "shortTitle": "Nucleic acid based therapies",
+            "url": "http://www.bmj.com/lookup/doi/10.1136/bmj.k223",
+            "accessDate": "2020-09-10T17:10:29Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29363539",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/77KY8ZCP"
+            },
+            "dateAdded": "2020-09-10T17:10:29Z",
+            "dateModified": "2020-09-15T14:39:50Z",
+            "pmid": "29363539"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2020-08-02T02:44:00Z",
+                "timestamp": 1596336240427
+            },
+            "reference-count": 0,
+            "publisher": "BMJ",
+            "license": [
+                {
+                    "URL": "http://www.bmj.org/licenses/tdm/1.0/terms-and-conditions.html",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                1,
+                                23
+                            ]
+                        ],
+                        "date-time": "2018-01-23T00:00:00Z",
+                        "timestamp": 1516665600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1136/bmj.k223",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        24
+                    ]
+                ],
+                "date-time": "2018-01-24T10:25:01Z",
+                "timestamp": 1516789501000
+            },
+            "page": "k223",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Nucleic acid based therapies: developing frontier for precision medicine",
+            "prefix": "10.1136",
+            "author": [
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        23
+                    ]
+                ]
+            },
+            "container-title": "BMJ",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://data.bmj.org/tdm/10.1136/bmj.k223",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.k223",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        24
+                    ]
+                ],
+                "date-time": "2018-01-24T11:51:56Z",
+                "timestamp": 1516794716000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "alternative-id": [
+                "10.1136/bmj.k223"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmj.k223",
+            "relation": {},
+            "ISSN": [
+                "0959-8138",
+                "1756-1833"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29363539",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "03",
+                    "Day": "05"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmj.k223"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "01",
+                            "Day": "23"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1756-1833",
+                        "JournalIssue": {
+                            "Volume": "360",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "01",
+                                "Day": "23"
+                            }
+                        },
+                        "Title": "BMJ (Clinical research ed.)",
+                        "ISOAbbreviation": "BMJ"
+                    },
+                    "ArticleTitle": "Nucleic acid based therapies: developing frontier for precision medicine.",
+                    "Pagination": {
+                        "MedlinePgn": "k223"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L006758/1",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Editorial"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ",
+                    "NlmUniqueID": "8900488",
+                    "ISSNLinking": "0959-8138"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Aminophenols"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "CFTR protein, human"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Chloride Channel Agonists"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Nucleic Acids"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Oligonucleotides, Antisense"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Quinolones"
+                    },
+                    {
+                        "RegistryNumber": "126880-72-6",
+                        "NameOfSubstance": "Cystic Fibrosis Transmembrane Conductance Regulator"
+                    },
+                    {
+                        "RegistryNumber": "1Y740ILL1Z",
+                        "NameOfSubstance": "ivacaftor"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "genetics"
+                        ],
+                        "DescriptorName": "Adenoviridae",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Aminophenols",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Chloride Channel Agonists",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "genetics"
+                        ],
+                        "DescriptorName": "Cystic Fibrosis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug effects",
+                            "genetics"
+                        ],
+                        "DescriptorName": "Cystic Fibrosis Transmembrane Conductance Regulator",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Genetic Therapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Genomics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "classification",
+                            "drug therapy",
+                            "genetics"
+                        ],
+                        "DescriptorName": "Hemophilia A",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Molecular Targeted Therapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "genetics"
+                        ],
+                        "DescriptorName": "Motor Neuron Disease",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Mutation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Nucleic Acids",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Oligonucleotides, Antisense",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Precision Medicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Quinolones",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: I have read and understood BMJ policy on declaration of interests and have no relevant interests to declare."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29363539",
+                    "10.1136/bmj.k223"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29363539)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829363539%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829363539%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041296712"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041296712?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041296712&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041296712&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041296712",
+                        "dc:identifier": "SCOPUS_ID:85041296712",
+                        "eid": "2-s2.0-85041296712",
+                        "dc:title": "Nucleic acid based therapies: Developing frontier for precision medicine",
+                        "dc:creator": "Pirmohamed M.",
+                        "prism:publicationName": "BMJ (Online)",
+                        "prism:issn": "09598146",
+                        "prism:eIssn": "17561833",
+                        "prism:volume": "360",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-01-23",
+                        "prism:coverDisplayDate": "23 January 2018",
+                        "prism:doi": "10.1136/bmj.k223",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29363539",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ed",
+                        "subtypeDescription": "Editorial",
+                        "article-number": "k223",
+                        "source-id": "51748",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "XJGEX5TF.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29363539"
+            }
+        },
+        "title": "Nucleic acid based therapies: developing frontier for precision medicine.",
+        "full_author_list": [
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Pirmohamed M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adenoviridae",
+                    "major": "N"
+                },
+                {
+                    "term": "Aminophenols",
+                    "major": "N"
+                },
+                {
+                    "term": "Chloride Channel Agonists",
+                    "major": "N"
+                },
+                {
+                    "term": "Cystic Fibrosis",
+                    "major": "N"
+                },
+                {
+                    "term": "Cystic Fibrosis Transmembrane Conductance Regulator",
+                    "major": "N"
+                },
+                {
+                    "term": "Genetic Therapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Genomics",
+                    "major": "N"
+                },
+                {
+                    "term": "Hemophilia A",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Molecular Targeted Therapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Motor Neuron Disease",
+                    "major": "N"
+                },
+                {
+                    "term": "Mutation",
+                    "major": "N"
+                },
+                {
+                    "term": "Nucleic Acids",
+                    "major": "N"
+                },
+                {
+                    "term": "Oligonucleotides, Antisense",
+                    "major": "N"
+                },
+                {
+                    "term": "Precision Medicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Quinolones",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ",
+            "volume": "360",
+            "issue": ""
+        },
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

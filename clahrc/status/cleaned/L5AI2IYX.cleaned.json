@@ -1,0 +1,3544 @@
+{
+    "IDs": {
+        "zotero": "L5AI2IYX",
+        "DOI": "10.1002/14651858.CD010224.pub2",
+        "DOI_filename": "45287a2c04a626719fbdbcc113e45b5e",
+        "PMID": "27819746",
+        "scopus": "2-s2.0-84994509573",
+        "hash": "383413ac1389a497f04ffeb29574165f"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "L5AI2IYX",
+            "version": 166,
+            "itemType": "journalArticle",
+            "title": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Weston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca",
+                    "lastName": "Bromley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cerian F",
+                    "lastName": "Jackson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Naghme",
+                    "lastName": "Adab"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jill",
+                    "lastName": "Clayton-Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Janette",
+                    "lastName": "Greenhalgh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Juliet",
+                    "lastName": "Hounsome"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew J",
+                    "lastName": "McKay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-11-07",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD010224.pub2",
+            "ISSN": "14651858",
+            "shortTitle": "Monotherapy treatment of epilepsy in pregnancy",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD010224.pub2",
+            "accessDate": "2020-09-10T17:10:02Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27819746",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:02Z",
+            "dateModified": "2020-09-15T13:09:14Z",
+            "pmid": "27819746"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        18
+                    ]
+                ],
+                "date-time": "2020-05-18T12:48:29Z",
+                "timestamp": 1589806109114
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                11,
+                                7
+                            ]
+                        ],
+                        "date-time": "2016-11-07T00:00:00Z",
+                        "timestamp": 1478476800000
+                    },
+                    "DOI": "10.1002/14651858.cd010224",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 173,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd010224.pub2",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        7
+                    ]
+                ],
+                "date-time": "2016-11-07T14:15:29Z",
+                "timestamp": 1478528129000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 31,
+            "title": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Jennifer",
+                    "family": "Weston",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rebecca",
+                    "family": "Bromley",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Manchester; Institute of Human Development; 6th Floor, Genetic Medicine, St Mary's Hospital Oxford Road Manchester UK M13 9WL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Cerian F",
+                    "family": "Jackson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Naghme",
+                    "family": "Adab",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Walsgrave Hospital, University Hospitals Coventry and Warwickshire NHS Trust; Department of Neurology, A5 Corridor; Clifford Bridge Road Coventry Warwickshire UK CV2 2DX"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jill",
+                    "family": "Clayton-Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Manchester; Institute of Human Development; 6th Floor, Genetic Medicine, St Mary's Hospital Oxford Road Manchester UK M13 9WL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Janette",
+                    "family": "Greenhalgh",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Liverpool Reviews and Implementation Group; Sherrington Building Ashton Street Liverpool UK L69 3GE"
+                        }
+                    ]
+                },
+                {
+                    "given": "Juliet",
+                    "family": "Hounsome",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Liverpool Reviews and Implementation Group; Sherrington Building Ashton Street Liverpool UK L69 3GE"
+                        }
+                    ]
+                },
+                {
+                    "given": "Andrew J",
+                    "family": "McKay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Child Health, Alder Hey Hospital; Clinical Trials Unit; Eaton Road West Derby Liverpool Merseyside UK L12 2AP"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Shelley's Cottage Brownlow Street Liverpool UK L69 3GS"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        7
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "26",
+                    "DOI": "10.1053/seiz.1998.0239",
+                    "article-title": "Outcome of pregnancies in epileptic women: a study in Saudi Arabia",
+                    "volume": "8",
+                    "author": "Al Bunyan",
+                    "year": "1999",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "42",
+                    "DOI": "10.4103/0028-3886.24701",
+                    "article-title": "Physical growth and psychomotor development of infants exposed to antiepileptic drugs in utero",
+                    "volume": "54",
+                    "author": "Arulmozhi",
+                    "year": "2006",
+                    "journal-title": "Neurology India"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1466",
+                    "DOI": "10.1111/j.0013-9580.2004.451103.x",
+                    "article-title": "Australian Pregnancy Registry of Women Taking Antiepileptic Drugs",
+                    "volume": "45",
+                    "author": "Vajda",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "999",
+                    "DOI": "10.1212/WNL.0b013e3182a43e81",
+                    "article-title": "Dose dependence of fetal malformations associated with valproate",
+                    "volume": "81",
+                    "author": "Vajda",
+                    "year": "2013",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "181",
+                    "DOI": "10.1111/j.1528-1167.2012.03625.x",
+                    "article-title": "Teratogenesis in repeated pregnancies in antiepileptic drug-treated women",
+                    "volume": "54",
+                    "author": "Vajda",
+                    "year": "2013c",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "543",
+                    "DOI": "10.1016/S0967-5868(03)00158-9",
+                    "article-title": "The Australian registry of anti-epileptic drugs in pregnancy: experience after 30 months",
+                    "volume": "10",
+                    "author": "Vajda",
+                    "year": "2003",
+                    "journal-title": "Journal of Clinical Neuroscience"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "854",
+                    "DOI": "10.1016/j.jocn.2004.05.003",
+                    "article-title": "Critical relationship between sodium valproate dose and human teratogenicity: results of the Australian register of anti-epileptic drugs in pregnancy",
+                    "volume": "11",
+                    "author": "Vajda",
+                    "year": "2004",
+                    "journal-title": "Journal of Clinical Neuroscience"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "137",
+                    "DOI": "10.1111/j.1600-0404.2005.00458.x",
+                    "article-title": "Maternal valproate dosage and foetal malformations",
+                    "volume": "112",
+                    "author": "Vajda",
+                    "year": "2005",
+                    "journal-title": "Acta Neurol Scand"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "57",
+                    "DOI": "10.1016/j.jocn.2011.08.003",
+                    "article-title": "Teratogenicity of the newer antiepileptic drugs- the Australian experience",
+                    "volume": "19",
+                    "author": "Vajda",
+                    "year": "2012",
+                    "journal-title": "Journal of Clinical Neuroscience"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "558",
+                    "DOI": "10.1016/j.seizure.2010.07.019",
+                    "article-title": "Is lamotrigine a significant human teratogen? Observations from the Australian Pregnancy Register",
+                    "volume": "19",
+                    "author": "Vajda",
+                    "year": "2010",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "468",
+                    "DOI": "10.1111/j.1479-828X.2007.00781.x",
+                    "article-title": "The Australian Register of Antiepileptic Drugs in Pregnanacy: The first 1002 pregnancies",
+                    "volume": "47",
+                    "author": "Vajda",
+                    "year": "2007",
+                    "journal-title": "Australian and New Zealand Journal of Obstetrics and Gynaecology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "611",
+                    "DOI": "10.1016/j.jocn.2006.04.025",
+                    "article-title": "Changing Australian prescribing patterns for antiepileptic drugs in pregnancy and their possible consequences",
+                    "volume": "14",
+                    "author": "Vajda",
+                    "year": "2007",
+                    "journal-title": "Journal of Clinical Neuroscience"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1013",
+                    "DOI": "10.1016/j.eplepsyres.2014.04.005",
+                    "article-title": "Prediction of the hazard of foetal malformation in pregnant women with epilepsy",
+                    "volume": "108",
+                    "author": "Vajda",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "228",
+                    "DOI": "10.1111/ane.12115",
+                    "article-title": "Associations between particular types of fetal malformation and antiepileptic drug exposure in utero",
+                    "volume": "128",
+                    "author": "Vajda",
+                    "year": "2013b",
+                    "journal-title": "Acta Neurol Scand"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "311",
+                    "DOI": "10.1007/BF00314466",
+                    "article-title": "Pregnancy and epilepsy",
+                    "volume": "236",
+                    "author": "Bag",
+                    "year": "1989",
+                    "journal-title": "Journal of Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0016|cit16",
+                    "first-page": "601",
+                    "article-title": "Evaluation of antiepileptic drugs in pregnancy in a Jordanian army hospital",
+                    "volume": "11",
+                    "author": "Barqawi",
+                    "year": "2005",
+                    "journal-title": "Eastern Mediterranean Health Journal"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0017|cit17",
+                    "first-page": "16",
+                    "article-title": "Fetal malformations in women with epilepsy",
+                    "volume": "48",
+                    "author": "Bozhinov",
+                    "year": "2009",
+                    "journal-title": "Akusherstvo i Ginekologiia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "204",
+                    "DOI": "10.1111/j.1600-0404.1992.tb04029.x",
+                    "article-title": "Malformations in offspring of 305 epileptic women: a prospective study",
+                    "volume": "85",
+                    "author": "Battino",
+                    "year": "1992",
+                    "journal-title": "Acta Neurol Scand"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "53",
+                    "DOI": "10.1016/S0920-1211(99)00020-0",
+                    "article-title": "Intrauterine growth in the offspring of epileptic women: a prospective multicentre study",
+                    "volume": "36",
+                    "author": "Battino",
+                    "year": "1999",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1231",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00851.x",
+                    "article-title": "Malformations in Offspring of Women with Epilepsy: A Prospective Study",
+                    "volume": "40",
+                    "author": "Canger",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "50",
+                    "DOI": "10.1016/j.reprotox.2013.04.002",
+                    "article-title": "Pregnancy outcome in women exposed to antiepileptic drugs: teratogenic role of maternal epilepsy and its pharmacologic treatment",
+                    "volume": "39",
+                    "author": "Cassina",
+                    "year": "2013",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0022|cit22",
+                    "first-page": "320",
+                    "article-title": "Fetal phenytoin exposure, hypoplastic nails, and jitteriness",
+                    "volume": "65",
+                    "author": "D'Souza",
+                    "year": "1990",
+                    "journal-title": "Archives of Disease in Childhood"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0023|cit23",
+                    "first-page": "23",
+                    "article-title": "Epilepsy in Pregnancy",
+                    "volume": "31",
+                    "author": "\u0110elmi\u0161",
+                    "year": "1991",
+                    "journal-title": "Jugosl ginekol perinatal"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "186",
+                    "DOI": "10.1016/S0188-0128(99)00007-X",
+                    "article-title": "Facial Anthropometric Measurements in Offspring of Epileptic Mothers",
+                    "volume": "30",
+                    "author": "Diaz-Romero",
+                    "year": "1999",
+                    "journal-title": "Archives of Medical Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0025|cit25",
+                    "first-page": "75",
+                    "article-title": "Epilepsy, antiepileptic drugs, and malformations in children of women with epilepsy: A French prospective cohort study",
+                    "volume": "42 (suppl 5)",
+                    "author": "Dravet",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0026|cit26",
+                    "first-page": "53",
+                    "article-title": "Pregnancy and teratogenicity of antiepileptic drugs",
+                    "volume": "108",
+                    "author": "Eroglu",
+                    "year": "2008",
+                    "journal-title": "Acta Neurol. Belg."
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "609",
+                    "DOI": "10.1016/S1474-4422(11)70107-7",
+                    "article-title": "Dose-dependent risk of malformations with antiepileptic drugs: an analysis of data from the EURAP epilepsy and pregnancy registry",
+                    "volume": "10",
+                    "author": "Tomson",
+                    "year": "2011",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "580",
+                    "DOI": "10.1212/WNL.0000000000001840",
+                    "article-title": "Antiepileptic drugs and intrauterine death",
+                    "volume": "85",
+                    "author": "Tomson",
+                    "year": "2015",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "674",
+                    "DOI": "10.1136/bmj.321.7262.674",
+                    "article-title": "Population based, prospective study of the care of women with epilepsy in pregnancy",
+                    "volume": "321",
+                    "author": "Fairgrieve",
+                    "year": "2000",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0030|cit30",
+                    "first-page": "389",
+                    "article-title": "The course of pregnancy and teratogenicity of antiepileptic agents in 66 patients with epilepsy",
+                    "volume": "142",
+                    "author": "Froescher",
+                    "year": "1991",
+                    "journal-title": "Schweizer Archiv fur neurologie und psychiatrie"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0031|cit31",
+                    "first-page": "565",
+                    "article-title": "Pregnancy outcomes following gabapentin use: results of a prospective comparative cohort study",
+                    "volume": "80",
+                    "author": "Fujji",
+                    "year": "2013",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0034|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "574",
+                    "DOI": "10.1002/ajmg.1320350425",
+                    "article-title": "Distal Phalangeal Hypoplasia in Children With Prenatal Phenytoin Exposure: Results of a Controlled Anthropometric Study",
+                    "volume": "35",
+                    "author": "Gaily",
+                    "year": "1990",
+                    "journal-title": "American Journal of Medical Genetics"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0032|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "217",
+                    "DOI": "10.1016/0920-1211(90)90041-S",
+                    "article-title": "Head circumference in children of epileptic mothers: contributions of drug exposure and genetic background",
+                    "volume": "5",
+                    "author": "Gaily",
+                    "year": "1990",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0033|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "520",
+                    "DOI": "10.1016/S0022-3476(88)80162-8",
+                    "article-title": "Minor anomalies in offspring of epileptic mothers",
+                    "volume": "112",
+                    "author": "Gaily",
+                    "year": "1988",
+                    "journal-title": "Journal of Pediatrics"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "499",
+                    "DOI": "10.1016/0002-9378(85)90615-5",
+                    "article-title": "Obstetric outcome in women with epilepsy",
+                    "volume": "152",
+                    "author": "Hilemsmaa",
+                    "year": "1985",
+                    "journal-title": "American Journal of Obstetrics and Gynecology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "577",
+                    "DOI": "10.1136/bmj.287.6392.577",
+                    "article-title": "Serun folate concentrations during pregnancy in women with epilepsy: relation to antiepileptic drug concentrations, number of seizures and fetal outcome",
+                    "volume": "287",
+                    "author": "Hilemsmaa",
+                    "year": "1988",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0037|cit37",
+                    "first-page": "449",
+                    "article-title": "Epilepsy and pregnancy: prospective study of 100 cases",
+                    "volume": "64",
+                    "author": "Garza-Morales",
+                    "year": "1996",
+                    "journal-title": "Ginecologia U Obstetricia de Mexico"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0038|cit38",
+                    "first-page": "831",
+                    "article-title": "Antiepileptics and congenital malformations",
+                    "volume": "3",
+                    "author": "Goujard",
+                    "year": "1974",
+                    "journal-title": "Journal of Gynecology Obstetrics and Biological Reproduction"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "645",
+                    "DOI": "10.1001/archpedi.1974.02110240031002",
+                    "article-title": "Infants Exposed in Utero to Antiepileptic Drugs",
+                    "volume": "127",
+                    "author": "Hill",
+                    "year": "1974",
+                    "journal-title": "American Journal of Diseases of Children"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "321",
+                    "DOI": "10.1212/WNL.57.2.321",
+                    "article-title": "Is carbamazepine teratogenic? A prospective controlled study of 210 pregnancies",
+                    "volume": "57",
+                    "author": "Diav-Citrin",
+                    "year": "2001",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "325",
+                    "DOI": "10.2165/00023210-200822040-00004",
+                    "article-title": "Pregnancy Outcome after in utero Exposure to Valproate",
+                    "volume": "22",
+                    "author": "Diav-Citrin",
+                    "year": "2008",
+                    "journal-title": "CNS Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "517",
+                    "DOI": "10.1136/adc.75.6.517",
+                    "article-title": "Outcome of children born to epileptic mothers treated with carbamazepine during pregnancy",
+                    "volume": "75",
+                    "author": "Ornoy",
+                    "year": "1996",
+                    "journal-title": "Archives of Disease in Childhood"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "388",
+                    "DOI": "10.1016/j.reprotox.2008.03.001",
+                    "article-title": "The outcome of pregnancy following topiramate treatment: A study on 52 pregnancies",
+                    "volume": "25",
+                    "author": "Ornoy",
+                    "year": "2008",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "issue": "25",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0044|cit44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1661",
+                    "DOI": "10.1056/NEJM198906223202505",
+                    "article-title": "Pattern of malformations in the children of women treated with carbamazepine during pregnancy",
+                    "volume": "320",
+                    "author": "Jones",
+                    "year": "1989",
+                    "journal-title": "The New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "575",
+                    "DOI": "10.1212/01.WNL.0000044157.28073.DC",
+                    "article-title": "Major malformations in offspring of women with epilepsy",
+                    "volume": "60",
+                    "author": "Kaaja",
+                    "year": "2003",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0046|cit46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "141",
+                    "DOI": "10.1016/S0920-1211(98)00084-9",
+                    "article-title": "Congenital malformations due to antiepileptic drugs",
+                    "volume": "33",
+                    "author": "Kaneko",
+                    "year": "1999",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0047|cit47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "459",
+                    "DOI": "10.1111/j.1528-1157.1988.tb03746.x",
+                    "article-title": "Teratogenicity of antiepileptic drugs: analysis of possible risk factors",
+                    "volume": "29",
+                    "author": "Kaneko",
+                    "year": "1988",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0048|cit48",
+                    "first-page": "478",
+                    "article-title": "Teratogenicity of antiepileptic drugs: is prevention possible",
+                    "volume": "45",
+                    "author": "Kaneko",
+                    "year": "1991",
+                    "journal-title": "The Japanese Journal of Psychiatry and Neurology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0049|cit49",
+                    "first-page": "306",
+                    "article-title": "Teratogenicity of antiepileptic drugs and drug specific malformations",
+                    "volume": "47",
+                    "author": "Kaneko",
+                    "year": "1993",
+                    "journal-title": "The Japanese Journal of Psychiatry and Neurology"
+                },
+                {
+                    "issue": "supp 5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0050|cit50",
+                    "first-page": "68",
+                    "article-title": "Malformations in infants of mothers with epilepsy",
+                    "volume": "42",
+                    "author": "Kaneko",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0051|cit51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "435",
+                    "DOI": "10.1002/ajmg.1320190303",
+                    "article-title": "Teratogenicity of Anticonvulsant Drugs. II: A Prospective Study",
+                    "volume": "19",
+                    "author": "Kelly",
+                    "year": "1984",
+                    "journal-title": "American Journal of Medical Genetics"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0052|cit52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "163",
+                    "DOI": "10.1111/epi.12411",
+                    "article-title": "Malformation in index pregnancy in women with epilepsy is not followed by recurrence in subsequent pregnancy",
+                    "volume": "54",
+                    "author": "Begum",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "604",
+                    "DOI": "10.1007/s00246-007-9161-4",
+                    "article-title": "Cardiac Malformations Are Increased in Infants of Mothers with Epilepsy",
+                    "volume": "29",
+                    "author": "Thomas",
+                    "year": "2008",
+                    "journal-title": "Pediatr Cardiol"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0054|cit54",
+                    "first-page": "60",
+                    "article-title": "Pregnancy in women with epilepsy: preliminary results of Kerala registry of epilepsy and pregnancy",
+                    "volume": "49",
+                    "author": "Thomas",
+                    "year": "2001",
+                    "journal-title": "Neurology India"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0055|cit55",
+                    "first-page": "997",
+                    "article-title": "Fetal growth, major malformations, and minor anomalies in infants born to women receiving valproic acid",
+                    "volume": "108",
+                    "author": "Jager-Roman",
+                    "year": "1986",
+                    "journal-title": "Pediatric Pharmacology and Therapeutics"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "250",
+                    "DOI": "10.1055/s-2008-1069536",
+                    "volume": "108",
+                    "author": "Koch",
+                    "year": "1983",
+                    "journal-title": "Dtsch. Med. Wochenschr"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0057|cit57",
+                    "first-page": "83",
+                    "article-title": "Major and minor birth malformations and antiepileptic drugs",
+                    "volume": "42",
+                    "author": "Koch",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0058|cit58",
+                    "first-page": "199",
+                    "article-title": "Carbamazepine and Carbamazepine-10,11-Epoxide During Pregnancy and Postnatal Period in Epileptic Mothers and Their Nursed Infants: Pharmacokinetics and Clinical Effects",
+                    "volume": "3",
+                    "author": "Kuhnz",
+                    "year": "1983",
+                    "journal-title": "Pediatric Pharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0059|cit59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "671",
+                    "DOI": "10.1111/j.1365-2125.1984.tb02528.x",
+                    "article-title": "Ethosuximide in epileptic women during pregnancy and lactation period. Placental transfer, serum concentrations in nursed infants and clinical status",
+                    "volume": "18",
+                    "author": "Kuhnz",
+                    "year": "1984",
+                    "journal-title": "British Journal of Clinical Pharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0060|cit60",
+                    "first-page": "205",
+                    "article-title": "Major malformations and minor anomalies in the offspring of epileptic parents: The role of antiepileptic drugs",
+                    "volume": "1",
+                    "author": "Rating",
+                    "year": "1987",
+                    "journal-title": "Pharmacokinetics in Teratogenesis"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0061|cit61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "301",
+                    "DOI": "10.1111/j.1651-2227.1982.tb09418.x",
+                    "article-title": "Teratogenic and pharmacokinetic studies of primidone during pregnancy and in the offspring of epileptic women",
+                    "volume": "71",
+                    "author": "Rating",
+                    "year": "1982",
+                    "journal-title": "Acta Paediatrica Scandinavia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0062|cit62",
+                    "first-page": "35",
+                    "article-title": "Evaluation of the antiepileptic therapy during pregnancy",
+                    "volume": "73",
+                    "author": "Laskowska",
+                    "year": "2002",
+                    "journal-title": "Gin Pol."
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0063|cit63",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "77",
+                    "DOI": "10.1111/j.1528-1157.1984.tb04158.x",
+                    "article-title": "Teratogenicity of Antiepileptci Drug Combinations with Special Emphasis on Epoxidation (of Carbamazepine)",
+                    "volume": "25",
+                    "author": "Lindhout",
+                    "year": "1984",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0064|cit64",
+                    "first-page": "94",
+                    "article-title": "Antiepileptic drugs and teratogenesis in two consecutive cohorts: Changes in prescription policy paralleled by changes in pattern of malformations",
+                    "volume": "42",
+                    "author": "Lindhout",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0065|cit65",
+                    "first-page": "360",
+                    "volume": "24",
+                    "author": "Martinez Ferri",
+                    "year": "2009",
+                    "journal-title": "Neurologia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0066|cit66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "112",
+                    "DOI": "10.1016/j.seizure.2009.11.008",
+                    "article-title": "Pregnancy with epilepsy: Obstetric and neonatal outcome of a controlled study",
+                    "volume": "19",
+                    "author": "Mawer",
+                    "year": "2010",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0067|cit67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "407",
+                    "DOI": "10.1212/01.wnl.0000227919.81208.b2",
+                    "article-title": "In utero antiepileptic drug exposure: Fetal death and malformations",
+                    "volume": "67",
+                    "author": "Meador",
+                    "year": "2006",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0068|cit68",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "163",
+                    "DOI": "10.1016/j.yebeh.2003.11.020",
+                    "article-title": "Oxcarbazepine in pregnancy: clinical experience in Argentina",
+                    "volume": "5",
+                    "author": "Meischenguiser",
+                    "year": "2004",
+                    "journal-title": "Epilepsy & Behaviour"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0069|cit69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "176",
+                    "DOI": "10.1002/ana.410210210",
+                    "article-title": "Anticonvulsants, Folate Levels, and Pregnancy Outcome: A Prospective Study",
+                    "volume": "21",
+                    "author": "Dansky",
+                    "year": "1987",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0070|cit70",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "371",
+                    "DOI": "10.1016/S0387-7604(12)80343-3",
+                    "article-title": "Improved Pregnancy Outcome in Epileptic Women in the Last Decade: Relationship to Maternal Anticonvulsant Therapy",
+                    "volume": "14",
+                    "author": "Oguni",
+                    "year": "1992",
+                    "journal-title": "Brain & Development"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0071|cit71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "257",
+                    "DOI": "10.1016/0890-6238(92)90181-R",
+                    "article-title": "Course of pregnancy and fetal outcome following maternal exposure to carbamazepine and phenytoin: A prospective study",
+                    "volume": "6",
+                    "author": "Gladstone",
+                    "year": "1992",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0072|cit72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1002/(SICI)1096-8628(19970110)68:1<18::AID-AJMG4>3.0.CO;2-U",
+                    "article-title": "Findings in Children Exposed In Utero to Phenytoin and Carbamazepine Monotherapy: Independent Effects of Epilepsy and Medications",
+                    "volume": "68",
+                    "author": "Nulman",
+                    "year": "1997",
+                    "journal-title": "American Journal of Medical Genetics"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0073|cit73",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1002/tera.10044",
+                    "article-title": "Effect of Prenatal Exposure to Anticonvulant Drugs on Dermal Ridge Patterns of Fingers",
+                    "volume": "66",
+                    "author": "Bokhari",
+                    "year": "2002",
+                    "journal-title": "Teratology"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0074|cit74",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2122",
+                    "DOI": "10.1111/j.1528-1167.2008.01696.x",
+                    "article-title": "Valproate teratogenicity and epilepsy syndrome",
+                    "volume": "49",
+                    "author": "Bromfield",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0075|cit75",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "21",
+                    "DOI": "10.1097/AOG.0000000000000018",
+                    "article-title": "Association between topiramate and zonisamide use during pregnancy and low birth weight",
+                    "volume": "123",
+                    "author": "Hernandez-Diaz",
+                    "year": "2014",
+                    "journal-title": "Obstetrics & Gynecology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0076|cit76",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1692",
+                    "DOI": "10.1212/WNL.0b013e3182574f39",
+                    "article-title": "Comparative safety of antiepileptic drugs during pregnancy",
+                    "volume": "78",
+                    "author": "Hernandez-Diaz",
+                    "year": "2012",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0077|cit77",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2152",
+                    "DOI": "10.1212/01.wnl.0000304343.45104.d6",
+                    "article-title": "Increased frequency of isolated cleft palate in infants exposed to lamotrigine during pregnancy",
+                    "volume": "70",
+                    "author": "Holmes",
+                    "year": "2008",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0078|cit78",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "118",
+                    "DOI": "10.1016/j.jpeds.2004.08.048",
+                    "article-title": "The correlation of deficits in IQ with midface and digit hypoplasia in children exposed in utero to anticonvulsant drugs",
+                    "volume": "146",
+                    "author": "Holmes",
+                    "year": "2005",
+                    "journal-title": "The Journal of Paediatrics"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0079|cit79",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1275",
+                    "DOI": "10.1001/archneurol.2011.133",
+                    "article-title": "Fetal Effects of Anticonvulsant Polytherapies",
+                    "volume": "68",
+                    "author": "Holmes",
+                    "year": "2011",
+                    "journal-title": "Archives of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0080|cit80",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "196",
+                    "DOI": "10.1002/(SICI)1096-9926(200003)61:3<196::AID-TERA7>3.0.CO;2-T",
+                    "article-title": "Intelligence and Physical Features of Children of Women With Epilepsy",
+                    "volume": "61",
+                    "author": "Holmes",
+                    "year": "2000",
+                    "journal-title": "Teratology"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0081|cit81",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1465",
+                    "DOI": "10.1111/j.0013-9580.2004.451102.x",
+                    "article-title": "North American Antiepileptic Drug Pregnancy Registry",
+                    "volume": "45",
+                    "author": "Holmes",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0082|cit82",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "961",
+                    "DOI": "10.1212/01.WNL.0000154516.43630.C5",
+                    "article-title": "Increase rate of major malformations in offspring exposed to valproate during pregnancy",
+                    "volume": "64",
+                    "author": "Wyszynski",
+                    "year": "2005",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "supp 5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0083|cit83",
+                    "first-page": "119",
+                    "article-title": "The risk of spina bifida aperta after first trimester exposure to valproate in a prenatal cohort",
+                    "volume": "42",
+                    "author": "Omtzigt",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0084|cit84",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "893",
+                    "DOI": "10.1002/pd.1970121107",
+                    "article-title": "Prenatal diagnosis of spina bifida aperta after first-trimester valproate exposure",
+                    "volume": "12",
+                    "author": "Omtzigt",
+                    "year": "1992",
+                    "journal-title": "Prenatal diagnosis"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0085|cit85",
+                    "first-page": "254",
+                    "article-title": "Epilepsy in pregnancy: obstetric aspects of a multidisciplinary study",
+                    "volume": "CIII",
+                    "author": "Pardi",
+                    "year": "1982",
+                    "journal-title": "Ann Ost Gin Med Perin"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0086|cit86",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "371",
+                    "DOI": "10.1016/j.ajog.2003.09.020",
+                    "article-title": "Epilepsy and pregnancy: An obstetric perspective",
+                    "volume": "190",
+                    "author": "Richmond",
+                    "year": "2004",
+                    "journal-title": "American Journal of Obstetrics and Gynecology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0087|cit87",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "9",
+                    "DOI": "10.1034/j.1600-0404.2003.00200.x",
+                    "article-title": "Epilepsy and pregnancy: lamotrigine as main drug used",
+                    "volume": "109",
+                    "author": "Sabers",
+                    "year": "2004",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0088|cit88",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "981",
+                    "DOI": "10.1111/j.1528-1157.1997.tb01480.x",
+                    "article-title": "Maternal use of antiepileptic drugs and the risk of major congenital malformations: A joint European prospective study of human teratogenesis associated with maternal epilepsy",
+                    "volume": "38",
+                    "author": "Samren",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7954",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0089|cit89",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "272",
+                    "DOI": "10.1016/S0140-6736(76)91403-3",
+                    "article-title": "Anticonvulsants and parental epilepsy in the development of birth defects",
+                    "volume": "1",
+                    "author": "Shapiro",
+                    "year": "1976",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0090|cit90",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "261",
+                    "DOI": "10.1016/0920-1211(94)90046-9",
+                    "article-title": "Factors influencing the risk of abnormal pregnancy outcome in epileptic women: A multi-centre prospective study",
+                    "volume": "18",
+                    "author": "Steergers-Theunissen",
+                    "year": "1994",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0091|cit91",
+                    "first-page": "351",
+                    "article-title": "The risk of malformations and developmental disturbances in children exposed to antiepileptic drugs: a prospective controlled study",
+                    "volume": "95/96",
+                    "author": "Regesta",
+                    "year": "1996",
+                    "journal-title": "Boll Lega It Epil"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0092|cit92",
+                    "first-page": "89",
+                    "article-title": "Epilepsy, pregnancy, and major birth anomalies: An Italian prospective, controlled study",
+                    "volume": "42",
+                    "author": "Tanganelli",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0093|cit93",
+                    "first-page": "282",
+                    "article-title": "Epilepsy and pregnancy. Risks and benefits of anticonvulsant treatments",
+                    "volume": "68",
+                    "author": "Torres",
+                    "year": "1995",
+                    "journal-title": "Ginecologia y obstetricia de mexico"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0094|cit94",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "165",
+                    "DOI": "10.1111/epi.12001",
+                    "article-title": "Recurrence risk of congenital malformations in infants exposed to antiepileptic drugs in utero",
+                    "volume": "54",
+                    "author": "Campbell",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0095|cit95",
+                    "first-page": "1",
+                    "article-title": "Malformation risks of antiepileptic drug monotherapies in pregnancy: updated results from the UK and Ireland epilepsy and pregnancy registers",
+                    "volume": "0",
+                    "author": "Campbell",
+                    "year": "2014",
+                    "journal-title": "J Neurol Neurosurg Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0096|cit96",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1876",
+                    "DOI": "10.1212/01.wnl.0000244491.48937.55",
+                    "article-title": "Levetiracetam in pregnancy: Preliminary experience from the UK Epilepsy and Pregnancy Register",
+                    "volume": "67",
+                    "author": "Hunt",
+                    "year": "2006",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0097|cit97",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "272",
+                    "DOI": "10.1212/01.wnl.0000318293.28278.33",
+                    "article-title": "Topiramate in pregnancy",
+                    "volume": "71",
+                    "author": "Hunt",
+                    "year": "2008",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0098|cit98",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "215",
+                    "DOI": "10.1016/j.seizure.2012.01.005",
+                    "article-title": "Valproate and the risk for congenital malformations: Is formulation and dosage regime important?",
+                    "volume": "21",
+                    "author": "Mawhinney",
+                    "year": "2012",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0099|cit99",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "400",
+                    "DOI": "10.1212/WNL.0b013e31827f0874",
+                    "article-title": "Levetiracetam in pregnancy: Results from the UK and Ireland epilepsy and pregnancy registers",
+                    "volume": "80",
+                    "author": "Mawhinney",
+                    "year": "2013",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0100|cit100",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "DOI": "10.1136/jnnp.2005.074203",
+                    "article-title": "Malformation risks of antiepileptic drugs in pregnancy: a prospective study from the UK Epilepsy and Pregnancy Register",
+                    "volume": "77",
+                    "author": "Morrow",
+                    "year": "2006",
+                    "journal-title": "J Neurol Neurosurg Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0101|cit101",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "250",
+                    "DOI": "10.1001/archneur.1994.00540150044014",
+                    "article-title": "Outcomes of Pregnancy Associated With Antiepileptic Drugs",
+                    "volume": "51",
+                    "author": "Waters",
+                    "year": "1994",
+                    "journal-title": "Arch Neurol"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0102|cit102",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "87",
+                    "DOI": "10.1017/S0012162200000177",
+                    "article-title": "Psychomotor development and minor anomalies in children exposed to antiepileptic drugs in utero: a prospective population-based study",
+                    "volume": "42",
+                    "author": "Wide",
+                    "year": "2000",
+                    "journal-title": "Developmental Medicine & Child Neurology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0103|cit103",
+                    "first-page": "132",
+                    "article-title": "Antiepileptics and the development of congenital anomalies",
+                    "volume": "42",
+                    "author": "Yerby",
+                    "year": "1992",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0104|cit104",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "364",
+                    "DOI": "10.1001/archneur.1974.00490420030002",
+                    "article-title": "Do anticonvulsants have a teratogenic effect?",
+                    "volume": "31",
+                    "author": "Annegers",
+                    "year": "1974",
+                    "journal-title": "Archives of Neurology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0105|cit105",
+                    "first-page": "157",
+                    "article-title": "Epilepsy anticonvulsants and malformations",
+                    "volume": "11",
+                    "author": "Annegers",
+                    "year": "1975",
+                    "journal-title": "Birth defects original article series"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0106|cit106",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "359",
+                    "DOI": "10.1007/s40264-013-0052-8",
+                    "article-title": "Effects of Maternal Epilepsy and Antiepileptic Drug Useduring Pregnancy on Perinatal Health in Offspring:Nationwide, Retrospective Cohort Study in Finland",
+                    "volume": "36",
+                    "author": "Artama",
+                    "year": "2013",
+                    "journal-title": "Drug Safety"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0107|cit107",
+                    "first-page": "579",
+                    "article-title": "Congenital malformations in the offspring of epileptic mothers with and without anticonvulsant treatment",
+                    "volume": "54",
+                    "author": "Arteaga-Vazquez",
+                    "year": "2012",
+                    "journal-title": "Salud Publica Mexico"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0108|cit108",
+                    "first-page": "203",
+                    "article-title": "Epilepsy and pregnancy",
+                    "volume": "33",
+                    "author": "Baermig",
+                    "year": "1973",
+                    "journal-title": "Geburtshilfe und Frauenheilkunde"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0109|cit109",
+                    "first-page": "219",
+                    "article-title": "Anticonvulsants in pregnancy",
+                    "volume": "43",
+                    "author": "Canun-Serrano",
+                    "year": "1986",
+                    "journal-title": "Bol Med Hol Infant Mex"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0110|cit110",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "717",
+                    "DOI": "10.1016/j.eplepsyres.2014.01.021",
+                    "article-title": "Topiramate monotherapy use in women with and without epilepsy: Pregnancy and neonatal outcomes",
+                    "volume": "108",
+                    "author": "Castilla-Puentes",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "37",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0111|cit111",
+                    "first-page": "2267",
+                    "article-title": "Congenital malformations reported in children born to women with epilepsy",
+                    "volume": "126",
+                    "author": "Dobos",
+                    "year": "1985",
+                    "journal-title": "Orvosi Hetilap"
+                },
+                {
+                    "issue": "33",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0112|cit112",
+                    "first-page": "1371",
+                    "article-title": "Congenital abnormalities, cleft lip and cleft palate in particular, in children of epileptic mothers",
+                    "volume": "115",
+                    "author": "Elshove",
+                    "year": "1971",
+                    "journal-title": "Nederlands Tijdschrift voor Geneeskunde"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0113|cit113",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "202",
+                    "DOI": "10.1002/tera.1420490316",
+                    "article-title": "Anticonvulsant teratogenesis: 1. A study design for newborn infants",
+                    "volume": "49",
+                    "author": "Holmes",
+                    "year": "1994",
+                    "journal-title": "Teratology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0114|cit114",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e58213",
+                    "DOI": "10.1371/journal.pone.0058213",
+                    "article-title": "Developmental Enamel Defects in Children Prenatally Exposed to Anti-Epileptic Drugs",
+                    "volume": "8",
+                    "author": "Jacobsen",
+                    "year": "2013",
+                    "journal-title": "PLos One"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0115|cit115",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e84420",
+                    "DOI": "10.1371/journal.pone.0084420",
+                    "article-title": "Prenatal Exposure to Antiepileptic Drugs and Dental Agenesis",
+                    "volume": "9",
+                    "author": "Jacobsen",
+                    "year": "2014",
+                    "journal-title": "PLos ONE"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0116|cit116",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "99",
+                    "DOI": "10.1111/j.1528-1157.1975.tb04726.x",
+                    "article-title": "Epilepsy and pregnancy: A study of 153 pregnancies in 59 patients",
+                    "volume": "16",
+                    "author": "Knight",
+                    "year": "1975",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0118|cit117",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1468",
+                    "DOI": "10.1111/j.0013-9580.2004.451105.x",
+                    "article-title": "The International Lamotrigine Pregnancy Registry Update for the Epilepsy Foundation",
+                    "volume": "45",
+                    "author": "Cunnington",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0117|cit118",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1207",
+                    "DOI": "10.1111/j.1528-1167.2007.01021.x",
+                    "article-title": "Effect of Dose on the Frequency of Major Birth Defects Following Fetal Exposure to Lamotrigine Monotherapy in an International Observational Study",
+                    "volume": "48",
+                    "author": "Cunnington",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0119|cit119",
+                    "unstructured": "Lamotrigine Pregnancy Registry Final report http://pregnancyregistry.gsk.com/documents/lam_spring_2010_final_report.pdf 2010"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0120|cit120",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1161",
+                    "DOI": "10.1046/j.1528-1157.2002.45901.x",
+                    "article-title": "Preliminary Results on Pregnancy Outcomes in Women Using Lamotrigine",
+                    "volume": "43",
+                    "author": "Tennis",
+                    "year": "2002",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0121|cit121",
+                    "first-page": "271",
+                    "article-title": "Prospective surveillance of Croatian pregnant women on lamotrigine monotherapy - Aspects of pre-pregnancy counseling and drug monitoring",
+                    "volume": "48",
+                    "author": "Miskov",
+                    "year": "2009",
+                    "journal-title": "Acta Clinica Croatica"
+                },
+                {
+                    "issue": "20",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0122|cit122",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1049",
+                    "DOI": "10.1056/NEJM197311152892001",
+                    "article-title": "Diphenylhydantoin and selected congenital malformations",
+                    "volume": "289",
+                    "author": "Monson",
+                    "year": "1973",
+                    "journal-title": "The New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0123|cit123",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "310",
+                    "DOI": "10.1016/S1525-5050(03)00110-0",
+                    "article-title": "Gabapentin exposure in human pregnancy: results from the Gabapentin pregnancy registry",
+                    "volume": "4",
+                    "author": "Montouris",
+                    "year": "2003",
+                    "journal-title": "Epilepsy and Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0124|cit124",
+                    "unstructured": "Mostacci B Piccinni C Bisulli F Prevalence of antiepileptic drugs exposure in pregnant women in the emilia romagna region (Italy): Results from the espea (emilia romagna study on pregnancy and exposure to antiepileptic drugs) Epilepsia 2014 131 132"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0125|cit125",
+                    "first-page": "592",
+                    "article-title": "Reexamination of the teratological effect of antiepileptic drugs",
+                    "volume": "42",
+                    "author": "Murasaki",
+                    "year": "1988",
+                    "journal-title": "The Japanese Journal of Psychiatry and Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0126|cit126",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "663",
+                    "DOI": "10.1111/j.1528-1157.1980.tb04320.x",
+                    "article-title": "Multi-institutional study on the teratogenicity and fetal toxicity of antiepileptic drugs: a report of a collaborative study group in Japan",
+                    "volume": "21",
+                    "author": "Nakane",
+                    "year": "1980",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0127|cit127",
+                    "first-page": "363",
+                    "article-title": "Congenital malformation among infants of epileptic mothers treated during pregnancy: the report of a collaborative study group in Japan",
+                    "volume": "33",
+                    "author": "Nakane",
+                    "year": "1979",
+                    "journal-title": "Folia Psychiatrica et Neurologica Japonica"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0128|cit128",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "321",
+                    "DOI": "10.1002/pds.2630010603",
+                    "article-title": "A Pregnancy Register of Patients Receiving Carbamazepine in the UK",
+                    "volume": "1",
+                    "author": "Pearse",
+                    "year": "1992",
+                    "journal-title": "Pharmacoepidemiology and Drug Safety"
+                },
+                {
+                    "issue": "6-7",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0129|cit129",
+                    "first-page": "445",
+                    "article-title": "Is valproic acid teratogenic?",
+                    "volume": "139",
+                    "author": "Robert",
+                    "year": "1983",
+                    "journal-title": "Revue Neurologique"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0130|cit130",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "81",
+                    "DOI": "10.1016/S0303-8467(74)80001-6",
+                    "article-title": "Teratogenicity of antiepileptic drugs",
+                    "volume": "77",
+                    "author": "Starveld-Zimmerman",
+                    "year": "1975",
+                    "journal-title": "Clinical Neurology and Neurosurgery"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0131|cit131",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "579",
+                    "DOI": "10.1007/s00415-013-7239-x",
+                    "article-title": "Fetal growth restriction and birth defects with newer and older antiepileptic drugs during pregnancy",
+                    "volume": "261",
+                    "author": "Veiby",
+                    "year": "2014",
+                    "journal-title": "Journal of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0132|cit132",
+                    "unstructured": "Babic N Jovic N Postnatal concerns in children born to women with juvenile myoclonic epilepsy Epilepsia 2014 128"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0133|cit133",
+                    "unstructured": "Idriz Oglu Gulcebi M Kucukibrahimoglu E Demirkapi M Gulhan R Karaalp A Goren Z Onat F Evaluation of antiepileptic drug use in the pregnant patients with epilepsy in a university hospital in Istanbul Epilepsia 2014 116 117"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0134|cit134",
+                    "first-page": "452",
+                    "article-title": "Pregnancy outcome in women treated with phenobarbital monotherapy",
+                    "volume": "45",
+                    "author": "Jones",
+                    "year": "1992",
+                    "journal-title": "Teratology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0135|cit135",
+                    "unstructured": "Kaabi W El Aidli S Kastalli S Lakhoua G Zaiem A Srairi S Daghfous R Pregnancy outcomes in women using antiepileptic drugs Drug Safety 2013 9"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0136|cit136",
+                    "unstructured": "Kutlu G Erdal A Aydogan S Gomceli Y Inan L Follow up and treatment of women with epilepsy during pregnancy Epilepsia 2013 127 128"
+                },
+                {
+                    "issue": "3-4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0137|cit137",
+                    "first-page": "75",
+                    "article-title": "Intrauterine exposure to drugs. Analysis of a sample of newborn infants pretreated with anticonvulsants",
+                    "volume": "38",
+                    "author": "Lazzaroni-Fossati",
+                    "year": "1986",
+                    "journal-title": "Minerva pediatrica"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0138|cit138",
+                    "unstructured": "Midi I Bulut B Ozbek D Ozden H Agan K Antiepileptic drug usage and the effects of them on the foetus in epileptic pregnant woman Epilepsia 2014 132"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0139|cit139",
+                    "unstructured": "Midi I Cetinkaya D Ozden H Agan K Pregnant women with epilepsy: 43 patients results in 1 year period Epilepsia 2013 131"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0140|cit140",
+                    "first-page": "377",
+                    "article-title": "Congenital malformations and anticonvulsant therapy in pregnancy",
+                    "volume": "110",
+                    "author": "Shvartzman",
+                    "year": "1986",
+                    "journal-title": "Harefuah"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0141|cit141",
+                    "unstructured": "Vlasov P Petrukhin V Karlov V Krasnopolski V Melnikov A Tsivtsivadze E Antiepileptic drug therapy during pregnancy and obstetric outcomes in Moscow region: Comparing of 1998 and 2013 years Epilepsia 2014 130"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0142|cit142",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "443-447",
+                    "DOI": "10.1136/adc.2008.144386",
+                    "article-title": "Changing trends in antiepileptic drug prescribing in girls of child-bearing potential",
+                    "volume": "94",
+                    "author": "Ackers",
+                    "year": "2009",
+                    "journal-title": "Archives of Disease in Childhood"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0143|cit143",
+                    "author": "Adab",
+                    "issue": "4",
+                    "year": "2004",
+                    "article-title": "Common antiepileptic drugs in pregnancy in women with epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD004848",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0144|cit144",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "45",
+                    "DOI": "10.1016/j.reprotox.2015.03.003",
+                    "article-title": "First trimester exposure to topiramate and the risk of oral clefts in the offspring: A systematic review and meta-analysis.",
+                    "volume": "53",
+                    "author": "Alsaada",
+                    "year": "2015",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0145|cit145",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "171",
+                    "DOI": "10.1002/ajmg.1320290123",
+                    "article-title": "Verification of the fetal valproate syndrome phenotype",
+                    "volume": "29",
+                    "author": "Ardinger",
+                    "year": "1988",
+                    "journal-title": "American Journal of Medical Genetics"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0146|cit146",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1874",
+                    "DOI": "10.1212/01.WNL.0000163771.96962.1F",
+                    "article-title": "Antiepileptic drug use of women with epilepsy and congenital malformations in offspring",
+                    "volume": "64",
+                    "author": "Artama",
+                    "year": "2005",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0147|cit147",
+                    "author": "Bossi",
+                    "first-page": "327",
+                    "year": "1982",
+                    "article-title": "Neonatal period including drug disposition in new borns: review of the literature",
+                    "volume-title": "Epilepsy, Pregnancy and the Child"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0148|cit148",
+                    "first-page": "957",
+                    "article-title": "Environmental Causes of Human Congenital Malformations: The Pediatrician\u2019s Role in Dealing With These Complex Clinical Problems Caused by a Multiplicity of Environmental and Genetic Factors",
+                    "volume": "113",
+                    "author": "Brent",
+                    "year": "2004",
+                    "journal-title": "Pediatrics"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0149|cit149",
+                    "author": "Bromley",
+                    "issue": "10",
+                    "year": "2014",
+                    "article-title": "Treatment for epilepsy in pregnancy: neurodevelopmental outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010236.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0150|cit150",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "39",
+                    "DOI": "10.2165/00002018-200831010-00004",
+                    "article-title": "Data resources for investigating drug exposure during pregnancy and associated outcomes: the general practice research database (GPRD) as an alternative to pregnancy registries",
+                    "volume": "31",
+                    "author": "Charlton",
+                    "year": "2008",
+                    "journal-title": "Drug Safety"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0151|cit151",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "586",
+                    "DOI": "10.1002/pds.3613",
+                    "article-title": "Healthcare databases in Europe for studying medicine use and safety during pregnancy",
+                    "volume": "23",
+                    "author": "Charlton",
+                    "year": "2014",
+                    "journal-title": "Pharmacoepidemiology and drug safety"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0152|cit152",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "40",
+                    "DOI": "10.1016/j.reprotox.2014.02.004",
+                    "article-title": "The fetal safety of Levetiracetam: a systematic review",
+                    "volume": "46",
+                    "author": "Chaudhry",
+                    "year": "2014",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0153|cit153",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "233-234",
+                    "DOI": "10.1053/seiz.2000.0392",
+                    "article-title": "Developing diagnostic criteria for the fetal anticonvulsant syndromes",
+                    "volume": "9",
+                    "author": "Dean",
+                    "year": "2000",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0154|cit154",
+                    "first-page": "127A",
+                    "article-title": "Fetal valproate syndrome: consistent facial changes in infants exposed to sodium valproate",
+                    "volume": "31",
+                    "author": "DiLiberti",
+                    "year": "1983",
+                    "journal-title": "Clinical Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0155|cit155",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "354",
+                    "DOI": "10.1212/01.wnl.0000195888.51845.80",
+                    "article-title": "Seizure control and treatment in pregnancy: Observations from the EURAP Epilepsy Pregnancy Registry",
+                    "volume": "66",
+                    "author": "The EURAP STUDY GROUP",
+                    "year": "2006",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0156|cit156",
+                    "unstructured": "EUROCAT Working Group EUROCAT Surveillance of Congenital Anomalies. EUROCAT guide 1.3 and reference documents instructions for the registration and surveillance of congenital anomalies http://www.eurocat-network.eu/content/EUROCAT-Guide-1.3.pdf Accessed August 2015"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0157|cit157",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "924",
+                    "DOI": "10.1136/bmj.39489.470347.AD",
+                    "article-title": "Rating quality of evidence and strength of recommendations GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+                    "volume": "336",
+                    "author": "Guyatt",
+                    "year": "2008",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0158|cit158",
+                    "author": "Hauser",
+                    "year": "1990",
+                    "volume-title": "Epilepsy: Frequency, causes and consequences"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0159|cit159",
+                    "unstructured": "Higgins JPT Green S (editors) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from www.cochrane-handbook.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0160|cit160",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2185",
+                    "DOI": "10.1056/NEJMoa0907328",
+                    "article-title": "Valproic acid monotherapy in pregnancy and major congenital malformations",
+                    "volume": "362",
+                    "author": "Jentink",
+                    "year": "2010",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0161|cit161",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c6581",
+                    "DOI": "10.1136/bmj.c6581",
+                    "article-title": "Intrauterine exposure to carbamazepine and specific congenital malformations: systematic review and case-control study",
+                    "volume": "341",
+                    "author": "Jentink",
+                    "year": "2010",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0162|cit162",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "721",
+                    "DOI": "10.1136/jmedgenet-2011-100242",
+                    "article-title": "Studying the epigenome using next generation sequencing",
+                    "volume": "48",
+                    "author": "Ku",
+                    "year": "2011",
+                    "journal-title": "Journal of Medical Genetics"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0163|cit163",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e52339",
+                    "DOI": "10.1371/journal.pone.0052339",
+                    "article-title": "Antiepileptic Drugs during Pregnancy in Primary Care: A UK Population Based Study",
+                    "volume": "7",
+                    "author": "Man",
+                    "year": "2012",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0164|cit164",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "405.e1-405.e7",
+                    "DOI": "10.1016/j.ajog.2012.07.008",
+                    "article-title": "Use of topiramate in pregnancy and risk of oral clefts",
+                    "volume": "207",
+                    "author": "Margulis",
+                    "year": "2012",
+                    "journal-title": "American Journal of Obstetrics and Gynecology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0165|cit165",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2008.04.022",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: A systematic review and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "81",
+                    "author": "Meador",
+                    "year": "2008",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0166|cit166",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "339",
+                    "DOI": "10.1016/j.yebeh.2009.04.026",
+                    "article-title": "Antiepileptic drug use in women of childbearing age",
+                    "volume": "15",
+                    "author": "Meador",
+                    "year": "2009",
+                    "journal-title": "Epilepsy and Behaviour"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0167|cit167",
+                    "first-page": "1017-1025",
+                    "article-title": "Topiramate use in pregnancy and the birth prevalence of oral clefts",
+                    "volume": "23",
+                    "author": "D",
+                    "year": "2014",
+                    "journal-title": "Pharmacoepidemiology and drug safety"
+                },
+                {
+                    "issue": "19",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0168|cit168",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1996",
+                    "DOI": "10.1001/jama.2011.624",
+                    "article-title": "Newer-Generation Antiepileptic Drugsand the Risk of Major Birth Defects",
+                    "volume": "305",
+                    "author": "M\u00f8lgaard-Nielsen",
+                    "year": "2011",
+                    "journal-title": "JAMA"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0169|cit169",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "609",
+                    "DOI": "10.1016/S1474-4422(11)70107-7",
+                    "article-title": "Dose-dependent risk of malformation with antiepileptic drugs: An analysis of data from the EURAP epilepsy and pregnancy registry",
+                    "volume": "10",
+                    "author": "Tomson",
+                    "year": "2011",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0170|cit170",
+                    "first-page": "1",
+                    "article-title": "Antiepileptic drug use by pregnant women enrolled in Florida Medicaid",
+                    "volume": "84",
+                    "author": "Wen",
+                    "year": "2015",
+                    "journal-title": "Antiepileptic drug use by pregnant women enrolled in Florida Medicaid"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0171|cit171",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "174",
+                    "DOI": "10.1111/j.1651-2227.2004.tb00701.x",
+                    "article-title": "Major malformations in infants exposed to antiepileptic drugs in utero, with emphasis on carbamazepine and valproic acid: a nation-wide, population-based register study",
+                    "volume": "93",
+                    "author": "Wide",
+                    "year": "2004",
+                    "journal-title": "Acta Paediatrica"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0172|cit172",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "749",
+                    "DOI": "10.1016/S0733-8619(18)30075-6",
+                    "article-title": "Pregnancy, teratogenesis and epilepsy",
+                    "volume": "12",
+                    "author": "Yerby",
+                    "year": "1994",
+                    "journal-title": "Neurological Clinics"
+                },
+                {
+                    "key": "10.1002/14651858.CD010224.pub2-BIB0173|cit173",
+                    "author": "Pulman",
+                    "issue": "11",
+                    "year": "2012",
+                    "article-title": "Treatment for epilepsy in pregnancy: congenital malformation outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010224",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        15
+                    ]
+                ],
+                "date-time": "2019-09-15T10:18:37Z",
+                "timestamp": 1568542717000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 173,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD010224.pub2",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27819746",
+                "DateCompleted": {
+                    "Year": "2016",
+                    "Month": "12",
+                    "Day": "21"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "04",
+                    "Day": "16"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "11",
+                            "Day": "07"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "11",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "11",
+                                "Day": "07"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child.",
+                    "Pagination": {
+                        "MedlinePgn": "CD010224"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "There is evidence that certain antiepileptic drugs (AEDs) are teratogenic and are associated with an increased risk of congenital malformation. The majority of women with epilepsy continue taking AEDs throughout pregnancy; therefore it is important that comprehensive information on the potential risks associated with AED treatment is available.",
+                            "To assess the effects of prenatal exposure to AEDs on the prevalence of congenital malformations in the child.",
+                            "We searched the Cochrane Epilepsy Group Specialized Register (September 2015), Cochrane Central Register of Controlled Trials (CENTRAL) (2015, Issue 11), MEDLINE (via Ovid) (1946 to September 2015), EMBASE (1974 to September 2015), Pharmline (1978 to September 2015), Reprotox (1983 to September 2015) and conference abstracts (2010-2015) without language restriction.",
+                            "We included prospective cohort controlled studies, cohort studies set within pregnancy registries and randomised controlled trials. Participants were women with epilepsy taking AEDs; the two control groups were women without epilepsy and women with epilepsy who were not taking AEDs during pregnancy.",
+                            "Three authors independently selected studies for inclusion. Five authors completed data extraction and risk of bias assessments. The primary outcome was the presence of a major congenital malformation. Secondary outcomes included specific types of major congenital malformations. Where meta-analysis was not possible, we reviewed included studies narratively.",
+                            "We included 50 studies, with 31 contributing to meta-analysis. Study quality varied, and given the observational design, all were at high risk of certain biases. However, biases were balanced across the AEDs investigated and we believe that the results are not explained by these biases.Children exposed to carbamazepine (CBZ) were at a higher risk of malformation than children born to women without epilepsy (N = 1367 vs 2146, risk ratio (RR) 2.01, 95% confidence interval (CI) 1.20 to 3.36) and women with untreated epilepsy (N = 3058 vs 1287, RR 1.50, 95% CI 1.03 to 2.19). Children exposed to phenobarbital (PB) were at a higher risk of malformation than children born to women without epilepsy (N = 345 vs 1591, RR 2.84, 95% CI 1.57 to 5.13). Children exposed to phenytoin (PHT) were at an increased risk of malformation compared with children born to women without epilepsy (N = 477 vs 987, RR 2.38, 95% CI 1.12 to 5.03) and to women with untreated epilepsy (N = 640 vs 1256, RR 2.40, 95% CI 1.42 to 4.08). Children exposed to topiramate (TPM) were at an increased risk of malformation compared with children born to women without epilepsy (N = 359 vs 442, RR 3.69, 95% CI 1.36 to 10.07). The children exposed to valproate (VPA) were at a higher risk of malformation compared with children born to women without epilepsy (N = 467 vs 1936, RR 5.69, 95% CI 3.33 to 9.73) and to women with untreated epilepsy (N = 1923 vs 1259, RR 3.13, 95% CI 2.16 to 4.54). There was no increased risk for major malformation for lamotrigine (LTG). Gabapentin (GBP), levetiracetam (LEV), oxcarbazepine (OXC), primidone (PRM) or zonisamide (ZNS) were not associated with an increased risk, however, there were substantially fewer data for these medications.For AED comparisons, children exposed to VPA had the greatest risk of malformation (10.93%, 95% CI 8.91 to 13.13). Children exposed to VPA were at an increased risk of malformation compared with children exposed to CBZ (N = 2529 vs 4549, RR 2.44, 95% CI 2.00 to 2.94), GBP (N = 1814 vs 190, RR 6.21, 95% CI 1.91 to 20.23), LEV (N = 1814 vs 817, RR 5.82, 95% CI 3.13 to 10.81), LTG (N = 2021 vs 4164, RR 3.56, 95% CI 2.77 to 4.58), TPM (N = 1814 vs 473, RR 2.35, 95% CI 1.40 to 3.95), OXC (N = 676 vs 238, RR 3.71, 95% CI 1.65 to 8.33), PB (N = 1137 vs 626, RR 1.59, 95% CI 1.11 to 2.29, PHT (N = 2319 vs 1137, RR 2.00, 95% CI 1.48 to 2.71) or ZNS (N = 323 vs 90, RR 17.13, 95% CI 1.06 to 277.48). Children exposed to CBZ were at a higher risk of malformation than those exposed to LEV (N = 3051 vs 817, RR 1.84, 95% CI 1.03 to 3.29) and children exposed to LTG (N = 3385 vs 4164, RR 1.34, 95% CI 1.01 to 1.76). Children exposed to PB were at a higher risk of malformation compared with children exposed to GBP (N = 204 vs 159, RR 8.33, 95% CI 1.04 to 50.00), LEV (N = 204 vs 513, RR 2.33, 95% CI 1.04 to 5.00) or LTG (N = 282 vs 1959, RR 3.13, 95% CI 1.64 to 5.88). Children exposed to PHT had a higher risk of malformation than children exposed to LTG (N = 624 vs 4082, RR 1.89, 95% CI 1.19 to 2.94) or to LEV (N = 566 vs 817, RR 2.04, 95% CI 1.09 to 3.85); however, the comparison to LEV was not significant in the random-effects model. Children exposed to TPM were at a higher risk of malformation than children exposed to LEV (N = 473 vs 817, RR 2.00, 95% CI 1.03 to 3.85) or LTG (N = 473 vs 3975, RR 1.79, 95% CI 1.06 to 2.94). There were no other significant differences, or comparisons were limited to a single study.We found significantly higher rates of specific malformations associating PB exposure with cardiac malformations and VPA exposure with neural tube, cardiac, oro-facial/craniofacial, and skeletal and limb malformations in comparison to other AEDs. Dose of exposure mediated the risk of malformation following VPA exposure; a potential dose-response association for the other AEDs remained less clear.",
+                            "Exposure in the womb to certain AEDs carried an increased risk of malformation in the foetus and may be associated with specific patterns of malformation. Based on current evidence, LEV and LTG exposure carried the lowest risk of overall malformation; however, data pertaining to specific malformations are lacking. Physicians should discuss both the risks and treatment efficacy with the patient prior to commencing treatment."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Weston",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Bromley",
+                            "ForeName": "Rebecca",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Jackson",
+                            "ForeName": "Cerian F",
+                            "Initials": "CF"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Adab",
+                            "ForeName": "Naghme",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Clayton-Smith",
+                            "ForeName": "Jill",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Greenhalgh",
+                            "ForeName": "Janette",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Hounsome",
+                            "ForeName": "Juliet",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "McKay",
+                            "ForeName": "Andrew J",
+                            "Initials": "AJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "PDF-2013-06-041",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "classification"
+                        ],
+                        "DescriptorName": "Abnormalities, Drug-Induced",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cardiovascular Abnormalities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Craniofacial Abnormalities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant, Newborn",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Musculoskeletal Abnormalities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Neural Tube Defects",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Pregnancy Complications",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Seizure. 1999 Feb;8(1):26-9",
+                                "ArticleIdList": [
+                                    "10091844"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1999 Feb;33(2-3):145-58",
+                                "ArticleIdList": [
+                                    "10094426"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Med Res. 1999 May-Jun;30(3):186-9",
+                                "ArticleIdList": [
+                                    "10427868"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1999 Aug;36(1):53-60",
+                                "ArticleIdList": [
+                                    "10463850"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999 Sep;40(9):1231-6",
+                                "ArticleIdList": [
+                                    "10487185"
+                                ]
+                            },
+                            {
+                                "Citation": "Teratology. 2000 Mar;61(3):196-202",
+                                "ArticleIdList": [
+                                    "10661909"
+                                ]
+                            },
+                            {
+                                "Citation": "Dev Med Child Neurol. 2000 Feb;42(2):87-92",
+                                "ArticleIdList": [
+                                    "10698324"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2000 Apr;9(3):233-4",
+                                "ArticleIdList": [
+                                    "10775521"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2000 Sep 16;321(7262):674-5",
+                                "ArticleIdList": [
+                                    "10987772"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol India. 2001 Mar;49(1):60-6",
+                                "ArticleIdList": [
+                                    "11303244"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Neurol Neurosurg. 1975 Dec;77(2):81-95",
+                                "ArticleIdList": [
+                                    "1132213"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2001 Jul 24;57(2):321-4",
+                                "ArticleIdList": [
+                                    "11468320"
+                                ]
+                            },
+                            {
+                                "Citation": "Ginekol Pol. 2002 Jan;73(1):35-42",
+                                "ArticleIdList": [
+                                    "12001761"
+                                ]
+                            },
+                            {
+                                "Citation": "Teratology. 2002 Jul;66(1):19-23",
+                                "ArticleIdList": [
+                                    "12115776"
+                                ]
+                            },
+                            {
+                                "Citation": "Birth Defects Orig Artic Ser. 1975;11(5):157-60",
+                                "ArticleIdList": [
+                                    "1218208"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2002 Oct;43(10):1161-7",
+                                "ArticleIdList": [
+                                    "12366730"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2003 Feb 25;60(4):575-9",
+                                "ArticleIdList": [
+                                    "12601095"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2003 Jun;4(3):310-7",
+                                "ArticleIdList": [
+                                    "12791334"
+                                ]
+                            },
+                            {
+                                "Citation": "Prenat Diagn. 1992 Nov;12(11):893-7",
+                                "ArticleIdList": [
+                                    "1283633"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurosci. 2003 Sep;10(5):543-9",
+                                "ArticleIdList": [
+                                    "12948456"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 2004 Jan;109(1):9-13",
+                                "ArticleIdList": [
+                                    "14653845"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain Dev. 1992 Nov;14(6):371-80",
+                                "ArticleIdList": [
+                                    "1492649"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2004 Feb;190(2):371-9",
+                                "ArticleIdList": [
+                                    "14981376"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Paediatr. 2004 Feb;93(2):174-6",
+                                "ArticleIdList": [
+                                    "15046269"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatrics. 2004 Apr;113(4 Suppl):957-68",
+                                "ArticleIdList": [
+                                    "15060188"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2004 Apr;5(2):163-7",
+                                "ArticleIdList": [
+                                    "15123016"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2004;(3):CD004848",
+                                "ArticleIdList": [
+                                    "15266543"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004 Nov;45(11):1465",
+                                "ArticleIdList": [
+                                    "15509251"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004 Nov;45(11):1466",
+                                "ArticleIdList": [
+                                    "15509252"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004 Nov;45(11):1468",
+                                "ArticleIdList": [
+                                    "15509254"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurosci. 2004 Nov;11(8):854-8",
+                                "ArticleIdList": [
+                                    "15519862"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pediatr. 2005 Jan;146(1):118-22",
+                                "ArticleIdList": [
+                                    "15644835"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):119-25",
+                                "ArticleIdList": [
+                                    "1574165"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):132-40",
+                                "ArticleIdList": [
+                                    "1574169"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):68-74",
+                                "ArticleIdList": [
+                                    "1574179"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):75-82",
+                                "ArticleIdList": [
+                                    "1574181"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):83-8",
+                                "ArticleIdList": [
+                                    "1574183"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):89-93",
+                                "ArticleIdList": [
+                                    "1574184"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1992 Apr;42(4 Suppl 5):94-110",
+                                "ArticleIdList": [
+                                    "1574185"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1992 Mar;85(3):204-7",
+                                "ArticleIdList": [
+                                    "1575005"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2005 Mar 22;64(6):961-5",
+                                "ArticleIdList": [
+                                    "15781808"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 1992;6(3):257-61",
+                                "ArticleIdList": [
+                                    "1591483"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2005 Jun 14;64(11):1874-8",
+                                "ArticleIdList": [
+                                    "15955936"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 2005 Sep;112(3):137-43",
+                                "ArticleIdList": [
+                                    "16097954"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2006 Feb;77(2):193-8",
+                                "ArticleIdList": [
+                                    "16157661"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2006 Feb 14;66(3):354-60",
+                                "ArticleIdList": [
+                                    "16382034"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol India. 2006 Mar;54(1):42-6; discussion 47",
+                                "ArticleIdList": [
+                                    "16679642"
+                                ]
+                            },
+                            {
+                                "Citation": "East Mediterr Health J. 2005 Jul;11(4):601-5",
+                                "ArticleIdList": [
+                                    "16700374"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2006 Aug 8;67(3):407-12",
+                                "ArticleIdList": [
+                                    "16894099"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2006 Nov 28;67(10):1876-9",
+                                "ArticleIdList": [
+                                    "17130430"
+                                ]
+                            },
+                            {
+                                "Citation": "Schweiz Arch Neurol Psychiatr (1985). 1991;142(5):389-407",
+                                "ArticleIdList": [
+                                    "1721236"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2007 Jun;48(6):1207-10",
+                                "ArticleIdList": [
+                                    "17381445"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurosci. 2007 Jul;14(7):611-7",
+                                "ArticleIdList": [
+                                    "17400456"
+                                ]
+                            },
+                            {
+                                "Citation": "Jpn J Psychiatry Neurol. 1991 Jun;45(2):478-81",
+                                "ArticleIdList": [
+                                    "1762253"
+                                ]
+                            },
+                            {
+                                "Citation": "Aust N Z J Obstet Gynaecol. 2007 Dec;47(6):468-74",
+                                "ArticleIdList": [
+                                    "17991111"
+                                ]
+                            },
+                            {
+                                "Citation": "Drug Saf. 2008;31(1):39-51",
+                                "ArticleIdList": [
+                                    "18095745"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatr Cardiol. 2008 May;29(3):604-8",
+                                "ArticleIdList": [
+                                    "18188637"
+                                ]
+                            },
+                            {
+                                "Citation": "CNS Drugs. 2008;22(4):325-34",
+                                "ArticleIdList": [
+                                    "18336060"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 2008 Apr;25(3):388-9",
+                                "ArticleIdList": [
+                                    "18424066"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Apr 26;336(7650):924-6",
+                                "ArticleIdList": [
+                                    "18436948"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2008 May 27;70(22 Pt 2):2152-8",
+                                "ArticleIdList": [
+                                    "18448870"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2008 Dec;49(12):2122-4",
+                                "ArticleIdList": [
+                                    "18557775"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2008 Sep;81(1):1-13",
+                                "ArticleIdList": [
+                                    "18565732"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2008 Jul 22;71(4):272-6",
+                                "ArticleIdList": [
+                                    "18645165"
+                                ]
+                            },
+                            {
+                                "Citation": "Jugosl Ginekol Perinatol. 1991 Jan-Apr;31(1-2):23-6",
+                                "ArticleIdList": [
+                                    "1875716"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Belg. 2008 Jun;108(2):53-7",
+                                "ArticleIdList": [
+                                    "18795597"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Dis Child. 2009 Jun;94(6):443-7",
+                                "ArticleIdList": [
+                                    "19307197"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2009 Jul;15(3):339-43",
+                                "ArticleIdList": [
+                                    "19410654"
+                                ]
+                            },
+                            {
+                                "Citation": "Akush Ginekol (Sofiia). 2009;48(1):16-21",
+                                "ArticleIdList": [
+                                    "19496458"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurologia. 2009 Jul-Aug;24(6):360-5",
+                                "ArticleIdList": [
+                                    "19798601"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2010 Mar;19(2):112-9",
+                                "ArticleIdList": [
+                                    "20036166"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Clin Croat. 2009 Sep;48(3):271-81",
+                                "ArticleIdList": [
+                                    "20055248"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Dis Child. 1991 Mar;66(3):320-4",
+                                "ArticleIdList": [
+                                    "2025009"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2010 Jun 10;362(23):2185-93",
+                                "ArticleIdList": [
+                                    "20558369"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2010 Nov;19(9):558-61",
+                                "ArticleIdList": [
+                                    "20739196"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Dec 02;341:c6581",
+                                "ArticleIdList": [
+                                    "21127116"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA. 2011 May 18;305(19):1996-2002",
+                                "ArticleIdList": [
+                                    "21586715"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2011 Jul;10(7):609-17",
+                                "ArticleIdList": [
+                                    "21652013"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 2011 Oct;68(10):1275-81",
+                                "ArticleIdList": [
+                                    "21670385"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Genet. 2011 Nov;48(11):721-30",
+                                "ArticleIdList": [
+                                    "21825079"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurosci. 2012 Jan;19(1):57-9",
+                                "ArticleIdList": [
+                                    "22104350"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2012 Apr;21(3):215-8",
+                                "ArticleIdList": [
+                                    "22364656"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2012 May 22;78(21):1692-9",
+                                "ArticleIdList": [
+                                    "22551726"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Jan;54(1):181-6",
+                                "ArticleIdList": [
+                                    "22882134"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2012 Nov;207(5):405.e1-7",
+                                "ArticleIdList": [
+                                    "22917484"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Jan;54(1):165-71",
+                                "ArticleIdList": [
+                                    "23167802"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2012;7(12):e52339",
+                                "ArticleIdList": [
+                                    "23272239"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2013 Jan 22;80(4):400-5",
+                                "ArticleIdList": [
+                                    "23303847"
+                                ]
+                            },
+                            {
+                                "Citation": "Salud Publica Mex. 2012 Nov-Dec;54(6):579-86",
+                                "ArticleIdList": [
+                                    "23318894"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med Genet. 1990 Apr;35(4):574-8",
+                                "ArticleIdList": [
+                                    "2333888"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 2013 Oct;128(4):228-34",
+                                "ArticleIdList": [
+                                    "23461556"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2013;8(3):e58213",
+                                "ArticleIdList": [
+                                    "23520494"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2013 Apr 23;80(17):1565-70",
+                                "ArticleIdList": [
+                                    "23553472"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 2013 Aug;39:50-7",
+                                "ArticleIdList": [
+                                    "23591043"
+                                ]
+                            },
+                            {
+                                "Citation": "Drug Saf. 2013 May;36(5):359-69",
+                                "ArticleIdList": [
+                                    "23615755"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1990 Apr;5(3):217-22",
+                                "ArticleIdList": [
+                                    "2384077"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2013 Sep 10;81(11):999-1003",
+                                "ArticleIdList": [
+                                    "23911758"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Dec;54(12):e163-7",
+                                "ArticleIdList": [
+                                    "24138300"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Jan 08;9(1):e84420",
+                                "ArticleIdList": [
+                                    "24416231"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2014 Sep;85(9):1029-34",
+                                "ArticleIdList": [
+                                    "24444855"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol. 2014 Mar;261(3):579-88",
+                                "ArticleIdList": [
+                                    "24449062"
+                                ]
+                            },
+                            {
+                                "Citation": "Obstet Gynecol. 2014 Jan;123(1):21-8",
+                                "ArticleIdList": [
+                                    "24463659"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2014 May;108(4):717-24",
+                                "ArticleIdList": [
+                                    "24598456"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 2014 Jul;46:40-5",
+                                "ArticleIdList": [
+                                    "24602560"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoepidemiol Drug Saf. 2014 Jun;23(6):586-94",
+                                "ArticleIdList": [
+                                    "24664855"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoepidemiol Drug Saf. 2014 Oct;23(10):1017-25",
+                                "ArticleIdList": [
+                                    "24692316"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2014 Aug;108(6):1013-7",
+                                "ArticleIdList": [
+                                    "24880523"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Oct 30;(10):CD010236",
+                                "ArticleIdList": [
+                                    "25354543"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 2015 Jun;53:45-50",
+                                "ArticleIdList": [
+                                    "25797654"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2015 Aug 18;85(7):580-8",
+                                "ArticleIdList": [
+                                    "26187231"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1989 Jun 22;320(25):1661-6",
+                                "ArticleIdList": [
+                                    "2725616"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol. 1989 Jul;236(5):311-3",
+                                "ArticleIdList": [
+                                    "2760652"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pediatr. 1986 Jun;108(6):997-1004",
+                                "ArticleIdList": [
+                                    "3086531"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med Genet. 1988 Jan;29(1):171-85",
+                                "ArticleIdList": [
+                                    "3125743"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1988 Jul-Aug;29(4):459-67",
+                                "ArticleIdList": [
+                                    "3134192"
+                                ]
+                            },
+                            {
+                                "Citation": "Jpn J Psychiatry Neurol. 1988 Sep;42(3):592-3",
+                                "ArticleIdList": [
+                                    "3241485"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pediatr. 1988 Apr;112(4):520-9",
+                                "ArticleIdList": [
+                                    "3351676"
+                                ]
+                            },
+                            {
+                                "Citation": "Minerva Pediatr. 1986 Feb 28;38(3-4):75-81",
+                                "ArticleIdList": [
+                                    "3702846"
+                                ]
+                            },
+                            {
+                                "Citation": "Harefuah. 1986 Apr 15;110(8):377-80",
+                                "ArticleIdList": [
+                                    "3744149"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 1987 Feb;21(2):176-82",
+                                "ArticleIdList": [
+                                    "3827226"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 1985 Jul 1;152(5):499-504",
+                                "ArticleIdList": [
+                                    "4014343"
+                                ]
+                            },
+                            {
+                                "Citation": "Orv Hetil. 1985 Sep 15;126(37):2267-72",
+                                "ArticleIdList": [
+                                    "4047631"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 1974 Dec;31(6):364-73",
+                                "ArticleIdList": [
+                                    "4441320"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gynecol Obstet Biol Reprod (Paris). 1974 Sep;3(6):831-42",
+                                "ArticleIdList": [
+                                    "4470757"
+                                ]
+                            },
+                            {
+                                "Citation": "Geburtshilfe Frauenheilkd. 1973 Mar;33(3):203-4",
+                                "ArticleIdList": [
+                                    "4692245"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1973 Nov 15;289(20):1049-52",
+                                "ArticleIdList": [
+                                    "4742220"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Dis Child. 1974 May;127(5):645-53",
+                                "ArticleIdList": [
+                                    "4825584"
+                                ]
+                            },
+                            {
+                                "Citation": "Folia Psychiatr Neurol Jpn. 1979;33(3):363-9",
+                                "ArticleIdList": [
+                                    "520954"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1976 Feb 7;1(7954):272-5",
+                                "ArticleIdList": [
+                                    "55587"
+                                ]
+                            },
+                            {
+                                "Citation": "Ned Tijdschr Geneeskd. 1971 Aug 14;115(33):1371-5",
+                                "ArticleIdList": [
+                                    "5565182"
+                                ]
+                            },
+                            {
+                                "Citation": "Dtsch Med Wochenschr. 1983 Feb 18;108(7):250-7",
+                                "ArticleIdList": [
+                                    "6402356"
+                                ]
+                            },
+                            {
+                                "Citation": "Br Med J (Clin Res Ed). 1983 Aug 27;287(6392):577-9",
+                                "ArticleIdList": [
+                                    "6411231"
+                                ]
+                            },
+                            {
+                                "Citation": "Rev Neurol (Paris). 1983;139(6-7):445-7",
+                                "ArticleIdList": [
+                                    "6412342"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med Genet. 1984 Nov;19(3):435-43",
+                                "ArticleIdList": [
+                                    "6507489"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Pharmacol. 1984 Nov;18(5):671-7",
+                                "ArticleIdList": [
+                                    "6508976"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatr Pharmacol (New York). 1983;3(3-4):199-208",
+                                "ArticleIdList": [
+                                    "6677873"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1984 Feb;25(1):77-83",
+                                "ArticleIdList": [
+                                    "6692794"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Paediatr Scand. 1982 Mar;71(2):301-11",
+                                "ArticleIdList": [
+                                    "7136638"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Ostet Ginecol Med Perinat. 1982 Jul-Aug;103(4):254-63",
+                                "ArticleIdList": [
+                                    "7181355"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1980 Dec;21(6):663-80",
+                                "ArticleIdList": [
+                                    "7439133"
+                                ]
+                            },
+                            {
+                                "Citation": "Ginecol Obstet Mex. 1995 Jul;63:282-6",
+                                "ArticleIdList": [
+                                    "7665113"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1994 Jul;18(3):261-9",
+                                "ArticleIdList": [
+                                    "7805647"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Clin. 1994 Nov;12(4):749-71",
+                                "ArticleIdList": [
+                                    "7845341"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1975 Mar;16(1):99-110",
+                                "ArticleIdList": [
+                                    "804404"
+                                ]
+                            },
+                            {
+                                "Citation": "Teratology. 1994 Mar;49(3):202-7",
+                                "ArticleIdList": [
+                                    "8059427"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 1994 Mar;51(3):250-3",
+                                "ArticleIdList": [
+                                    "8129635"
+                                ]
+                            },
+                            {
+                                "Citation": "Jpn J Psychiatry Neurol. 1993 Jun;47(2):306-8",
+                                "ArticleIdList": [
+                                    "8271575"
+                                ]
+                            },
+                            {
+                                "Citation": "Ginecol Obstet Mex. 1996 Oct;64:449-54",
+                                "ArticleIdList": [
+                                    "8974948"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med Genet. 1997 Jan 10;68(1):18-24",
+                                "ArticleIdList": [
+                                    "8986270"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Dis Child. 1996 Dec;75(6):517-20",
+                                "ArticleIdList": [
+                                    "9014606"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1997 Sep;38(9):981-90",
+                                "ArticleIdList": [
+                                    "9579936"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "11",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "11",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27819746",
+                    "10.1002/14651858.CD010224.pub2",
+                    "PMC6465055"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27819746)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827819746%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827819746%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994509573"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994509573?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994509573&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994509573&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994509573",
+                        "dc:identifier": "SCOPUS_ID:84994509573",
+                        "eid": "2-s2.0-84994509573",
+                        "dc:title": "Monotherapy treatment of epilepsy in pregnancy: Congenital malformation outcomes in the child",
+                        "dc:creator": "Weston J.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "11",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-11-07",
+                        "prism:coverDisplayDate": "7 November 2016",
+                        "prism:doi": "10.1002/14651858.CD010224.pub2",
+                        "citedby-count": "116",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27819746",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD010224",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "L5AI2IYX.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27819746"
+            }
+        },
+        "title": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child.",
+        "full_author_list": [
+            {
+                "clean": "Weston J",
+                "family": "Weston",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Bromley R",
+                "family": "Bromley",
+                "given": "Rebecca",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Jackson C",
+                "family": "Jackson",
+                "given": "Cerian F",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Adab N",
+                "family": "Adab",
+                "given": "Naghme",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Clayton-Smith J",
+                "family": "Clayton-Smith",
+                "given": "Jill",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Greenhalgh J",
+                "family": "Greenhalgh",
+                "given": "Janette",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Hounsome J",
+                "family": "Hounsome",
+                "given": "Juliet",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "McKay A",
+                "family": "McKay",
+                "given": "Andrew J",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Weston J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Abnormalities, Drug-Induced",
+                    "major": "Y"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Cardiovascular Abnormalities",
+                    "major": "N"
+                },
+                {
+                    "term": "Craniofacial Abnormalities",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant, Newborn",
+                    "major": "N"
+                },
+                {
+                    "term": "Musculoskeletal Abnormalities",
+                    "major": "N"
+                },
+                {
+                    "term": "Neural Tube Defects",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy Complications",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "11",
+            "issue": ""
+        },
+        "abstract": "['There is evidence that certain antiepileptic drugs (AEDs) are teratogenic and are associated with an increased risk of congenital malformation. The majority of women with epilepsy continue taking AEDs throughout pregnancy; therefore it is important that comprehensive information on the potential risks associated with AED treatment is available.', 'To assess the effects of prenatal exposure to AEDs on the prevalence of congenital malformations in the child.', 'We searched the Cochrane Epilepsy Group Specialized Register (September 2015), Cochrane Central Register of Controlled Trials (CENTRAL) (2015, Issue 11), MEDLINE (via Ovid) (1946 to September 2015), EMBASE (1974 to September 2015), Pharmline (1978 to September 2015), Reprotox (1983 to September 2015) and conference abstracts (2010-2015) without language restriction.', 'We included prospective cohort controlled studies, cohort studies set within pregnancy registries and randomised controlled trials. Participants were women with epilepsy taking AEDs; the two control groups were women without epilepsy and women with epilepsy who were not taking AEDs during pregnancy.', 'Three authors independently selected studies for inclusion. Five authors completed data extraction and risk of bias assessments. The primary outcome was the presence of a major congenital malformation. Secondary outcomes included specific types of major congenital malformations. Where meta-analysis was not possible, we reviewed included studies narratively.', 'We included 50 studies, with 31 contributing to meta-analysis. Study quality varied, and given the observational design, all were at high risk of certain biases. However, biases were balanced across the AEDs investigated and we believe that the results are not explained by these biases.Children exposed to carbamazepine (CBZ) were at a higher risk of malformation than children born to women without epilepsy (N = 1367 vs 2146, risk ratio (RR) 2.01, 95% confidence interval (CI) 1.20 to 3.36) and women with untreated epilepsy (N = 3058 vs 1287, RR 1.50, 95% CI 1.03 to 2.19). Children exposed to phenobarbital (PB) were at a higher risk of malformation than children born to women without epilepsy (N = 345 vs 1591, RR 2.84, 95% CI 1.57 to 5.13). Children exposed to phenytoin (PHT) were at an increased risk of malformation compared with children born to women without epilepsy (N = 477 vs 987, RR 2.38, 95% CI 1.12 to 5.03) and to women with untreated epilepsy (N = 640 vs 1256, RR 2.40, 95% CI 1.42 to 4.08). Children exposed to topiramate (TPM) were at an increased risk of malformation compared with children born to women without epilepsy (N = 359 vs 442, RR 3.69, 95% CI 1.36 to 10.07). The children exposed to valproate (VPA) were at a higher risk of malformation compared with children born to women without epilepsy (N = 467 vs 1936, RR 5.69, 95% CI 3.33 to 9.73) and to women with untreated epilepsy (N = 1923 vs 1259, RR 3.13, 95% CI 2.16 to 4.54). There was no increased risk for major malformation for lamotrigine (LTG). Gabapentin (GBP), levetiracetam (LEV), oxcarbazepine (OXC), primidone (PRM) or zonisamide (ZNS) were not associated with an increased risk, however, there were substantially fewer data for these medications.For AED comparisons, children exposed to VPA had the greatest risk of malformation (10.93%, 95% CI 8.91 to 13.13). Children exposed to VPA were at an increased risk of malformation compared with children exposed to CBZ (N = 2529 vs 4549, RR 2.44, 95% CI 2.00 to 2.94), GBP (N = 1814 vs 190, RR 6.21, 95% CI 1.91 to 20.23), LEV (N = 1814 vs 817, RR 5.82, 95% CI 3.13 to 10.81), LTG (N = 2021 vs 4164, RR 3.56, 95% CI 2.77 to 4.58), TPM (N = 1814 vs 473, RR 2.35, 95% CI 1.40 to 3.95), OXC (N = 676 vs 238, RR 3.71, 95% CI 1.65 to 8.33), PB (N = 1137 vs 626, RR 1.59, 95% CI 1.11 to 2.29, PHT (N = 2319 vs 1137, RR 2.00, 95% CI 1.48 to 2.71) or ZNS (N = 323 vs 90, RR 17.13, 95% CI 1.06 to 277.48). Children exposed to CBZ were at a higher risk of malformation than those exposed to LEV (N = 3051 vs 817, RR 1.84, 95% CI 1.03 to 3.29) and children exposed to LTG (N = 3385 vs 4164, RR 1.34, 95% CI 1.01 to 1.76). Children exposed to PB were at a higher risk of malformation compared with children exposed to GBP (N = 204 vs 159, RR 8.33, 95% CI 1.04 to 50.00), LEV (N = 204 vs 513, RR 2.33, 95% CI 1.04 to 5.00) or LTG (N = 282 vs 1959, RR 3.13, 95% CI 1.64 to 5.88). Children exposed to PHT had a higher risk of malformation than children exposed to LTG (N = 624 vs 4082, RR 1.89, 95% CI 1.19 to 2.94) or to LEV (N = 566 vs 817, RR 2.04, 95% CI 1.09 to 3.85); however, the comparison to LEV was not significant in the random-effects model. Children exposed to TPM were at a higher risk of malformation than children exposed to LEV (N = 473 vs 817, RR 2.00, 95% CI 1.03 to 3.85) or LTG (N = 473 vs 3975, RR 1.79, 95% CI 1.06 to 2.94). There were no other significant differences, or comparisons were limited to a single study.We found significantly higher rates of specific malformations associating PB exposure with cardiac malformations and VPA exposure with neural tube, cardiac, oro-facial/craniofacial, and skeletal and limb malformations in comparison to other AEDs. Dose of exposure mediated the risk of malformation following VPA exposure; a potential dose-response association for the other AEDs remained less clear.', 'Exposure in the womb to certain AEDs carried an increased risk of malformation in the foetus and may be associated with specific patterns of malformation. Based on current evidence, LEV and LTG exposure carried the lowest risk of overall malformation; however, data pertaining to specific malformations are lacking. Physicians should discuss both the risks and treatment efficacy with the patient prior to commencing treatment.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "116"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

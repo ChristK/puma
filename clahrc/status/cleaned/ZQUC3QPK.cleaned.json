@@ -1,0 +1,438 @@
+{
+    "IDs": {
+        "zotero": "ZQUC3QPK",
+        "DOI": "10.1108/HCS-08-2015-0014",
+        "DOI_filename": "7fa4f85da3c2b88db17db6836346ff0f",
+        "PMID": "",
+        "scopus": "2-s2.0-84948953432",
+        "hash": "7f24e1a53351ae0e4ebe67afd1941fcb"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ZQUC3QPK",
+            "version": 87,
+            "itemType": "journalArticle",
+            "title": "Who is left standing when the tide retreats? Negotiating hospital discharge and pathways of care for homeless people",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Martin",
+                    "lastName": "Whiteford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Glenn",
+                    "lastName": "Simpson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Housing, Care and Support",
+            "volume": "18",
+            "issue": "3/4",
+            "pages": "125-135",
+            "date": "2015-12-21",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Housing, Care and Support",
+            "language": "en",
+            "DOI": "10.1108/HCS-08-2015-0014",
+            "ISSN": "1460-8790",
+            "shortTitle": "Who is left standing when the tide retreats?",
+            "url": "https://www.emerald.com/insight/content/doi/10.1108/HCS-08-2015-0014/full/html",
+            "accessDate": "2020-09-10T17:08:49Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:49Z",
+            "dateModified": "2020-09-10T17:08:49Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        18
+                    ]
+                ],
+                "date-time": "2020-07-18T11:43:56Z",
+                "timestamp": 1595072636646
+            },
+            "reference-count": 20,
+            "publisher": "Emerald",
+            "issue": "3/4",
+            "license": [
+                {
+                    "URL": "http://www.emeraldinsight.com/page/tdm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2015,
+                                12,
+                                21
+                            ]
+                        ],
+                        "date-time": "2015-12-21T00:00:00Z",
+                        "timestamp": 1450656000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2015,
+                        12,
+                        21
+                    ]
+                ]
+            },
+            "DOI": "10.1108/hcs-08-2015-0014",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2015,
+                        11,
+                        23
+                    ]
+                ],
+                "date-time": "2015-11-23T09:23:44Z",
+                "timestamp": 1448270624000
+            },
+            "page": "125-135",
+            "source": "Crossref",
+            "is-referenced-by-count": 7,
+            "title": "Who is left standing when the tide retreats? Negotiating hospital discharge and pathways of care for homeless people",
+            "prefix": "10.1108",
+            "volume": "18",
+            "author": [
+                {
+                    "given": "Martin",
+                    "family": "Whiteford",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Glenn",
+                    "family": "Simpson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "140",
+            "reference": [
+                {
+                    "key": "b1",
+                    "DOI": "10.1017/S1474746414000402",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b3",
+                    "unstructured": "Cameron, A. , Abrahams, H. , Morgan, K. , Williamson, E. and Henry, L. (2015), \u201cFrom pillar to post: homeless women\u2019s experiences of social care\u201d,Health and Social Care in the Community. doi: 10.1111/hac.12211."
+                },
+                {
+                    "key": "b4",
+                    "DOI": "10.1017/S1474746411000261",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b7",
+                    "DOI": "10.1046/j.0966-0410.2001.00327.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b505",
+                    "DOI": "10.1177/0261018314546311",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b11",
+                    "DOI": "10.1017/S147474641100025X",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b13",
+                    "unstructured": "Gould, M. (2009), \u201cNo fixed address\u201d,Health Service Journal, Vol. 119 No. 6143, pp. 20-3."
+                },
+                {
+                    "key": "b15",
+                    "DOI": "10.1258/jrsm.2010.10k028",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b506",
+                    "DOI": "10.1136/bmj.e5999",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b508",
+                    "DOI": "10.1080/02673037.2014.927055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b25",
+                    "DOI": "10.1108/JICA-02-2015-0010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b26",
+                    "DOI": "10.1093/bjsw/bct136",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b27",
+                    "DOI": "10.7861/clinmedicine.14-4-349",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b28",
+                    "DOI": "10.1108/JICA-11-2014-0043",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b30",
+                    "DOI": "10.1080/02673030701387572",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b35",
+                    "DOI": "10.7748/nr2011.01.18.2.52.c8284",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b41",
+                    "DOI": "10.1017/S0047279414000282",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "b42",
+                    "unstructured": "Whiteford, M. (2011), \u201cSquare pegs, round holes: rough sleeping and service user involvement\u201d,Practice: Social Work in Action, Vol. 23 No. 1, pp. 45-58.",
+                    "DOI": "10.1080/09503153.2010.532547",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "frd1",
+                    "DOI": "10.3109/13561820903012065",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "frd7",
+                    "unstructured": "Tansley, K. and Gray, J. (2009), \u201cEnsuring safe and appropriate discharge for people who are homeless or in housing need\u201d,Nursing Times, Vol. 105 No. 40, pp. 14-17."
+                }
+            ],
+            "container-title": "Housing, Care and Support",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.emeraldinsight.com/doi/full-xml/10.1108/HCS-08-2015-0014",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://www.emeraldinsight.com/doi/full/10.1108/HCS-08-2015-0014",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        3
+                    ]
+                ],
+                "date-time": "2019-09-03T15:56:34Z",
+                "timestamp": 1567526194000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        12,
+                        21
+                    ]
+                ]
+            },
+            "references-count": 20,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2015,
+                            12,
+                            21
+                        ]
+                    ]
+                },
+                "issue": "3/4"
+            },
+            "alternative-id": [
+                "10.1108/HCS-08-2015-0014"
+            ],
+            "URL": "http://dx.doi.org/10.1108/HCS-08-2015-0014",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1460-8790"
+            ],
+            "container-title-short": "Housing, Care and Support"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1108/HCS-08-2015-0014)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1108%2FHCS-08-2015-0014%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1108%2FHCS-08-2015-0014%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84948953432"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84948953432?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84948953432&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84948953432&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84948953432",
+                        "dc:identifier": "SCOPUS_ID:84948953432",
+                        "eid": "2-s2.0-84948953432",
+                        "dc:title": "Who is left standing when the tide retreats? Negotiating hospital discharge and pathways of care for homeless people",
+                        "dc:creator": "Whiteford M.",
+                        "prism:publicationName": "Housing, Care and Support",
+                        "prism:issn": "14608790",
+                        "prism:volume": "18",
+                        "prism:issueIdentifier": "3-4",
+                        "prism:pageRange": "125-135",
+                        "prism:coverDate": "2015-12-21",
+                        "prism:coverDisplayDate": "21 December 2015",
+                        "prism:doi": "10.1108/HCS-08-2015-0014",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19700174722",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ZQUC3QPK.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Who is left standing when the tide retreats? Negotiating hospital discharge and pathways of care for homeless people",
+        "full_author_list": [
+            {
+                "clean": "Whiteford M",
+                "family": "Whiteford",
+                "given": "Martin",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Simpson G",
+                "family": "Simpson",
+                "given": "Glenn",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Whiteford M",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Housing, Care and Support",
+            "volume": "18",
+            "issue": "3/4"
+        },
+        "clean_date": {
+            "year": "2015"
+        },
+        "year_published": "2015",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

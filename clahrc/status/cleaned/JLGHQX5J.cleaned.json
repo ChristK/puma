@@ -1,0 +1,738 @@
+{
+    "IDs": {
+        "zotero": "JLGHQX5J",
+        "DOI": "10.1097/DCR.0000000000000708",
+        "DOI_filename": "b9493d0a4af5a4e44388eaeffdc14519",
+        "PMID": "27926555",
+        "scopus": "2-s2.0-85006699361",
+        "hash": "726f7c36d831f98a5d55f23e4d267875"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JLGHQX5J",
+            "version": 157,
+            "itemType": "journalArticle",
+            "title": "Avoiding Radical Surgery in Elderly Patients With Rectal Cancer Is Cost-Effective:",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher",
+                    "lastName": "Rao"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Arthur",
+                    "lastName": "Sun Myint"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thanos",
+                    "lastName": "Athanasiou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Omar",
+                    "lastName": "Faiz"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Antony Paul",
+                    "lastName": "Martin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Brendan",
+                    "lastName": "Collins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fraser McLean",
+                    "lastName": "Smith"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Diseases of the Colon & Rectum",
+            "volume": "60",
+            "issue": "1",
+            "pages": "30-42",
+            "date": "01/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Diseases of the Colon & Rectum",
+            "language": "en",
+            "DOI": "10.1097/DCR.0000000000000708",
+            "ISSN": "0012-3706",
+            "shortTitle": "Avoiding Radical Surgery in Elderly Patients With Rectal Cancer Is Cost-Effective",
+            "url": "http://journals.lww.com/00003453-201701000-00007",
+            "accessDate": "2020-09-10T17:10:31Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27926555",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:31Z",
+            "dateModified": "2020-09-15T13:01:07Z",
+            "pmid": "27926555"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        26
+                    ]
+                ],
+                "date-time": "2020-08-26T17:24:08Z",
+                "timestamp": 1598462648008
+            },
+            "reference-count": 29,
+            "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+            "issue": "1",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1097/dcr.0000000000000708",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        7
+                    ]
+                ],
+                "date-time": "2016-12-07T14:10:55Z",
+                "timestamp": 1481119855000
+            },
+            "page": "30-42",
+            "source": "Crossref",
+            "is-referenced-by-count": 11,
+            "title": "Avoiding Radical Surgery in Elderly Patients With Rectal Cancer Is Cost-Effective",
+            "prefix": "10.1097",
+            "volume": "60",
+            "author": [
+                {
+                    "given": "Christopher",
+                    "family": "Rao",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Arthur",
+                    "family": "Sun Myint",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Thanos",
+                    "family": "Athanasiou",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Omar",
+                    "family": "Faiz",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Antony Paul",
+                    "family": "Martin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Brendan",
+                    "family": "Collins",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Fraser McLean",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "276",
+            "container-title": "Diseases of the Colon & Rectum",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://Insights.ovid.com/crossref?an=00003453-201701000-00007",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        27
+                    ]
+                ],
+                "date-time": "2020-06-27T02:25:04Z",
+                "timestamp": 1593224704000
+            },
+            "score": 1.0,
+            "subtitle": [
+                ""
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 29,
+            "journal-issue": {
+                "issue": "1"
+            },
+            "URL": "http://dx.doi.org/10.1097/DCR.0000000000000708",
+            "relation": {},
+            "ISSN": [
+                "0012-3706"
+            ],
+            "subject": [
+                "Gastroenterology",
+                "General Medicine"
+            ],
+            "container-title-short": "Diseases of the Colon & Rectum"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27926555",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "04",
+                    "Day": "10"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1530-0358",
+                        "JournalIssue": {
+                            "Volume": "60",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "Diseases of the colon and rectum",
+                        "ISOAbbreviation": "Dis. Colon Rectum"
+                    },
+                    "ArticleTitle": "Avoiding Radical Surgery in Elderly Patients With Rectal Cancer Is Cost-Effective.",
+                    "Pagination": {
+                        "MedlinePgn": "30-42"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Radical surgery is associated with significant perioperative mortality in elderly and comorbid populations. Emerging data suggest for patients with a clinical complete response after neoadjuvant chemoradiotherapy that a watch-and-wait approach may provide equivalent survival and oncological outcomes.",
+                            "The purpose of this study was to compare the cost-effectiveness of watch and wait and radical surgery for patients with rectal cancer after a clinical complete response following chemoradiotherapy.",
+                            "Decision analytical modeling and a Markov simulation were used to model long-term costs, quality-adjusted life-years, and cost-effectiveness after watch and wait and radical surgery. Sensitivity analysis was used to investigate the effect of uncertainty in model parameters.",
+                            "A third-party payer perspective was adopted.",
+                            "Patients included in the study were a 60-year-old male cohort with no comorbidities, 80-year-old male cohorts with no comorbidities, and 80-year-old male cohorts with significant comorbidities.",
+                            "Radical surgery and watch-and-wait approaches were studied.",
+                            "Incremental cost, effectiveness, and cost-effectiveness ratio over the entire lifetime of the hypothetical patient cohorts were measured.",
+                            "Watch and wait was more effective (60-year-old male cohort with no comorbidities = 0.63 quality-adjusted life-years (95% CI, 2.48-3.65 quality-adjusted life-years); 80-year-old male cohort with no comorbidities = 0.56 quality-adjusted life-years (95% CI, 0.52-1.59 quality-adjusted life-years); 80-year-old male cohort with significant comorbidities = 0.72 quality-adjusted life-years (95% CI, 0.34-1.76 quality-adjusted life-years)) and less costly (60-year-old male cohort with no comorbidities = $11,332.35 (95% CI, $668.50-$23,970.20); 80-year-old male cohort with no comorbidities = $8783.93 (95% CI, $2504.26-$21,900.66); 80-year-old male cohort with significant comorbidities = $10,206.01 (95% CI, $2762.014-$24,135.31)) independent of patient cohort age and comorbidity. Consequently, watch and wait was more cost-effective with a high degree of certainty (range, 69.6%-89.2%) at a threshold of $50,000/quality-adjusted life-year.",
+                            "Long-term outcomes were derived from modeled cohorts. Analysis was performed for a United Kingdom third-party payer perspective, limiting generalizability to other healthcare contexts.",
+                            "Watch and wait is likely to be cost-effective compared with radical surgery. These findings strongly support the discussion of organ-preserving strategies with suitable patients."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "1 University Hospital Lewisham, London, United Kingdom 2 Clatterbridge Cancer Centre, Merseyside, United Kingdom 3 Department of Surgery and Cancer, Imperial College London, London, United Kingdom 4 Epidemiology, Trials and Outcome Centre, St. Mark's Hospital, Harrow, United Kingdom 5 National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast, University of Liverpool, Liverpool, United Kingdom 6 Department of Public Health and Policy, University of Liverpool, Liverpool, United Kingdom 7 Royal Liverpool and Broadgreen University Hospitals National Health Service Trust, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rao",
+                            "ForeName": "Christopher",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Sun Myint",
+                            "ForeName": "Arthur",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Athanasiou",
+                            "ForeName": "Thanos",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Faiz",
+                            "ForeName": "Omar",
+                            "Initials": "O"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Martin",
+                            "ForeName": "Antony Paul",
+                            "Initials": "AP"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Collins",
+                            "ForeName": "Brendan",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Smith",
+                            "ForeName": "Fraser McLean",
+                            "Initials": "FM"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Dis Colon Rectum",
+                    "NlmUniqueID": "0372764",
+                    "ISSNLinking": "0012-3706"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Chemoradiotherapy",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cohort Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Comorbidity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cost-Benefit Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Decision Support Techniques",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Digestive System Surgical Procedures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Insurance, Health, Reimbursement",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Neoadjuvant Therapy",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Neoplasm, Residual",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality-Adjusted Life Years",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "epidemiology",
+                            "pathology",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Rectal Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remission Induction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Watchful Waiting",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "4",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "27926555",
+                    "10.1097/DCR.0000000000000708",
+                    "00003453-201701000-00007"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27926555)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827926555%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827926555%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006699361"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006699361?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85006699361&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85006699361&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85006699361",
+                        "dc:identifier": "SCOPUS_ID:85006699361",
+                        "eid": "2-s2.0-85006699361",
+                        "dc:title": "Avoiding Radical Surgery in Elderly Patients with Rectal Cancer Is Cost-Effective",
+                        "dc:creator": "Rao C.",
+                        "prism:publicationName": "Diseases of the Colon and Rectum",
+                        "prism:issn": "00123706",
+                        "prism:eIssn": "15300358",
+                        "prism:volume": "60",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "30-42",
+                        "prism:coverDate": "2017-01-01",
+                        "prism:coverDisplayDate": "1 January 2017",
+                        "prism:doi": "10.1097/DCR.0000000000000708",
+                        "citedby-count": "9",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University Hospital Lewisham",
+                                "affiliation-city": "London",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27926555",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "cp",
+                        "subtypeDescription": "Conference Paper",
+                        "source-id": "21088",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JLGHQX5J.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27926555"
+            }
+        },
+        "title": "Avoiding Radical Surgery in Elderly Patients With Rectal Cancer Is Cost-Effective.",
+        "full_author_list": [
+            {
+                "clean": "Rao C",
+                "family": "Rao",
+                "given": "Christopher",
+                "affiliation": {
+                    "name": "1 University Hospital Lewisham, London, United Kingdom 2 Clatterbridge Cancer Centre, Merseyside, United Kingdom 3 Department of Surgery and Cancer, Imperial College London, London, United Kingdom 4 Epidemiology, Trials and Outcome Centre, St. Mark's Hospital, Harrow, United Kingdom 5 National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast, University of Liverpool, Liverpool, United Kingdom 6 Department of Public Health and Policy, University of Liverpool, Liverpool, United Kingdom 7 Royal Liverpool and Broadgreen University Hospitals National Health Service Trust, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Sun Myint A",
+                "family": "Sun Myint",
+                "given": "Arthur",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Athanasiou T",
+                "family": "Athanasiou",
+                "given": "Thanos",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Faiz O",
+                "family": "Faiz",
+                "given": "Omar",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Martin A",
+                "family": "Martin",
+                "given": "Antony Paul",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Collins B",
+                "family": "Collins",
+                "given": "Brendan",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Smith F",
+                "family": "Smith",
+                "given": "Fraser McLean",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Rao C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Chemoradiotherapy",
+                    "major": "Y"
+                },
+                {
+                    "term": "Cohort Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Comorbidity",
+                    "major": "N"
+                },
+                {
+                    "term": "Cost-Benefit Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Decision Support Techniques",
+                    "major": "N"
+                },
+                {
+                    "term": "Digestive System Surgical Procedures",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Insurance, Health, Reimbursement",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Neoadjuvant Therapy",
+                    "major": "Y"
+                },
+                {
+                    "term": "Neoplasm, Residual",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality-Adjusted Life Years",
+                    "major": "Y"
+                },
+                {
+                    "term": "Rectal Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Remission Induction",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                },
+                {
+                    "term": "Watchful Waiting",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Dis. Colon Rectum",
+            "volume": "60",
+            "issue": "1"
+        },
+        "abstract": "['Radical surgery is associated with significant perioperative mortality in elderly and comorbid populations. Emerging data suggest for patients with a clinical complete response after neoadjuvant chemoradiotherapy that a watch-and-wait approach may provide equivalent survival and oncological outcomes.', 'The purpose of this study was to compare the cost-effectiveness of watch and wait and radical surgery for patients with rectal cancer after a clinical complete response following chemoradiotherapy.', 'Decision analytical modeling and a Markov simulation were used to model long-term costs, quality-adjusted life-years, and cost-effectiveness after watch and wait and radical surgery. Sensitivity analysis was used to investigate the effect of uncertainty in model parameters.', 'A third-party payer perspective was adopted.', 'Patients included in the study were a 60-year-old male cohort with no comorbidities, 80-year-old male cohorts with no comorbidities, and 80-year-old male cohorts with significant comorbidities.', 'Radical surgery and watch-and-wait approaches were studied.', 'Incremental cost, effectiveness, and cost-effectiveness ratio over the entire lifetime of the hypothetical patient cohorts were measured.', 'Watch and wait was more effective (60-year-old male cohort with no comorbidities = 0.63 quality-adjusted life-years (95% CI, 2.48-3.65 quality-adjusted life-years); 80-year-old male cohort with no comorbidities = 0.56 quality-adjusted life-years (95% CI, 0.52-1.59 quality-adjusted life-years); 80-year-old male cohort with significant comorbidities = 0.72 quality-adjusted life-years (95% CI, 0.34-1.76 quality-adjusted life-years)) and less costly (60-year-old male cohort with no comorbidities = $11,332.35 (95% CI, $668.50-$23,970.20); 80-year-old male cohort with no comorbidities = $8783.93 (95% CI, $2504.26-$21,900.66); 80-year-old male cohort with significant comorbidities = $10,206.01 (95% CI, $2762.014-$24,135.31)) independent of patient cohort age and comorbidity. Consequently, watch and wait was more cost-effective with a high degree of certainty (range, 69.6%-89.2%) at a threshold of $50,000/quality-adjusted life-year.', 'Long-term outcomes were derived from modeled cohorts. Analysis was performed for a United Kingdom third-party payer perspective, limiting generalizability to other healthcare contexts.', 'Watch and wait is likely to be cost-effective compared with radical surgery. These findings strongly support the discussion of organ-preserving strategies with suitable patients.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "9"
+            }
+        },
+        "location": {
+            "candidate_institute": "1 University Hospital Lewisham, London, United Kingdom 2 Clatterbridge Cancer Centre, Merseyside, United Kingdom 3 Department of Surgery and Cancer, Imperial College London, London, United Kingdom 4 Epidemiology, Trials and Outcome Centre, St. Mark's Hospital, Harrow, United Kingdom 5 National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast, University of Liverpool, Liverpool, United Kingdom 6 Department of Public Health and Policy, University of Liverpool, Liverpool, United Kingdom 7 Royal Liverpool and Broadgreen University Hospitals National Health Service Trust, Liverpool, United Kingdom.",
+            "clean_institute": "Imperial College London",
+            "latitude": "51.498308",
+            "longitude": "-0.176882",
+            "country": "United Kingdom",
+            "postal_town": "Royal Borough of Kensington and Chelsea"
+        }
+    }
+}

@@ -1,0 +1,1259 @@
+{
+    "IDs": {
+        "zotero": "CIY3B3YU",
+        "DOI": "10.1080/14767058.2018.1560406",
+        "DOI_filename": "4d2465ea32694e5290cb4d8ec7a6dee4",
+        "PMID": "30563382",
+        "scopus": "2-s2.0-85087325703",
+        "hash": "b4c1927ae81ead555a87adbe6c924af8"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "CIY3B3YU",
+            "version": 138,
+            "itemType": "journalArticle",
+            "title": "Risk of preeclampsia following assisted reproductive technology: systematic review and meta-analysis of 72 cohort studies",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Reza",
+                    "lastName": "Omani-Samani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ahad",
+                    "lastName": "Alizadeh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amir",
+                    "lastName": "Almasi-Hashiani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maryam",
+                    "lastName": "Mohammadi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saman",
+                    "lastName": "Maroufizadeh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Behnaz",
+                    "lastName": "Navid"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil",
+                    "lastName": "Khedmati Morasae"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Payam",
+                    "lastName": "Amini"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "The Journal of Maternal-Fetal & Neonatal Medicine",
+            "volume": "33",
+            "issue": "16",
+            "pages": "2826-2840",
+            "date": "2020-08-17",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "The Journal of Maternal-Fetal & Neonatal Medicine",
+            "language": "en",
+            "DOI": "10.1080/14767058.2018.1560406",
+            "ISSN": "1476-7058, 1476-4954",
+            "shortTitle": "Risk of preeclampsia following assisted reproductive technology",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/14767058.2018.1560406",
+            "accessDate": "2020-09-10T17:09:18Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30563382",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:18Z",
+            "dateModified": "2020-09-11T15:08:12Z",
+            "pmid": "30563382"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        16
+                    ]
+                ],
+                "date-time": "2020-08-16T12:10:37Z",
+                "timestamp": 1597579837235
+            },
+            "reference-count": 99,
+            "publisher": "Informa UK Limited",
+            "issue": "16",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "DOI": "10.1080/14767058.2018.1560406",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        19
+                    ]
+                ],
+                "date-time": "2018-12-19T06:56:38Z",
+                "timestamp": 1545202598000
+            },
+            "page": "2826-2840",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Risk of preeclampsia following assisted reproductive technology: systematic review and meta-analysis of 72 cohort studies",
+            "prefix": "10.1080",
+            "volume": "33",
+            "author": [
+                {
+                    "given": "Reza",
+                    "family": "Omani-Samani",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0385-463X",
+                    "authenticated-orcid": false,
+                    "given": "Ahad",
+                    "family": "Alizadeh",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Amir",
+                    "family": "Almasi-Hashiani",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        },
+                        {
+                            "name": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Maryam",
+                    "family": "Mohammadi",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5794-3876",
+                    "authenticated-orcid": false,
+                    "given": "Saman",
+                    "family": "Maroufizadeh",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Behnaz",
+                    "family": "Navid",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Esmaeil",
+                    "family": "Khedmati Morasae",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health, and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Payam",
+                    "family": "Amini",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran;"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        7
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1093/humrep/dem046",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1016/j.fertnstert.2006.02.129",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "Parsanezhad E",
+                    "volume": "02",
+                    "first-page": "2013",
+                    "year": "2016",
+                    "journal-title": "J Womens Health Issues Care"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1016/j.fertnstert.2008.10.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1093/humrep/dep343",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1097/01.AOG.0000114989.84822.51",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1097/01.AOG.0000127037.12652.76",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1093/humrep/16.6.1264",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1007/978-3-319-42858-1_14",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1111/j.1471-0528.1998.tb10096.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1016/S0140-6736(89)92762-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1016/j.ajog.2004.07.035",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1001/jama.288.18.2320",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1111/j.1471-0528.1992.tb13818.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1016/S0140-6736(05)17987-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1080/14767050500246045",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1111/j.1471-0528.2005.00745.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1016/S0140-6736(02)07804-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1093/humrep/14.9.2268",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1016/j.preghy.2014.02.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.7326/0003-4819-151-4-200908180-00135",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "author": "Wells G",
+                    "year": "2011",
+                    "volume-title": "The Newcastle-Ottawa Scale (NOS) for assessing the quality of non randomized studies in Meta-analyses"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1002/sim.1186",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.2307/2533446",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1136/bmj.315.7109.629",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1080/01443610802091792",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1007/s00404-013-2796-x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1093/humrep/det082",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1080/10641950802001859",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "DOI": "10.3109/14767058.2013.777422",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1097/AOG.0b013e3181b76bd1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1016/j.fertnstert.2012.08.060",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "DOI": "10.1016/j.ejogrb.2010.07.010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0034",
+                    "DOI": "10.1093/humrep/deu079",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0035",
+                    "DOI": "10.1007/s00404-009-1083-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1016/j.rbmo.2014.06.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "DOI": "10.1055/s-0031-1280130",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1093/humrep/deu068",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "DOI": "10.1375/twin.14.1.98",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0040",
+                    "DOI": "10.1016/j.fertnstert.2012.04.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0041",
+                    "DOI": "10.1016/j.fertnstert.2014.01.055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "DOI": "10.1016/j.ajog.2014.03.044",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0043",
+                    "DOI": "10.5402/2012/451915",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0044",
+                    "DOI": "10.1093/humrep/deu293",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0045",
+                    "DOI": "10.1093/humrep/der469",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0046",
+                    "DOI": "10.1016/j.ejogrb.2016.09.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0047",
+                    "DOI": "10.3109/09513590.2015.1111330",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0048",
+                    "DOI": "10.1016/j.mefs.2012.02.008",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0049",
+                    "DOI": "10.1093/humrep/dew210",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0050",
+                    "DOI": "10.1093/humrep/des036",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0051",
+                    "DOI": "10.1016/j.fertnstert.2016.07.1092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0052",
+                    "DOI": "10.1016/S0002-9378(97)70215-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0053",
+                    "DOI": "10.1055/s-0036-1582444",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0054",
+                    "DOI": "10.1111/1471-0528.13584",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0055",
+                    "DOI": "10.1016/j.ajog.2005.02.059",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0056",
+                    "DOI": "10.1111/aogs.12904",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0057",
+                    "DOI": "10.1097/01.AOG.0000219768.08249.b6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0058",
+                    "DOI": "10.1080/01443610500364012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0059",
+                    "DOI": "10.1111/jch.12957",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0060",
+                    "DOI": "10.1038/srep26869",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0061",
+                    "DOI": "10.1093/humrep/deh106",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0062",
+                    "DOI": "10.3109/14767058.2012.722723",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0063",
+                    "DOI": "10.1038/srep35141",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0064",
+                    "DOI": "10.1093/humrep/det307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0065",
+                    "DOI": "10.1016/j.fertnstert.2013.01.153",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0066",
+                    "DOI": "10.1016/j.rbmo.2017.03.016",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0067",
+                    "DOI": "10.1016/j.fertnstert.2016.04.023",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0068",
+                    "DOI": "10.3109/14767058.2013.856415",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0069",
+                    "DOI": "10.1177/1933719116641765",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0070",
+                    "DOI": "10.1016/j.fertnstert.2016.03.031",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0071",
+                    "DOI": "10.1111/1471-0528.13051",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0072",
+                    "DOI": "10.1016/j.ajog.2016.06.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0073",
+                    "DOI": "10.1016/j.ajog.2015.03.032",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0074",
+                    "DOI": "10.1210/jc.2010-0925",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0075",
+                    "DOI": "10.5935/1518-0557.20150005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0076",
+                    "DOI": "10.1016/j.fertnstert.2011.12.032",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0077",
+                    "DOI": "10.3109/14767058.2015.1024649",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0078",
+                    "DOI": "10.1093/humrep/14.7.1760",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0079",
+                    "DOI": "10.1093/humrep/16.7.1397",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0080",
+                    "DOI": "10.1016/j.fertnstert.2008.12.021",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0081",
+                    "author": "Lynch A",
+                    "volume": "99",
+                    "first-page": "445",
+                    "year": "2002",
+                    "journal-title": "Obstet Gynecol"
+                },
+                {
+                    "key": "CIT0082",
+                    "DOI": "10.1097/AOG.0b013e3181fb8e59",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0083",
+                    "DOI": "10.1016/S0301-2115(02)00468-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0084",
+                    "DOI": "10.1111/j.1471-0528.2004.00489.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0085",
+                    "DOI": "10.1016/j.fertnstert.2013.01.128",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0086",
+                    "DOI": "10.1080/j.1600-0412.2004.00279.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0087",
+                    "DOI": "10.1016/j.fertnstert.2006.11.131",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0088",
+                    "DOI": "10.1016/j.fertnstert.2003.07.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0089",
+                    "DOI": "10.1056/NEJMoa010806",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0090",
+                    "DOI": "10.1097/01.AOG.0000124571.04890.67",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0091",
+                    "DOI": "10.1093/humrep/dep186",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0092",
+                    "DOI": "10.3109/14767058.2016.1151868",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0093",
+                    "DOI": "10.1016/j.fertnstert.2017.01.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0094",
+                    "DOI": "10.1016/j.ejogrb.2010.08.025",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0095",
+                    "DOI": "10.1016/j.ajog.2013.10.879",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0096",
+                    "DOI": "10.1136/bmj.39335.385301.BE",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0097",
+                    "author": "English FA",
+                    "volume": "8",
+                    "first-page": "7",
+                    "year": "2015",
+                    "journal-title": "Integr Blood Press Control"
+                },
+                {
+                    "key": "CIT0098",
+                    "DOI": "10.1038/jhh.2012.13",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0099",
+                    "author": "Higgins JP",
+                    "year": "2011",
+                    "volume-title": "Cochrane handbook for systematic reviews of interventions"
+                }
+            ],
+            "container-title": "The Journal of Maternal-Fetal & Neonatal Medicine",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/14767058.2018.1560406",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        16
+                    ]
+                ],
+                "date-time": "2020-08-16T11:34:43Z",
+                "timestamp": 1597577683000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 99,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            8,
+                            17
+                        ]
+                    ]
+                },
+                "issue": "16"
+            },
+            "alternative-id": [
+                "10.1080/14767058.2018.1560406"
+            ],
+            "URL": "http://dx.doi.org/10.1080/14767058.2018.1560406",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1476-7058",
+                "1476-4954"
+            ],
+            "subject": [
+                "Obstetrics and Gynaecology",
+                "Pediatrics, Perinatology, and Child Health"
+            ],
+            "container-title-short": "The Journal of Maternal-Fetal & Neonatal Medicine",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmf20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmf20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2018-03-24",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-11-28",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-12-14",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-01-07",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Assisted reproductive technology",
+                        "infertility",
+                        "meta-analysis",
+                        "preeclampsia",
+                        "systematic review"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30563382",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "30"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/14767058.2018.1560406"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "01",
+                            "Day": "07"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1476-4954",
+                        "JournalIssue": {
+                            "Volume": "33",
+                            "Issue": "16",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Aug"
+                            }
+                        },
+                        "Title": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+                        "ISOAbbreviation": "J. Matern. Fetal. Neonatal. Med."
+                    },
+                    "ArticleTitle": "Risk of preeclampsia following assisted reproductive technology: systematic review and meta-analysis of 72 cohort studies.",
+                    "Pagination": {
+                        "MedlinePgn": "2826-2840"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "<b>Objective:</b> Previous studies have indicated that women with assisted reproductive technology (ART) pregnancy have an increased risk of preeclampsia. The aim of this current study was to estimate, through a systematic review and meta-analysis of cohort studies, the risk of preeclampsia in women who conceived with ART.<b>Materials and methods:</b> We searched ISI Web of Knowledge, Medline/PubMed, Scopus and Embase up to August 2017 for English-language articles pertaining to risk of preeclampsia in ART pregnancy using standard keywords. Data extraction was conducted by two authors and quality of the studies was assessed using the Newcastle-Ottawa Scale. A random-effects model was used for the meta-analysis.<b>Results:</b> In total, 72 cohort studies (<i>n</i>\u2009=\u2009164 870) were included. The results of Cochran test and <i>I</i><sup>2</sup> statistic indicated considerable heterogeneity among studies (Q\u2009=\u200915 415.61, df\u2009=\u200971, <i>p</i>\u2009<\u2009.001, <i>I</i><sup>2</sup>=99.5%). The pooled estimate of preeclampsia risk using the random effects model was 10.8% (95% CI: 9.10-12.5). Furthermore, the funnel plot and Begg's test showed evidence of publication bias.<b>Conclusions:</b> We found that the risk of preeclampsia was very high among women who conceived with ART. Women should be counseled carefully before undergoing ART treatment."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Omani-Samani",
+                            "ForeName": "Reza",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0385-463X"
+                            ],
+                            "LastName": "Alizadeh",
+                            "ForeName": "Ahad",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Almasi-Hashiani",
+                            "ForeName": "Amir",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mohammadi",
+                            "ForeName": "Maryam",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-5794-3876"
+                            ],
+                            "LastName": "Maroufizadeh",
+                            "ForeName": "Saman",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Navid",
+                            "ForeName": "Behnaz",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health, and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Khedmati Morasae",
+                            "ForeName": "Esmaeil",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Amini",
+                            "ForeName": "Payam",
+                            "Initials": "P"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Matern Fetal Neonatal Med",
+                    "NlmUniqueID": "101136916",
+                    "ISSNLinking": "1476-4954"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30563382",
+                    "10.1080/14767058.2018.1560406"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30563382)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830563382%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830563382%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087325703"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087325703?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087325703&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087325703&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087325703",
+                        "dc:identifier": "SCOPUS_ID:85087325703",
+                        "eid": "2-s2.0-85087325703",
+                        "dc:title": "Risk of preeclampsia following assisted reproductive technology: systematic review and meta-analysis of 72 cohort studies",
+                        "dc:creator": "Omani-Samani R.",
+                        "prism:publicationName": "Journal of Maternal-Fetal and Neonatal Medicine",
+                        "prism:issn": "14767058",
+                        "prism:eIssn": "14764954",
+                        "prism:volume": "33",
+                        "prism:issueIdentifier": "16",
+                        "prism:pageRange": "2826-2840",
+                        "prism:coverDate": "2020-08-17",
+                        "prism:coverDisplayDate": "17 August 2020",
+                        "prism:doi": "10.1080/14767058.2018.1560406",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Royan Institute",
+                                "affiliation-city": "Tehran",
+                                "affiliation-country": "Iran"
+                            }
+                        ],
+                        "pubmed-id": "30563382",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "27601",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "CIY3B3YU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30563382"
+            }
+        },
+        "title": "Risk of preeclampsia following assisted reproductive technology: systematic review and meta-analysis of 72 cohort studies.",
+        "full_author_list": [
+            {
+                "clean": "Omani-Samani R",
+                "family": "Omani-Samani",
+                "given": "Reza",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Alizadeh A",
+                "family": "Alizadeh",
+                "given": "Ahad",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Almasi-Hashiani A",
+                "family": "Almasi-Hashiani",
+                "given": "Amir",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Mohammadi M",
+                "family": "Mohammadi",
+                "given": "Maryam",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Maroufizadeh S",
+                "family": "Maroufizadeh",
+                "given": "Saman",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Navid B",
+                "family": "Navid",
+                "given": "Behnaz",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Khedmati Morasae E",
+                "family": "Khedmati Morasae",
+                "given": "Esmaeil",
+                "affiliation": {
+                    "name": "Department of Health Services Research, National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health, and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Amini P",
+                "family": "Amini",
+                "given": "Payam",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            }
+        ],
+        "first_author": "Omani-Samani R",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J. Matern. Fetal. Neonatal. Med.",
+            "volume": "33",
+            "issue": "16"
+        },
+        "abstract": "[\"<b>Objective:</b> Previous studies have indicated that women with assisted reproductive technology (ART) pregnancy have an increased risk of preeclampsia. The aim of this current study was to estimate, through a systematic review and meta-analysis of cohort studies, the risk of preeclampsia in women who conceived with ART.<b>Materials and methods:</b> We searched ISI Web of Knowledge, Medline/PubMed, Scopus and Embase up to August 2017 for English-language articles pertaining to risk of preeclampsia in ART pregnancy using standard keywords. Data extraction was conducted by two authors and quality of the studies was assessed using the Newcastle-Ottawa Scale. A random-effects model was used for the meta-analysis.<b>Results:</b> In total, 72 cohort studies (<i>n</i>\\u2009=\\u2009164 870) were included. The results of Cochran test and <i>I</i><sup>2</sup> statistic indicated considerable heterogeneity among studies (Q\\u2009=\\u200915 415.61, df\\u2009=\\u200971, <i>p</i>\\u2009<\\u2009.001, <i>I</i><sup>2</sup>=99.5%). The pooled estimate of preeclampsia risk using the random effects model was 10.8% (95% CI: 9.10-12.5). Furthermore, the funnel plot and Begg's test showed evidence of publication bias.<b>Conclusions:</b> We found that the risk of preeclampsia was very high among women who conceived with ART. Women should be counseled carefully before undergoing ART treatment.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran.",
+            "clean_institute": "Royan Institute",
+            "country": "Iran",
+            "postal_town": "Tehran"
+        }
+    }
+}

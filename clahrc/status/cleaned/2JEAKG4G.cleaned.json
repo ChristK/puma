@@ -1,0 +1,751 @@
+{
+    "IDs": {
+        "zotero": "2JEAKG4G",
+        "DOI": "10.1016/j.bjoms.2018.05.015",
+        "DOI_filename": "7b2c5c06dc9681921599fae223a30cc6",
+        "PMID": "29908705",
+        "scopus": "2-s2.0-85048331749",
+        "hash": "a6e4eb3329e308ee95b75d9c6b37f111"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "2JEAKG4G",
+            "version": 110,
+            "itemType": "journalArticle",
+            "title": "High levels of socioeconomic deprivation do not inhibit patients\u2019 communication of concerns in head and neck cancer review clinics",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "S.",
+                    "lastName": "Allen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "R.",
+                    "lastName": "Harris"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.L.",
+                    "lastName": "Brown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "G.",
+                    "lastName": "Humphris"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Y.",
+                    "lastName": "Zhou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.N.",
+                    "lastName": "Rogers"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "British Journal of Oral and Maxillofacial Surgery",
+            "volume": "56",
+            "issue": "6",
+            "pages": "536-539",
+            "date": "07/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "British Journal of Oral and Maxillofacial Surgery",
+            "language": "en",
+            "DOI": "10.1016/j.bjoms.2018.05.015",
+            "ISSN": "02664356",
+            "shortTitle": "",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0266435618301748",
+            "accessDate": "2020-09-10T17:09:26Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29908705",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:26Z",
+            "dateModified": "2020-09-11T13:16:51Z",
+            "pmid": "29908705"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        8
+                    ]
+                ],
+                "date-time": "2020-06-08T22:40:06Z",
+                "timestamp": 1591656006380
+            },
+            "reference-count": 25,
+            "publisher": "Elsevier BV",
+            "issue": "6",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                7,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-07-01T00:00:00Z",
+                        "timestamp": 1530403200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "The National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.bjoms.2018.05.015",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        13
+                    ]
+                ],
+                "date-time": "2018-06-13T23:20:27Z",
+                "timestamp": 1528932027000
+            },
+            "page": "536-539",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "High levels of socioeconomic deprivation do not inhibit patients\u2019 communication of concerns in head and neck cancer review clinics",
+            "prefix": "10.1016",
+            "volume": "56",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1194-3584",
+                    "authenticated-orcid": false,
+                    "given": "S.",
+                    "family": "Allen",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "R.",
+                    "family": "Harris",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "S.L.",
+                    "family": "Brown",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "G.",
+                    "family": "Humphris",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Y.",
+                    "family": "Zhou",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "S.N.",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "British Journal of Oral and Maxillofacial Surgery",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0266435618301748?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0266435618301748?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        8
+                    ]
+                ],
+                "date-time": "2020-06-08T22:14:40Z",
+                "timestamp": 1591654480000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 25,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "alternative-id": [
+                "S0266435618301748"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.bjoms.2018.05.015",
+            "relation": {},
+            "ISSN": [
+                "0266-4356"
+            ],
+            "subject": [
+                "Surgery",
+                "Oral Surgery",
+                "Otorhinolaryngology"
+            ],
+            "container-title-short": "British Journal of Oral and Maxillofacial Surgery"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "D",
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Deprivation",
+                        "Doctor-patient Communication",
+                        "Head and Neck Cancer",
+                        "Indices of Multiple Deprivation",
+                        "VRCoDES"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29908705",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "05",
+                    "Day": "17"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "05",
+                    "Day": "17"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0266-4356(18)30174-8",
+                        "10.1016/j.bjoms.2018.05.015"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "06",
+                            "Day": "13"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-1940",
+                        "JournalIssue": {
+                            "Volume": "56",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "07"
+                            }
+                        },
+                        "Title": "The British journal of oral & maxillofacial surgery",
+                        "ISOAbbreviation": "Br J Oral Maxillofac Surg"
+                    },
+                    "ArticleTitle": "High levels of socioeconomic deprivation do not inhibit patients' communication of concerns in head and neck cancer review clinics.",
+                    "Pagination": {
+                        "MedlinePgn": "536-539"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To examine associations between socioeconomic status and the extent to which patients with cancer of the head and neck expressed concerns to surgeons during routine follow-up clinics, we analysed audio recordings of 110 consultations with one consultant. We used the Verona Coding Definitions of Emotional Sequences (VRCoDES) to measure communication between the doctor and the patient, and grouped the English indices of multiple deprivation (IMD) 2015 scores into deciles to compare the VRCoDES with socioeconomic status. There were no significant correlations between IMD decile and the number and type of cues and concerns, or the type of response by the consultant, but there was a positive correlation between IMD decile and duration of appointment (r=0.288, p<0.01). When the duration of appointment was controlled for, there was a negative correlation between IMD decile and number of cues and concerns (r=-0.221, p<0.05). These findings question the assumption that socioeconomic status is associated with a patient's willingness to express concerns. Shorter consultations suggest that less time is spent responding to their concerns or building a rapport. Clinicians might find it advantageous to adopt strategies that will improve their understanding of these patients and help them to communicate more effectively."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018 The British Association of Oral and Maxillofacial Surgeons. Published by Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Electronic address: Sarah.Allen@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Allen",
+                            "ForeName": "S",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology Health and Society, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Electronic address: harrisrv@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harris",
+                            "ForeName": "R",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychological Sciences, University of Liverpool, Liverpool, L69 3BX, UK. Electronic address: S.L.Brown@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Brown",
+                            "ForeName": "S L",
+                            "Initials": "SL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Medicine, University of St Andrews, St Andrews, Fife, KY16 9TF St Andrews, Scotland, UK. Electronic address: gmh4@st-andrews.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Humphris",
+                            "ForeName": "G",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Medicine, University of St Andrews, St Andrews, Fife, KY16 9TF St Andrews, Scotland, UK. Electronic address: yz10@st-andrews.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Zhou",
+                            "ForeName": "Y",
+                            "Initials": "Y"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Evidence-Based Practice Research Centre (EPRC), Faculty of Health and Social Care, Edge Hill University, St Helens Road, Ormskirk, L39 4QP; Consultant Regional Maxillofacial Unit, University Hospital Aintree, Liverpool, L9 1AE, UK. Electronic address: simonn.rogers@aintree.nhs.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rogers",
+                            "ForeName": "S N",
+                            "Initials": "SN"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Scotland",
+                    "MedlineTA": "Br J Oral Maxillofac Surg",
+                    "NlmUniqueID": "8405235",
+                    "ISSNLinking": "0266-4356"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Communication",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Emotions",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Head and Neck Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Physician-Patient Relations",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Class",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "01",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "05",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29908705",
+                    "S0266-4356(18)30174-8",
+                    "10.1016/j.bjoms.2018.05.015"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29908705)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829908705%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829908705%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048331749"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048331749?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048331749&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048331749&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0266435618301748"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048331749",
+                        "dc:identifier": "SCOPUS_ID:85048331749",
+                        "eid": "2-s2.0-85048331749",
+                        "dc:title": "High levels of socioeconomic deprivation do not inhibit patients\u2019 communication of concerns in head and neck cancer review clinics",
+                        "dc:creator": "Allen S.",
+                        "prism:publicationName": "British Journal of Oral and Maxillofacial Surgery",
+                        "prism:issn": "02664356",
+                        "prism:eIssn": "15321940",
+                        "prism:volume": "56",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": "536-539",
+                        "prism:coverDate": "2018-07-01",
+                        "prism:coverDisplayDate": "July 2018",
+                        "prism:doi": "10.1016/j.bjoms.2018.05.015",
+                        "pii": "S0266435618301748",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29908705",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20530",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "2JEAKG4G.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29908705"
+            }
+        },
+        "title": "High levels of socioeconomic deprivation do not inhibit patients' communication of concerns in head and neck cancer review clinics.",
+        "full_author_list": [
+            {
+                "clean": "Allen S",
+                "family": "Allen",
+                "given": "S",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Electronic address: Sarah.Allen@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Harris R",
+                "family": "Harris",
+                "given": "R",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology Health and Society, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Electronic address: harrisrv@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Brown S",
+                "family": "Brown",
+                "given": "S L",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, L69 3BX, UK. Electronic address: S.L.Brown@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Humphris G",
+                "family": "Humphris",
+                "given": "G",
+                "affiliation": {
+                    "name": "School of Medicine, University of St Andrews, St Andrews, Fife, KY16 9TF St Andrews, Scotland, UK. Electronic address: gmh4@st-andrews.ac.uk."
+                }
+            },
+            {
+                "clean": "Zhou Y",
+                "family": "Zhou",
+                "given": "Y",
+                "affiliation": {
+                    "name": "School of Medicine, University of St Andrews, St Andrews, Fife, KY16 9TF St Andrews, Scotland, UK. Electronic address: yz10@st-andrews.ac.uk."
+                }
+            },
+            {
+                "clean": "Rogers S",
+                "family": "Rogers",
+                "given": "S N",
+                "affiliation": {
+                    "name": "Evidence-Based Practice Research Centre (EPRC), Faculty of Health and Social Care, Edge Hill University, St Helens Road, Ormskirk, L39 4QP; Consultant Regional Maxillofacial Unit, University Hospital Aintree, Liverpool, L9 1AE, UK. Electronic address: simonn.rogers@aintree.nhs.uk."
+                }
+            }
+        ],
+        "first_author": "Allen S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Communication",
+                    "major": "Y"
+                },
+                {
+                    "term": "Emotions",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Head and Neck Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Physician-Patient Relations",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Class",
+                    "major": "Y"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Br J Oral Maxillofac Surg",
+            "volume": "56",
+            "issue": "6"
+        },
+        "abstract": "[\"To examine associations between socioeconomic status and the extent to which patients with cancer of the head and neck expressed concerns to surgeons during routine follow-up clinics, we analysed audio recordings of 110 consultations with one consultant. We used the Verona Coding Definitions of Emotional Sequences (VRCoDES) to measure communication between the doctor and the patient, and grouped the English indices of multiple deprivation (IMD) 2015 scores into deciles to compare the VRCoDES with socioeconomic status. There were no significant correlations between IMD decile and the number and type of cues and concerns, or the type of response by the consultant, but there was a positive correlation between IMD decile and duration of appointment (r=0.288, p<0.01). When the duration of appointment was controlled for, there was a negative correlation between IMD decile and number of cues and concerns (r=-0.221, p<0.05). These findings question the assumption that socioeconomic status is associated with a patient's willingness to express concerns. Shorter consultations suggest that less time is spent responding to their concerns or building a rapport. Clinicians might find it advantageous to adopt strategies that will improve their understanding of these patients and help them to communicate more effectively.\"]",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Electronic address: Sarah.Allen@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

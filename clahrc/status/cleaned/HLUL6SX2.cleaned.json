@@ -1,0 +1,1007 @@
+{
+    "IDs": {
+        "zotero": "HLUL6SX2",
+        "DOI": "10.1080/09638237.2018.1437608",
+        "DOI_filename": "f38c3106e51d0377309b7e51b60034bb",
+        "PMID": "29436883",
+        "scopus": "2-s2.0-85041904715",
+        "hash": "3cdf08ed095a6abfa3da1e43b90bf92a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "HLUL6SX2",
+            "version": 151,
+            "itemType": "journalArticle",
+            "title": "Academic and non-academic predictors of student psychological distress: the role of social identity and loneliness",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanne",
+                    "lastName": "Worsley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Harrison Woods"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard P.",
+                    "lastName": "Bentall"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Mental Health",
+            "volume": "27",
+            "issue": "3",
+            "pages": "230-239",
+            "date": "2018-05-04",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Mental Health",
+            "language": "en",
+            "DOI": "10.1080/09638237.2018.1437608",
+            "ISSN": "0963-8237, 1360-0567",
+            "shortTitle": "Academic and non-academic predictors of student psychological distress",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09638237.2018.1437608",
+            "accessDate": "2020-09-10T17:08:42Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29436883",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:42Z",
+            "dateModified": "2020-09-15T12:56:41Z",
+            "pmid": "29436883"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        29
+                    ]
+                ],
+                "date-time": "2020-08-29T20:41:00Z",
+                "timestamp": 1598733660483
+            },
+            "reference-count": 49,
+            "publisher": "Informa UK Limited",
+            "issue": "3",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1080/09638237.2018.1437608",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        13
+                    ]
+                ],
+                "date-time": "2018-02-13T18:25:43Z",
+                "timestamp": 1518546343000
+            },
+            "page": "230-239",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 19,
+            "title": "Academic and non-academic predictors of student psychological distress: the role of social identity and loneliness",
+            "prefix": "10.1080",
+            "volume": "27",
+            "author": [
+                {
+                    "given": "Jason C.",
+                    "family": "McIntyre",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK,"
+                        }
+                    ]
+                },
+                {
+                    "given": "Joanne",
+                    "family": "Worsley",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK,"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK,"
+                        }
+                    ]
+                },
+                {
+                    "given": "Paula",
+                    "family": "Harrison Woods",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Student Administration and Support Division, University of Liverpool, Liverpool, UK, and"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard P.",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychology, Clinical Psychology Unit, The University of Sheffield, Sheffield, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        13
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1348/0007126042369802",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1177/0013164405282461",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.1108/02683940710733115",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1080/0309877032000161814",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1016/j.socscimed.2013.09.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1177/1088868314523839",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1177/1948550614543309",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "unstructured": "Department for Communities and Local Government. (2015). English Housing Survey. Available from: https://www.gov.uk/government/collections/english-housing-survey."
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1006/jesp.1995.1018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1016/S0749-3797(98)00017-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1097/00006199-199907000-00004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1016/j.jad.2016.01.010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1111/j.1464-0597.2008.00379.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "author": "Hayes AF.",
+                    "year": "2012",
+                    "volume-title": "PROCESS: A versatile computational tool for observed variable mediation, moderation, and conditional process modeling"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1097/00001504-200301000-00002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1080/13811118.2010.494133",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "author": "Hurst CS",
+                    "volume": "29",
+                    "first-page": "275",
+                    "year": "2013",
+                    "journal-title": "Stress Health"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.4324/9780203813195",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1097/YCO.0b013e32816ebc8c",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.2466/pr0.1986.59.2.415",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.3928/0048-5713-20020901-06",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1037/0022-0167.45.3.338",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.2466/12.02.PR0.114k10w7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1037/0022-3514.92.6.1068",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1111/spc3.12273",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1093/schbul/sbx110",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1348/147608308X398337",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1111/bjc.12143",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1348/014466503322528892",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "author": "Nie NH",
+                    "year": "1970",
+                    "volume-title": "SPSS: Statistical package for the social sciences"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1111/j.1360-3736.2004.00214.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1111/j.1943-278X.2010.00005.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "DOI": "10.1016/j.lindif.2014.11.018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0034",
+                    "author": "Ross SE",
+                    "volume": "61",
+                    "first-page": "841",
+                    "year": "1999",
+                    "journal-title": "Soc Psychol"
+                },
+                {
+                    "key": "CIT0035",
+                    "DOI": "10.1521/jscp.2017.36.5.396",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1176/ajp.2007.164.1.166",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "DOI": "10.1080/10615806.2011.634001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1001/archinte.166.10.1092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "DOI": "10.1002/da.22542",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0040",
+                    "author": "Tajfel H",
+                    "volume": "33",
+                    "first-page": "74",
+                    "year": "1979",
+                    "journal-title": "Soc Psychol Intergr Relat"
+                },
+                {
+                    "key": "CIT0041",
+                    "DOI": "10.1016/j.jbtep.2016.10.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "unstructured": "University Central Admission Service. (2015). End of cycle report 2015: UCASE analysis and research."
+                },
+                {
+                    "key": "CIT0043",
+                    "DOI": "10.1093/schbul/sbs050",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0044",
+                    "DOI": "10.1006/jvbe.1998.1661",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0045",
+                    "DOI": "10.1016/j.jpsychores.2013.02.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0046",
+                    "DOI": "10.1016/j.paid.2013.03.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0047",
+                    "unstructured": "YouGov. (2016). Available from: https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/obtomdatp4/Survey_Results.pdf [last accessed 15 Jun 2017]."
+                },
+                {
+                    "key": "CIT0048",
+                    "unstructured": "Youth Risk Behavior Surveilance System (YRBSS). (2015). Available from: https://www.cdc.gov/healthyyouth/data/yrbs/index.htm."
+                },
+                {
+                    "key": "CIT0049",
+                    "DOI": "10.1521/pedi.1989.3.1.10",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Journal of Mental Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09638237.2018.1437608",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        29
+                    ]
+                ],
+                "date-time": "2020-08-29T20:20:55Z",
+                "timestamp": 1598732455000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        13
+                    ]
+                ]
+            },
+            "references-count": 49,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            5,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1080/09638237.2018.1437608"
+            ],
+            "URL": "http://dx.doi.org/10.1080/09638237.2018.1437608",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0963-8237",
+                "1360-0567"
+            ],
+            "subject": [
+                "Psychiatry and Mental health",
+                "General Medicine"
+            ],
+            "container-title-short": "Journal of Mental Health",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmh20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmh20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2017-06-30",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2017-11-22",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2017-12-20",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2018-02-13",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Academic stress",
+                        "loneliness",
+                        "mental health",
+                        "social identity",
+                        "stress",
+                        "student mental health"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29436883",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "09",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "09",
+                    "Day": "24"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/09638237.2018.1437608"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "02",
+                            "Day": "13"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1360-0567",
+                        "JournalIssue": {
+                            "Volume": "27",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "Journal of mental health (Abingdon, England)",
+                        "ISOAbbreviation": "J Ment Health"
+                    },
+                    "ArticleTitle": "Academic and non-academic predictors of student psychological distress: the role of social identity and loneliness.",
+                    "Pagination": {
+                        "MedlinePgn": "230-239"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "University students experience high rates of stress and mental illness; however, few studies have comprehensively examined the impact of academic and non-academic stressors on student mental health. Similarly, there has been little focus on the role of social groups in protecting against mental distress in this young adult group.",
+                            "To identify the key social determinants of mental health symptoms in a student population.",
+                            "Using an online survey, we administered measures of social connectedness and mental health symptoms alongside academic and non-academic stressors to a large sample of UK university students.",
+                            "Loneliness was the strongest overall predictor of mental distress, while assessment stress was the most important academic predictor. Strong identification with university friendship groups was most protective against distress relative to other social identities, and the beneficial impact of identification on symptoms was mediated by reduced loneliness.",
+                            "The study highlights the benefits of establishing strong social connections at university and the importance of minimising stress associated with assessment tasks."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Worsley",
+                            "ForeName": "Joanne",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b Student Administration and Support Division , University of Liverpool , Liverpool , UK , and."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harrison Woods",
+                            "ForeName": "Paula",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c Department of Psychology, Clinical Psychology Unit , The University of Sheffield , Sheffield , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bentall",
+                            "ForeName": "Richard P",
+                            "Initials": "RP"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Ment Health",
+                    "NlmUniqueID": "9212352",
+                    "ISSNLinking": "0963-8237"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Friends",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Loneliness",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "etiology"
+                        ],
+                        "DescriptorName": "Mental Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Identification",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "etiology"
+                        ],
+                        "DescriptorName": "Stress, Psychological",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Students",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "2",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "2",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29436883",
+                    "10.1080/09638237.2018.1437608"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29436883)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829436883%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829436883%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041904715"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041904715?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041904715&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041904715&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041904715",
+                        "dc:identifier": "SCOPUS_ID:85041904715",
+                        "eid": "2-s2.0-85041904715",
+                        "dc:title": "Academic and non-academic predictors of student psychological distress: the role of social identity and loneliness",
+                        "dc:creator": "McIntyre J.",
+                        "prism:publicationName": "Journal of Mental Health",
+                        "prism:issn": "09638237",
+                        "prism:eIssn": "13600567",
+                        "prism:volume": "27",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "230-239",
+                        "prism:coverDate": "2018-05-04",
+                        "prism:coverDisplayDate": "4 May 2018",
+                        "prism:doi": "10.1080/09638237.2018.1437608",
+                        "citedby-count": "26",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29436883",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16727",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "HLUL6SX2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29436883"
+            }
+        },
+        "title": "Academic and non-academic predictors of student psychological distress: the role of social identity and loneliness.",
+        "full_author_list": [
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C",
+                "affiliation": {
+                    "name": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Worsley J",
+                "family": "Worsley",
+                "given": "Joanne",
+                "affiliation": {
+                    "name": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Harrison Woods P",
+                "family": "Harrison Woods",
+                "given": "Paula",
+                "affiliation": {
+                    "name": "b Student Administration and Support Division , University of Liverpool , Liverpool , UK , and."
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "Richard P",
+                "affiliation": {
+                    "name": "c Department of Psychology, Clinical Psychology Unit , The University of Sheffield , Sheffield , UK."
+                }
+            }
+        ],
+        "first_author": "McIntyre J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Friends",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Loneliness",
+                    "major": "Y"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Identification",
+                    "major": "Y"
+                },
+                {
+                    "term": "Stress, Psychological",
+                    "major": "N"
+                },
+                {
+                    "term": "Students",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Ment Health",
+            "volume": "27",
+            "issue": "3"
+        },
+        "abstract": "['University students experience high rates of stress and mental illness; however, few studies have comprehensively examined the impact of academic and non-academic stressors on student mental health. Similarly, there has been little focus on the role of social groups in protecting against mental distress in this young adult group.', 'To identify the key social determinants of mental health symptoms in a student population.', 'Using an online survey, we administered measures of social connectedness and mental health symptoms alongside academic and non-academic stressors to a large sample of UK university students.', 'Loneliness was the strongest overall predictor of mental distress, while assessment stress was the most important academic predictor. Strong identification with university friendship groups was most protective against distress relative to other social identities, and the beneficial impact of identification on symptoms was mediated by reduced loneliness.', 'The study highlights the benefits of establishing strong social connections at university and the importance of minimising stress associated with assessment tasks.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "26"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Institute of Psychology, Health and Society , University of Liverpool , Liverpool , UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

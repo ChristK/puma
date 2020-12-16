@@ -1,0 +1,378 @@
+{
+    "IDs": {
+        "zotero": "BTPY946X",
+        "DOI": "10.1016/j.gaceta.2016.11.003",
+        "DOI_filename": "a9d7ad6e3b0e0733c4feec7b9147407c",
+        "PMID": "",
+        "scopus": "2-s2.0-85011279431",
+        "hash": "4c54fcf0d4b105c0874bf5660df447a9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "BTPY946X",
+            "version": 107,
+            "itemType": "journalArticle",
+            "title": "Problematizando la desinformaci\u00f3n en las campa\u00f1as de concienciaci\u00f3n sobre el c\u00e1ncer de mama",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Porroche-Escudero"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Gaceta Sanitaria",
+            "volume": "31",
+            "issue": "3",
+            "pages": "250-252",
+            "date": "05/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Gaceta Sanitaria",
+            "language": "es",
+            "DOI": "10.1016/j.gaceta.2016.11.003",
+            "ISSN": "02139111",
+            "shortTitle": "",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0213911117300043",
+            "accessDate": "2020-09-10T17:09:00Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/IB2Z9Y7E"
+            },
+            "dateAdded": "2020-09-10T17:09:00Z",
+            "dateModified": "2020-09-11T12:47:02Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        28
+                    ]
+                ],
+                "date-time": "2020-03-28T03:00:46Z",
+                "timestamp": 1585364446631
+            },
+            "reference-count": 22,
+            "publisher": "Elsevier BV",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                5,
+                                1
+                            ]
+                        ],
+                        "date-time": "2017-05-01T00:00:00Z",
+                        "timestamp": 1493596800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                1,
+                                12
+                            ]
+                        ],
+                        "date-time": "2017-01-12T00:00:00Z",
+                        "timestamp": 1484179200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.es",
+                    "elsevier.es",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        5
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.gaceta.2016.11.003",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        2,
+                        3
+                    ]
+                ],
+                "date-time": "2017-02-03T15:15:37Z",
+                "timestamp": 1486134937000
+            },
+            "page": "250-252",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Problematizando la desinformaci\u00f3n en las campa\u00f1as de concienciaci\u00f3n sobre el c\u00e1ncer de mama",
+            "prefix": "10.1016",
+            "volume": "31",
+            "author": [
+                {
+                    "given": "Ana",
+                    "family": "Porroche-Escudero",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Gaceta Sanitaria",
+            "original-title": [],
+            "language": "es",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0213911117300043?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0213911117300043?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        18
+                    ]
+                ],
+                "date-time": "2019-04-18T12:13:41Z",
+                "timestamp": 1555589621000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 22,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "S0213911117300043"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.gaceta.2016.11.003",
+            "relation": {},
+            "ISSN": [
+                "0213-9111"
+            ],
+            "container-title-short": "Gaceta Sanitaria",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Problematizando la desinformaci\u00f3n en las campa\u00f1as de concienciaci\u00f3n sobre el c\u00e1ncer de mama",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Gaceta Sanitaria",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.gaceta.2016.11.003",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2017 SESPAS. Published by Elsevier Espa\u00f1a, S.L.U.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1016/j.gaceta.2016.11.003)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1016%2Fj.gaceta.2016.11.003%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1016%2Fj.gaceta.2016.11.003%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011279431"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011279431?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85011279431&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85011279431&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0213911117300043"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85011279431",
+                        "dc:identifier": "SCOPUS_ID:85011279431",
+                        "eid": "2-s2.0-85011279431",
+                        "dc:title": "Problematising disinformation in breast cancer awareness campaigns",
+                        "dc:creator": "Porroche-Escudero A.",
+                        "prism:publicationName": "Gaceta Sanitaria",
+                        "prism:issn": "02139111",
+                        "prism:eIssn": "15781283",
+                        "prism:volume": "31",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "250-252",
+                        "prism:coverDate": "2017-05-01",
+                        "prism:coverDisplayDate": "May 2017",
+                        "prism:doi": "10.1016/j.gaceta.2016.11.003",
+                        "pii": "S0213911117300043",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "The Division of Health Research, Lancaster University",
+                                "affiliation-city": "Lancaster",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28162756",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "60803",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "BTPY946X.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Problematizando la desinformaci\u00f3n en las campa\u00f1as de concienciaci\u00f3n sobre el c\u00e1ncer de mama",
+        "full_author_list": [
+            {
+                "clean": "Porroche-Escudero A",
+                "family": "Porroche-Escudero",
+                "given": "Ana",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Porroche-Escudero A",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Gaceta Sanitaria",
+            "volume": "31",
+            "issue": "3"
+        },
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "The Division of Health Research, Lancaster University",
+            "clean_institute": "University of Lancaster",
+            "latitude": "54.0106601",
+            "longitude": "-2.788237",
+            "country": "United Kingdom",
+            "postal_town": "Lancaster"
+        }
+    }
+}

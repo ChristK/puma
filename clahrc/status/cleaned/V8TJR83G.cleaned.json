@@ -1,0 +1,1456 @@
+{
+    "IDs": {
+        "zotero": "V8TJR83G",
+        "DOI": "10.1002/14651858.CD007286.pub4",
+        "DOI_filename": "c18b20f4518b5806e5847ff79ff4547d",
+        "PMID": "29791030",
+        "scopus": "2-s2.0-85047446393",
+        "hash": "4b7044131acdb40a13a760af71b2b1f3"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "V8TJR83G",
+            "version": 188,
+            "itemType": "journalArticle",
+            "title": "Antiepileptic drugs as prophylaxis for postcraniotomy seizures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Janette",
+                    "lastName": "Greenhalgh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Weston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yenal",
+                    "lastName": "Dundar"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2018-05-23",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD007286.pub4",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD007286.pub4",
+            "accessDate": "2020-09-10T17:09:39Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29791030",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:39Z",
+            "dateModified": "2020-09-15T14:32:11Z",
+            "pmid": "29791030"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        15
+                    ]
+                ],
+                "date-time": "2020-03-15T09:40:11Z",
+                "timestamp": 1584265211120
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2018,
+                                5,
+                                23
+                            ]
+                        ],
+                        "date-time": "2018-05-23T00:00:00Z",
+                        "timestamp": 1527033600000
+                    },
+                    "DOI": "10.1002/14651858.cd007286.pub3",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 43,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd007286.pub4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        23
+                    ]
+                ],
+                "date-time": "2018-05-23T14:51:27Z",
+                "timestamp": 1527087087000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Antiepileptic drugs as prophylaxis for postcraniotomy seizures",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Janette",
+                    "family": "Greenhalgh",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Liverpool Reviews and Implementation Group; Sherrington Building Ashton Street Liverpool UK L69 3GE"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Weston",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Yenal",
+                    "family": "Dundar",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Liverpool Reviews and Implementation Group; Sherrington Building Ashton Street Liverpool UK L69 3GE"
+                        },
+                        {
+                            "name": "Mersey Care NHS Foundation Trust; Hesketh Centre Liverpool Merseyside UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        23
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "474",
+                    "DOI": "10.1136/jnnp.67.4.474",
+                    "article-title": "Comparative double blind clinical trial of phenytoin and sodium valproate as anticonvulsant prophylaxis after craniotomy: efficacy, tolerability, and cognitive effects",
+                    "volume": "67",
+                    "author": "Beenen",
+                    "year": "1999",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "753",
+                    "DOI": "10.1136/jnnp.55.9.753",
+                    "article-title": "Do prophylactic anticonvulsant drugs alter the pattern of seizures after craniotomy?",
+                    "volume": "55",
+                    "author": "Foy",
+                    "year": "1992",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "3-4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "253",
+                    "DOI": "10.1007/BF01401812",
+                    "article-title": "The effectiveness of prophylactic anticonvulsants following neurosurgery",
+                    "volume": "69",
+                    "author": "Shaw",
+                    "year": "1983",
+                    "journal-title": "Acta Neurochirurgica"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "47",
+                    "DOI": "10.1007/BF01420191",
+                    "article-title": "Influence of surgery and antiepileptic drugs on seizures symptomatic of cerebral tumours",
+                    "volume": "103",
+                    "author": "Franceschetti",
+                    "year": "1990",
+                    "journal-title": "Acta Neurochirurgica"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "45",
+                    "DOI": "10.1111/j.1528-1167.2012.03563.x",
+                    "article-title": "Tolerability, safety, and side effects of levetiracetam versus phenytoin in intravenous and total prophylactic regimen among craniotomy patients: a prospective randomized study",
+                    "volume": "54",
+                    "author": "Fuller",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1158",
+                    "DOI": "10.1136/jnnp-2014-308584",
+                    "article-title": "Levetiracetam versus phenytoin for seizure prophylaxis during and early after craniotomy for brain tumours: a phase II prospective, randomised study",
+                    "volume": "86",
+                    "author": "Iuchi",
+                    "year": "2015",
+                    "journal-title": "Journal of Neurology, Neurosurgery & Psychiatry"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "361",
+                    "DOI": "10.1016/0090-3019(89)90067-0",
+                    "article-title": "Prophylactic anticonvulsants for prevention of immediate and early postcraniotomy seizures",
+                    "volume": "31",
+                    "author": "Lee",
+                    "year": "1989",
+                    "journal-title": "Surgical Neurology"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "647",
+                    "DOI": "10.7887/jcns.8.647",
+                    "article-title": "A randomized controlled trial of zonisamide in postoperative epilepsy: a report of the Cooperative Group Study",
+                    "volume": "8",
+                    "author": "Nakamura",
+                    "year": "1999",
+                    "journal-title": "Japanese Journal of Neurosurgery"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "672",
+                    "DOI": "10.3171/jns.1983.58.5.0672",
+                    "article-title": "Phenytoin and postoperative epilepsy. A double-blind study",
+                    "volume": "58",
+                    "author": "North",
+                    "year": "1983",
+                    "journal-title": "Journal of Neurosurgery"
+                },
+                {
+                    "issue": "8165",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "384",
+                    "DOI": "10.1016/S0140-6736(80)90941-1",
+                    "article-title": "Postoperative epilepsy: a double-blind trial of phenytoin after craniotomy",
+                    "volume": "1",
+                    "author": "North",
+                    "year": "1980",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "873",
+                    "DOI": "10.3171/2012.12.JNS111970",
+                    "article-title": "A prospective randomized trial of perioperative seizure prophylaxis in patients with intraparenchymal brain tumours",
+                    "volume": "118",
+                    "author": "Wu",
+                    "year": "2013",
+                    "journal-title": "Journal of Neurosurgery"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0012|cit12",
+                    "first-page": "231",
+                    "article-title": "Phenytoin or sodium valproate for prophylaxis of postoperative epilepsy: a randomised comparison",
+                    "volume": "26",
+                    "author": "Zhang",
+                    "year": "2000",
+                    "journal-title": "Chinese Journal of Nervous and Mental Diseases"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "863",
+                    "DOI": "10.1227/00006123-199511000-00003",
+                    "article-title": "Short-term perioperative anticonvulsant prophylaxis for the surgical treatment of low-risk patients with intracranial aneurysms",
+                    "volume": "37",
+                    "author": "Baker",
+                    "year": "1995",
+                    "journal-title": "Neurosurgery"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "290",
+                    "DOI": "10.1227/00006123-198503000-00002",
+                    "article-title": "Postoperative prophylactic anticonvulsant therapy in cerebral gliomas",
+                    "volume": "16",
+                    "author": "Boarini",
+                    "year": "1985",
+                    "journal-title": "Neurosurgery"
+                },
+                {
+                    "issue": "3-4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0015|cit15",
+                    "first-page": "207",
+                    "article-title": "Early postoperative seizures and endovenous phenytoin. Preliminary clinical data",
+                    "volume": "40",
+                    "author": "Santis",
+                    "year": "1996",
+                    "journal-title": "Journal of Neurosurgical Sciences"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "175",
+                    "DOI": "10.1046/j.1528-1157.2002.24801.x",
+                    "article-title": "Add-on phenytoin fails to prevent early seizures after surgery for supratentorial brain tumors: a randomized controlled study",
+                    "volume": "43",
+                    "author": "Santis",
+                    "year": "2002",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1257",
+                    "DOI": "10.3171/2009.6.JNS0928",
+                    "article-title": "Preoperative antiepileptic drug administration and the incidence of postoperative seizures following bur hole-treated chronic subdural hematoma",
+                    "volume": "111",
+                    "author": "Grobelny",
+                    "year": "2009",
+                    "journal-title": "Journal of Neurosurgery"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "828",
+                    "DOI": "10.2176/nmc.39.828",
+                    "article-title": "Postoperative anticonvulsant prophylaxis for patients treated for cerebral aneurysms",
+                    "volume": "39",
+                    "author": "Hayashi",
+                    "year": "1999",
+                    "journal-title": "Neurologia Medico-Chirurgica"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "274",
+                    "DOI": "10.1007/BF01411737",
+                    "article-title": "Peri-operative prophylaxis with phenytoin: dosage and therapeutic plasma levels",
+                    "volume": "138",
+                    "author": "Levati",
+                    "year": "1996",
+                    "journal-title": "Acta Neurochirurgica"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "349",
+                    "DOI": "10.1007/s11060-008-9781-4",
+                    "article-title": "Safety and feasibility of switching from phenytoin to levetiracetam monotherapy for glioma-related seizure control following craniotomy: a randomized phase II pilot study",
+                    "volume": "93",
+                    "author": "Lim",
+                    "year": "2009",
+                    "journal-title": "Journal of Neuro-Oncology"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "589",
+                    "DOI": "10.2176/nmc.43.589",
+                    "article-title": "Postoperative seizures: epidemiology, pathology, and prophylaxis",
+                    "volume": "43",
+                    "author": "Manaka",
+                    "year": "2003",
+                    "journal-title": "Neurologia Medico-Chirurgica (Tokyo)"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "755",
+                    "DOI": "10.1007/BF02229161",
+                    "article-title": "Phenobarbital in the prophylaxis of late posttraumatic seizures",
+                    "volume": "13",
+                    "author": "Murri",
+                    "year": "1992",
+                    "journal-title": "Italian Journal of Neurological Sciences"
+                },
+                {
+                    "issue": "3 Suppl",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0023|cit23",
+                    "first-page": "269",
+                    "article-title": "The incidence of postoperative epilepsy and prophylactic anticonvulsants in patients with intracranial aneurysm",
+                    "volume": "12",
+                    "author": "Notani",
+                    "year": "1984",
+                    "journal-title": "No Shinkei Geka"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "221",
+                    "DOI": "10.1177/014107689108400412",
+                    "article-title": "Epilepsy after craniotomy and the place of prophylactic anticonvulsant drugs: discussion paper",
+                    "volume": "84",
+                    "author": "Shaw",
+                    "year": "1991",
+                    "journal-title": "Journal of the Royal Society of Medicine"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "497",
+                    "DOI": "10.1056/NEJM199008233230801",
+                    "article-title": "A randomized, double-blind study of phenytoin for the prevention of post-traumatic seizures",
+                    "volume": "323",
+                    "author": "Temkin",
+                    "year": "1990",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "593",
+                    "DOI": "10.3171/jns.1999.91.4.0593",
+                    "article-title": "Valproate therapy for prevention of posttraumatic seizures: a randomized trial",
+                    "volume": "91",
+                    "author": "Temkin",
+                    "year": "1999",
+                    "journal-title": "Journal of Neurosurgery"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "36",
+                    "DOI": "10.1007/BF01456348",
+                    "article-title": "Phenytoin plasma levels after intraoperative administration, for the prevention of post-craniotomy seizures",
+                    "volume": "84",
+                    "author": "Tsolaki",
+                    "year": "1987",
+                    "journal-title": "Acta Neurochirurgica"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "693",
+                    "DOI": "10.1002/ana.10603",
+                    "article-title": "Antiepileptic drugs as a possible neuroprotective strategy in brain ischemia",
+                    "volume": "53",
+                    "author": "Calabresi",
+                    "year": "2003",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0029|cit29",
+                    "author": "Deeks",
+                    "year": "2011. Available from handbook.cochrane.org",
+                    "article-title": "Cochrane Statistical Methods Group. Chapter 9: Analysing data and undertaking meta-analyses",
+                    "volume-title": "Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011)"
+                },
+                {
+                    "issue": "3-4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "253",
+                    "DOI": "10.1007/BF01808441",
+                    "article-title": "The incidence of postoperative seizures",
+                    "volume": "55",
+                    "author": "Foy",
+                    "year": "1981",
+                    "journal-title": "Acta Neurochirurgica"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1490",
+                    "DOI": "10.1136/bmj.328.7454.1490",
+                    "article-title": "Grading quality of evidence and strength of recommendations",
+                    "volume": "328",
+                    "author": "GRADE Working Group",
+                    "year": "2004",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1539",
+                    "DOI": "10.1002/sim.1186",
+                    "article-title": "Quantifying heterogeneity in a meta-analysis",
+                    "volume": "21",
+                    "author": "Higgins",
+                    "year": "2002",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0033|cit33",
+                    "unstructured": "Higgins JPT Altman DG Sterne JAC (editors) Chapter 8: Assessing risk of bias in included studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "47",
+                    "DOI": "10.1016/j.jocn.2017.05.020",
+                    "article-title": "The role of prophylactic antiepileptic drugs for seizure prophylaxis in meningioma surgery: a systematic review",
+                    "volume": "43",
+                    "author": "Islim",
+                    "year": "2017",
+                    "journal-title": "Journal of Clinical Neuroscience"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "291",
+                    "DOI": "10.1016/S1059-1311(96)80023-9",
+                    "article-title": "Effectiveness of antiepileptic prophylaxis used with supratentorial craniotomies: a meta-analysis",
+                    "volume": "5",
+                    "author": "Kuijlen",
+                    "year": "1996",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0036|cit36",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JP, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "285",
+                    "DOI": "10.1017/S0317167100022757",
+                    "article-title": "Seizures following intracranial surgery: incidence in the first post-operative week",
+                    "volume": "7",
+                    "author": "Matthew",
+                    "year": "1980",
+                    "journal-title": "Canadian Journal of Neurological Sciences"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0038|cit38",
+                    "unstructured": "Higgins JPT Lasserson T Chandler J Tovey D Churchill R Methodological Expectations of Cochrane Intervention Reviews Cochrane: London, Version 1.02 2016"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0039|cit39",
+                    "unstructured": "Sch\u00fcnemann HJ Oxman AD Higgins JPT Vist GE Glasziou P Guyatt GH Chapter 11: Presenting results and \u2018Summary of findings' tables. In: Higgins JPT, Green S (editors), Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "105",
+                    "DOI": "10.1046/j.1535-7597.2002.00038.x",
+                    "article-title": "Prophylactic anticonvulsants after neurosurgery",
+                    "volume": "2",
+                    "author": "Temkin",
+                    "year": "2002",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0041|cit41",
+                    "author": "Pulman",
+                    "issue": "2",
+                    "year": "2013",
+                    "article-title": "Antiepileptic drugs as prophylaxis for post-craniotomy seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007286.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0042|cit42",
+                    "author": "Vojvodic",
+                    "issue": "3",
+                    "year": "2008",
+                    "article-title": "Antiepileptic drugs as prophylaxis for postcraniotomy seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007286",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007286.pub4-BIB0043|cit43",
+                    "author": "Weston",
+                    "issue": "3",
+                    "year": "2015",
+                    "article-title": "Antiepileptic drugs as prophylaxis for post-craniotomy seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007286.pub3",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD007286.pub4",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        15
+                    ]
+                ],
+                "date-time": "2020-03-15T09:07:32Z",
+                "timestamp": 1584263252000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 43,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD007286.pub4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29791030",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "07",
+                    "Day": "09"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "11"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD007286.pub4"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "05",
+                            "Day": "23"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "5",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "05",
+                                "Day": "23"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Antiepileptic drugs as prophylaxis for postcraniotomy seizures.",
+                    "Pagination": {
+                        "MedlinePgn": "CD007286"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the Cochrane Review previously published in Issue 3, 2015.The incidence of seizures following supratentorial craniotomy for non-traumatic pathology has been estimated to be between 15% to 20%; however, the risk of experiencing a seizure appears to vary from 3% to 92% over a five-year period. Postoperative seizures can precipitate the development of epilepsy; seizures are most likely to occur within the first month of cranial surgery. The use of antiepileptic drugs (AEDs) administered pre- or postoperatively to prevent seizures following cranial surgery has been investigated in a number of randomised controlled trials (RCTs).",
+                            "To determine the efficacy and safety of AEDs when used prophylactically in people undergoing craniotomy and to examine which AEDs are most effective.",
+                            "For the latest update we searched the following databases on 26 June 2017: Cochrane Epilepsy Group Specialized Register, the CENTRAL, MEDLINE, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP). We did not apply any language restrictions.",
+                            "We included RCTs of people with no history of epilepsy who were undergoing craniotomy for either therapeutic or diagnostic reasons. We included trials with adequate randomisation methods and concealment; these could either be blinded or unblinded parallel trials. We did not stipulate a minimum treatment period, and we included trials using active drugs or placebo as a control group.",
+                            "Three review authors (JW, JG, YD) independently selected trials for inclusion and performed data extraction and risk of bias assessments. We resolved any disagreements through discussion. Outcomes investigated included the number of participants experiencing seizures (early (occurring within first week following craniotomy), and late (occurring after first week following craniotomy)), the number of deaths and the number of people experiencing disability and adverse effects. Due to the heterogeneous nature of the trials, we did not combine data from the included trials in a meta-analysis; we presented the findings of the review in narrative format. Visual comparisons of outcomes are presented in forest plots.",
+                            "We included 10 RCTs (N = 1815), which were published between 1983 and 2015. Three trials compared a single AED (phenytoin) with placebo or no treatment. One three-armed trial compared two AEDs (phenytoin, carbamazepine) with no treatment. A second three-armed trial compared phenytoin, phenobarbital with no treatment. Of these five trials comparing AEDs with placebo or no treatment, two trials reported a statistically significant advantage for AED treatment compared to controls for early seizure occurrence; all other comparisons showed no clear or statistically significant differences between AEDs and control treatment. None of the trials that were head-to-head comparisons of AEDs (phenytoin versus sodium valproate, phenytoin versus phenobarbital, levetiracetam versus phenytoin, zonisamide versus phenobarbital) reported any statistically significant differences between treatments for either early or late seizure occurrence.Incidences of death were reported in only five trials. One trial reported statistically significantly fewer deaths in the carbamazepine and no-treatment groups compared with the phenytoin group after 24 months of treatment, but not after six months of treatment. Incidences of adverse effects of treatment were poorly reported; however, three trials did show that significantly more adverse events occurred on phenytoin compared to valproate, placebo, or no treatment. No trials reported any results relating to functional outcomes such as disability.We considered the evidence to be of low quality for all reported outcomes due to methodological issues and variability of comparisons made in the trials.",
+                            "There is limited, low-quality evidence to suggest that AED treatment administered prophylactically is either effective or not effective in the prevention of postcraniotomy (early or late) seizures. The current evidence base is limited due to the different methodologies employed in the trials and inconsistencies in the reporting of outcomes including deaths and adverse events. Further evidence from good-quality, contemporary trials is required in order to assess the clinical effectiveness of prophylactic AED treatment compared to placebo or no treatment, or other AEDs in preventing postcraniotomy seizures in this select group of patients."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Reviews and Implementation Group, University of Liverpool, Sherrington Building, Ashton Street, Liverpool, UK, L69 3GE."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Greenhalgh",
+                            "ForeName": "Janette",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Weston",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Dundar",
+                            "ForeName": "Yenal",
+                            "Initials": "Y"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Nevitt",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Isoxazoles"
+                    },
+                    {
+                        "RegistryNumber": "33CM23913M",
+                        "NameOfSubstance": "Carbamazepine"
+                    },
+                    {
+                        "RegistryNumber": "44YRR34555",
+                        "NameOfSubstance": "Levetiracetam"
+                    },
+                    {
+                        "RegistryNumber": "459384H98V",
+                        "NameOfSubstance": "Zonisamide"
+                    },
+                    {
+                        "RegistryNumber": "614OI1Z5WI",
+                        "NameOfSubstance": "Valproic Acid"
+                    },
+                    {
+                        "RegistryNumber": "6158TKW0C5",
+                        "NameOfSubstance": "Phenytoin"
+                    },
+                    {
+                        "RegistryNumber": "YQE403BP4D",
+                        "NameOfSubstance": "Phenobarbital"
+                    },
+                    {
+                        "RegistryNumber": "ZH516LNZ10",
+                        "NameOfSubstance": "Piracetam"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2015 Mar 04;(3):CD007286",
+                        "PMID": "25738821"
+                    },
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2020 Apr 28;4:CD007286",
+                        "PMID": "32343399"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Carbamazepine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Craniotomy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Isoxazoles",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Levetiracetam",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Phenobarbital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Phenytoin",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "analogs & derivatives",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Piracetam",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "etiology",
+                            "mortality",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Postoperative Complications",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "etiology",
+                            "mortality",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Valproic Acid",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Zonisamide",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1999 Oct;67(4):474-80",
+                                "ArticleIdList": [
+                                    "10486394"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurosurg. 1999 Oct;91(4):593-600",
+                                "ArticleIdList": [
+                                    "10507380"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Med Chir (Tokyo). 1999 Nov;39(12):828-33; discussion 833-4",
+                                "ArticleIdList": [
+                                    "10639808"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2002 Feb;43(2):175-82",
+                                "ArticleIdList": [
+                                    "11903465"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2002 Jun 15;21(11):1539-58",
+                                "ArticleIdList": [
+                                    "12111919"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2003 Jun;53(6):693-702",
+                                "ArticleIdList": [
+                                    "12783414"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1992 Sep;55(9):753-7",
+                                "ArticleIdList": [
+                                    "1402964"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Med Chir (Tokyo). 2003 Dec;43(12):589-600; discussion 600",
+                                "ArticleIdList": [
+                                    "14723265"
+                                ]
+                            },
+                            {
+                                "Citation": "Ital J Neurol Sci. 1992 Dec;13(9):755-60",
+                                "ArticleIdList": [
+                                    "1483858"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2004 Jun 19;328(7454):1490",
+                                "ArticleIdList": [
+                                    "15205295"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Curr. 2002 Jul;2(4):105-107",
+                                "ArticleIdList": [
+                                    "15309132"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurooncol. 2009 Jul;93(3):349-54",
+                                "ArticleIdList": [
+                                    "19169651"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurosurg. 2009 Dec;111(6):1257-62",
+                                "ArticleIdList": [
+                                    "19558304"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 1991 Apr;84(4):221-3",
+                                "ArticleIdList": [
+                                    "2027149"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1990 Aug 23;323(8):497-502",
+                                "ArticleIdList": [
+                                    "2115976"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Jan;54(1):45-57",
+                                "ArticleIdList": [
+                                    "22738092"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurosurg. 2013 Apr;118(4):873-883",
+                                "ArticleIdList": [
+                                    "23394340"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Feb 28;(2):CD007286",
+                                "ArticleIdList": [
+                                    "23450575"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurochir (Wien). 1990;103(1-2):47-51",
+                                "ArticleIdList": [
+                                    "2360466"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2008;(3):null",
+                                "ArticleIdList": [
+                                    "25419177"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2015 Oct;86(10):1158-62",
+                                "ArticleIdList": [
+                                    "25511789"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Mar 04;(3):CD007286",
+                                "ArticleIdList": [
+                                    "25738821"
+                                ]
+                            },
+                            {
+                                "Citation": "Surg Neurol. 1989 May;31(5):361-4",
+                                "ArticleIdList": [
+                                    "2711309"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurosci. 2017 Sep;43:47-53",
+                                "ArticleIdList": [
+                                    "28625584"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurosurgery. 1985 Mar;16(3):290-2",
+                                "ArticleIdList": [
+                                    "2984599"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurochir (Wien). 1987;84(1-2):36-8",
+                                "ArticleIdList": [
+                                    "3825607"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1980 Feb 23;1(8165):384-6",
+                                "ArticleIdList": [
+                                    "6101843"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurosurg. 1983 May;58(5):672-7",
+                                "ArticleIdList": [
+                                    "6339686"
+                                ]
+                            },
+                            {
+                                "Citation": "No Shinkei Geka. 1984 Mar;12(3 Suppl):269-74",
+                                "ArticleIdList": [
+                                    "6431306"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurochir (Wien). 1983;69(3-4):253-8",
+                                "ArticleIdList": [
+                                    "6681517"
+                                ]
+                            },
+                            {
+                                "Citation": "Can J Neurol Sci. 1980 Nov;7(4):285-90",
+                                "ArticleIdList": [
+                                    "7214242"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurochir (Wien). 1981;55(3-4):253-64",
+                                "ArticleIdList": [
+                                    "7234531"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurosurgery. 1995 Nov;37(5):863-70; discussion 870-1",
+                                "ArticleIdList": [
+                                    "8559333"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurochir (Wien). 1996;138(3):274-8; discussion 278-9",
+                                "ArticleIdList": [
+                                    "8861695"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 1996 Dec;5(4):291-8",
+                                "ArticleIdList": [
+                                    "8952015"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurosurg Sci. 1996 Sep-Dec;40(3-4):207-12",
+                                "ArticleIdList": [
+                                    "9165428"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29791030",
+                    "10.1002/14651858.CD007286.pub4",
+                    "PMC6494638"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29791030)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829791030%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829791030%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047446393"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047446393?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047446393&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047446393&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047446393",
+                        "dc:identifier": "SCOPUS_ID:85047446393",
+                        "eid": "2-s2.0-85047446393",
+                        "dc:title": "Antiepileptic drugs as prophylaxis for postcraniotomy seizures",
+                        "dc:creator": "Greenhalgh J.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2018",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-05-23",
+                        "prism:coverDisplayDate": "23 May 2018",
+                        "prism:doi": "10.1002/14651858.CD007286.pub4",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29791030",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD007286",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "V8TJR83G.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29791030"
+            }
+        },
+        "title": "Antiepileptic drugs as prophylaxis for postcraniotomy seizures.",
+        "full_author_list": [
+            {
+                "clean": "Greenhalgh J",
+                "family": "Greenhalgh",
+                "given": "Janette",
+                "affiliation": {
+                    "name": "Liverpool Reviews and Implementation Group, University of Liverpool, Sherrington Building, Ashton Street, Liverpool, UK, L69 3GE."
+                }
+            },
+            {
+                "clean": "Weston J",
+                "family": "Weston",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Dundar Y",
+                "family": "Dundar",
+                "given": "Yenal",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Nevitt S",
+                "family": "Nevitt",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Greenhalgh J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Carbamazepine",
+                    "major": "N"
+                },
+                {
+                    "term": "Craniotomy",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Isoxazoles",
+                    "major": "N"
+                },
+                {
+                    "term": "Levetiracetam",
+                    "major": "N"
+                },
+                {
+                    "term": "Phenobarbital",
+                    "major": "N"
+                },
+                {
+                    "term": "Phenytoin",
+                    "major": "N"
+                },
+                {
+                    "term": "Piracetam",
+                    "major": "N"
+                },
+                {
+                    "term": "Postoperative Complications",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Valproic Acid",
+                    "major": "N"
+                },
+                {
+                    "term": "Zonisamide",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "5",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the Cochrane Review previously published in Issue 3, 2015.The incidence of seizures following supratentorial craniotomy for non-traumatic pathology has been estimated to be between 15% to 20%; however, the risk of experiencing a seizure appears to vary from 3% to 92% over a five-year period. Postoperative seizures can precipitate the development of epilepsy; seizures are most likely to occur within the first month of cranial surgery. The use of antiepileptic drugs (AEDs) administered pre- or postoperatively to prevent seizures following cranial surgery has been investigated in a number of randomised controlled trials (RCTs).', 'To determine the efficacy and safety of AEDs when used prophylactically in people undergoing craniotomy and to examine which AEDs are most effective.', 'For the latest update we searched the following databases on 26 June 2017: Cochrane Epilepsy Group Specialized Register, the CENTRAL, MEDLINE, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP). We did not apply any language restrictions.', 'We included RCTs of people with no history of epilepsy who were undergoing craniotomy for either therapeutic or diagnostic reasons. We included trials with adequate randomisation methods and concealment; these could either be blinded or unblinded parallel trials. We did not stipulate a minimum treatment period, and we included trials using active drugs or placebo as a control group.', 'Three review authors (JW, JG, YD) independently selected trials for inclusion and performed data extraction and risk of bias assessments. We resolved any disagreements through discussion. Outcomes investigated included the number of participants experiencing seizures (early (occurring within first week following craniotomy), and late (occurring after first week following craniotomy)), the number of deaths and the number of people experiencing disability and adverse effects. Due to the heterogeneous nature of the trials, we did not combine data from the included trials in a meta-analysis; we presented the findings of the review in narrative format. Visual comparisons of outcomes are presented in forest plots.', 'We included 10 RCTs (N = 1815), which were published between 1983 and 2015. Three trials compared a single AED (phenytoin) with placebo or no treatment. One three-armed trial compared two AEDs (phenytoin, carbamazepine) with no treatment. A second three-armed trial compared phenytoin, phenobarbital with no treatment. Of these five trials comparing AEDs with placebo or no treatment, two trials reported a statistically significant advantage for AED treatment compared to controls for early seizure occurrence; all other comparisons showed no clear or statistically significant differences between AEDs and control treatment. None of the trials that were head-to-head comparisons of AEDs (phenytoin versus sodium valproate, phenytoin versus phenobarbital, levetiracetam versus phenytoin, zonisamide versus phenobarbital) reported any statistically significant differences between treatments for either early or late seizure occurrence.Incidences of death were reported in only five trials. One trial reported statistically significantly fewer deaths in the carbamazepine and no-treatment groups compared with the phenytoin group after 24 months of treatment, but not after six months of treatment. Incidences of adverse effects of treatment were poorly reported; however, three trials did show that significantly more adverse events occurred on phenytoin compared to valproate, placebo, or no treatment. No trials reported any results relating to functional outcomes such as disability.We considered the evidence to be of low quality for all reported outcomes due to methodological issues and variability of comparisons made in the trials.', 'There is limited, low-quality evidence to suggest that AED treatment administered prophylactically is either effective or not effective in the prevention of postcraniotomy (early or late) seizures. The current evidence base is limited due to the different methodologies employed in the trials and inconsistencies in the reporting of outcomes including deaths and adverse events. Further evidence from good-quality, contemporary trials is required in order to assess the clinical effectiveness of prophylactic AED treatment compared to placebo or no treatment, or other AEDs in preventing postcraniotomy seizures in this select group of patients.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Liverpool Reviews and Implementation Group, University of Liverpool, Sherrington Building, Ashton Street, Liverpool, UK, L69 3GE.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

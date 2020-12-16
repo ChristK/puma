@@ -1,0 +1,441 @@
+{
+    "IDs": {
+        "zotero": "2FZS7CI5",
+        "DOI": "10.1332/175982718X15299593316586",
+        "DOI_filename": "c72b016f2a06f95b442d2166044deb56",
+        "PMID": "",
+        "scopus": "2-s2.0-85055651212",
+        "hash": "969157a3c1a0be33fa1dc93cd84562c1"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "2FZS7CI5",
+            "version": 87,
+            "itemType": "journalArticle",
+            "title": "Tackling vulnerability to debt. Affordable lending alternatives and financial education: an evidence review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Mosedale"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Glenn",
+                    "lastName": "Simpson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennie",
+                    "lastName": "Popay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rory",
+                    "lastName": "McGill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Cooper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catherine",
+                    "lastName": "Taylor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kate",
+                    "lastName": "Fisher"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Helen",
+                    "lastName": "Sant"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Poverty and Social Justice",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "j poverty soc justice",
+            "language": "en",
+            "DOI": "10.1332/175982718X15299593316586",
+            "ISSN": "1759-8273",
+            "shortTitle": "Tackling vulnerability to debt. Affordable lending alternatives and financial education",
+            "url": "http://www.ingentaconnect.com/content/10.1332/175982718X15299593316586",
+            "accessDate": "2020-09-10T17:08:57Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:57Z",
+            "dateModified": "2020-09-10T17:08:57Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        23
+                    ]
+                ],
+                "date-time": "2020-03-23T20:13:59Z",
+                "timestamp": 1584994439557
+            },
+            "reference-count": 0,
+            "publisher": "Bristol University Press",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "DOI": "10.1332/175982718x15299593316586",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2018-08-02T01:06:45Z",
+                "timestamp": 1533172005000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Tackling vulnerability to debt. Affordable  lending alternatives and financial education:  an evidence review",
+            "prefix": "10.1332",
+            "author": [
+                {
+                    "given": "Sarah",
+                    "family": "Mosedale",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Glenn",
+                    "family": "Simpson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennie",
+                    "family": "Popay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Lancaster, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rory",
+                    "family": "McGill",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Paula",
+                    "family": "Cooper",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Lancashire County Council, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catherine",
+                    "family": "Taylor",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Sefton Metropolitan Borough Council, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Kate",
+                    "family": "Fisher",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Knowsley Metropolitan Borough Council, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Helen",
+                    "family": "Sant",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Allerdale Borough Council, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "165",
+            "container-title": "Journal of Poverty and Social Justice",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.ingentaconnect.com/content/tpp/jpsj/10.1332/175982718x15299593316586",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2018-08-02T06:06:57Z",
+                "timestamp": 1533190017000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "URL": "http://dx.doi.org/10.1332/175982718X15299593316586",
+            "relation": {},
+            "ISSN": [
+                "1759-8273"
+            ],
+            "subject": [
+                "Sociology and Political Science",
+                "Public Administration"
+            ],
+            "container-title-short": "j poverty soc justice"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1332/175982718X15299593316586)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1332%2F175982718X15299593316586%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1332%2F175982718X15299593316586%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055651212"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055651212?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055651212&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055651212&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055651212",
+                        "dc:identifier": "SCOPUS_ID:85055651212",
+                        "eid": "2-s2.0-85055651212",
+                        "dc:title": "Tackling vulnerability to debt. Affordable lending alternatives and financial education: An evidence review",
+                        "dc:creator": "Mosedale S.",
+                        "prism:publicationName": "Journal of Poverty and Social Justice",
+                        "prism:issn": "17598273",
+                        "prism:eIssn": "17598281",
+                        "prism:volume": "26",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "315-333",
+                        "prism:coverDate": "2018-10-01",
+                        "prism:coverDisplayDate": "October 2018",
+                        "prism:doi": "10.1332/175982718X15299593316586",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19900191584",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "2FZS7CI5.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Tackling vulnerability to debt. Affordable  lending alternatives and financial education:  an evidence review",
+        "full_author_list": [
+            {
+                "clean": "Mosedale S",
+                "family": "Mosedale",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Simpson G",
+                "family": "Simpson",
+                "given": "Glenn",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Popay J",
+                "family": "Popay",
+                "given": "Jennie",
+                "affiliation": {
+                    "name": "University of Lancaster, UK"
+                }
+            },
+            {
+                "clean": "McGill R",
+                "family": "McGill",
+                "given": "Rory",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Cooper P",
+                "family": "Cooper",
+                "given": "Paula",
+                "affiliation": {
+                    "name": "Lancashire County Council, UK"
+                }
+            },
+            {
+                "clean": "Taylor C",
+                "family": "Taylor",
+                "given": "Catherine",
+                "affiliation": {
+                    "name": "Sefton Metropolitan Borough Council, UK"
+                }
+            },
+            {
+                "clean": "Fisher K",
+                "family": "Fisher",
+                "given": "Kate",
+                "affiliation": {
+                    "name": "Knowsley Metropolitan Borough Council, UK"
+                }
+            },
+            {
+                "clean": "Sant H",
+                "family": "Sant",
+                "given": "Helen",
+                "affiliation": {
+                    "name": "Allerdale Borough Council, UK"
+                }
+            }
+        ],
+        "first_author": "Mosedale S",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Journal of Poverty and Social Justice",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, UK",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

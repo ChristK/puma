@@ -1,0 +1,1514 @@
+{
+    "IDs": {
+        "zotero": "9AXQMZML",
+        "DOI": "10.1136/bmjopen-2016-013731",
+        "DOI_filename": "1dc7d48e7c6503a0ae0d80eda9c68152",
+        "PMID": "28432063",
+        "scopus": "2-s2.0-85018303374",
+        "hash": "468429ab6465e8a7a8656e87b51d918f"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "9AXQMZML",
+            "version": 130,
+            "itemType": "journalArticle",
+            "title": "A realist review to explore how low-income pregnant women use food vouchers from the UK\u2019s Healthy Start programme",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Heather",
+                    "lastName": "Ohly"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nicola",
+                    "lastName": "Crossland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fiona",
+                    "lastName": "Dykes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nicola",
+                    "lastName": "Lowe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Victoria",
+                    "lastName": "Hall-Moran"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMJ Open",
+            "volume": "7",
+            "issue": "4",
+            "pages": "e013731",
+            "date": "04/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2016-013731",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2016-013731",
+            "accessDate": "2020-09-10T17:08:58Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28432063",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:58Z",
+            "dateModified": "2020-09-11T15:03:08Z",
+            "pmid": "28432063"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T23:24:03Z",
+                "timestamp": 1588893843299
+            },
+            "reference-count": 56,
+            "publisher": "BMJ",
+            "issue": "4",
+            "funder": [
+                {
+                    "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast (CLAHRC NWC)",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1136/bmjopen-2016-013731",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        4,
+                        22
+                    ]
+                ],
+                "date-time": "2017-04-22T00:10:12Z",
+                "timestamp": 1492819812000
+            },
+            "page": "e013731",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "A realist review to explore how low-income pregnant women use food vouchers from the UK\u2019s Healthy Start programme",
+            "prefix": "10.1136",
+            "volume": "7",
+            "author": [
+                {
+                    "given": "Heather",
+                    "family": "Ohly",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nicola",
+                    "family": "Crossland",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Fiona",
+                    "family": "Dykes",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nicola",
+                    "family": "Lowe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Victoria",
+                    "family": "Hall-Moran",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        4,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-1",
+                    "author": "Acheson",
+                    "year": "1998",
+                    "volume-title": "Independent inquiry into inequalities in health report"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-2",
+                    "author": "Committee on Medical Aspects of Food and Nutrition Policy",
+                    "year": "2002",
+                    "volume-title": "Scientific review of the welfare food scheme"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-3",
+                    "author": "McFadden",
+                    "volume": "5",
+                    "year": "2015",
+                    "article-title": "Healthy start vitamins-a missed opportunity: findings of a multimethod study",
+                    "journal-title": "BMJ Open",
+                    "DOI": "10.1136/bmjopen-2014-006917",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-4",
+                    "author": "Department of Health",
+                    "year": "2010",
+                    "article-title": "Healthy start: equality impact assessment",
+                    "journal-title": "London"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-5",
+                    "author": "Dyson",
+                    "year": "2007",
+                    "article-title": "Approaches to evaluating healthy start \u2013 a scoping review",
+                    "journal-title": "Public Health Research Consortium"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-6",
+                    "author": "Lucas",
+                    "year": "2013",
+                    "volume-title": "Healthy start vouchers study: the views and experiences of parents, professionals and small retailers in England"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-7",
+                    "author": "McFadden",
+                    "year": "2013",
+                    "volume-title": "Healthy start: understanding the use of vouchers and vitamins"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-8",
+                    "author": "Pawson",
+                    "first-page": "196",
+                    "year": "2006",
+                    "volume-title": "Evidence-based policy: a realist perspective",
+                    "DOI": "10.4135/9781849209120",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-9",
+                    "author": "Institute of Medicine of the National Academies",
+                    "year": "2005",
+                    "article-title": "WIC food packages: time for a change",
+                    "journal-title": "Institute of Medicine"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-10",
+                    "unstructured": "United States Department of Agriculture. Food and nutrition service. WIC studies. 2015 http://www.fns.usda.gov/ops/wic-studies.Date accessed."
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-11",
+                    "unstructured": "The RAMESES Project. Quality standards for realist synthesis (for researchers and peer-reviewers). 2014 http://www.ramesesproject.org/media/RS_qual_standards_researchers.pdf"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-12",
+                    "author": "Wong",
+                    "volume": "14",
+                    "year": "2015",
+                    "article-title": "Special invited editorial: getting started with realist research",
+                    "journal-title": "International Journal of Qualitative Methods",
+                    "DOI": "10.1177/1609406915621428",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "45",
+                    "DOI": "10.1186/1471-2288-8-45",
+                    "article-title": "Methods for the thematic synthesis of qualitative research in systematic reviews",
+                    "volume": "8",
+                    "author": "Thomas",
+                    "year": "2008",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-14",
+                    "author": "Ford",
+                    "volume": "6",
+                    "year": "2016",
+                    "article-title": "Access to primary care for socioeconomically disadvantaged older people in rural areas: a realist review",
+                    "journal-title": "BMJ Open",
+                    "DOI": "10.1136/bmjopen-2015-010652",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-15",
+                    "author": "Department of Health",
+                    "year": "2012",
+                    "article-title": "Healthy start: retailer research summary",
+                    "journal-title": "London"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-16",
+                    "author": "Hills",
+                    "year": "2006",
+                    "volume-title": "Healthy start: rapid evaluation of early impact on beneficiaries, health professionals, retailers and contractors"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1024",
+                    "DOI": "10.1017/S1368980011000061",
+                    "article-title": "Food retailer practices, attitudes and beliefs about the supply of healthy foods",
+                    "volume": "14",
+                    "author": "Andreyeva",
+                    "year": "2011",
+                    "journal-title": "Public Health Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "411",
+                    "DOI": "10.1016/j.amepre.2012.06.015",
+                    "article-title": "Grocery store beverage choices by participants in federal food assistance and nutrition programs",
+                    "volume": "43",
+                    "author": "Andreyeva",
+                    "year": "2012",
+                    "journal-title": "Am J Prev Med"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "919",
+                    "DOI": "10.1542/peds.2012-3471",
+                    "article-title": "Effects of reduced juice allowances in food packages for the women, infants, and children program",
+                    "volume": "131",
+                    "author": "Andreyeva",
+                    "year": "2013",
+                    "journal-title": "Pediatrics"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "422",
+                    "DOI": "10.1016/j.amepre.2013.05.009",
+                    "article-title": "Federal food package revisions: effects on purchases of whole-grain products",
+                    "volume": "45",
+                    "author": "Andreyeva",
+                    "year": "2013",
+                    "journal-title": "Am J Prev Med"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "622",
+                    "DOI": "10.1016/j.jand.2013.08.018",
+                    "article-title": "The positive effects of the revised milk and cheese allowances in the special supplemental nutrition program for women, infants, and children",
+                    "volume": "114",
+                    "author": "Andreyeva",
+                    "year": "2014",
+                    "journal-title": "J Acad Nutr Diet"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "33",
+                    "DOI": "10.1017/S1368980014000512",
+                    "article-title": "Incentivizing fruit and vegetable purchases among participants in the Special Supplemental Nutrition Program for Women, Infants, and Children",
+                    "volume": "18",
+                    "author": "Andreyeva",
+                    "year": "2015",
+                    "journal-title": "Public Health Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1771",
+                    "DOI": "10.1017/S1368980012001255",
+                    "article-title": "Stocking characteristics and perceived increases in sales among small food store managers/owners associated with the introduction of new food products approved by the Special Supplemental Nutrition Program for Women, Infants, and Children",
+                    "volume": "15",
+                    "author": "Ayala",
+                    "year": "2012",
+                    "journal-title": "Public Health Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "783",
+                    "DOI": "10.1016/S0271-5317(83)80032-3",
+                    "article-title": "Vitamin B6, iron and folacin status of pregnant women",
+                    "volume": "3",
+                    "author": "Bailey",
+                    "year": "1983",
+                    "journal-title": "Nutr Res"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S53",
+                    "DOI": "10.1016/j.jneb.2014.02.003",
+                    "article-title": "Women, infants, and children cash value voucher (CVV) use in Arizona: a qualitative exploration of barriers and strategies related to fruit and vegetable purchases",
+                    "volume": "46",
+                    "author": "Bertmann",
+                    "year": "2014",
+                    "journal-title": "J Nutr Educ Behav"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "116",
+                    "DOI": "10.1016/j.jada.2008.10.016",
+                    "article-title": "Participants' comments on changes in the revised special supplemental nutrition program for women, infants, and children food packages: the Maryland food preference study",
+                    "volume": "109",
+                    "author": "Black",
+                    "year": "2009",
+                    "journal-title": "J Am Diet Assoc"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "62",
+                    "DOI": "10.1016/j.jneb.2013.03.001",
+                    "article-title": "Impact of personal preference and motivation on fruit and vegetable consumption of WIC-participating mothers and children in Atlanta, GA",
+                    "volume": "46",
+                    "author": "Chen",
+                    "year": "2014",
+                    "journal-title": "J Nutr Educ Behav"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-28",
+                    "first-page": "1011",
+                    "article-title": "Older pregnant women and adolescents: nutrition data after enrollment in WIC",
+                    "volume": "87",
+                    "author": "Endres",
+                    "year": "1987",
+                    "journal-title": "J Am Diet Assoc"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-29",
+                    "first-page": "121",
+                    "article-title": "Dietary assessment of pregnant women in a supplemental food program",
+                    "volume": "79",
+                    "author": "Endres",
+                    "year": "1981",
+                    "journal-title": "J Am Diet Assoc"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "130",
+                    "DOI": "10.5993/AJHB.37.1.15",
+                    "article-title": "Rural versus urban Texas WIC participants' fruit and vegetable consumption",
+                    "volume": "37",
+                    "author": "Ettienne-Gittens",
+                    "year": "2013",
+                    "journal-title": "Am J Health Behav"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "451",
+                    "DOI": "10.1016/S0271-5317(87)80001-5",
+                    "article-title": "Women, infants and children program prenatal participation and dietary intakes",
+                    "volume": "7",
+                    "author": "Farrior",
+                    "year": "1987",
+                    "journal-title": "Nutr Res"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "655",
+                    "DOI": "10.5993/AJHB.36.5.8",
+                    "article-title": "Small retailer perspectives of the 2009 women, infants and children program food package changes",
+                    "volume": "36",
+                    "author": "Gittelsohn",
+                    "year": "2012",
+                    "journal-title": "Am J Health Behav"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-33",
+                    "first-page": "21",
+                    "article-title": "The effect of the WIC program on food security status of pregnant, First-Time participants",
+                    "volume": "16",
+                    "author": "Herman",
+                    "year": "2004",
+                    "journal-title": "Family Economics & Nutrition Review"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "740",
+                    "DOI": "10.1016/j.jada.2006.02.004",
+                    "article-title": "Choices made by low-income women provided with an economic supplement for fresh fruit and vegetable purchase",
+                    "volume": "106",
+                    "author": "Herman",
+                    "year": "2006",
+                    "journal-title": "J Am Diet Assoc"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "98",
+                    "DOI": "10.2105/AJPH.2005.079418",
+                    "article-title": "Effect of a targeted subsidy on intake of fruits and vegetables among low-income women in the Special Supplemental Nutrition Program for Women, Infants, and Children",
+                    "volume": "98",
+                    "author": "Herman",
+                    "year": "2008",
+                    "journal-title": "Am J Public Health"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1549",
+                    "DOI": "10.1016/S0002-8223(99)00379-X",
+                    "article-title": "Consumption of foods from the WIC food packages of Chinese prenatal patients on the US west coast",
+                    "volume": "99",
+                    "author": "Horswill",
+                    "year": "1999",
+                    "journal-title": "J Am Diet Assoc"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "39",
+                    "DOI": "10.1016/j.jneb.2012.04.014",
+                    "article-title": "Racial/Ethnic differences in dietary intake among WIC families prior to food package revisions",
+                    "volume": "45",
+                    "author": "Kong",
+                    "year": "2013",
+                    "journal-title": "J Nutr Educ Behav"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "543",
+                    "DOI": "10.1016/j.amepre.2014.01.021",
+                    "article-title": "The 18-month impact of special supplemental nutrition program for women, infants, and children food package revisions on diets of recipient families",
+                    "volume": "46",
+                    "author": "Kong",
+                    "year": "2014",
+                    "journal-title": "Am J Prev Med"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "712",
+                    "DOI": "10.1353/hpu.2015.0092",
+                    "article-title": "Exploring the impact of the new WIC food package on Low-Fat milk consumption among WIC recipients: a pilot study",
+                    "volume": "26",
+                    "author": "Meiqari",
+                    "year": "2015",
+                    "journal-title": "J Health Care Poor Underserved"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "83",
+                    "DOI": "10.1016/S1499-4046(06)60171-1",
+                    "article-title": "Client satisfaction with the nutrition education component of the California WIC program",
+                    "volume": "33",
+                    "author": "Nestor",
+                    "year": "2001",
+                    "journal-title": "J Nutr Educ"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "83",
+                    "DOI": "10.1017/S1368980013000761",
+                    "article-title": "Evaluating the initial impact of the revised Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) food packages on dietary intake and home food availability in African-American and Hispanic families",
+                    "volume": "17",
+                    "author": "Odoms-Young",
+                    "year": "2014",
+                    "journal-title": "Public Health Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "86",
+                    "DOI": "10.1093/ajcn/73.1.86",
+                    "article-title": "Postpartum iron status in nonlactating participants and nonparticipants in the special supplemental nutrition program for women, infants, and children",
+                    "volume": "73",
+                    "author": "Pehrsson",
+                    "year": "2001",
+                    "journal-title": "Am J Clin Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1175",
+                    "DOI": "10.1016/j.jand.2013.05.014",
+                    "article-title": "A qualitative study of motivators and barriers to healthy eating in pregnancy for low-income, overweight, African-American mothers",
+                    "volume": "113",
+                    "author": "Reyes",
+                    "year": "2013",
+                    "journal-title": "J Acad Nutr Diet"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "439",
+                    "DOI": "10.1093/ajcn/48.2.439",
+                    "article-title": "The national WIC Evaluation: evaluation of the special supplemental food program for women, infants, and children. V. longitudinal study of pregnant women",
+                    "volume": "48",
+                    "author": "Rush",
+                    "year": "1988",
+                    "journal-title": "Am J Clin Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "512",
+                    "DOI": "10.1093/ajcn/48.2.512",
+                    "article-title": "The national WIC Evaluation: evaluation of the special supplemental food program for women, infants, and children. VII. study of food expenditures",
+                    "volume": "48",
+                    "author": "Rush",
+                    "year": "1988",
+                    "journal-title": "Am J Clin Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "903",
+                    "DOI": "10.1016/S0002-8223(01)00221-8",
+                    "article-title": "Nutritional assessment of pregnant women enrolled in the special supplemental program for women, infants, and children (WIC)",
+                    "volume": "101",
+                    "author": "Swensen",
+                    "year": "2001",
+                    "journal-title": "J Am Diet Assoc"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "149",
+                    "DOI": "10.1016/S0022-3182(96)70050-X",
+                    "article-title": "Attitudes and behaviors related to fruits and vegetables among Low-income women in the WIC program",
+                    "volume": "28",
+                    "author": "Treiman",
+                    "year": "1996",
+                    "journal-title": "J Nutr Educ"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "127",
+                    "DOI": "10.1007/s10995-006-0155-2",
+                    "article-title": "Assessing diet quality in a population of low-income pregnant women: a comparison between Native Americans and whites",
+                    "volume": "11",
+                    "author": "Watts",
+                    "year": "2007",
+                    "journal-title": "Matern Child Health J"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "204",
+                    "DOI": "10.1016/j.jneb.2011.09.011",
+                    "article-title": "Revised WIC food package improves diets of WIC families",
+                    "volume": "44",
+                    "author": "Whaley",
+                    "year": "2012",
+                    "journal-title": "J Nutr Educ Behav"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "66",
+                    "DOI": "10.1097/00008486-199612000-00009",
+                    "article-title": "Nutrient intake and nutritional status of Low-income pregnant women",
+                    "volume": "12",
+                    "author": "Wunderlich",
+                    "year": "1997",
+                    "journal-title": "Top Clin Nutr"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-51",
+                    "author": "Frick",
+                    "first-page": "181",
+                    "year": "2009",
+                    "volume-title": "Infant and young child feeding"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "227",
+                    "DOI": "10.1111/j.1740-8709.2005.00022.x",
+                    "article-title": "Low-income mothers, nutrition and health: a systematic review of qualitative evidence",
+                    "volume": "1",
+                    "author": "Attree",
+                    "year": "2005",
+                    "journal-title": "Maternal and Child Nutrition"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "379",
+                    "DOI": "10.1037/0278-6133.27.3.379",
+                    "article-title": "A taxonomy of behavior change techniques used in interventions",
+                    "volume": "27",
+                    "author": "Abraham",
+                    "year": "2008",
+                    "journal-title": "Health Psychol"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-54",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "365",
+                    "DOI": "10.1016/j.midw.2005.12.005",
+                    "article-title": "'Breaking the rules' in baby-feeding practice in the UK: deviance and good practice?",
+                    "volume": "22",
+                    "author": "Furber",
+                    "year": "2006",
+                    "journal-title": "Midwifery"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1186/1746-4358-5-18",
+                    "article-title": "Reflections on global policy documents and the WHO's infant feeding guidelines: lessons learnt",
+                    "volume": "5",
+                    "author": "Blystad",
+                    "year": "2010",
+                    "journal-title": "Int Breastfeed J"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2016-013731-56",
+                    "author": "Adams",
+                    "volume": "13",
+                    "year": "2016",
+                    "article-title": "Why are some population interventions for diet and obesity more equitable and effective than others? the role of individual agency",
+                    "journal-title": "PLoS Med"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2016-013731",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        23
+                    ]
+                ],
+                "date-time": "2018-11-23T10:17:08Z",
+                "timestamp": 1542968228000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        4
+                    ]
+                ]
+            },
+            "references-count": 56,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            4,
+                            21
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2016-013731"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2016-013731",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "food",
+                        "pregnant",
+                        "realist",
+                        "review",
+                        "vouchers",
+                        "women"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28432063",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "01",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2016-013731"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "04",
+                            "Day": "21"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "04",
+                                "Day": "21"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "A realist review to explore how low-income pregnant women use food vouchers from the UK's Healthy Start programme.",
+                    "Pagination": {
+                        "MedlinePgn": "e013731"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To explore how low-income pregnant women use Healthy Start food vouchers, the potential impacts of the programme, and which women might experience these impacts and why.",
+                            "A realist review.",
+                            "Primary or empirical studies (of any design) were included if they contributed relevant evidence or insights about how low-income women use food vouchers from the Healthy Start (UK) or the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) programmes. The assessment of 'relevance' was deliberately broad to ensure that reviewers remained open to new ideas from a variety of sources of evidence.",
+                            "A combination of evidence synthesis and realist analysis techniques was used to modify, refine and substantiate programme theories, which were constructed as explanatory 'context-mechanism-outcome'-configurations.",
+                            "38 primary studies were included in this review: four studies on Healthy Start and 34 studies on WIC. Two main outcome strands were identified: dietary improvements (intended) and financial assistance (unintended). Three evidence-informed programme theories were proposed to explain how aspects of context (and mechanisms) may generate these outcomes: the 'relative value' of healthy eating (prioritisation of resources); retailer discretion (pressure to 'bend the rules'); the influence of other family members (disempowerment).",
+                            "This realist review suggests that some low-income pregnant women may use Healthy Start vouchers to increase their consumption of fruits and vegetables and plain cow's milk, whereas others may use them to reduce food expenditure and save money for other things."
+                        ],
+                        "CopyrightInformation": "\u00a9 Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2017. All rights reserved. No commercial use is permitted unless otherwise expressly granted."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ohly",
+                            "ForeName": "Heather",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Crossland",
+                            "ForeName": "Nicola",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dykes",
+                            "ForeName": "Fiona",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lowe",
+                            "ForeName": "Nicola",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hall-Moran",
+                            "ForeName": "Victoria",
+                            "Initials": "V"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "BMJ Open. 2017 Jul 11;7(7):e013731corr1",
+                        "PMID": "28701414"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "supply & distribution"
+                        ],
+                        "DescriptorName": "Dairy Products",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Food Assistance",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Health Promotion",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Malnutrition",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Morbidity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Nutrition Policy",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Nutritional Status",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Poverty",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Pregnancy Complications",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMJ Open. 2015 Jan 08;5(1):e006917",
+                                "ArticleIdList": [
+                                    "25573526"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Diet Assoc. 2001 Aug;101(8):903-8",
+                                "ArticleIdList": [
+                                    "11501864"
+                                ]
+                            },
+                            {
+                                "Citation": "Midwifery. 2006 Dec;22(4):365-76",
+                                "ArticleIdList": [
+                                    "16725241"
+                                ]
+                            },
+                            {
+                                "Citation": "Matern Child Nutr. 2005 Oct;1(4):227-40",
+                                "ArticleIdList": [
+                                    "16881905"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health Nutr. 2012 Sep;15(9):1771-9",
+                                "ArticleIdList": [
+                                    "22583675"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nutr Educ Behav. 2013 Jan-Feb;45(1):39-46",
+                                "ArticleIdList": [
+                                    "23073175"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Psychol. 2008 May;27(3):379-87",
+                                "ArticleIdList": [
+                                    "18624603"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nutr Educ Behav. 2014 Jan;46(1):62-7",
+                                "ArticleIdList": [
+                                    "24238910"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Prev Med. 2012 Oct;43(4):411-8",
+                                "ArticleIdList": [
+                                    "22992359"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 May 17;6(5):e010652",
+                                "ArticleIdList": [
+                                    "27188809"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatrics. 2013 May;131(5):919-27",
+                                "ArticleIdList": [
+                                    "23629613"
+                                ]
+                            },
+                            {
+                                "Citation": "Rep Health Soc Subj (Lond). 2002;(51):i-xxi, 1-147",
+                                "ArticleIdList": [
+                                    "12494675"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Clin Nutr. 1988 Aug;48(2 Suppl):512-9",
+                                "ArticleIdList": [
+                                    "3400630"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Diet Assoc. 2009 Jan;109(1):116-23",
+                                "ArticleIdList": [
+                                    "19103331"
+                                ]
+                            },
+                            {
+                                "Citation": "J Acad Nutr Diet. 2013 Sep;113(9):1175-81",
+                                "ArticleIdList": [
+                                    "23871106"
+                                ]
+                            },
+                            {
+                                "Citation": "J Acad Nutr Diet. 2014 Apr;114(4):622-30",
+                                "ArticleIdList": [
+                                    "24210878"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Prev Med. 2014 Jun;46(6):543-51",
+                                "ArticleIdList": [
+                                    "24842730"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2016 Apr 05;13(4):e1001990",
+                                "ArticleIdList": [
+                                    "27046234"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Care Poor Underserved. 2015 Aug;26(3):712-25",
+                                "ArticleIdList": [
+                                    "26320907"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2008 Jul 10;8:45",
+                                "ArticleIdList": [
+                                    "18616818"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Diet Assoc. 1987 Aug;87(8):1011-6, 1019",
+                                "ArticleIdList": [
+                                    "3611546"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Clin Nutr. 1988 Aug;48(2 Suppl):439-83",
+                                "ArticleIdList": [
+                                    "3400628"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Health Behav. 2012 Sep;36(5):655-65",
+                                "ArticleIdList": [
+                                    "22584093"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Diet Assoc. 1999 Dec;99(12):1549-53",
+                                "ArticleIdList": [
+                                    "10608949"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health Nutr. 2014 Jan;17 (1):83-93",
+                                "ArticleIdList": [
+                                    "23544992"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nutr Educ Behav. 2012 May-Jun;44(3):204-9",
+                                "ArticleIdList": [
+                                    "22406013"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nutr Educ. 2001 Mar-Apr;33(2):83-94",
+                                "ArticleIdList": [
+                                    "12031188"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nutr Educ Behav. 2014 May-Jun;46(3 Suppl):S53-8",
+                                "ArticleIdList": [
+                                    "24809997"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health Nutr. 2011 Jun;14(6):1024-31",
+                                "ArticleIdList": [
+                                    "21324231"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Diet Assoc. 2006 May;106(5):740-4",
+                                "ArticleIdList": [
+                                    "16647335"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Breastfeed J. 2010 Oct 26;5:18",
+                                "ArticleIdList": [
+                                    "20977718"
+                                ]
+                            },
+                            {
+                                "Citation": "Matern Child Health J. 2007 Mar;11(2):127-36",
+                                "ArticleIdList": [
+                                    "17191147"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Clin Nutr. 2001 Jan;73(1):86-92",
+                                "ArticleIdList": [
+                                    "11124755"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Health Behav. 2013 Jan;37(1):130-40",
+                                "ArticleIdList": [
+                                    "22943110"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Diet Assoc. 1981 Aug;79(2):121-6",
+                                "ArticleIdList": [
+                                    "7252019"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2008 Jan;98 (1):98-105",
+                                "ArticleIdList": [
+                                    "18048803"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Prev Med. 2013 Oct;45(4):422-9",
+                                "ArticleIdList": [
+                                    "24050418"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health Nutr. 2015 Jan;18(1):33-41",
+                                "ArticleIdList": [
+                                    "24809502"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "28432063",
+                    "bmjopen-2016-013731",
+                    "10.1136/bmjopen-2016-013731",
+                    "PMC5594208"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28432063)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828432063%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828432063%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018303374"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018303374?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018303374&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018303374&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018303374",
+                        "dc:identifier": "SCOPUS_ID:85018303374",
+                        "eid": "2-s2.0-85018303374",
+                        "dc:title": "A realist review to explore how low-income pregnant women use food vouchers from the UK's Healthy Start programme",
+                        "dc:creator": "Ohly H.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-04-01",
+                        "prism:coverDisplayDate": "1 April 2017",
+                        "prism:doi": "10.1136/bmjopen-2016-013731",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28432063",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e013731",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "9AXQMZML.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28432063"
+            }
+        },
+        "title": "A realist review to explore how low-income pregnant women use food vouchers from the UK's Healthy Start programme.",
+        "full_author_list": [
+            {
+                "clean": "Ohly H",
+                "family": "Ohly",
+                "given": "Heather",
+                "affiliation": {
+                    "name": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Crossland N",
+                "family": "Crossland",
+                "given": "Nicola",
+                "affiliation": {
+                    "name": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Dykes F",
+                "family": "Dykes",
+                "given": "Fiona",
+                "affiliation": {
+                    "name": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Lowe N",
+                "family": "Lowe",
+                "given": "Nicola",
+                "affiliation": {
+                    "name": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Hall-Moran V",
+                "family": "Hall-Moran",
+                "given": "Victoria",
+                "affiliation": {
+                    "name": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Ohly H",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Dairy Products",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Food Assistance",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Promotion",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Malnutrition",
+                    "major": "N"
+                },
+                {
+                    "term": "Morbidity",
+                    "major": "N"
+                },
+                {
+                    "term": "Nutrition Policy",
+                    "major": "Y"
+                },
+                {
+                    "term": "Nutritional Status",
+                    "major": "Y"
+                },
+                {
+                    "term": "Poverty",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy Complications",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "7",
+            "issue": "4"
+        },
+        "abstract": "['To explore how low-income pregnant women use Healthy Start food vouchers, the potential impacts of the programme, and which women might experience these impacts and why.', 'A realist review.', \"Primary or empirical studies (of any design) were included if they contributed relevant evidence or insights about how low-income women use food vouchers from the Healthy Start (UK) or the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) programmes. The assessment of 'relevance' was deliberately broad to ensure that reviewers remained open to new ideas from a variety of sources of evidence.\", \"A combination of evidence synthesis and realist analysis techniques was used to modify, refine and substantiate programme theories, which were constructed as explanatory 'context-mechanism-outcome'-configurations.\", \"38 primary studies were included in this review: four studies on Healthy Start and 34 studies on WIC. Two main outcome strands were identified: dietary improvements (intended) and financial assistance (unintended). Three evidence-informed programme theories were proposed to explain how aspects of context (and mechanisms) may generate these outcomes: the 'relative value' of healthy eating (prioritisation of resources); retailer discretion (pressure to 'bend the rules'); the influence of other family members (disempowerment).\", \"This realist review suggests that some low-income pregnant women may use Healthy Start vouchers to increase their consumption of fruits and vegetables and plain cow's milk, whereas others may use them to reduce food expenditure and save money for other things.\"]",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "IDs": {
+        "zotero": "6UY5PIS2",
+        "DOI": "10.12968/johv.2016.4.5.264",
+        "DOI_filename": "ce3effb776b9cf1e050d18622282a5d6",
+        "PMID": "",
+        "scopus": "",
+        "hash": "e0a5136dc9c3b97fa594aa338c56a02e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "6UY5PIS2",
+            "version": 85,
+            "itemType": "journalArticle",
+            "title": "Listening visits by health visitors as an intervention for mild-to-moderate postnatal depression or anxiety",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Emma",
+                    "lastName": "Cummings"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Karen",
+                    "lastName": "Whittaker"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Health Visiting",
+            "volume": "4",
+            "issue": "5",
+            "pages": "264-270",
+            "date": "2016-05-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Health Visiting",
+            "language": "en",
+            "DOI": "10.12968/johv.2016.4.5.264",
+            "ISSN": "2050-8719, 2052-2908",
+            "shortTitle": "",
+            "url": "http://www.magonlinelibrary.com/doi/10.12968/johv.2016.4.5.264",
+            "accessDate": "2020-09-10T17:08:34Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:34Z",
+            "dateModified": "2020-09-10T17:08:34Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        12
+                    ]
+                ],
+                "date-time": "2020-03-12T14:05:19Z",
+                "timestamp": 1584021919798
+            },
+            "reference-count": 26,
+            "publisher": "Mark Allen Group",
+            "issue": "5",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.12968/johv.2016.4.5.264",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2016-05-17T06:55:32Z",
+                "timestamp": 1463468132000
+            },
+            "page": "264-270",
+            "source": "Crossref",
+            "is-referenced-by-count": 7,
+            "title": "Listening visits by health visitors as an intervention for mild-to-moderate postnatal depression or anxiety",
+            "prefix": "10.12968",
+            "volume": "4",
+            "author": [
+                {
+                    "given": "Emma",
+                    "family": "Cummings",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Health visitor, Lancashire Care NHS Trust"
+                        }
+                    ]
+                },
+                {
+                    "given": "Karen",
+                    "family": "Whittaker",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Reader, School of Nursing, University of Central Lancashire"
+                        }
+                    ]
+                }
+            ],
+            "member": "5130",
+            "reference": [
+                {
+                    "key": "B1",
+                    "DOI": "10.1007/s10995-010-0691-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B2",
+                    "DOI": "10.1016/S0165-0327(02)00145-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B3",
+                    "author": "Bauer A",
+                    "year": "2014",
+                    "volume-title": "The Costs of Perinatal Mental Health Problems"
+                },
+                {
+                    "key": "B4",
+                    "author": "Bishop P",
+                    "year": "2015",
+                    "volume-title": "A National Framework for Continuing Professional Development for Health Visitors: Standards to support professional practice"
+                },
+                {
+                    "key": "B5",
+                    "author": "Bowlby J",
+                    "year": "1969",
+                    "volume-title": "Attachment and Loss: Volume 1. Attachment"
+                },
+                {
+                    "key": "B6",
+                    "DOI": "10.1017/S0033291710001467",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B7",
+                    "DOI": "10.1016/0266-6138(95)90070-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B8",
+                    "author": "Cowley S",
+                    "year": "2013",
+                    "volume-title": "Why health visiting? A review of the literature about key health visitor interventions, processes and outcomes for children and families"
+                },
+                {
+                    "key": "B9",
+                    "author": "Department of Health",
+                    "year": "2009",
+                    "volume-title": "Healthy Child Programme: Pregnancy and the First 5 Years of Life"
+                },
+                {
+                    "key": "B11",
+                    "DOI": "10.1080/13698030408401711",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B12",
+                    "DOI": "10.1542/peds.2013-1021D",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B13",
+                    "DOI": "10.1007/s00737-003-0024-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B14",
+                    "author": "Hogg S",
+                    "year": "2013",
+                    "volume-title": "All Babies Count: Spotlight on Perinatal Mental Health"
+                },
+                {
+                    "key": "B15",
+                    "DOI": "10.1136/bmj.298.6668.223",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B16",
+                    "DOI": "10.1590/1516-4446-2013-1170",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B19",
+                    "DOI": "10.3310/hta13300",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B20",
+                    "author": "National Institute for Health and Care Excellence",
+                    "year": "2014",
+                    "volume-title": "Antenatal and postnatal mental health: clinical management and service guidance. NICE guidelines [CG192]"
+                },
+                {
+                    "key": "B21",
+                    "author": "NHS England",
+                    "year": "2014",
+                    "volume-title": "National Health Visiting Core Service Specification 2015/2016"
+                },
+                {
+                    "key": "B22",
+                    "author": "Nursing and Midwifery Council",
+                    "year": "2004",
+                    "volume-title": "Standards of proficiency for specialist community public health"
+                },
+                {
+                    "key": "B23",
+                    "DOI": "10.1037/h0045357",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B24",
+                    "DOI": "10.1080/10503307.2010.518636",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B25",
+                    "DOI": "10.1080/02646830600643866",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B26",
+                    "DOI": "10.3399/bjgp10X532611",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B27",
+                    "DOI": "10.1016/j.pec.2009.05.022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B28",
+                    "DOI": "10.1111/hsc.12307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B29",
+                    "author": "World Health Organization",
+                    "year": "2016",
+                    "volume-title": "Maternal mental health"
+                }
+            ],
+            "container-title": "Journal of Health Visiting",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.magonlinelibrary.com/doi/pdf/10.12968/johv.2016.4.5.264",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        21
+                    ]
+                ],
+                "date-time": "2017-12-21T23:00:40Z",
+                "timestamp": 1513897240000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 26,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            5,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "10.12968/johv.2016.4.5.264"
+            ],
+            "URL": "http://dx.doi.org/10.12968/johv.2016.4.5.264",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2050-8719",
+                "2052-2908"
+            ],
+            "container-title-short": "Journal of Health Visiting"
+        },
+        "pmid_data": {},
+        "scopus_data": null
+    },
+    "filename": "6UY5PIS2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Listening visits by health visitors as an intervention for mild-to-moderate postnatal depression or anxiety",
+        "full_author_list": [
+            {
+                "clean": "Cummings E",
+                "family": "Cummings",
+                "given": "Emma",
+                "affiliation": {
+                    "name": "Health visitor, Lancashire Care NHS Trust"
+                }
+            },
+            {
+                "clean": "Whittaker K",
+                "family": "Whittaker",
+                "given": "Karen",
+                "affiliation": {
+                    "name": "Reader, School of Nursing, University of Central Lancashire"
+                }
+            }
+        ],
+        "first_author": "Cummings E",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Journal of Health Visiting",
+            "volume": "4",
+            "issue": "5"
+        },
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {}
+        },
+        "location": {
+            "candidate_institute": "Health visitor, Lancashire Care NHS Trust"
+        }
+    }
+}

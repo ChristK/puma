@@ -1,0 +1,1145 @@
+{
+    "IDs": {
+        "zotero": "H466C594",
+        "DOI": "10.1080/01658107.2017.1337159",
+        "DOI_filename": "02a64ef403bbc548ffc1385b8ddd41ce",
+        "PMID": "29344068",
+        "scopus": "2-s2.0-85032929074",
+        "hash": "5cbc15daf1b6fa1abc2d5ddc9dc17ffa"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "H466C594",
+            "version": 149,
+            "itemType": "journalArticle",
+            "title": "Clinical versus Evidence-based Rehabilitation Options for Post-stroke Visual Impairment",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "K. L.",
+                    "lastName": "Hanna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "F. J.",
+                    "lastName": "Rowe"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Neuro-Ophthalmology",
+            "volume": "41",
+            "issue": "6",
+            "pages": "297-305",
+            "date": "2017-11-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Neuro-Ophthalmology",
+            "language": "en",
+            "DOI": "10.1080/01658107.2017.1337159",
+            "ISSN": "0165-8107, 1744-506X",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/01658107.2017.1337159",
+            "accessDate": "2020-09-10T17:09:41Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29344068",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:41Z",
+            "dateModified": "2020-09-15T12:22:04Z",
+            "pmid": "29344068"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T00:05:55Z",
+                "timestamp": 1588896355908
+            },
+            "reference-count": 55,
+            "publisher": "Informa UK Limited",
+            "issue": "6",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "2012-05-126"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/01658107.2017.1337159",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        6
+                    ]
+                ],
+                "date-time": "2017-07-06T15:44:17Z",
+                "timestamp": 1499355857000
+            },
+            "page": "297-305",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Clinical versus Evidence-based Rehabilitation Options for Post-stroke Visual Impairment",
+            "prefix": "10.1080",
+            "volume": "41",
+            "author": [
+                {
+                    "given": "K. L.",
+                    "family": "Hanna",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom"
+                        }
+                    ]
+                },
+                {
+                    "given": "F. J.",
+                    "family": "Rowe",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "author": "Hepworth LR",
+                    "volume": "5",
+                    "first-page": "1",
+                    "year": "2016",
+                    "journal-title": "Ophthalmol Res"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1093/ageing/afn230",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "Granger CV",
+                    "volume": "74",
+                    "first-page": "133",
+                    "year": "1993",
+                    "journal-title": "Arch Phys Med Rehabil"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1016/S0304-3940(01)01907-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1001/archopht.119.12.1788",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1046/j.1532-5415.2002.50019.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "author": "Tsai SY",
+                    "volume": "102",
+                    "first-page": "86",
+                    "year": "2003",
+                    "journal-title": "J Formosan Med Assoc"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1002/14651858.CD003303.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "author": "Pambakian A",
+                    "volume": "25",
+                    "first-page": "136",
+                    "year": "2005",
+                    "journal-title": "J Neuro-Ophthalmol"
+                },
+                {
+                    "key": "CIT0010",
+                    "author": "Zihl J",
+                    "volume": "1",
+                    "first-page": "5",
+                    "year": "1982",
+                    "journal-title": "Hum Neurobiol"
+                },
+                {
+                    "key": "CIT0011",
+                    "author": "Firth AY",
+                    "volume": "51",
+                    "first-page": "15",
+                    "year": "1994",
+                    "journal-title": "Br Orthopt J"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1136/bmj.318.7182.527",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1016/S0140-6736(03)14546-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1016/j.jclinepi.2009.06.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1016/j.jclinepi.2008.10.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1111/j.1365-2648.2007.04389.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1111/j.1365-2834.2009.01060.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "8",
+                    "key": "CIT0018",
+                    "first-page": "46",
+                    "volume": "39",
+                    "author": "Grol R.",
+                    "year": "2001",
+                    "journal-title": "Med Care"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1038/eye.2011.78",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1002/brb3.682",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1161/STROKEAHA.111.639815",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "author": "Pollock A",
+                    "volume": "8",
+                    "first-page": "36",
+                    "year": "2011",
+                    "journal-title": "Br Ir Orthopt J",
+                    "DOI": "10.22599/bioj.39",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1002/14651858.CD008388.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1177/1545968313503219",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1053/apmr.2003.50085",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "author": "Hayes A",
+                    "volume": "31",
+                    "first-page": "19",
+                    "year": "2012",
+                    "journal-title": "Neurorehabilitation"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1002/acn3.154",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1007/s00415-012-6549-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "author": "Freeman CF",
+                    "year": "1987",
+                    "volume-title": "The Orthoptist\u2019s Role in the Management of Stroke Patients. 6th International Orthoptic Congress"
+                },
+                {
+                    "key": "CIT0030",
+                    "DOI": "10.1097/OPX.0b013e31819f9e4d",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1001/jamaophthalmol.2013.5636",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1155/2013/719096",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "author": "Mueller I",
+                    "volume": "25",
+                    "first-page": "563",
+                    "year": "2007",
+                    "journal-title": "Restor Neurol Neurosci"
+                },
+                {
+                    "key": "CIT0034",
+                    "DOI": "10.1016/j.neuropsychologia.2007.03.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0035",
+                    "DOI": "10.1016/j.jns.2008.06.026",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0036",
+                    "author": "Sabel BA",
+                    "volume": "31",
+                    "first-page": "797",
+                    "year": "2013",
+                    "journal-title": "Restor Neurol Neurosci"
+                },
+                {
+                    "key": "CIT0037",
+                    "author": "Sabel B",
+                    "volume": "22",
+                    "first-page": "399",
+                    "year": "2004",
+                    "journal-title": "Restor Neurol Neurosci"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1136/jnnp.42.4.312",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "DOI": "10.1186/1743-0003-4-31",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0040",
+                    "DOI": "10.1093/ageing/29.3.221",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0041",
+                    "DOI": "10.1068/p7454",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "DOI": "10.3341/kjo.2011.25.6.409",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0043",
+                    "DOI": "10.1002/14651858.CD008389.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0044",
+                    "DOI": "10.1212/WNL.41.11.1737",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0045",
+                    "DOI": "10.1212/01.WNL.0000078893.41040.56",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0046",
+                    "DOI": "10.1038/sj.eye.6702434",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0047",
+                    "author": "Rowe F",
+                    "volume": "5",
+                    "first-page": "22",
+                    "year": "2008",
+                    "journal-title": "Br Ir Orthopt J"
+                },
+                {
+                    "key": "CIT0048",
+                    "DOI": "10.1155/2013/264604",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0049",
+                    "DOI": "10.1016/j.neuropsychologia.2012.06.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0050",
+                    "DOI": "10.1310/tsr18s01-643",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0051",
+                    "DOI": "10.1177/1545968313491012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0052",
+                    "DOI": "10.1016/S0003-9993(99)90310-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0053",
+                    "DOI": "10.1111/j.1468-1331.2006.01364.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0054",
+                    "DOI": "10.1093/brain/awt186",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0055",
+                    "DOI": "10.1080/09273970802678537",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Neuro-Ophthalmology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/01658107.2017.1337159",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        28
+                    ]
+                ],
+                "date-time": "2019-09-28T20:14:03Z",
+                "timestamp": 1569701643000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 55,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            9,
+                            6
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            11,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "alternative-id": [
+                "10.1080/01658107.2017.1337159"
+            ],
+            "URL": "http://dx.doi.org/10.1080/01658107.2017.1337159",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0165-8107",
+                "1744-506X"
+            ],
+            "container-title-short": "Neuro-Ophthalmology",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ioph20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ioph20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "KeywordList": [
+                    [
+                        "Management",
+                        "stroke",
+                        "treatment",
+                        "vision",
+                        "visual impairment"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29344068",
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "20"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/01658107.2017.1337159"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "07",
+                            "Day": "06"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "0165-8107",
+                        "JournalIssue": {
+                            "Volume": "41",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Dec"
+                            }
+                        },
+                        "Title": "Neuro-ophthalmology (Aeolus Press)",
+                        "ISOAbbreviation": "Neuroophthalmology"
+                    },
+                    "ArticleTitle": "Clinical versus Evidence-based Rehabilitation Options for Post-stroke Visual Impairment.",
+                    "Pagination": {
+                        "MedlinePgn": "297-305"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The aim of this study was to identify which treatments for post-stroke visual impairment have a supportive evidence base, and which are being used in practice without supportive evidence. A systematic review of the literature reporting on the available treatment options was compared against the visual treatments used in the Vision In Stroke (VIS) study. Treatments were identified for visual field, visual neglect, visual perception and ocular motility disorders. Visual scanning therapies for hemianopia and neglect have an established evidence base. However, a number, such as typoscopes and advice options, have limited detail of their effectiveness and require further research."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hanna",
+                            "ForeName": "K L",
+                            "Initials": "KL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rowe",
+                            "ForeName": "F J",
+                            "Initials": "FJ"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "CDF-2012-05-126",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Neuroophthalmology",
+                    "NlmUniqueID": "8408966",
+                    "ISSNLinking": "0165-8107"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Neurol Sci. 2008 Oct 15;273(1-2):70-4",
+                                "ArticleIdList": [
+                                    "18672255"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Phys Med Rehabil. 1999 Jan;80(1):71-6",
+                                "ArticleIdList": [
+                                    "9915375"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2007 Oct;60(2):162-71",
+                                "ArticleIdList": [
+                                    "17877563"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1979 Apr;42(4):312-22",
+                                "ArticleIdList": [
+                                    "458478"
+                                ]
+                            },
+                            {
+                                "Citation": "Eye (Lond). 2007 Sep;21(9):1194-7",
+                                "ArticleIdList": [
+                                    "16732211"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Phys Med Rehabil. 1993 Feb;74(2):133-8",
+                                "ArticleIdList": [
+                                    "8431095"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2011 Oct 05;(10):CD008388",
+                                "ArticleIdList": [
+                                    "21975779"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2001 Aug;39(8 Suppl 2):II46-54",
+                                "ArticleIdList": [
+                                    "11583121"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2011 Oct 05;(10):CD008389",
+                                "ArticleIdList": [
+                                    "21975780"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Oct 23;(10):CD003303",
+                                "ArticleIdList": [
+                                    "24154864"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2009 Oct;62(10):1006-12",
+                                "ArticleIdList": [
+                                    "19631508"
+                                ]
+                            },
+                            {
+                                "Citation": "J Formos Med Assoc. 2003 Feb;102(2):86-90",
+                                "ArticleIdList": [
+                                    "12709736"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Clin Transl Neurol. 2015 Jan;2(1):74-8",
+                                "ArticleIdList": [
+                                    "25642437"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurosci Lett. 2001 Jun 29;306(3):189-92",
+                                "ArticleIdList": [
+                                    "11406327"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neuroeng Rehabil. 2007 Aug 16;4:31",
+                                "ArticleIdList": [
+                                    "17705848"
+                                ]
+                            },
+                            {
+                                "Citation": "Optom Vis Sci. 2009 May;86(5):492-502",
+                                "ArticleIdList": [
+                                    "19357552"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurorehabil Neural Repair. 2014 Mar-Apr;28(3):207-18",
+                                "ArticleIdList": [
+                                    "24048623"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nurs Manag. 2010 Jan;18(1):70-7",
+                                "ArticleIdList": [
+                                    "20465731"
+                                ]
+                            },
+                            {
+                                "Citation": "Stroke. 2012 Apr;43(4):e37-e38",
+                                "ArticleIdList": [
+                                    "22567667"
+                                ]
+                            },
+                            {
+                                "Citation": "Perception. 2013;42(4):401-12",
+                                "ArticleIdList": [
+                                    "23866554"
+                                ]
+                            },
+                            {
+                                "Citation": "Biomed Res Int. 2013;2013:719096",
+                                "ArticleIdList": [
+                                    "24089687"
+                                ]
+                            },
+                            {
+                                "Citation": "NeuroRehabilitation. 2012;31(1):19-30",
+                                "ArticleIdList": [
+                                    "22523012"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2003 Jul 22;61(2):165-70",
+                                "ArticleIdList": [
+                                    "12874393"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2009 Mar;38(2):188-93",
+                                "ArticleIdList": [
+                                    "19029069"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA Ophthalmol. 2014 Feb;132(2):214-22",
+                                "ArticleIdList": [
+                                    "24201760"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuropsychologia. 2007 Jun 18;45(11):2598-607",
+                                "ArticleIdList": [
+                                    "17433383"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neuroophthalmol. 2005 Jun;25(2):136-42",
+                                "ArticleIdList": [
+                                    "15937440"
+                                ]
+                            },
+                            {
+                                "Citation": "Restor Neurol Neurosci. 2007;25(5-6):563-72",
+                                "ArticleIdList": [
+                                    "18334773"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Neurobiol. 1982 Mar;1(1):5-8",
+                                "ArticleIdList": [
+                                    "7185781"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain. 2013 Aug;136(Pt 8):2579-91",
+                                "ArticleIdList": [
+                                    "23884814"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2000 May;29(3):221-2",
+                                "ArticleIdList": [
+                                    "10855903"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain Behav. 2017 Apr 06;7(5):e00682",
+                                "ArticleIdList": [
+                                    "28523224"
+                                ]
+                            },
+                            {
+                                "Citation": "ISRN Ophthalmol. 2013 Oct 10;2013:264604",
+                                "ArticleIdList": [
+                                    "24558601"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuropsychologia. 2012 Aug;50(10):2415-25",
+                                "ArticleIdList": [
+                                    "22750122"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Phys Med Rehabil. 2003 Apr;84(4):541-50",
+                                "ArticleIdList": [
+                                    "12690593"
+                                ]
+                            },
+                            {
+                                "Citation": "Restor Neurol Neurosci. 2013;31(6):787-803",
+                                "ArticleIdList": [
+                                    "24212113"
+                                ]
+                            },
+                            {
+                                "Citation": "Eye (Lond). 2011 Jul;25(7):881-7",
+                                "ArticleIdList": [
+                                    "21475314"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1999 Feb 20;318(7182):527-30",
+                                "ArticleIdList": [
+                                    "10024268"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Ophthalmol. 2001 Dec;119(12):1788-94",
+                                "ArticleIdList": [
+                                    "11735788"
+                                ]
+                            },
+                            {
+                                "Citation": "Top Stroke Rehabil. 2011 Oct;18 Suppl 1:643-51",
+                                "ArticleIdList": [
+                                    "22120033"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1991 Nov;41(11):1737-41",
+                                "ArticleIdList": [
+                                    "1944902"
+                                ]
+                            },
+                            {
+                                "Citation": "Korean J Ophthalmol. 2011 Dec;25(6):409-16",
+                                "ArticleIdList": [
+                                    "22131778"
+                                ]
+                            },
+                            {
+                                "Citation": "Restor Neurol Neurosci. 2004;22(6):399-420",
+                                "ArticleIdList": [
+                                    "15798360"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2009 Sep;62(9):944-52",
+                                "ArticleIdList": [
+                                    "19230612"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurorehabil Neural Repair. 2013 Nov-Dec;27(9):789-98",
+                                "ArticleIdList": [
+                                    "23797459"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2002 Jan;50(1):136-45",
+                                "ArticleIdList": [
+                                    "12028258"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol. 2012 Dec;259(12 ):2611-5",
+                                "ArticleIdList": [
+                                    "22688568"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Neurol. 2006 Jul;13(7):772-9",
+                                "ArticleIdList": [
+                                    "16834709"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2003 Oct 11;362(9391):1225-30",
+                                "ArticleIdList": [
+                                    "14568747"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "04",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "05",
+                        "Day": "22"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "05",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "1"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29344068",
+                    "10.1080/01658107.2017.1337159",
+                    "1337159",
+                    "PMC5764068"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1080/01658107.2017.1337159)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F01658107.2017.1337159%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F01658107.2017.1337159%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032929074"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032929074?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032929074&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032929074&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032929074",
+                        "dc:identifier": "SCOPUS_ID:85032929074",
+                        "eid": "2-s2.0-85032929074",
+                        "dc:title": "Clinical versus Evidence-based Rehabilitation Options for Post-stroke Visual Impairment",
+                        "dc:creator": "Hanna K.",
+                        "prism:publicationName": "Neuro-Ophthalmology",
+                        "prism:issn": "01658107",
+                        "prism:eIssn": "1744506X",
+                        "prism:volume": "41",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": "297-305",
+                        "prism:coverDate": "2017-11-02",
+                        "prism:coverDisplayDate": "2 November 2017",
+                        "prism:doi": "10.1080/01658107.2017.1337159",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "17459",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "H466C594.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29344068"
+            }
+        },
+        "title": "Clinical versus Evidence-based Rehabilitation Options for Post-stroke Visual Impairment.",
+        "full_author_list": [
+            {
+                "clean": "Hanna K",
+                "family": "Hanna",
+                "given": "K L",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Rowe F",
+                "family": "Rowe",
+                "given": "F J",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Hanna K",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Neuroophthalmology",
+            "volume": "41",
+            "issue": "6"
+        },
+        "abstract": "['The aim of this study was to identify which treatments for post-stroke visual impairment have a supportive evidence base, and which are being used in practice without supportive evidence. A systematic review of the literature reporting on the available treatment options was compared against the visual treatments used in the Vision In Stroke (VIS) study. Treatments were identified for visual field, visual neglect, visual perception and ocular motility disorders. Visual scanning therapies for hemianopia and neglect have an established evidence base. However, a number, such as typoscopes and advice options, have limited detail of their effectiveness and require further research.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, University of Liverpool, Liverpool, United Kingdom.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

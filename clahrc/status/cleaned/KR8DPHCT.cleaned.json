@@ -1,0 +1,999 @@
+{
+    "IDs": {
+        "zotero": "KR8DPHCT",
+        "DOI": "10.1136/bmjopen-2015-010100",
+        "DOI_filename": "58783238a55362bb3d7f92532657cdd3",
+        "PMID": "26792220",
+        "scopus": "2-s2.0-84960193271",
+        "hash": "ac503f021abff9a119bb01cfc9f5100a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "KR8DPHCT",
+            "version": 164,
+            "itemType": "journalArticle",
+            "title": "Referral patterns after a seizure admission in an English region: an opportunity for effective intervention? An observational study of routine hospital data",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ruth",
+                    "lastName": "Grainger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "Pearson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Dixon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elizabeth",
+                    "lastName": "Devonport"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Timoney"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Keith",
+                    "lastName": "Bodger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jamie",
+                    "lastName": "Kirkham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMJ Open",
+            "volume": "6",
+            "issue": "1",
+            "pages": "e010100",
+            "date": "01/2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2015-010100",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Referral patterns after a seizure admission in an English region",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2015-010100",
+            "accessDate": "2020-09-10T17:09:38Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 26792220",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:38Z",
+            "dateModified": "2020-09-15T13:06:37Z",
+            "pmid": "26792220"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        19
+                    ]
+                ],
+                "date-time": "2020-02-19T03:23:16Z",
+                "timestamp": 1582082596577
+            },
+            "reference-count": 12,
+            "publisher": "BMJ",
+            "issue": "1",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1136/bmjopen-2015-010100",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        1,
+                        21
+                    ]
+                ],
+                "date-time": "2016-01-21T02:28:58Z",
+                "timestamp": 1453343338000
+            },
+            "page": "e010100",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Referral patterns after a seizure admission in an English region: an opportunity for effective intervention? An observational study of routine hospital data",
+            "prefix": "10.1136",
+            "volume": "6",
+            "author": [
+                {
+                    "given": "Ruth",
+                    "family": "Grainger",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michael",
+                    "family": "Pearson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "Dixon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Elizabeth",
+                    "family": "Devonport",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michelle",
+                    "family": "Timoney",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Keith",
+                    "family": "Bodger",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jamie",
+                    "family": "Kirkham",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anthony",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        1,
+                        20
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-1",
+                    "author": "Blunt",
+                    "year": "2013",
+                    "volume-title": "Trends in emergency admissions in England 2004\u20132009."
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-2",
+                    "author": "NICE",
+                    "year": "2013",
+                    "volume-title": "Diagnosis and management of the epilepsies in adults, children and young people."
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e007325",
+                    "DOI": "10.1136/bmjopen-2014-007325",
+                    "article-title": "National Audit of Seizure Management in Hospitals (NASH): results of the national audit of adult epilepsy in the UK",
+                    "volume": "5",
+                    "author": "Dixon",
+                    "year": "2015",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-4",
+                    "author": "The controller and auditor general. Emergency admissions to hospital: managing the demand",
+                    "year": "2013"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-5",
+                    "unstructured": "McCormick B , Sam-Hill P . Are hospital services used differently in deprived areas? Evidence to identify commissioning challenges. 2012. http://chseo.org.uk/downloads/wp2-hospitalservices-deprivedareas.pdf"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-6",
+                    "first-page": "273175",
+                    "article-title": "A seizure care pathway in the emergency department: preliminary quality and safety improvements",
+                    "volume": "2012",
+                    "author": "Iyer",
+                    "year": "2012",
+                    "journal-title": "Epilepsy Res Treat"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-7",
+                    "unstructured": "Hospital Episode Statistics. http://www.hesonline.nhs.uk. [Online] HSCIC. 2010."
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1210",
+                    "DOI": "10.1097/MLR.0b013e3181484347",
+                    "article-title": "Cross-national comparative performance of three versions of the ICD10 Charlson Index",
+                    "volume": "45",
+                    "author": "Sundararajan",
+                    "year": "2007",
+                    "journal-title": "Med Care"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "968",
+                    "DOI": "10.1136/thoraxjnl-2012-202365",
+                    "article-title": "Use of mortality within 30 days of a COPD hospitalisation as a measure of COPD care in UK hospitals",
+                    "volume": "68",
+                    "author": "Walker",
+                    "year": "2013",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "250",
+                    "DOI": "10.1136/gutjnl-2012-304202",
+                    "article-title": "Variation in gastroscopy rate in English general practice and outcome for oesophago-gastric cancer: retrospective analysis of hospital episode statistics",
+                    "volume": "63",
+                    "author": "Shawihdi",
+                    "year": "2014",
+                    "journal-title": "Gut"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "729",
+                    "DOI": "10.1093/qjmed/hcs037",
+                    "article-title": "Inequalities in outcomes of acute kidney injury in England",
+                    "volume": "105",
+                    "author": "Abraham",
+                    "year": "2012",
+                    "journal-title": "QJM"
+                },
+                {
+                    "key": "key-10.1136/bmjopen-2015-010100-12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "h3284",
+                    "DOI": "10.1136/bmj.h3284",
+                    "article-title": "Inadequate neurology services undermine patient care in the UK",
+                    "volume": "350",
+                    "author": "Morrish",
+                    "year": "2015",
+                    "journal-title": "BMJ"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2015-010100",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        24
+                    ]
+                ],
+                "date-time": "2017-06-24T04:09:39Z",
+                "timestamp": 1498277379000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 12,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2016,
+                            1,
+                            20
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2015-010100"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2015-010100",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Statistics and research methods"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "26792220",
+                "DateCompleted": {
+                    "Year": "2016",
+                    "Month": "10",
+                    "Day": "05"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2015-010100"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "01",
+                            "Day": "20"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "6",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "Jan",
+                                "Day": "20"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Referral patterns after a seizure admission in an English region: an opportunity for effective intervention? An observational study of routine hospital data.",
+                    "Pagination": {
+                        "MedlinePgn": "e010100"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To identify emergency seizure admissions to hospital and their subsequent access to specialist outpatient services.",
+                            "Algorithmic analysis of anonymised routine hospital data over 7 years using specialist follow-up by 3 months as the target outcome.",
+                            "All adults resident in Merseyside and Cheshire, England.",
+                            "Whether, and when, access to the specialist advice that might prevent further admissions was offered.",
+                            "1.4% of all emergency medical admissions are as a result of seizure. In the following 12 months 35% were readmitted and experienced a mean of 2.3 emergency department visits. Only 27% (48% of those already known to specialists and 13% of those not known) were offered appointments. Subsequent attendance at a specialist clinic is more likely if already known to a clinic, if aged <35 years, if female, or required a longer spell in hospital. Extrapolation from other work suggests 100,000 bed days per annum could be saved.",
+                            "Most seizure admissions are not being referred for the help that could prevent future admissions. The majority of those that are referred are not seen within an appropriate time frame. Our service structures are not providing an optimum service for people with epilepsy."
+                        ],
+                        "CopyrightInformation": "Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://www.bmj.com/company/products-services/rights-and-licensing/"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Data Management, Northwest CSU, Liverpool, UK Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Grainger",
+                            "ForeName": "Ruth",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pearson",
+                            "ForeName": "Michael",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dixon",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Devonport",
+                            "ForeName": "Elizabeth",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool CCG, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Timoney",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, University of Liverpool, Liverpool, UK Aintree University, Hospital NHS Trust, Digestive Diseases Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bodger",
+                            "ForeName": "Keith",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medical Statistics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kirkham",
+                            "ForeName": "Jamie",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony",
+                            "Initials": "A"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Observational Study"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "BMJ Open. 2016;6(2):e010100corr1",
+                        "PMID": "26888728"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Ambulatory Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cohort Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Delivery of Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Hospitalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Long-Term Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Referral and Consultation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Regression Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Epilepsy Res Treat. 2012;2012:273175",
+                                "ArticleIdList": [
+                                    "22953060"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 2013 Oct;68(10):968-70",
+                                "ArticleIdList": [
+                                    "23788585"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2015;5(3):e007325",
+                                "ArticleIdList": [
+                                    "25829372"
+                                ]
+                            },
+                            {
+                                "Citation": "Gut. 2014 Feb;63(2):250-61",
+                                "ArticleIdList": [
+                                    "23426895"
+                                ]
+                            },
+                            {
+                                "Citation": "QJM. 2012 Aug;105(8):729-40",
+                                "ArticleIdList": [
+                                    "22408153"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2015;350:h3284",
+                                "ArticleIdList": [
+                                    "26088572"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2007 Dec;45(12):1210-5",
+                                "ArticleIdList": [
+                                    "18007172"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "1",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "1",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "10",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "26792220",
+                    "bmjopen-2015-010100",
+                    "10.1136/bmjopen-2015-010100",
+                    "PMC4735311"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(26792220)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2826792220%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2826792220%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84960193271"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84960193271?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84960193271&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84960193271&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84960193271",
+                        "dc:identifier": "SCOPUS_ID:84960193271",
+                        "eid": "2-s2.0-84960193271",
+                        "dc:title": "Referral patterns after a seizure admission in an English region: An opportunity for effective intervention? An observational study of routine hospital data",
+                        "dc:creator": "Grainger R.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "6",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-01-01",
+                        "prism:coverDisplayDate": "2016",
+                        "prism:doi": "10.1136/bmjopen-2015-010100",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "26792220",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e010100",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "KR8DPHCT.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "26792220"
+            }
+        },
+        "title": "Referral patterns after a seizure admission in an English region: an opportunity for effective intervention? An observational study of routine hospital data.",
+        "full_author_list": [
+            {
+                "clean": "Grainger R",
+                "family": "Grainger",
+                "given": "Ruth",
+                "affiliation": {
+                    "name": "Department of Data Management, Northwest CSU, Liverpool, UK Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pearson M",
+                "family": "Pearson",
+                "given": "Michael",
+                "affiliation": {
+                    "name": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Dixon P",
+                "family": "Dixon",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Devonport E",
+                "family": "Devonport",
+                "given": "Elizabeth",
+                "affiliation": {
+                    "name": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Timoney M",
+                "family": "Timoney",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "Liverpool CCG, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Bodger K",
+                "family": "Bodger",
+                "given": "Keith",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, University of Liverpool, Liverpool, UK Aintree University, Hospital NHS Trust, Digestive Diseases Centre, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Kirkham J",
+                "family": "Kirkham",
+                "given": "Jamie",
+                "affiliation": {
+                    "name": "Department of Medical Statistics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony",
+                "affiliation": {
+                    "name": "Department of Bio-informatics, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Grainger R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Ambulatory Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Cohort Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Delivery of Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Hospitalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Long-Term Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Referral and Consultation",
+                    "major": "N"
+                },
+                {
+                    "term": "Regression Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "6",
+            "issue": "1"
+        },
+        "abstract": "['To identify emergency seizure admissions to hospital and their subsequent access to specialist outpatient services.', 'Algorithmic analysis of anonymised routine hospital data over 7 years using specialist follow-up by 3 months as the target outcome.', 'All adults resident in Merseyside and Cheshire, England.', 'Whether, and when, access to the specialist advice that might prevent further admissions was offered.', '1.4% of all emergency medical admissions are as a result of seizure. In the following 12 months 35% were readmitted and experienced a mean of 2.3 emergency department visits. Only 27% (48% of those already known to specialists and 13% of those not known) were offered appointments. Subsequent attendance at a specialist clinic is more likely if already known to a clinic, if aged <35 years, if female, or required a longer spell in hospital. Extrapolation from other work suggests 100,000 bed days per annum could be saved.', 'Most seizure admissions are not being referred for the help that could prevent future admissions. The majority of those that are referred are not seen within an appropriate time frame. Our service structures are not providing an optimum service for people with epilepsy.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Data Management, Northwest CSU, Liverpool, UK Department of Bio-informatics, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

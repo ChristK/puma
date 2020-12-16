@@ -1,0 +1,391 @@
+{
+    "IDs": {
+        "zotero": "PJC5F5KA",
+        "DOI": "10.3989/ris.2016.74.2.031",
+        "DOI_filename": "833bcca33562f48d6a4b2d8bcbdb7df7",
+        "PMID": "",
+        "scopus": "2-s2.0-84969756267",
+        "hash": "152d22202ba35b17e48f75194977aa79"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PJC5F5KA",
+            "version": 88,
+            "itemType": "journalArticle",
+            "title": "Empoderamiento: el santo grial de las campa\u00f1as de c\u00e1ncer de mama",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Porroche-Escudero"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Revista Internacional de Sociolog\u00eda",
+            "volume": "74",
+            "issue": "2",
+            "pages": "e031",
+            "date": "2016-05-03",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Rev. int. sociol.",
+            "language": "",
+            "DOI": "10.3989/ris.2016.74.2.031",
+            "ISSN": "1988-429X, 0034-9712",
+            "shortTitle": "Empoderamiento",
+            "url": "http://revintsociologia.revistas.csic.es/index.php/revintsociologia/article/view/619/737",
+            "accessDate": "2020-09-10T17:08:59Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:59Z",
+            "dateModified": "2020-09-10T17:08:59Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        25
+                    ]
+                ],
+                "date-time": "2020-03-25T02:56:26Z",
+                "timestamp": 1585104986824
+            },
+            "reference-count": 12,
+            "publisher": "Editorial CSIC",
+            "issue": "2",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.3989/ris.2016.74.2.031",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        18
+                    ]
+                ],
+                "date-time": "2016-05-18T15:07:18Z",
+                "timestamp": 1463584038000
+            },
+            "page": "e031",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Empoderamiento: el santo grial de las campa\u00f1as de c\u00e1ncer de mama",
+            "prefix": "10.3989",
+            "volume": "74",
+            "author": [
+                {
+                    "given": "Ana",
+                    "family": "Porroche-Escudero",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "member": "2373",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        18
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "ref1",
+                    "first-page": "16",
+                    "article-title": "Factores de riesgo para el c\u00e1ncer de mama",
+                    "volume": "18",
+                    "author": "Valls-Llobet",
+                    "year": "2006",
+                    "unstructured": "Valls-Llobet, C. 2006. \"Factores de riesgo para el c\u00e1ncer de mama\". Revista Mujer y Salud 18:16-20.",
+                    "journal-title": "Revista Mujer y Salud"
+                },
+                {
+                    "key": "ref2",
+                    "first-page": "149",
+                    "article-title": "Contaminaci\u00f3n ambiental y salud de las mujeres",
+                    "volume": "1",
+                    "author": "Valls-Llobet",
+                    "year": "2010",
+                    "unstructured": "Valls-Llobet, C. 2010. \"Contaminaci\u00f3n ambiental y salud de las mujeres\". Investigaciones Feministas 1:149-159.",
+                    "journal-title": "Investigaciones Feministas"
+                },
+                {
+                    "key": "ref3",
+                    "DOI": "10.4278/0890-1171-6.3.197",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref4",
+                    "author": "Wallerstein",
+                    "year": "2006",
+                    "unstructured": "Wallerstein, N. 2006. What Is the Evidence on Effectiveness of Empowerment to Improve Health? Copenhagen: WHO Regional Office for Europe.",
+                    "volume-title": "What Is the Evidence on Effectiveness of Empowerment to Improve Health?"
+                },
+                {
+                    "key": "ref5",
+                    "DOI": "10.1177/109019818801500402",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref6",
+                    "DOI": "10.1177/109019819402100202",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref7",
+                    "author": "Welch",
+                    "year": "2006",
+                    "unstructured": "Welch, H. G. 2006. Should I Be Tested for Cancer? Maybe Not and Here's Why. Berkeley, California: University of California Press.",
+                    "volume-title": "Should I Be Tested for Cancer? Maybe Not and Here s Why"
+                },
+                {
+                    "key": "ref8",
+                    "DOI": "10.1136/jech.2005.037242",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref9",
+                    "DOI": "10.1177/136345930100500207",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref10",
+                    "DOI": "10.2307/3178391",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref11",
+                    "DOI": "10.1080/0950543042000311869",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref12",
+                    "author": "Zones",
+                    "year": "2000",
+                    "unstructured": "Zones, J. S. 2000. \"Profits from Pain: The Political Economy of Breast Cancer\". Pp. 119-151 en Breast Cancer: Society Shapes an Epidemic, editado por S. J. Ferguson y A. S. Kasper. New York: St. Martin's Press.",
+                    "volume-title": "Profits from Pain"
+                }
+            ],
+            "container-title": "Revista Internacional de Sociolog\u00eda",
+            "original-title": [
+                "Empoderamiento: el santo grial de las campa\u00f1as de c\u00e1ncer de mama"
+            ],
+            "link": [
+                {
+                    "URL": "http://revintsociologia.revistas.csic.es/index.php/revintsociologia/article/viewFile/619/738",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        20
+                    ]
+                ],
+                "date-time": "2016-07-20T07:33:30Z",
+                "timestamp": 1469000010000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 12,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2016,
+                            5,
+                            3
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            5,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "URL": "http://dx.doi.org/10.3989/ris.2016.74.2.031",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1988-429X",
+                "0034-9712"
+            ],
+            "container-title-short": "Rev. int. sociol."
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.3989/ris.2016.74.2.031)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.3989%2Fris.2016.74.2.031%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.3989%2Fris.2016.74.2.031%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84969756267"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84969756267?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84969756267&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84969756267&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84969756267",
+                        "dc:identifier": "SCOPUS_ID:84969756267",
+                        "eid": "2-s2.0-84969756267",
+                        "dc:title": "EMPOWERMENT. The holy grail of breast cancer campaigns",
+                        "dc:creator": "Porroche-Escudero A.",
+                        "prism:publicationName": "Revista Internacional de Sociologia",
+                        "prism:issn": "00349712",
+                        "prism:volume": "74",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-04-01",
+                        "prism:coverDisplayDate": "April-June 2016",
+                        "prism:doi": "10.3989/ris.2016.74.2.031",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Lancaster University",
+                                "affiliation-city": "Lancaster",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e031",
+                        "source-id": "5600152919",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PJC5F5KA.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Empoderamiento: el santo grial de las campa\u00f1as de c\u00e1ncer de mama",
+        "full_author_list": [
+            {
+                "clean": "Porroche-Escudero A",
+                "family": "Porroche-Escudero",
+                "given": "Ana",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Porroche-Escudero A",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Revista Internacional de Sociolog\u00eda",
+            "volume": "74",
+            "issue": "2"
+        },
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Lancaster University",
+            "clean_institute": "University of Lancaster",
+            "latitude": "54.0106601",
+            "longitude": "-2.788237",
+            "country": "United Kingdom",
+            "postal_town": "Lancaster"
+        }
+    }
+}

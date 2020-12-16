@@ -1,0 +1,1551 @@
+{
+    "IDs": {
+        "zotero": "5UN3GE9V",
+        "DOI": "10.1186/s12889-018-5661-9",
+        "DOI_filename": "1e8ed80333c0170e58d965740573418f",
+        "PMID": "29976193",
+        "scopus": "2-s2.0-85049564929",
+        "hash": "b6768aa4b234a92c73e2ddff8f6f816d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "5UN3GE9V",
+            "version": 121,
+            "itemType": "journalArticle",
+            "title": "A haven of green space: learning from a pilot pre-post evaluation of a school-based social and therapeutic horticulture intervention with children",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Anna",
+                    "lastName": "Chiumento"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ipshita",
+                    "lastName": "Mukherjee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jaya",
+                    "lastName": "Chandna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carl",
+                    "lastName": "Dutton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Atif",
+                    "lastName": "Rahman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katie",
+                    "lastName": "Bristow"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMC Public Health",
+            "volume": "18",
+            "issue": "1",
+            "pages": "836",
+            "date": "12/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-018-5661-9",
+            "ISSN": "1471-2458",
+            "shortTitle": "A haven of green space",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5661-9",
+            "accessDate": "2020-09-10T17:08:30Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29976193",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:30Z",
+            "dateModified": "2020-09-11T14:56:56Z",
+            "pmid": "29976193"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        1
+                    ]
+                ],
+                "date-time": "2020-08-01T12:43:25Z",
+                "timestamp": 1596285805999
+            },
+            "reference-count": 80,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                7,
+                                5
+                            ]
+                        ],
+                        "date-time": "2018-07-05T00:00:00Z",
+                        "timestamp": 1530748800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "Liverpool PCT",
+                    "award": [
+                        "N/A"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12889-018-5661-9",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        5
+                    ]
+                ],
+                "date-time": "2018-07-05T14:02:15Z",
+                "timestamp": 1530799335000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "A haven of green space: learning from a pilot pre-post evaluation of a school-based social and therapeutic horticulture intervention with children",
+            "prefix": "10.1186",
+            "volume": "18",
+            "author": [
+                {
+                    "given": "Anna",
+                    "family": "Chiumento",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ipshita",
+                    "family": "Mukherjee",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jaya",
+                    "family": "Chandna",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carl",
+                    "family": "Dutton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Atif",
+                    "family": "Rahman",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8947-2298",
+                    "authenticated-orcid": false,
+                    "given": "Katie",
+                    "family": "Bristow",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        5
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "5",
+                    "key": "5661_CR1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "291",
+                    "DOI": "10.1080/00958964.2017.1366160",
+                    "volume": "48",
+                    "author": "S Adams",
+                    "year": "2017",
+                    "unstructured": "Adams S, Savahl S. Nature as children's space: a systematic review. J Environ Educ. 2017;48(5):291\u2013321.",
+                    "journal-title": "J Environ Educ"
+                },
+                {
+                    "key": "5661_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3",
+                    "DOI": "10.1016/j.pedn.2017.08.027",
+                    "volume": "37",
+                    "author": "R McCormick",
+                    "year": "2017",
+                    "unstructured": "McCormick R. Does access to green space impact the mental well-being of children: a systematic review. J Pediatr Nurs. 2017;37:3\u20137.",
+                    "journal-title": "J Pediatr Nurs"
+                },
+                {
+                    "key": "5661_CR3",
+                    "unstructured": "Bell S, Hamilton V, Montarzino A, Rothnie H, Travlou P, and Alves S. Greenspace Scotland Research Report: Greenspace and quality of life; a critical literature review. 2008 [Available from: \n                    http://greenspacescotland.org.uk/SharedFiles/Download.aspx?pageid=133&mid=129&fileid=94\n                    \n                  . Accessed 12 June 2018."
+                },
+                {
+                    "key": "5661_CR4",
+                    "unstructured": "Croucher K, Myers L, Bretherton J. The Links Between Green Space and Health: A Critical Literature Review, Stirling: Greenspace Scotland. Stirling; 2007."
+                },
+                {
+                    "key": "5661_CR5",
+                    "author": "T Gill",
+                    "year": "2011",
+                    "unstructured": "Gill T, Children and Nature. A quasi-systematic review of the empirical evidence. A report for the London sustainable development commission. London: greater London authority; 2011.",
+                    "volume-title": "A quasi-systematic review of the empirical evidence. A report for the London sustainable development commission"
+                },
+                {
+                    "issue": "2",
+                    "key": "5661_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "10",
+                    "DOI": "10.7721/chilyoutenvi.24.2.0010",
+                    "volume": "24",
+                    "author": "T Gill",
+                    "year": "2014",
+                    "unstructured": "Gill T. The benefits of children's engagement with nature: a systematic literature review. Children Youth and Environments. 2014;24(2):10\u201334.",
+                    "journal-title": "Children Youth and Environments"
+                },
+                {
+                    "issue": "5",
+                    "key": "5661_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "476",
+                    "DOI": "10.1093/biosci/biv032",
+                    "volume": "65",
+                    "author": "DF Shanahan",
+                    "year": "2015",
+                    "unstructured": "Shanahan DF, Fuller RA, Bush R, Lin BB, Gaston KJ. The health benefits of urban nature: how much do we need? Bioscience. 2015;65(5):476\u201385.",
+                    "journal-title": "Bioscience"
+                },
+                {
+                    "key": "5661_CR8",
+                    "author": "S Dungan",
+                    "year": "2015",
+                    "unstructured": "Dungan S. Mental health, well-being, and access to nature at school: a review of change at the Toronto District school board. 2015.",
+                    "volume-title": "Mental health, well-being, and access to nature at school: a review of change at the Toronto District school board"
+                },
+                {
+                    "key": "5661_CR9",
+                    "unstructured": "Health Protection Agency. A Children's Environment and Health Strategy for the UK: A consultation document. In: Agency HP, editor. Didcot: Health Protection Agency; 2009."
+                },
+                {
+                    "key": "5661_CR10",
+                    "unstructured": "Wolf KL, Flora K. Mental Health and Function - A Literature Review In: Green cities: good health. . Washington: College of the Environment, University of Washington; 2010."
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "93",
+                    "DOI": "10.1186/s12966-016-0419-1",
+                    "volume": "13",
+                    "author": "L Arundell",
+                    "year": "2016",
+                    "unstructured": "Arundell L, Fletcher E, Salmon J, Veitch J, Hinkley T. A systematic review of the prevalence of sedentary behavior during the after-school period among children aged 5-18 years. Int J Behav Nutr Phys Act. 2016;13(1):93.",
+                    "journal-title": "Int J Behav Nutr Phys Act"
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "68",
+                    "DOI": "10.2304/ciec.2004.5.1.10",
+                    "volume": "5",
+                    "author": "R Clements",
+                    "year": "2004",
+                    "unstructured": "Clements R. An investigation of the status of outdoor play. Contemporary issues in early childhood. 2004;5(1):68\u201380.",
+                    "journal-title": "Contemporary issues in early childhood"
+                },
+                {
+                    "key": "5661_CR13",
+                    "author": "T Gill",
+                    "year": "2011",
+                    "unstructured": "Gill T. Sowing the seeds: reconnecting London\u2019s children with nature. A report for the London sustainable development commission. London: greater London authority; 2011.",
+                    "volume-title": "Sowing the seeds: reconnecting London\u2019s children with nature. A report for the London sustainable development commission"
+                },
+                {
+                    "key": "5661_CR14",
+                    "author": "R Louv",
+                    "year": "2008",
+                    "unstructured": "Louv R. Last child in the woods: saving our children from nature-deficit disorder: Algonquin books; 2008.",
+                    "volume-title": "Last child in the woods: saving our children from nature-deficit disorder: Algonquin books"
+                },
+                {
+                    "key": "5661_CR15",
+                    "author": "UK National Ecosystem Assessment",
+                    "year": "2011",
+                    "unstructured": "UK National Ecosystem Assessment. The UK National Ecosystem Assessment: synthesis of the key findings. Cambridge: UNEP-WCMC; 2011.",
+                    "volume-title": "The UK National Ecosystem Assessment: synthesis of the key findings"
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "21",
+                    "DOI": "10.2174/1745017901511010021",
+                    "volume": "11",
+                    "author": "F Sancassiani",
+                    "year": "2015",
+                    "unstructured": "Sancassiani F, Pintus E, Holte A, Paulus P, Moro MF, Cossu G, et al. Enhancing the emotional and social skills of the youth to promote their wellbeing and positive development: a systematic review of universal school-based randomized controlled trials. Clinical Practice & Epidemiology in Mental Health. 2015;11(1):21\u201340.",
+                    "journal-title": "Clinical Practice & Epidemiology in Mental Health"
+                },
+                {
+                    "key": "5661_CR17",
+                    "author": "EO Wilson",
+                    "year": "1984",
+                    "unstructured": "Wilson EO. Biophilia. Cambridge: Harvard University Press; 1984.",
+                    "volume-title": "Biophilia"
+                },
+                {
+                    "key": "5661_CR18",
+                    "author": "RS Ulrich",
+                    "year": "1983",
+                    "unstructured": "Ulrich RS. Aesthetic and affective response to natural environment. In: Altman I, Wohlwill JF, editors. Behavior and the natural environment. New York: Plenum; 1983.",
+                    "volume-title": "Behavior and the natural environment"
+                },
+                {
+                    "key": "5661_CR19",
+                    "author": "R Kaplan",
+                    "year": "1989",
+                    "unstructured": "Kaplan R, Kaplan S. The experience of nature: a psychological perspective. Cambridge: Cambridge University Press; 1989.",
+                    "volume-title": "The experience of nature: a psychological perspective"
+                },
+                {
+                    "key": "5661_CR20",
+                    "unstructured": "Sempik J, Aldridge J, Becker S. Social and Therapeutic Horticulture: Evidence and messages from research. Thrive and Centre for Child and Family Research, Loughborough university.; 2003."
+                },
+                {
+                    "key": "5661_CR21",
+                    "author": "J Sempik",
+                    "first-page": "100",
+                    "year": "2016",
+                    "unstructured": "Sempik J, Bragg R. Green Care: Nature-based interventions for vulnerable people. In: Barton J, Bragg R, Wood C, Pretty J, editors. Green Exercise: Linking Nature, Health and Well-being; 2016. p. 100.",
+                    "volume-title": "Green Exercise: Linking Nature, Health and Well-being"
+                },
+                {
+                    "key": "5661_CR22",
+                    "unstructured": "Sempik J, Aldridge J, Finnis L. Social and therapeutic horticulture: the state of practise in the UK. Leicestershire: Centre for Child and Family Research, Loughborough University; 2004."
+                },
+                {
+                    "key": "5661_CR23",
+                    "unstructured": "Sempik J, Bragg R. Green care. Green Exercise: Linking Nature, Health and Well-being 2016:100."
+                },
+                {
+                    "issue": "6",
+                    "key": "5661_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "313",
+                    "DOI": "10.4276/030802214X14018723138110",
+                    "volume": "77",
+                    "author": "J Sempik",
+                    "year": "2014",
+                    "unstructured": "Sempik J, Rickhuss C, Beeston A. The effects of social and therapeutic horticulture on aspects of social behaviour. The British Journal of Occupational Therapy. 2014;77(6):313\u20139.",
+                    "journal-title": "The British Journal of Occupational Therapy"
+                },
+                {
+                    "key": "5661_CR25",
+                    "unstructured": "American Horticultural Therapy Association. Horticultural Therapy 2016 [Available from: \n                    http://ahta.org/horticultural-therapy\n                    \n                  . Accessed 13 June 2018."
+                },
+                {
+                    "key": "5661_CR26",
+                    "unstructured": "Sempik J, Aldridge J. Social and therapeutic horticulture in the UK: the growing together study. Leicestershire: Centre for Child and Family Research, Loughborough University; 2005."
+                },
+                {
+                    "issue": "4",
+                    "key": "5661_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "312",
+                    "DOI": "10.1891/1541-6577.23.4.312",
+                    "volume": "23",
+                    "author": "MT Gonzalez",
+                    "year": "2009",
+                    "unstructured": "Gonzalez MT, Hartig T, Patil GG, Martinsen EW, Kirkevold M. Therapeutic horticulture in clinical depression: a prospective study. Research and Theory for Nursing Practice. 2009;23(4):312\u201328.",
+                    "journal-title": "Research and Theory for Nursing Practice"
+                },
+                {
+                    "issue": "3",
+                    "key": "5661_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "87",
+                    "DOI": "10.1111/j.1744-6171.1989.tb00366.x",
+                    "volume": "2",
+                    "author": "M McGinnis",
+                    "year": "1989",
+                    "unstructured": "McGinnis M. Gardening as therapy for children with behavioural disorders. J Child Adolesc Psychiatr Ment Health Nurs. 1989;2(3):87\u201391.",
+                    "journal-title": "J Child Adolesc Psychiatr Ment Health Nurs"
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR29",
+                    "first-page": "1",
+                    "volume": "16",
+                    "author": "H Ohly",
+                    "year": "2016",
+                    "unstructured": "Ohly H, Gentry S, Wigglesworth R, Bethel A, Lovell R. Garside R. A systematic review of the health and well-being impacts of school gardening: synthesis of quantitative and qualitative evidence. BMC Public Health. 2016;16(1):1.",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "issue": "4",
+                    "key": "5661_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "245",
+                    "DOI": "10.1080/13638490410001711416",
+                    "volume": "7",
+                    "author": "I Soderback",
+                    "year": "2004",
+                    "unstructured": "Soderback I, Soderstrom M, Schalander E. Horticultural therapy: the 'healing garden'and gardening in rehabilitation measures at Danderyd hospital rehabilitation clinic, Sweden. Pediatr Rehabil. 2004;7(4):245\u201360.",
+                    "journal-title": "Pediatr Rehabil"
+                },
+                {
+                    "key": "5661_CR31",
+                    "unstructured": "Twill SE, Norris M, Purvis T. Weeds and Seeds: reflections from a gardening project for juvenile offenders. Journal of Therapeutic Horticulture. 2011;21(1):13-20."
+                },
+                {
+                    "issue": "Winter",
+                    "key": "5661_CR32",
+                    "first-page": "32",
+                    "volume": "118",
+                    "author": "A Chiumento",
+                    "year": "2012",
+                    "unstructured": "Chiumento A. Haven of greenspace. Young Minds Magazine. 2012;118(Winter):32\u20134.",
+                    "journal-title": "Young Minds Magazine"
+                },
+                {
+                    "issue": "3",
+                    "key": "5661_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "207",
+                    "DOI": "10.1016/j.jenvp.2010.10.001",
+                    "volume": "31",
+                    "author": "M Lewicka",
+                    "year": "2011",
+                    "unstructured": "Lewicka M. Place attachment: how far have we come in the last 40 years? J Environ Psychol. 2011;31(3):207\u201330.",
+                    "journal-title": "J Environ Psychol"
+                },
+                {
+                    "key": "5661_CR34",
+                    "unstructured": "Cresswell T. Place: an introduction. Chichester: Wiley; 2014."
+                },
+                {
+                    "key": "5661_CR35",
+                    "author": "JA Agnew",
+                    "first-page": "2",
+                    "year": "1987",
+                    "unstructured": "Agnew JA. Place and Politics: The Geographical Mediation of State and Society. In: Cresswell T, editor. Place: an introduction. Boston: Allen and Unwin; 1987. p. 2.",
+                    "volume-title": "Place: an introduction"
+                },
+                {
+                    "key": "5661_CR36",
+                    "unstructured": "Aked J, Marks N, Cordon C, Thompson S. Five Ways to Well-being: The Evidence. A report presented to the Foresight Project on communicating the evidence base for improving people\u2019s well-being.: New Economics Foundation; 2008 [Available from: \n                    http://neweconomics.org/2008/10/five-ways-to-wellbeing-the-evidence/?_sf_s=five+ways+to+wellbeing&_sft_latest=research\n                    \n                  . Accessed 13 June 2018."
+                },
+                {
+                    "key": "5661_CR37",
+                    "unstructured": "Abdallah S, Main G, Pople L, Rees G. Ways to well-being: exploring the links between children's activities and their subjective well-being. The Children's Society; 2014."
+                },
+                {
+                    "key": "5661_CR38",
+                    "author": "J Visser",
+                    "year": "2015",
+                    "unstructured": "Visser J. Affecting the behaviour of children and young people in schools. 2015.",
+                    "volume-title": "Affecting the behaviour of children and young people in schools"
+                },
+                {
+                    "key": "5661_CR39",
+                    "unstructured": "Adi Y, Killoran A, Janmohamed K, Stewart-Brown S. Systematic review of the effectiveness of interventions to promote mental wellbeing in children in primary education. Report 1: universal approaches: non-violence related outcomes. University of Warwick. 2007."
+                },
+                {
+                    "key": "5661_CR40",
+                    "unstructured": "Visser J, editor A study of children and young people who present challenging behaviour2003; Birmingham."
+                },
+                {
+                    "key": "5661_CR41",
+                    "unstructured": "North West City Council. Ward profile. North West City Council; 2013."
+                },
+                {
+                    "key": "5661_CR42",
+                    "unstructured": "The Mersey Forest. Liverpool Green Infrastructure Strategy 2010."
+                },
+                {
+                    "key": "5661_CR43",
+                    "unstructured": "OfSTED. School A Inspection Report. 2007."
+                },
+                {
+                    "key": "5661_CR44",
+                    "unstructured": "OfSTED. School B Inspection Report. 2012."
+                },
+                {
+                    "key": "5661_CR45",
+                    "unstructured": "OfSTED. School C Inspection Report. 2012."
+                },
+                {
+                    "key": "5661_CR46",
+                    "unstructured": "Clarke A. Pupil absence in schools in england, including pupil characteristics. In: Education Df, editor. London 2012."
+                },
+                {
+                    "key": "5661_CR47",
+                    "unstructured": "Coggins T, Cooke A, Friedli L, Nicholls J, Scott-Samuel A, Stansfield J. Mental Well-being Impact Assessment: A Toolkit \u2018A Living and Working Document.: Care Services Improvement Partnership North West Development Centre; 2007."
+                },
+                {
+                    "key": "5661_CR48",
+                    "unstructured": "North West Primary Care Trust. Culture & Wellbeing 2020 evaluation guidance. In: Team S, editor. Liverpool Primary Care Trust 2012."
+                },
+                {
+                    "issue": "5",
+                    "key": "5661_CR49",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "626",
+                    "DOI": "10.1016/j.jpsychires.2010.10.008",
+                    "volume": "45",
+                    "author": "AC Leon",
+                    "year": "2011",
+                    "unstructured": "Leon AC, Davis LL, Kraemer HC. The role and interpretation of pilot studies in clinical research. J Psychiatr Res. 2011;45(5):626\u20139.",
+                    "journal-title": "J Psychiatr Res"
+                },
+                {
+                    "key": "5661_CR50",
+                    "author": "JW Creswell",
+                    "year": "2007",
+                    "unstructured": "Creswell JW, Clark VLP. Designing and conducting mixed methods research. 2007.",
+                    "volume-title": "Designing and conducting mixed methods research"
+                },
+                {
+                    "key": "5661_CR51",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1186/1477-7525-7-15",
+                    "volume": "7",
+                    "author": "S Stewart-Brown",
+                    "year": "2009",
+                    "unstructured": "Stewart-Brown S, Tennant A, Tennant R, Platt S, Parkinson J, Weich S. Internal construct validity of the Warwick-Edinburgh mental well-being scale (WEMWBS): a Rasch analysis using data from the Scottish health education population survey. Health & Quality of Life Outcomes. 2009;7:1\u20138.",
+                    "journal-title": "Health & Quality of Life Outcomes"
+                },
+                {
+                    "key": "5661_CR52",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "63",
+                    "DOI": "10.1186/1477-7525-5-63",
+                    "volume": "5",
+                    "author": "R Tennant",
+                    "year": "2007",
+                    "unstructured": "Tennant R, Hiller L, Fishwick R, Platt S, Joseph S, Weich S, et al. The Warwick-Edinburgh mental well-being scale (WEMWBS): development and UK validation. Health & Quality of Life Outcomes. 2007;5:63\u201376.",
+                    "journal-title": "Health & Quality of Life Outcomes."
+                },
+                {
+                    "issue": "5",
+                    "key": "5661_CR53",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "581",
+                    "DOI": "10.1111/j.1469-7610.1997.tb01545.x",
+                    "volume": "38",
+                    "author": "R Goodman",
+                    "year": "1997",
+                    "unstructured": "Goodman R. The strengths and difficulties questionnaire: a research note. J Child Psychol Psychiatry. 1997;38(5):581\u20136.",
+                    "journal-title": "J Child Psychol Psychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "5661_CR54",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "125",
+                    "DOI": "10.1007/s007870050057",
+                    "volume": "7",
+                    "author": "R Goodman",
+                    "year": "1998",
+                    "unstructured": "Goodman R, Meltzer H, Bailey V. The strengths and difficulties questionnaire: a pilot study on the validity of the self-report version. Eur Child Adolesc Psychiatry. 1998;7(3):125\u201330.",
+                    "journal-title": "Eur Child Adolesc Psychiatry"
+                },
+                {
+                    "key": "5661_CR55",
+                    "unstructured": "Cernis. Puzzled Out: Cernis; 2008 [Available from: \n                    http://www.puzzledout.com/pages/about/learning-from-experience\n                    \n                  ."
+                },
+                {
+                    "key": "5661_CR56",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1001",
+                    "DOI": "10.1177/1049732308318230",
+                    "volume": "18",
+                    "author": "M Horstman",
+                    "year": "2008",
+                    "unstructured": "Horstman M, Aldiss S, Richardson A, Gibson F. Methodological issues when using the draw and write technique with children aged 6 to 12 years. Qual Health Res. 2008;18:1001\u201311.",
+                    "journal-title": "Qual Health Res"
+                },
+                {
+                    "key": "5661_CR57",
+                    "author": "L Holmes",
+                    "year": "2009",
+                    "unstructured": "Holmes L, West H, Dreaves H. Mental well-being impact assessment (MWIA) of projects funded by 'Traget: wellbeing'. 2009.",
+                    "volume-title": "Mental well-being impact assessment (MWIA) of projects funded by 'Traget: wellbeing'"
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR58",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "487",
+                    "DOI": "10.1186/1471-2458-11-487",
+                    "volume": "11",
+                    "author": "A Clarke",
+                    "year": "2011",
+                    "unstructured": "Clarke A, Friede T, Putz R, Ashdown J, Martin S, Blake A, et al. Warwick-Edinburgh mental well-being scale (WEMWBS): validated for teenage school students in England and Scotland. A mixed methods assessment. BMC Public Health. 2011;11(1):487.",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "5661_CR59",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "volume": "3",
+                    "author": "V Braun",
+                    "year": "2006",
+                    "unstructured": "Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006;3:77\u2013101.",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "issue": "2",
+                    "key": "5661_CR60",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "108",
+                    "DOI": "10.1016/j.midw.2005.05.004",
+                    "volume": "22",
+                    "author": "D Walsh",
+                    "year": "2006",
+                    "unstructured": "Walsh D, Downe S. Appraising the quality of qualitative research. Midwifery. 2006;22(2):108\u201319.",
+                    "journal-title": "Midwifery"
+                },
+                {
+                    "key": "5661_CR61",
+                    "unstructured": "Department for Education. Working together to safeguard children. Gov UK; 2015."
+                },
+                {
+                    "key": "5661_CR62",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "795",
+                    "DOI": "10.1177/001391602237248",
+                    "volume": "34",
+                    "author": "RD Bixler",
+                    "year": "2002",
+                    "unstructured": "Bixler RD, Floyd MF, Hammitt WE. Environmental socialization: quantitative tests of the childhood play hypothesis. Environ Behav. 2002;34:795\u2013818.",
+                    "journal-title": "Environ Behav"
+                },
+                {
+                    "key": "5661_CR63",
+                    "unstructured": "Moore RC. The power of nature: orientations of girls and boys toward biotic and abiotic play settings on a reconstructed schoolyard. Children's Environments Quarterly. 1986;3(3)52\u201369."
+                },
+                {
+                    "issue": "2",
+                    "key": "5661_CR64",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "94",
+                    "DOI": "10.1002/fee.1225",
+                    "volume": "14",
+                    "author": "M Soga",
+                    "year": "2016",
+                    "unstructured": "Soga M, Gaston KJ. Extinction of experience: the loss of human\u2013nature interactions. Front Ecol Environ. 2016;14(2):94\u2013101.",
+                    "journal-title": "Front Ecol Environ"
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR65",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "83",
+                    "DOI": "10.1016/S0169-2046(00)00045-1",
+                    "volume": "48",
+                    "author": "I Fj\u00f8rtoft",
+                    "year": "2000",
+                    "unstructured": "Fj\u00f8rtoft I, Sageie J. The natural environment as a playground for children: landscape description and analyses of a natural playscape. Landsc Urban Plan. 2000;48(1):83\u201397.",
+                    "journal-title": "Landsc Urban Plan"
+                },
+                {
+                    "key": "5661_CR66",
+                    "unstructured": "Jose S, Patrick PG, Moseley C. Experiential learning theory: the importance of outdoor classrooms in environmental education. International Journal of Science Education, Part B. 2017;7(3):1\u201316.",
+                    "DOI": "10.1080/21548455.2016.1272144",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "5661_CR67",
+                    "unstructured": "Moore RC, Wong HH. Natural Learning: The life of an environmental schoolyard. Creating environments for rediscovering Nature's way of teaching: ERIC; 1997."
+                },
+                {
+                    "issue": "1",
+                    "key": "5661_CR68",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3",
+                    "DOI": "10.1177/0013916598301001",
+                    "volume": "30",
+                    "author": "AF Taylor",
+                    "year": "1998",
+                    "unstructured": "Taylor AF, Wiley A, Kuo FE, Sullivan WC. Growing up in the inner city green spaces as places to grow. Environ Behav. 1998;30(1):3\u201327.",
+                    "journal-title": "Environ Behav"
+                },
+                {
+                    "key": "5661_CR69",
+                    "unstructured": "Moreno JL. Who shall survive? Foundations of sociometry, group psychotherapy and socio-drama. 1953."
+                },
+                {
+                    "key": "5661_CR70",
+                    "unstructured": "DH. No Health Without Mental Health: A Cross-Government Mental Health Outcomes Strategy for People of All Ages In: health Do, editor. London: HM Government; 2011."
+                },
+                {
+                    "key": "5661_CR71",
+                    "unstructured": "Mental health task force. The five year forward view of mental health: a report from the independent mental health taskforce to the NHS in England (February 2016). London: NHS; 2016."
+                },
+                {
+                    "key": "5661_CR72",
+                    "unstructured": "H M Government. Healthy Lives, Healthy People: Our strategy for Public Health in England. In: Health SoSf, editor. London: H M Government; 2010."
+                },
+                {
+                    "key": "5661_CR73",
+                    "unstructured": "NICE. Promoting children's social and emotional wellbeing in primary education (PH12). National Institute for health and care excellence. 2008."
+                },
+                {
+                    "key": "5661_CR74",
+                    "author": "M Hodes",
+                    "year": "2004",
+                    "unstructured": "Hodes M. Refugee children in the UK. In: Malek M, Joughin C, editors. Mental Health Services for Minority Ethnic Children and Adolescents. Gateshead: Athenaeum Press; 2004.",
+                    "volume-title": "Mental Health Services for Minority Ethnic Children and Adolescents"
+                },
+                {
+                    "issue": "2",
+                    "key": "5661_CR75",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e89359",
+                    "DOI": "10.1371/journal.pone.0089359",
+                    "volume": "9",
+                    "author": "RA Tyrer",
+                    "year": "2014",
+                    "unstructured": "Tyrer RA, Fazel M. School and community-based interventions for refugee and asylum seeking children: a systematic review. PLoS One. 2014;9(2):e89359.",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "5661_CR76",
+                    "unstructured": "Kirby P. A guide to actively involving young people in research. For Researchers, Research Commissioners and Managers, Involve Support Unit, Eastleigh, Hamphires. 2004."
+                },
+                {
+                    "key": "5661_CR77",
+                    "author": "N Marks",
+                    "year": "2011",
+                    "unstructured": "Marks N. The happiness manifesto: how nations and people can nurture well-being: TED books; 2011.",
+                    "volume-title": "The happiness manifesto: how nations and people can nurture well-being: TED books"
+                },
+                {
+                    "key": "5661_CR78",
+                    "unstructured": "Seligman ME, Csikszentmihalyi M. Positive psychology: an introduction. New York: Springer; 2014.",
+                    "DOI": "10.1007/978-94-017-9088-8_18",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "2",
+                    "key": "5661_CR79",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "98",
+                    "DOI": "10.1108/JPMH-03-2013-0009",
+                    "volume": "12",
+                    "author": "J Michaelson",
+                    "year": "2013",
+                    "unstructured": "Michaelson J. Forward from foresight: the uses of the new economics foundation's well-being work. Journal of Public Mental Health. 2013;12(2):98\u2013102.",
+                    "journal-title": "Journal of Public Mental Health"
+                },
+                {
+                    "issue": "3",
+                    "key": "5661_CR80",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "235",
+                    "DOI": "10.3390/ijerph14030235",
+                    "volume": "14",
+                    "author": "X Feng",
+                    "year": "2017",
+                    "unstructured": "Feng X, Astell-Burt T. The relationship between neighbourhood green space and child mental wellbeing depends upon whom you ask: multilevel evidence from 3083 children aged 12\u201313 years. Int J Environ Res Public Health. 2017;14(3):235.",
+                    "journal-title": "Int J Environ Res Public Health"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-018-5661-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12889-018-5661-9/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-018-5661-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        4
+                    ]
+                ],
+                "date-time": "2019-07-04T23:08:38Z",
+                "timestamp": 1562281718000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 80,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "5661"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-018-5661-9",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "BMC Public Health",
+            "assertion": [
+                {
+                    "value": "28 June 2017",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "1 June 2018",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "5 July 2018",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "The Research and Development Office of the NHS trust in which the CAMHS team were embedded independently assessed the study protocol and decided that it warrented classification as\u00a0a \u201cservice evaluation\u201d. The evaluation was therefore exempt from requiring ethical committee review and approval. Informed written consent from the children\u2019s parents was obtained in the majority of cases. Where the parent\u2019s literacy required\u00a0it, a member of the school staff not associated with the study read out the participant information\u00a0sheet and signed the parent\u2019s verbal agreement on the consent form. This approach was approved by the Research and Development Office of the NHS Trust providing ethical oversight of the service evaluation. In line with the participatory approach to evaluation additional informed verbal assent of the children was gathered at opening MWIA workshops.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors declare that they have no competing interests.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                },
+                {
+                    "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Publisher\u2019s Note"
+                    }
+                }
+            ],
+            "article-number": "836"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "KeywordList": [
+                    [
+                        "Behavioural, emotional and social problems",
+                        "Children and young people",
+                        "Community-based",
+                        "Greenspace",
+                        "Mental health and psychosocial wellbeing",
+                        "Mixed-methods",
+                        "Pilot intervention",
+                        "Schools",
+                        "Therapeutic horticulture"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29976193",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "07",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "07",
+                    "Day": "23"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-018-5661-9"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "07",
+                            "Day": "05"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "18",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "07",
+                                "Day": "05"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "A haven of green space: learning from a pilot pre-post evaluation of a school-based social and therapeutic horticulture intervention with children.",
+                    "Pagination": {
+                        "MedlinePgn": "836"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Research suggests outdoor activity in green spaces is important for children's mental, emotional and social wellbeing. A recognised green space intervention is \"Social and Therapeutic Horticulture\" (STH). We discuss findings from a pilot STH intervention, \"A Haven of Green Space\" conducted in North West England. The target group were school children aged 9-15\u00a0years experiencing behavioural, emotional and social difficulties. This exploratory study aims to assess the mental wellbeing of the children pre- and post-intervention, and assess the value of the evaluation methods and \"Five Ways to Wellbeing\" evaluation framework.",
+                            "The intervention involved 6 monthly sessions with two horticulturists and a psychotherapist. Sessions were participatory with the development of selected greenspaces at each school directed by the children. Evaluation was situated in the \"Five Ways to Wellbeing\" framework, using a mixed-methods pre- post-evaluation design. Existing public mental health evaluation methodologies were adapted for use with school children: Mental Well Being Impact Assessment (MWIA) and Wellbeing Check Cards. The MWIA was analysed qualitatively identifying over-arching themes. The quantitative wellbeing check cards were analysed by mean score comparison.",
+                            "Results were collected from 36 children across the three participating schools, and suggest that the Haven Green Space intervention was associated with improved mental wellbeing. MWIA factors relating to mental wellbeing (\"emotional wellbeing\" and \"self-help\") were positively impacted in all three schools. However, findings from the wellbeing check cards challenge this, with worsening scores across many domains.",
+                            "A key study limitation is the pilot nature of the intervention and challenges in adapting evaluation methods to context and age-range. However, results indicate that group based socially interactive horticulture activities facilitated by trained therapists are associated with positive impacts upon the mental and emotional wellbeing of children experiencing behavioural, emotional and social difficulties. Further research is needed to verify this, and to support using the \"Five Ways\" in intervention development and evaluation. Finally, we recommend continued efforts to develop age-appropriate evaluation methods."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 2, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chiumento",
+                            "ForeName": "Anna",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Psychology and Mental Health, University of Manchester, Oxford Rd, Manchester, M13 9PL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mukherjee",
+                            "ForeName": "Ipshita",
+                            "Initials": "I"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Transitional Medicine, University of Liverpool, Alder Hey Children's Hospital, Eaton Rd, Liverpool, L14 5AB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chandna",
+                            "ForeName": "Jaya",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Child and Adolescent Mental Health, Alder Hey Children's Hospital, Eaton Rd, Liverpool, L14 5AB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dutton",
+                            "ForeName": "Carl",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 2, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rahman",
+                            "ForeName": "Atif",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 1, Liverpool, L69 3GL, UK. k.s.bristow@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-8947-2298"
+                            ],
+                            "LastName": "Bristow",
+                            "ForeName": "Katie",
+                            "Initials": "K"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "N/A",
+                            "Agency": "Liverpool PCT",
+                            "Country": "International"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Randomized Controlled Trial"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Horticultural Therapy",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pilot Projects",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Program Evaluation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "School Health Services",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Social Behavior Disorders",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Public Health. 2011 Jun 21;11:487",
+                                "ArticleIdList": [
+                                    "21693055"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatr Rehabil. 2004 Oct-Dec;7(4):245-60",
+                                "ArticleIdList": [
+                                    "15513768"
+                                ]
+                            },
+                            {
+                                "Citation": "J Psychiatr Res. 2011 May;45(5):626-9",
+                                "ArticleIdList": [
+                                    "21035130"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Qual Life Outcomes. 2007 Nov 27;5:63",
+                                "ArticleIdList": [
+                                    "18042300"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Psychol Psychiatry. 1997 Jul;38(5):581-6",
+                                "ArticleIdList": [
+                                    "9255702"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pediatr Nurs. 2017 Nov - Dec;37:3-7",
+                                "ArticleIdList": [
+                                    "28882650"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Health Res. 2008 Jul;18(7):1001-11",
+                                "ArticleIdList": [
+                                    "18552326"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Environ Res Public Health. 2017 Feb 27;14(3):",
+                                "ArticleIdList": [
+                                    "28264461"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Adolesc Psychiatr Ment Health Nurs. 1989 Jul-Sep;2(3):87-91",
+                                "ArticleIdList": [
+                                    "2769590"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Feb 24;9(2):e89359",
+                                "ArticleIdList": [
+                                    "24586715"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Qual Life Outcomes. 2009 Feb 19;7:15",
+                                "ArticleIdList": [
+                                    "19228398"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2016 Oct 5;16(1):1051",
+                                "ArticleIdList": [
+                                    "27716134"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Theory Nurs Pract. 2009;23(4):312-28",
+                                "ArticleIdList": [
+                                    "19999748"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Child Adolesc Psychiatry. 1998 Sep;7(3):125-30",
+                                "ArticleIdList": [
+                                    "9826298"
+                                ]
+                            },
+                            {
+                                "Citation": "Midwifery. 2006 Jun;22(2):108-19",
+                                "ArticleIdList": [
+                                    "16243416"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Behav Nutr Phys Act. 2016 Aug 22;13:93",
+                                "ArticleIdList": [
+                                    "27549588"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Pract Epidemiol Ment Health. 2015 Feb 26;11(Suppl 1 M2):21-40",
+                                "ArticleIdList": [
+                                    "25834626"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "06",
+                        "Day": "28"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "06",
+                        "Day": "01"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "7",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29976193",
+                    "10.1186/s12889-018-5661-9",
+                    "10.1186/s12889-018-5661-9",
+                    "PMC6034303"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29976193)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829976193%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829976193%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049564929"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049564929?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049564929&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049564929&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049564929",
+                        "dc:identifier": "SCOPUS_ID:85049564929",
+                        "eid": "2-s2.0-85049564929",
+                        "dc:title": "A haven of green space: Learning from a pilot pre-post evaluation of a school-based social and therapeutic horticulture intervention with children",
+                        "dc:creator": "Chiumento A.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "18",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-07-05",
+                        "prism:coverDisplayDate": "5 July 2018",
+                        "prism:doi": "10.1186/s12889-018-5661-9",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29976193",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "836",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "5UN3GE9V.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29976193"
+            }
+        },
+        "title": "A haven of green space: learning from a pilot pre-post evaluation of a school-based social and therapeutic horticulture intervention with children.",
+        "full_author_list": [
+            {
+                "clean": "Chiumento A",
+                "family": "Chiumento",
+                "given": "Anna",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 2, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Mukherjee I",
+                "family": "Mukherjee",
+                "given": "Ipshita",
+                "affiliation": {
+                    "name": "Division of Psychology and Mental Health, University of Manchester, Oxford Rd, Manchester, M13 9PL, UK."
+                }
+            },
+            {
+                "clean": "Chandna J",
+                "family": "Chandna",
+                "given": "Jaya",
+                "affiliation": {
+                    "name": "Institute of Transitional Medicine, University of Liverpool, Alder Hey Children's Hospital, Eaton Rd, Liverpool, L14 5AB, UK."
+                }
+            },
+            {
+                "clean": "Dutton C",
+                "family": "Dutton",
+                "given": "Carl",
+                "affiliation": {
+                    "name": "Child and Adolescent Mental Health, Alder Hey Children's Hospital, Eaton Rd, Liverpool, L14 5AB, UK."
+                }
+            },
+            {
+                "clean": "Rahman A",
+                "family": "Rahman",
+                "given": "Atif",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 2, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Bristow K",
+                "family": "Bristow",
+                "given": "Katie",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 1, Liverpool, L69 3GL, UK. k.s.bristow@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Chiumento A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Horticultural Therapy",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Pilot Projects",
+                    "major": "N"
+                },
+                {
+                    "term": "Program Evaluation",
+                    "major": "N"
+                },
+                {
+                    "term": "School Health Services",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Behavior Disorders",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "18",
+            "issue": "1"
+        },
+        "abstract": "['Research suggests outdoor activity in green spaces is important for children\\'s mental, emotional and social wellbeing. A recognised green space intervention is \"Social and Therapeutic Horticulture\" (STH). We discuss findings from a pilot STH intervention, \"A Haven of Green Space\" conducted in North West England. The target group were school children aged 9-15\\xa0years experiencing behavioural, emotional and social difficulties. This exploratory study aims to assess the mental wellbeing of the children pre- and post-intervention, and assess the value of the evaluation methods and \"Five Ways to Wellbeing\" evaluation framework.', 'The intervention involved 6 monthly sessions with two horticulturists and a psychotherapist. Sessions were participatory with the development of selected greenspaces at each school directed by the children. Evaluation was situated in the \"Five Ways to Wellbeing\" framework, using a mixed-methods pre- post-evaluation design. Existing public mental health evaluation methodologies were adapted for use with school children: Mental Well Being Impact Assessment (MWIA) and Wellbeing Check Cards. The MWIA was analysed qualitatively identifying over-arching themes. The quantitative wellbeing check cards were analysed by mean score comparison.', 'Results were collected from 36 children across the three participating schools, and suggest that the Haven Green Space intervention was associated with improved mental wellbeing. MWIA factors relating to mental wellbeing (\"emotional wellbeing\" and \"self-help\") were positively impacted in all three schools. However, findings from the wellbeing check cards challenge this, with worsening scores across many domains.', 'A key study limitation is the pilot nature of the intervention and challenges in adapting evaluation methods to context and age-range. However, results indicate that group based socially interactive horticulture activities facilitated by trained therapists are associated with positive impacts upon the mental and emotional wellbeing of children experiencing behavioural, emotional and social difficulties. Further research is needed to verify this, and to support using the \"Five Ways\" in intervention development and evaluation. Finally, we recommend continued efforts to develop age-appropriate evaluation methods.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology, Health and Society, University of Liverpool, Waterhouse Building Block B Floor 2, Liverpool, L69 3GL, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

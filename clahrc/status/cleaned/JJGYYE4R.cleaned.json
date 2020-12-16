@@ -1,0 +1,795 @@
+{
+    "IDs": {
+        "zotero": "JJGYYE4R",
+        "DOI": "10.1177/2158244017707004",
+        "DOI_filename": "6590fda38c6d8b70a4a2c16280942855",
+        "PMID": "",
+        "scopus": "2-s2.0-85021745477",
+        "hash": "beee6183904ce56edd5b2924cf990b24"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JJGYYE4R",
+            "version": 85,
+            "itemType": "journalArticle",
+            "title": "Places Change Minds: Exploring the Psychology of Urbanicity Using a Brief Contemplation Method",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosie",
+                    "lastName": "Mansfield"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Trina",
+                    "lastName": "Giokas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amy",
+                    "lastName": "Hawkins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lauren",
+                    "lastName": "Bamford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham",
+                    "lastName": "Marshall"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "SAGE Open",
+            "volume": "7",
+            "issue": "2",
+            "pages": "215824401770700",
+            "date": "04/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "SAGE Open",
+            "language": "en",
+            "DOI": "10.1177/2158244017707004",
+            "ISSN": "2158-2440, 2158-2440",
+            "shortTitle": "Places Change Minds",
+            "url": "http://journals.sagepub.com/doi/10.1177/2158244017707004",
+            "accessDate": "2020-09-10T17:08:32Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:32Z",
+            "dateModified": "2020-09-10T17:08:32Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        6
+                    ]
+                ],
+                "date-time": "2020-05-06T14:23:30Z",
+                "timestamp": 1588775010885
+            },
+            "reference-count": 64,
+            "publisher": "SAGE Publications",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                4,
+                                1
+                            ]
+                        ],
+                        "date-time": "2017-04-01T00:00:00Z",
+                        "timestamp": 1491004800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "journals.sagepub.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1177/2158244017707004",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        9
+                    ]
+                ],
+                "date-time": "2017-05-09T06:13:00Z",
+                "timestamp": 1494310380000
+            },
+            "page": "215824401770700",
+            "update-policy": "http://dx.doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "Places Change Minds: Exploring the Psychology of Urbanicity Using a Brief Contemplation Method",
+            "prefix": "10.1177",
+            "volume": "7",
+            "author": [
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rosie",
+                    "family": "Mansfield",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Trina",
+                    "family": "Giokas",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Amy",
+                    "family": "Hawkins",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lauren",
+                    "family": "Bamford",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Graham",
+                    "family": "Marshall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, UK"
+                        },
+                        {
+                            "name": "Prosocial Place, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "179",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        8
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "bibr1-2158244017707004",
+                    "DOI": "10.1016/j.jpsychires.2006.07.020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr2-2158244017707004",
+                    "DOI": "10.1080/17522431003592649",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr3-2158244017707004",
+                    "DOI": "10.1001/archgenpsychiatry.2009.1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr4-2158244017707004",
+                    "DOI": "10.1007/s10608-012-9475-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr5-2158244017707004",
+                    "DOI": "10.1037/0278-6133.25.6.704",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr6-2158244017707004",
+                    "DOI": "10.1037/a0028596",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr7-2158244017707004",
+                    "DOI": "10.1017/S003329170600794X",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr9-2158244017707004",
+                    "DOI": "10.1177/0961463X07086304",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr10-2158244017707004",
+                    "DOI": "10.1080/00420980120087171",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr11-2158244017707004",
+                    "DOI": "10.1016/j.puhe.2009.09.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr12-2158244017707004",
+                    "DOI": "10.1016/j.schres.2007.10.027",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr13-2158244017707004",
+                    "DOI": "10.1093/jurban/jtg063",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr14-2158244017707004",
+                    "DOI": "10.1002/jcop.21510",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr15-2158244017707004",
+                    "author": "Faris R. E. L.",
+                    "year": "1939",
+                    "volume-title": "Mental disorders in urban areas: An ecological study of schizophrenia and other psychoses"
+                },
+                {
+                    "key": "bibr16-2158244017707004",
+                    "author": "Freeman D.",
+                    "volume": "388",
+                    "first-page": "1121",
+                    "year": "2008",
+                    "journal-title": "Psychological Medicine",
+                    "DOI": "10.1017/S0033291708003589",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "bibr17-2158244017707004",
+                    "DOI": "10.1016/j.psychres.2008.06.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr18-2158244017707004",
+                    "DOI": "10.1348/014466505X29657",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr19-2158244017707004",
+                    "DOI": "10.1192/bjp.182.1.71",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr20-2158244017707004",
+                    "DOI": "10.1016/S0272-7358(01)00103-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr21-2158244017707004",
+                    "DOI": "10.1016/0022-3999(78)90025-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr22-2158244017707004",
+                    "DOI": "10.1111/j.2044-8260.1997.tb01243.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr23-2158244017707004",
+                    "DOI": "10.1016/j.brat.2008.07.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr24-2158244017707004",
+                    "DOI": "10.1093/schbul/sbs151",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr25-2158244017707004",
+                    "DOI": "10.1093/schbul/sbi060",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr26-2158244017707004",
+                    "DOI": "10.1038/nature10190",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr27-2158244017707004",
+                    "DOI": "10.1371/journal.pone.0033950",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr28-2158244017707004",
+                    "DOI": "10.1037/0021-843X.95.1.15",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr29-2158244017707004",
+                    "DOI": "10.1016/j.jad.2013.05.032",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr30-2158244017707004",
+                    "DOI": "10.1348/147608308X398337",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr31-2158244017707004",
+                    "DOI": "10.2307/2095107",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr32-2158244017707004",
+                    "DOI": "10.1136/jech.2006.053553",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr33-2158244017707004",
+                    "DOI": "10.1007/s10608-006-9070-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr34-2158244017707004",
+                    "DOI": "10.1080/13546800701566686",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr35-2158244017707004",
+                    "DOI": "10.1192/apt.10.3.216",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr36-2158244017707004",
+                    "DOI": "10.7717/peerj.236",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr37-2158244017707004",
+                    "DOI": "10.7717/peerj.964",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr38-2158244017707004",
+                    "DOI": "10.1016/j.tics.2012.07.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr39-2158244017707004",
+                    "DOI": "10.1001/archpsyc.58.11.1039",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr40-2158244017707004",
+                    "DOI": "10.1111/j.1600-0447.2009.01438.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr41-2158244017707004",
+                    "DOI": "10.1007/978-1-4939-0280-4_10",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr42-2158244017707004",
+                    "DOI": "10.1007/s00127-010-0222-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr43-2158244017707004",
+                    "DOI": "10.1177/002214650905000104",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr44-2158244017707004",
+                    "DOI": "10.2307/3088923",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr45-2158244017707004",
+                    "DOI": "10.1037/h0092976",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr46-2158244017707004",
+                    "DOI": "10.1001/archgenpsychiatry.2009.23",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr47-2158244017707004",
+                    "DOI": "10.2105/AJPH.2006.097154",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr48-2158244017707004",
+                    "DOI": "10.1037/0022-3514.66.4.742",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr49-2158244017707004",
+                    "DOI": "10.1016/j.brat.2008.10.008",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr50-2158244017707004",
+                    "DOI": "10.1192/bjp.184.4.293",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr51-2158244017707004",
+                    "DOI": "10.1016/j.landurbplan.2011.12.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr52-2158244017707004",
+                    "DOI": "10.1207/s15327957pspr0803_5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr53-2158244017707004",
+                    "DOI": "10.1007/s00127-013-0678-y",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr54-2158244017707004",
+                    "DOI": "10.1017/S1121189X00003067",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr55-2158244017707004",
+                    "DOI": "10.1192/bjp.184.4.287",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr56-2158244017707004",
+                    "DOI": "10.1017/S0033291708003814",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr57-2158244017707004",
+                    "DOI": "10.1093/schbul/sbs096",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr58-2158244017707004",
+                    "DOI": "10.1016/S0920-9964(01)00352-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr59-2158244017707004",
+                    "DOI": "10.1007/s00127-004-0698-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr60-2158244017707004",
+                    "DOI": "10.1192/bjp.180.5.428",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr61-2158244017707004",
+                    "DOI": "10.1192/bjp.bp.105.008714",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr62-2158244017707004",
+                    "DOI": "10.1016/S0191-8869(00)00064-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr63-2158244017707004",
+                    "author": "Wilson E. O.",
+                    "year": "1984",
+                    "volume-title": "Biophilia"
+                },
+                {
+                    "key": "bibr64-2158244017707004",
+                    "DOI": "10.1080/00224545.1989.9713793",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr65-2158244017707004",
+                    "DOI": "10.1037/h0025848",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "SAGE Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2158244017707004",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/2158244017707004",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2158244017707004",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        23
+                    ]
+                ],
+                "date-time": "2019-09-23T23:32:29Z",
+                "timestamp": 1569281549000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        4
+                    ]
+                ]
+            },
+            "references-count": 64,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            5,
+                            2
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1177/2158244017707004"
+            ],
+            "URL": "http://dx.doi.org/10.1177/2158244017707004",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2158-2440",
+                "2158-2440"
+            ],
+            "container-title-short": "SAGE Open"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1177/2158244017707004)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1177%2F2158244017707004%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1177%2F2158244017707004%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021745477"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021745477?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021745477&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021745477&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021745477",
+                        "dc:identifier": "SCOPUS_ID:85021745477",
+                        "eid": "2-s2.0-85021745477",
+                        "dc:title": "Places Change Minds: Exploring the Psychology of Urbanicity Using a Brief Contemplation Method",
+                        "dc:creator": "Corcoran R.",
+                        "prism:publicationName": "SAGE Open",
+                        "prism:eIssn": "21582440",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-05-01",
+                        "prism:coverDisplayDate": "1 May 2017",
+                        "prism:doi": "10.1177/2158244017707004",
+                        "citedby-count": "8",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "21100255401",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JJGYYE4R.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Places Change Minds: Exploring the Psychology of Urbanicity Using a Brief Contemplation Method",
+        "full_author_list": [
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Mansfield R",
+                "family": "Mansfield",
+                "given": "Rosie",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Giokas T",
+                "family": "Giokas",
+                "given": "Trina",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Hawkins A",
+                "family": "Hawkins",
+                "given": "Amy",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Bamford L",
+                "family": "Bamford",
+                "given": "Lauren",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            },
+            {
+                "clean": "Marshall G",
+                "family": "Marshall",
+                "given": "Graham",
+                "affiliation": {
+                    "name": "University of Liverpool, UK"
+                }
+            }
+        ],
+        "first_author": "Corcoran R",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "SAGE Open",
+            "volume": "7",
+            "issue": "2"
+        },
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "8"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, UK",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

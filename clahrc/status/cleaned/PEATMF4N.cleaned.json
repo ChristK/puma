@@ -1,0 +1,1632 @@
+{
+    "IDs": {
+        "zotero": "PEATMF4N",
+        "DOI": "10.1186/s12913-017-2694-1",
+        "DOI_filename": "a8dc4f3124af52891f860f18be568c67",
+        "PMID": "29157233",
+        "scopus": "2-s2.0-85034644098",
+        "hash": "693de2aa90121671ff0f351fdf06831e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PEATMF4N",
+            "version": 175,
+            "itemType": "journalArticle",
+            "title": "Integrating acute stroke telemedicine consultations into specialists\u2019 usual practice: a qualitative analysis comparing the experience of Australia and the United Kingdom",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "name": "on behalf of the VST and ASTUTE investigators"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathleen L.",
+                    "lastName": "Bagot"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dominique A.",
+                    "lastName": "Cadilhac"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher F.",
+                    "lastName": "Bladin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Caroline L.",
+                    "lastName": "Watkins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Vu"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Geoffrey A.",
+                    "lastName": "Donnan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Helen M.",
+                    "lastName": "Dewey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hedley C. A.",
+                    "lastName": "Emsley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "D. Paul",
+                    "lastName": "Davies"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elaine",
+                    "lastName": "Day"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gary A.",
+                    "lastName": "Ford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher I.",
+                    "lastName": "Price"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carl R.",
+                    "lastName": "May"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alison S. R.",
+                    "lastName": "McLoughlin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine M. E.",
+                    "lastName": "Gibson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catherine E.",
+                    "lastName": "Lightbody"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMC Health Services Research",
+            "volume": "17",
+            "issue": "1",
+            "pages": "751",
+            "date": "12/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Health Serv Res",
+            "language": "en",
+            "DOI": "10.1186/s12913-017-2694-1",
+            "ISSN": "1472-6963",
+            "shortTitle": "Integrating acute stroke telemedicine consultations into specialists\u2019 usual practice",
+            "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-017-2694-1",
+            "accessDate": "2020-09-10T17:08:28Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29157233",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:28Z",
+            "dateModified": "2020-09-15T14:19:22Z",
+            "pmid": "29157233"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        16
+                    ]
+                ],
+                "date-time": "2020-09-16T02:24:04Z",
+                "timestamp": 1600223044520
+            },
+            "reference-count": 27,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "funder": [
+                {
+                    "DOI": "10.13039/100015610",
+                    "name": "Windermere Foundation",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100000925",
+                    "name": "National Health and Medical Research Council",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100001030",
+                    "name": "National Heart Foundation of Australia",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "1063761"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "PB-PG-1208-18280"
+                    ]
+                },
+                {
+                    "name": "The State Government of Victoria: Department of Business and Innovation and Department of Health",
+                    "award": []
+                },
+                {
+                    "name": "The Florey Institute of Neuroscience and Mental Health",
+                    "award": []
+                },
+                {
+                    "name": "Boehringer Ingelheim",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12913-017-2694-1",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        21
+                    ]
+                ],
+                "date-time": "2017-11-21T01:16:13Z",
+                "timestamp": 1511226973000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 9,
+            "title": "Integrating acute stroke telemedicine consultations into specialists\u2019 usual practice: a qualitative analysis comparing the experience of Australia and the United Kingdom",
+            "prefix": "10.1186",
+            "volume": "17",
+            "author": [
+                {
+                    "given": "Kathleen L.",
+                    "family": "Bagot",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "name": "on behalf of the VST and ASTUTE investigators",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Dominique A.",
+                    "family": "Cadilhac",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher F.",
+                    "family": "Bladin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Caroline L.",
+                    "family": "Watkins",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michelle",
+                    "family": "Vu",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Geoffrey A.",
+                    "family": "Donnan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Helen M.",
+                    "family": "Dewey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Hedley C. A.",
+                    "family": "Emsley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "D. Paul",
+                    "family": "Davies",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Elaine",
+                    "family": "Day",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gary A.",
+                    "family": "Ford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher I.",
+                    "family": "Price",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carl R.",
+                    "family": "May",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alison S. R.",
+                    "family": "McLoughlin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Josephine M. E.",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Catherine E.",
+                    "family": "Lightbody",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2694_CR1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1876",
+                    "DOI": "10.1161/STROKEAHA.114.003825",
+                    "volume": "45",
+                    "author": "CF Bladin",
+                    "year": "2014",
+                    "unstructured": "Bladin CF, Cadilhac DA. Effect of Telestroke on emergent stroke care and stroke outcomes. Stroke. 2014;45:1876\u201380.",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "issue": "1",
+                    "key": "2694_CR2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "27",
+                    "DOI": "10.1385/NCC:3:1:027",
+                    "volume": "3",
+                    "author": "GW Ickenstein",
+                    "year": "2005",
+                    "unstructured": "Ickenstein GW, et al. The use of telemedicine in combination with a new stroke-code-box significantly increases t-PA use in rural communities. Neurocrit Care. 2005;3(1):27\u201332.",
+                    "journal-title": "Neurocrit Care"
+                },
+                {
+                    "issue": "8",
+                    "key": "2694_CR3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "343",
+                    "DOI": "10.1007/s11883-013-0343-7",
+                    "volume": "15",
+                    "author": "MN Rubin",
+                    "year": "2013",
+                    "unstructured": "Rubin MN, et al. Systematic review of telestroke for post-stroke care and rehabilitation. Curr Atheroscler Rep. 2013;15(8):343.",
+                    "journal-title": "Curr Atheroscler Rep"
+                },
+                {
+                    "issue": "7",
+                    "key": "2694_CR4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "535",
+                    "DOI": "10.1016/j.jstrokecerebrovasdis.2012.06.014",
+                    "volume": "21",
+                    "author": "JA Switzer",
+                    "year": "2012",
+                    "unstructured": "Switzer JA, Demaerschalk BM. Overcoming challenges to sustain a Telestroke network. J Stroke Cerebrovasc Dis. 2012;21(7):535\u201340.",
+                    "journal-title": "J Stroke Cerebrovasc Dis"
+                },
+                {
+                    "issue": "4",
+                    "key": "2694_CR5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "805",
+                    "DOI": "10.1161/STROKEAHA.109.574137",
+                    "volume": "41",
+                    "author": "A Moskowitz",
+                    "year": "2010",
+                    "unstructured": "Moskowitz A, et al. Emergency physician and stroke specialist beliefs and expectations regarding telestroke. Stroke. 2010;41(4):805\u20139.",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "issue": "7",
+                    "key": "2694_CR6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2635",
+                    "DOI": "10.1161/STROKEAHA.109.192361",
+                    "volume": "40",
+                    "author": "LH Schwamm",
+                    "year": "2009",
+                    "unstructured": "Schwamm LH, et al. Recommendations for the implementation of telemedicine within stroke Systems of Care: a policy statement from the American Heart Association. Stroke. 2009;40(7):2635\u201360.",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "2694_CR7",
+                    "author": "B French",
+                    "year": "2013",
+                    "unstructured": "French, B., et al., The challenges of implementing a telestroke network: a systematic review and case study. BMC Medical Informatics and Decision Making, 2013.",
+                    "volume-title": "The challenges of implementing a telestroke network: a systematic review and case study"
+                },
+                {
+                    "key": "2694_CR8",
+                    "author": "CM Christensen",
+                    "year": "1997",
+                    "unstructured": "Christensen CM. The Innovator's dilemma: when new technologies cause great firms to fail. Boston: Harvard Business School Press; 1997.",
+                    "volume-title": "The Innovator's dilemma: when new technologies cause great firms to fail"
+                },
+                {
+                    "issue": "8",
+                    "key": "2694_CR9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "443",
+                    "DOI": "10.1177/1357633X15610722",
+                    "volume": "21",
+                    "author": "KL Bagot",
+                    "year": "2015",
+                    "unstructured": "Bagot KL, et al. Telemedicine in the acute health setting: unintended consequences for specialists of a disruptive innovation (an example from stroke). J Telemed Telecare. 2015;21(8):443\u20138.",
+                    "journal-title": "J Telemed Telecare"
+                },
+                {
+                    "issue": "9",
+                    "key": "2694_CR10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "957",
+                    "DOI": "10.1111/imj.12793",
+                    "volume": "45",
+                    "author": "N Moloczij",
+                    "year": "2015",
+                    "unstructured": "Moloczij N, et al. Is telemedicine helping or hindering the delivery of stroke thrombolysis in rural areas? A qualitative analysis. Intern Med J. 2015;45(9):957\u201364.",
+                    "journal-title": "Intern Med J"
+                },
+                {
+                    "issue": "6",
+                    "key": "2694_CR11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "349",
+                    "DOI": "10.1093/intqhc/mzm042",
+                    "volume": "19",
+                    "author": "A Tong",
+                    "year": "2007",
+                    "unstructured": "Tong A, Sainsbury P, Craig J. Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups. Int J Qual Health Care. 2007;19(6):349\u201357.",
+                    "journal-title": "Int J Qual Health Care"
+                },
+                {
+                    "issue": "2",
+                    "key": "2694_CR12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "252",
+                    "DOI": "10.1111/ijs.12137",
+                    "volume": "9",
+                    "author": "DA Cadilhac",
+                    "year": "2014",
+                    "unstructured": "Cadilhac DA, et al. Establishment of an effective acute stroke telemedicine program for Australia: protocol for the Victorian stroke telemedicine project. Int J Stroke. 2014;9(2):252\u20138.",
+                    "journal-title": "Int J Stroke"
+                },
+                {
+                    "issue": "9",
+                    "key": "2694_CR13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "951",
+                    "DOI": "10.1111/imj.12822",
+                    "volume": "45",
+                    "author": "CF Bladin",
+                    "year": "2015",
+                    "unstructured": "Bladin CF, et al. Victorian stroke telemedicine project: implementation of a new model of translational stroke care for Australia. Intern Med J. 2015;45(9):951\u20136.",
+                    "journal-title": "Intern Med J"
+                },
+                {
+                    "issue": "7",
+                    "key": "2694_CR14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "413",
+                    "DOI": "10.1177/1357633X14552389",
+                    "volume": "20",
+                    "author": "DA Cadilhac",
+                    "year": "2014",
+                    "unstructured": "Cadilhac DA, Vu M, Bladin CF. Experience with scaling up the Victorian stroke telemedicine programme. J Telemed Telecare. 2014;20(7):413\u20138.",
+                    "journal-title": "J Telemed Telecare"
+                },
+                {
+                    "issue": "35",
+                    "key": "2694_CR15",
+                    "first-page": "14",
+                    "volume": "109",
+                    "author": "J Gibson",
+                    "year": "2013",
+                    "unstructured": "Gibson J, et al. Using telemedicine for acute stroke assessment. Nurs Times. 2013;109(35):14\u20136.",
+                    "journal-title": "Nurs Times"
+                },
+                {
+                    "key": "2694_CR16",
+                    "unstructured": "Gibson J, et al. 'It was like he was in the room with us': patients' and carers' perspectives of telemedicine in acute stroke. Health Expect, 2015;19:98\u2013111.",
+                    "DOI": "10.1111/hex.12333",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2694_CR17",
+                    "author": "QSR International Pty Ltd",
+                    "year": "2012",
+                    "unstructured": "QSR International Pty Ltd. NVivo qualitative data analysis software, version 10. Doncaster, Victoria: QSR International Pty Ltd; 2012.",
+                    "volume-title": "NVivo qualitative data analysis software, version 10"
+                },
+                {
+                    "key": "2694_CR18",
+                    "unstructured": "May, C.R., et al., Development of a theory of implementation and integration: Normalization Process Theory. Implementation Science, 2009;4:29.",
+                    "DOI": "10.1186/1748-5908-4-29",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2694_CR19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "63",
+                    "DOI": "10.1186/1741-7015-8-63",
+                    "volume": "8",
+                    "author": "E Murray",
+                    "year": "2010",
+                    "unstructured": "Murray E, et al. Normalisation process theory: a framework for developing, evaluating and implementing complex interventions. BMC Med. 2010;8:63.",
+                    "journal-title": "BMC Med"
+                },
+                {
+                    "key": "2694_CR20",
+                    "unstructured": "Elwyn, G., et al., Arduous implementation: does the Normalisation Process Model explain why it's so difficult to embed decision support technologies for patients in routine clinical practice. Implementation Science, 2008;3:57.",
+                    "DOI": "10.1186/1748-5908-3-57",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "9",
+                    "key": "2694_CR21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "742",
+                    "DOI": "10.1016/S1474-4422(06)70527-0",
+                    "volume": "5",
+                    "author": "HJ Audebert",
+                    "year": "2006",
+                    "unstructured": "Audebert HJ, et al. Effects of the implementation of a telemedical stroke network: the Telemedic pilot project for integrative stroke care (TEMPiS) in Bavaria, Germany. Lancet Neurology. 2006;5(9):742\u20138.",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "key": "2694_CR22",
+                    "unstructured": "Jagolino, A.L., et al., A call for formal telemedicine training during stroke fellowship. Neurology, 2016;86:1827\u201333.",
+                    "DOI": "10.1212/WNL.0000000000002568",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "5",
+                    "key": "2694_CR23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "257",
+                    "DOI": "10.1258/135763307781458930",
+                    "volume": "13",
+                    "author": "S Cho",
+                    "year": "2007",
+                    "unstructured": "Cho S, et al. An analysis of business issues in a telestroke project. J Telemed Telecare. 2007;13(5):257\u201362.",
+                    "journal-title": "J Telemed Telecare"
+                },
+                {
+                    "key": "2694_CR24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "15",
+                    "DOI": "10.1186/1476-069X-3-15",
+                    "volume": "3",
+                    "author": "A-M Nicol",
+                    "year": "2004",
+                    "unstructured": "Nicol A-M, Botterill JS. On-call work and health: a review. Environmental Health: A Global Access Science Source. 2004;3:15\u20137.",
+                    "journal-title": "Environmental Health: A Global Access Science Source"
+                },
+                {
+                    "key": "2694_CR25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "105",
+                    "DOI": "10.1037/a0039602",
+                    "volume": "21",
+                    "author": "J Dettmers",
+                    "year": "2016",
+                    "unstructured": "Dettmers J, et al. Extended work availability and its relation with start-of-day mood and cortisol. J Occup Health Psychol. 2016;21:105.",
+                    "journal-title": "J Occup Health Psychol"
+                },
+                {
+                    "issue": "7",
+                    "key": "2694_CR26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1062",
+                    "DOI": "10.1111/ijs.12495",
+                    "volume": "10",
+                    "author": "AH He",
+                    "year": "2015",
+                    "unstructured": "He AH, et al. Every 15-min delay in recanalization by intra-arterial therapy in acute ischemic stroke increases risk of poor outcome. Int J Stroke. 2015;10(7):1062\u20137.",
+                    "journal-title": "Int J Stroke"
+                },
+                {
+                    "issue": "1",
+                    "key": "2694_CR27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1186/1475-9276-12-18",
+                    "volume": "12",
+                    "author": "J-F Levesque",
+                    "year": "2013",
+                    "unstructured": "Levesque J-F, Harris MF, Russell G. Patient-centred access to health care: conceptualising access at the interface of health systems and populations. Int J Equity Health. 2013;12(1):18\u201326.",
+                    "journal-title": "Int J Equity Health"
+                }
+            ],
+            "container-title": "BMC Health Services Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12913-017-2694-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        18
+                    ]
+                ],
+                "date-time": "2020-05-18T15:18:02Z",
+                "timestamp": 1589815082000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        21
+                    ]
+                ]
+            },
+            "references-count": 27,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "2694"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12913-017-2694-1",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1472-6963"
+            ],
+            "subject": [
+                "Health Policy"
+            ],
+            "container-title-short": "BMC Health Serv Res",
+            "article-number": "751"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Acute",
+                        "Barriers",
+                        "Consultation",
+                        "Facilitators",
+                        "Implementation",
+                        "Normalisation process theory",
+                        "Telemedicine"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29157233",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "05",
+                    "Day": "29"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "10",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12913-017-2694-1"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "21"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1472-6963",
+                        "JournalIssue": {
+                            "Volume": "17",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Nov",
+                                "Day": "21"
+                            }
+                        },
+                        "Title": "BMC health services research",
+                        "ISOAbbreviation": "BMC Health Serv Res"
+                    },
+                    "ArticleTitle": "Integrating acute stroke telemedicine consultations into specialists' usual practice: a qualitative analysis comparing the experience of Australia and the United Kingdom.",
+                    "Pagination": {
+                        "MedlinePgn": "751"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Stroke telemedicine can reduce healthcare inequities by increasing access to specialists. Successful telemedicine networks require specialists adapting clinical practice to provide remote consultations. Variation in experiences of specialists between different countries is unknown. To support future implementation, we compared perceptions of Australian and United Kingdom specialists providing remote acute stroke consultations.",
+                            "Specialist participants were identified using purposive sampling from two new services: Australia's Victorian Stroke Telemedicine Program (n\u2009=\u20096; 2010-13) and the United Kingdom's Cumbria and Lancashire telestroke network (n\u2009=\u20095; 2010-2012). Semi-structured interviews were conducted pre- and post-implementation, recorded and transcribed verbatim. Deductive thematic and content analysis (NVivo) was undertaken by two independent coders using Normalisation Process Theory to explore integration of telemedicine into practice. Agreement between coders was M\u2009=\u200991%, SD\u2009=\u20099 and weighted average \u03ba\u2009=\u20090.70.",
+                            "Cross-cultural similarities and differences were found. In both countries, specialists described old and new consulting practices, the purpose and value of telemedicine systems, and concerns regarding confidence in the assessment and diagnostic skills of unknown colleagues requesting telemedicine support. Australian specialists discussed how remote consultations impacted on usual roles and suggested future improvements, while United Kingdom specialists discussed system governance, policy and procedures.",
+                            "Australian and United Kingdom specialists reported telemedicine required changes in work practice and development of new skills. Both groups described potential for improvements in stroke telemedicine systems with Australian specialists more focused on role change and the United Kingdom on system governance issues. Future research should examine if cross-cultural variation reflects different models of care and extends to other networks."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia. kathleen.bagot@florey.edu.au."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK. kathleen.bagot@florey.edu.au."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medicine, School of Clinical Sciences at Monash Health, Monash University, Melbourne, Australia. kathleen.bagot@florey.edu.au."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bagot",
+                            "ForeName": "Kathleen L",
+                            "Initials": "KL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medicine, School of Clinical Sciences at Monash Health, Monash University, Melbourne, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cadilhac",
+                            "ForeName": "Dominique A",
+                            "Initials": "DA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medicine, School of Clinical Sciences at Monash Health, Monash University, Melbourne, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bladin",
+                            "ForeName": "Christopher F",
+                            "Initials": "CF"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Australian Catholic University, Sydney, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Watkins",
+                            "ForeName": "Caroline L",
+                            "Initials": "CL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Vu",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Donnan",
+                            "ForeName": "Geoffrey A",
+                            "Initials": "GA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Eastern Health Clinical School, Monash University, Melbourne, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dewey",
+                            "ForeName": "Helen M",
+                            "Initials": "HM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire Teaching Hospitals NHS Foundation Trust, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Emsley",
+                            "ForeName": "Hedley C A",
+                            "Initials": "HCA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North Cumbria University Hospitals NHS Trust, Carlisle, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Davies",
+                            "ForeName": "D Paul",
+                            "Initials": "DP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire and South Cumbria Strategic Clinical Network, Greater Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Day",
+                            "ForeName": "Elaine",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Oxford University Hospitals NHS Foundation Trust and Division of Medical Sciences, University of Oxford, Oxford, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ford",
+                            "ForeName": "Gary A",
+                            "Initials": "GA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Northumbria Healthcare NHS Foundation Trust, Newcastle, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Newcastle University, Newcastle, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Price",
+                            "ForeName": "Christopher I",
+                            "Initials": "CI"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Southampton, Southampton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "May",
+                            "ForeName": "Carl R",
+                            "Initials": "CR"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North Cumbria University Hospitals NHS Trust, Carlisle, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McLoughlin",
+                            "ForeName": "Alison S R",
+                            "Initials": "ASR"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gibson",
+                            "ForeName": "Josephine M E",
+                            "Initials": "JME"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Australian Catholic University, Sydney, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lightbody",
+                            "ForeName": "Catherine E",
+                            "Initials": "CE"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "CollectiveName": "VST and ASTUTE investigators"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "PB-PG-1208-18280",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "PB-PG-1208-18280",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        },
+                        {
+                            "GrantID": "1063761",
+                            "Agency": "National Heart Foundation of Australia",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Multicenter Study"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Health Serv Res",
+                    "NlmUniqueID": "101088677",
+                    "ISSNLinking": "1472-6963"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Delivery of Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Dissent and Disputes",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Perception",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pilot Projects",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Practice Patterns, Physicians'",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Referral and Consultation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remote Consultation",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Support",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Specialization",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Stroke",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Telemedicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Victoria",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Int J Equity Health. 2013 Mar 11;12:18",
+                                "ArticleIdList": [
+                                    "23496984"
+                                ]
+                            },
+                            {
+                                "Citation": "Implement Sci. 2008 Dec 31;3:57",
+                                "ArticleIdList": [
+                                    "19117509"
+                                ]
+                            },
+                            {
+                                "Citation": "Intern Med J. 2015 Sep;45(9):951-6",
+                                "ArticleIdList": [
+                                    "26011155"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurs Times. 2013 Sep 4-10;109 (35):14-6",
+                                "ArticleIdList": [
+                                    "24266238"
+                                ]
+                            },
+                            {
+                                "Citation": "J Telemed Telecare. 2014 Oct;20(7):413-8",
+                                "ArticleIdList": [
+                                    "25400003"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Qual Health Care. 2007 Dec;19(6):349-57",
+                                "ArticleIdList": [
+                                    "17872937"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurocrit Care. 2005;3(1):27-32",
+                                "ArticleIdList": [
+                                    "16159092"
+                                ]
+                            },
+                            {
+                                "Citation": "J Occup Health Psychol. 2016 Jan;21(1):105-18",
+                                "ArticleIdList": [
+                                    "26236956"
+                                ]
+                            },
+                            {
+                                "Citation": "Stroke. 2009 Jul;40(7):2635-60",
+                                "ArticleIdList": [
+                                    "19423851"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Stroke. 2015 Oct;10(7):1062-7",
+                                "ArticleIdList": [
+                                    "25918863"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Inform Decis Mak. 2013 Nov 14;13:125",
+                                "ArticleIdList": [
+                                    "24229343"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Atheroscler Rep. 2013 Aug;15(8):343",
+                                "ArticleIdList": [
+                                    "23761014"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2016 May 10;86(19):1827-33",
+                                "ArticleIdList": [
+                                    "27016522"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Stroke. 2014 Feb;9(2):252-8",
+                                "ArticleIdList": [
+                                    "24148281"
+                                ]
+                            },
+                            {
+                                "Citation": "J Stroke Cerebrovasc Dis. 2012 Oct;21(7):535-40",
+                                "ArticleIdList": [
+                                    "22819542"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med. 2010 Oct 20;8:63",
+                                "ArticleIdList": [
+                                    "20961442"
+                                ]
+                            },
+                            {
+                                "Citation": "Environ Health. 2004 Dec 08;3(1):15",
+                                "ArticleIdList": [
+                                    "15588276"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2016 Feb;19(1):98-111",
+                                "ArticleIdList": [
+                                    "25581591"
+                                ]
+                            },
+                            {
+                                "Citation": "Stroke. 2014 Jun;45(6):1876-80",
+                                "ArticleIdList": [
+                                    "24763931"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2006 Sep;5(9):742-8",
+                                "ArticleIdList": [
+                                    "16914402"
+                                ]
+                            },
+                            {
+                                "Citation": "Stroke. 2010 Apr;41(4):805-9",
+                                "ArticleIdList": [
+                                    "20167910"
+                                ]
+                            },
+                            {
+                                "Citation": "Implement Sci. 2009 May 21;4:29",
+                                "ArticleIdList": [
+                                    "19460163"
+                                ]
+                            },
+                            {
+                                "Citation": "J Telemed Telecare. 2015 Dec;21(8):443-8",
+                                "ArticleIdList": [
+                                    "26556058"
+                                ]
+                            },
+                            {
+                                "Citation": "J Telemed Telecare. 2007;13(5):257-62",
+                                "ArticleIdList": [
+                                    "17697514"
+                                ]
+                            },
+                            {
+                                "Citation": "Intern Med J. 2015 Sep;45(9):957-64",
+                                "ArticleIdList": [
+                                    "25904209"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "03",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "31",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29157233",
+                    "10.1186/s12913-017-2694-1",
+                    "10.1186/s12913-017-2694-1",
+                    "PMC5697163"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29157233)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829157233%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829157233%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034644098"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034644098?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034644098&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034644098&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034644098",
+                        "dc:identifier": "SCOPUS_ID:85034644098",
+                        "eid": "2-s2.0-85034644098",
+                        "dc:title": "Integrating acute stroke telemedicine consultations into specialists' usual practice: A qualitative analysis comparing the experience of Australia and the United Kingdom",
+                        "dc:creator": "Bagot K.L.",
+                        "prism:publicationName": "BMC Health Services Research",
+                        "prism:eIssn": "14726963",
+                        "prism:volume": "17",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-11-21",
+                        "prism:coverDisplayDate": "21 November 2017",
+                        "prism:doi": "10.1186/s12913-017-2694-1",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Melbourne",
+                                "affiliation-city": "Parkville",
+                                "affiliation-country": "Australia"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Monash University",
+                                "affiliation-city": "Melbourne",
+                                "affiliation-country": "Australia"
+                            }
+                        ],
+                        "pubmed-id": "29157233",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "751",
+                        "source-id": "28098",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PEATMF4N.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29157233"
+            }
+        },
+        "title": "Integrating acute stroke telemedicine consultations into specialists' usual practice: a qualitative analysis comparing the experience of Australia and the United Kingdom.",
+        "full_author_list": [
+            {
+                "clean": "Bagot K",
+                "family": "Bagot",
+                "given": "Kathleen L",
+                "affiliation": {
+                    "name": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia. kathleen.bagot@florey.edu.au."
+                }
+            },
+            {
+                "clean": "Cadilhac D",
+                "family": "Cadilhac",
+                "given": "Dominique A",
+                "affiliation": {
+                    "name": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                }
+            },
+            {
+                "clean": "Bladin C",
+                "family": "Bladin",
+                "given": "Christopher F",
+                "affiliation": {
+                    "name": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                }
+            },
+            {
+                "clean": "Watkins C",
+                "family": "Watkins",
+                "given": "Caroline L",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Vu M",
+                "family": "Vu",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                }
+            },
+            {
+                "clean": "Donnan G",
+                "family": "Donnan",
+                "given": "Geoffrey A",
+                "affiliation": {
+                    "name": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia."
+                }
+            },
+            {
+                "clean": "Dewey H",
+                "family": "Dewey",
+                "given": "Helen M",
+                "affiliation": {
+                    "name": "Eastern Health Clinical School, Monash University, Melbourne, Australia."
+                }
+            },
+            {
+                "clean": "Emsley H",
+                "family": "Emsley",
+                "given": "Hedley C A",
+                "affiliation": {
+                    "name": "Lancashire Teaching Hospitals NHS Foundation Trust, Preston, UK."
+                }
+            },
+            {
+                "clean": "Davies D",
+                "family": "Davies",
+                "given": "D Paul",
+                "affiliation": {
+                    "name": "North Cumbria University Hospitals NHS Trust, Carlisle, UK."
+                }
+            },
+            {
+                "clean": "Day E",
+                "family": "Day",
+                "given": "Elaine",
+                "affiliation": {
+                    "name": "Lancashire and South Cumbria Strategic Clinical Network, Greater Manchester, UK."
+                }
+            },
+            {
+                "clean": "Ford G",
+                "family": "Ford",
+                "given": "Gary A",
+                "affiliation": {
+                    "name": "Oxford University Hospitals NHS Foundation Trust and Division of Medical Sciences, University of Oxford, Oxford, UK."
+                }
+            },
+            {
+                "clean": "Price C",
+                "family": "Price",
+                "given": "Christopher I",
+                "affiliation": {
+                    "name": "Northumbria Healthcare NHS Foundation Trust, Newcastle, UK."
+                }
+            },
+            {
+                "clean": "May C",
+                "family": "May",
+                "given": "Carl R",
+                "affiliation": {
+                    "name": "University of Southampton, Southampton, UK."
+                }
+            },
+            {
+                "clean": "McLoughlin A",
+                "family": "McLoughlin",
+                "given": "Alison S R",
+                "affiliation": {
+                    "name": "North Cumbria University Hospitals NHS Trust, Carlisle, UK."
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine M E",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Lightbody C",
+                "family": "Lightbody",
+                "given": "Catherine E",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Bagot K",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Delivery of Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Dissent and Disputes",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Perception",
+                    "major": "N"
+                },
+                {
+                    "term": "Pilot Projects",
+                    "major": "N"
+                },
+                {
+                    "term": "Practice Patterns, Physicians'",
+                    "major": "Y"
+                },
+                {
+                    "term": "Referral and Consultation",
+                    "major": "N"
+                },
+                {
+                    "term": "Remote Consultation",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Support",
+                    "major": "N"
+                },
+                {
+                    "term": "Specialization",
+                    "major": "Y"
+                },
+                {
+                    "term": "Stroke",
+                    "major": "N"
+                },
+                {
+                    "term": "Telemedicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Victoria",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMC Health Serv Res",
+            "volume": "17",
+            "issue": "1"
+        },
+        "abstract": "['Stroke telemedicine can reduce healthcare inequities by increasing access to specialists. Successful telemedicine networks require specialists adapting clinical practice to provide remote consultations. Variation in experiences of specialists between different countries is unknown. To support future implementation, we compared perceptions of Australian and United Kingdom specialists providing remote acute stroke consultations.', \"Specialist participants were identified using purposive sampling from two new services: Australia's Victorian Stroke Telemedicine Program (n\\u2009=\\u20096; 2010-13) and the United Kingdom's Cumbria and Lancashire telestroke network (n\\u2009=\\u20095; 2010-2012). Semi-structured interviews were conducted pre- and post-implementation, recorded and transcribed verbatim. Deductive thematic and content analysis (NVivo) was undertaken by two independent coders using Normalisation Process Theory to explore integration of telemedicine into practice. Agreement between coders was M\\u2009=\\u200991%, SD\\u2009=\\u20099 and weighted average \u03ba\\u2009=\\u20090.70.\", 'Cross-cultural similarities and differences were found. In both countries, specialists described old and new consulting practices, the purpose and value of telemedicine systems, and concerns regarding confidence in the assessment and diagnostic skills of unknown colleagues requesting telemedicine support. Australian specialists discussed how remote consultations impacted on usual roles and suggested future improvements, while United Kingdom specialists discussed system governance, policy and procedures.', 'Australian and United Kingdom specialists reported telemedicine required changes in work practice and development of new skills. Both groups described potential for improvements in stroke telemedicine systems with Australian specialists more focused on role change and the United Kingdom on system governance issues. Future research should examine if cross-cultural variation reflects different models of care and extends to other networks.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Stroke Division, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, VIC, Australia. kathleen.bagot@florey.edu.au.",
+            "clean_institute": "University of Melbourne",
+            "latitude": "-37.7963",
+            "longitude": "144.9614",
+            "country": "Australia",
+            "postal_town": "Melbourne"
+        }
+    }
+}

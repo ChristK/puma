@@ -1,0 +1,1903 @@
+{
+    "IDs": {
+        "zotero": "A5CK9TXY",
+        "DOI": "10.1136/bmjopen-2017-020892",
+        "DOI_filename": "77cce02812e9a4fc42b9e214a38a878f",
+        "PMID": "29982210",
+        "scopus": "2-s2.0-85049959796",
+        "hash": "88336ca9de2fb8223a31c90e59c484f7"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "A5CK9TXY",
+            "version": 132,
+            "itemType": "journalArticle",
+            "title": "A systematic review of barriers and enablers to South Asian women\u2019s attendance for asymptomatic screening of breast and cervical cancers in emigrant countries",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rachel Mary",
+                    "lastName": "Anderson de Cuevas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pooja",
+                    "lastName": "Saini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Deborah",
+                    "lastName": "Roberts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kinta",
+                    "lastName": "Beaver"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mysore",
+                    "lastName": "Chandrashekar"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anil",
+                    "lastName": "Jain"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Eleanor",
+                    "lastName": "Kotas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Naheed",
+                    "lastName": "Tahir"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saiqa",
+                    "lastName": "Ahmed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephen L",
+                    "lastName": "Brown"
+                }
+            ],
+            "abstractNote": "Objectives\n              The aim of this review was to identify the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance in South Asian populations, in order to improve uptake and propose priorities for further research.\n            \n            \n              Design\n              A systematic review of the literature for inductive, comparative, prospective and intervention studies. We searched the following databases: MEDLINE/In-Process, Web of Science, EMBASE, SCOPUS, CENTRAL, CDSR, CINAHL, PsycINFO and PsycARTICLES from database inception to 23 January 2018. The review included studies on the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance and cervical smear testing (Papanicolaou test) in South Asian populations and those published in the English language. The framework analysis method was used and themes were drawn out following the thematic analysis method.\n            \n            \n              Settings\n              Asymptomatic breast or cervical screening.\n            \n            \n              Participants\n              South Asian women, including Bangladeshi, Indian, Pakistani, Sri Lankan, Bhutanese, Maldivian and Nepali populations.\n            \n            \n              Results\n              51 included studies were published between 1991 and 2018. Sample sizes ranged from 25 to 38\u2009733 and participants had a mean age of 18 to 83 years. Our review showed that South Asian women generally had lower screening rates than host country women. South Asian women had poorer knowledge of cancer and cancer prevention and experienced more barriers to screening. Cultural practices and assumptions influenced understandings of cancer and prevention, emphasising the importance of host country cultures and healthcare systems.\n            \n            \n              Conclusions\n              High-quality research on screening attendance is required using prospective designs, where objectively validated attendance is predicted from cultural understandings, beliefs, norms and practices, thus informing policy on targeting relevant public health messages to the South Asian communities about screening for cancer.\n            \n            \n              PROSPERO registration number\n              CSD 42015025284.",
+            "publicationTitle": "BMJ Open",
+            "volume": "8",
+            "issue": "7",
+            "pages": "e020892",
+            "date": "07/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2017-020892",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2017-020892",
+            "accessDate": "2020-09-10T17:10:08Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29982210",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:08Z",
+            "dateModified": "2020-09-11T15:04:19Z",
+            "pmid": "29982210"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        29
+                    ]
+                ],
+                "date-time": "2020-06-29T22:04:38Z",
+                "timestamp": 1593468278982
+            },
+            "reference-count": 84,
+            "publisher": "BMJ",
+            "issue": "7",
+            "funder": [
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>The aim of this review was to identify the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance in South Asian populations, in order to improve uptake and propose priorities for further research.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>A systematic review of the literature for inductive, comparative, prospective and intervention studies. We searched the following databases: MEDLINE/In-Process, Web of Science, EMBASE, SCOPUS, CENTRAL, CDSR, CINAHL, PsycINFO and PsycARTICLES from database inception to 23 January 2018. The review included studies on the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance and cervical smear testing (Papanicolaou test) in South Asian populations and those published in the English language. The framework analysis method was used and themes were drawn out following the thematic analysis method.</jats:p></jats:sec><jats:sec><jats:title>Settings</jats:title><jats:p>Asymptomatic breast or cervical screening.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>South Asian women, including Bangladeshi, Indian, Pakistani, Sri Lankan, Bhutanese, Maldivian and Nepali populations.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>51 included studies were published between 1991 and 2018. Sample sizes ranged from 25 to 38\u2009733 and participants had a mean age of 18 to 83 years. Our review showed that South Asian women generally had lower screening rates than host country women. South Asian women had poorer knowledge of cancer and cancer prevention and experienced more barriers to screening. Cultural practices and assumptions influenced understandings of cancer and prevention, emphasising the importance of host country cultures and healthcare systems.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>High-quality research on screening attendance is required using prospective designs, where objectively validated attendance is predicted from cultural understandings, beliefs, norms and practices, thus informing policy on targeting relevant public health messages to the South Asian communities about screening for cancer.</jats:p></jats:sec><jats:sec><jats:title>PROSPERO registration number</jats:title><jats:p>CSD 42015025284.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2017-020892",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        7
+                    ]
+                ],
+                "date-time": "2018-07-07T12:15:24Z",
+                "timestamp": 1530965724000
+            },
+            "page": "e020892",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 8,
+            "title": "A systematic review of barriers and enablers to South Asian women\u2019s attendance for asymptomatic screening of breast and cervical cancers in emigrant countries",
+            "prefix": "10.1136",
+            "volume": "8",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7790-5332",
+                    "authenticated-orcid": false,
+                    "given": "Rachel Mary",
+                    "family": "Anderson de Cuevas",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4981-7914",
+                    "authenticated-orcid": false,
+                    "given": "Pooja",
+                    "family": "Saini",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Deborah",
+                    "family": "Roberts",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kinta",
+                    "family": "Beaver",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mysore",
+                    "family": "Chandrashekar",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anil",
+                    "family": "Jain",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Eleanor",
+                    "family": "Kotas",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Naheed",
+                    "family": "Tahir",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Saiqa",
+                    "family": "Ahmed",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stephen L",
+                    "family": "Brown",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        7
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050713385867000_8.7.e020892.1",
+                    "unstructured": "ONS. Cancer registration statistics, England: 2013: Office for National Statistics, 2013."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.2",
+                    "unstructured": "UN. Human development reports: United Nations Development Programme, 2008."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.3",
+                    "unstructured": "ONS. Cancer registration statistics, England: 2011: Office for National Statistics, 2011."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.4",
+                    "unstructured": "Ballard R . The South Asian presence in Britain and its transnational connections. In: Singh H , Vertovec S , eds. Culture and economy in the Indian diaspora. London: Routledge, 2002:197\u2013222."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.5",
+                    "DOI": "10.1038/bjc.2011.406",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.6",
+                    "unstructured": "WHO. WHO guidance note. Comprehensive cervical cancer prevention and control: a healthier future for girls and women. 2013 http://apps.who.int/iris/bitstream/10665/78128/3/9789241505147_eng.pdf"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.7",
+                    "unstructured": "WHO. Position paper on mammography screening 2014. 2015 http://www.who.int/cancer/publications/mammography_screening/en/"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.8",
+                    "unstructured": "WHO. Breast cancer: prevention and control 2015. 2015 http://www.who.int/cancer/detection/breastcancer/en/ (accessed 25 Aug 2015)."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.9",
+                    "unstructured": "Yip C-H , Smith RA , Anderson BO , et al . Guideline implementation for breast healthcare in low- and middle-income countries: early detection resource allocation. Supplement to Cancer 2008.",
+                    "DOI": "10.1002/cncr.23842",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.10",
+                    "DOI": "10.1038/bjc.2013.177",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.11",
+                    "DOI": "10.1136/bmj.g366",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1269",
+                    "DOI": "10.1038/bjc.2016.90",
+                    "article-title": "Meta-analysis of breast cancer mortality benefit and overdiagnosis adjusted for adherence: improving information on the effects of attending screening mammography",
+                    "volume": "114",
+                    "author": "Jacklyn",
+                    "year": "2016",
+                    "journal-title": "Br J Cancer"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.13",
+                    "first-page": "S38",
+                    "article-title": "Breast screening and ethnic minorities",
+                    "volume": "29",
+                    "author": "Hoare",
+                    "year": "1996",
+                    "journal-title": "Br J Cancer Suppl"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.14",
+                    "DOI": "10.1158/1055-9965.EPI-07-0262",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.15",
+                    "DOI": "10.1136/bmj.b2025",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.16",
+                    "DOI": "10.1258/jms.2008.007112",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.17",
+                    "unstructured": "Edmundson C , Jain A , Astley S . The impact of socioeconomic factors and ethnicity on breast screening uptake in the North West of England. Poster. Br J Radiol 2009."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/bcr1941",
+                    "article-title": "Health inequalities in breast cancer screening",
+                    "volume": "10",
+                    "author": "Tollitt",
+                    "year": "2008",
+                    "journal-title": "Breast Cancer Research"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.19",
+                    "DOI": "10.1093/pubmed/fdh128",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "825",
+                    "DOI": "10.1007/s10552-016-0750-5",
+                    "article-title": "Breast and cervical cancer screening among Asian subgroups in the USA: estimates from the National Health Interview Survey, 2008, 2010, and 2013",
+                    "volume": "27",
+                    "author": "Shoemaker",
+                    "year": "2016",
+                    "journal-title": "Cancer Causes Control"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.21",
+                    "unstructured": "Scanlon K , Wood A . Breast cancer awareness in Britain: are there differences based on ethnicity? Diversity in Health & Social Care 2005;2."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.22",
+                    "unstructured": "DH. Cancer reform strategy: achieving local implementation - second annual report. NHS. In: DoH, ed. 2009 www.dh.gov.uk/publications"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.23",
+                    "DOI": "10.1097/LGT.0b013e31815d8d88",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.24",
+                    "DOI": "10.1258/jrsm.100.6.252",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "109",
+                    "DOI": "10.1111/j.1365-2354.2006.00726.x",
+                    "article-title": "The reported views and experiences of cancer service users from minority ethnic groups: a critical review of the literature",
+                    "volume": "16",
+                    "author": "Elkan",
+                    "year": "2007",
+                    "journal-title": "Eur J Cancer Care"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.26",
+                    "first-page": "251",
+                    "article-title": "A critical review of the literature on the uptake of cervical and breast screening in British South Asian women",
+                    "volume": "18",
+                    "author": "Sokal",
+                    "year": "2010",
+                    "journal-title": "Qual Prim Care"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.27",
+                    "unstructured": "Jain A . UK: South Asian women at the crossroads NHS evidence ethnicity and health ed, 2010."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.28",
+                    "DOI": "10.1080/07399330590917780",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.29",
+                    "DOI": "10.1111/hsc.12208",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.30",
+                    "DOI": "10.1177/109019819802500502",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.31",
+                    "DOI": "10.1111/j.1365-2648.2005.03621.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.32",
+                    "DOI": "10.1186/1471-2458-8-346",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.33",
+                    "DOI": "10.1038/bjc.2015.248",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.34",
+                    "unstructured": "Cooper H . Synthesizing research: a guide for literature reviews. 2nd edn. California: Sage Publications, 1998."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.35",
+                    "DOI": "10.7326/0003-4819-127-5-199709010-00008",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.36",
+                    "DOI": "10.1093/heapro/dai022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.37",
+                    "unstructured": "CASP. Critical Appraisal Skills Programme (CASP). Checklist Oxford: CASP, 2006. www.casp-uk.net/ (accessed 1 Oct 2015)."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.38",
+                    "DOI": "10.1371/journal.pmed.1000097",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.39",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.40",
+                    "unstructured": "Patton MQ . Qualitative evaluation and research methods. 2nd ed. US: Thousand Oaks, CA Sage Publications, Inc, 1990."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.41",
+                    "DOI": "10.1016/S0277-9536(98)00346-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.42",
+                    "DOI": "10.1023/A:1026654317094",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.43",
+                    "DOI": "10.1016/j.healthplace.2012.09.008",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "33",
+                    "DOI": "10.1300/J013v33n03_03",
+                    "article-title": "Cervical cancer screening in ethnocultural groups: case studies in women-centered care",
+                    "volume": "33",
+                    "author": "Bottorff",
+                    "year": "2001",
+                    "journal-title": "Women Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "872",
+                    "DOI": "10.1007/s10900-014-9906-y",
+                    "article-title": "Knowledge, attitudes, and practices for cervical cancer screening among the Bhutanese refugee community in Omaha, Nebraska",
+                    "volume": "39",
+                    "author": "Haworth",
+                    "year": "2014",
+                    "journal-title": "J Community Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.46",
+                    "first-page": "174",
+                    "article-title": "\"Inside and outside\": Sikh women\u2019s perspectives on cervical cancer screening",
+                    "volume": "39",
+                    "author": "Oelke",
+                    "year": "2007",
+                    "journal-title": "Can J Nurs Res"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "242",
+                    "DOI": "10.1007/s10903-011-9472-7",
+                    "article-title": "Concept mapping with South Asian immigrant women: barriers to mammography and solutions",
+                    "volume": "14",
+                    "author": "Ahmad",
+                    "year": "2012",
+                    "journal-title": "J Immigr Minor Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.48",
+                    "DOI": "10.1136/bmj.302.6780.833",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1077",
+                    "DOI": "10.1186/s12889-016-3709-2",
+                    "article-title": "\"I want to save my life\": Conceptions of cervical and breast cancer screening among urban immigrant women of South Asian and Chinese origin",
+                    "volume": "16",
+                    "author": "Hulme",
+                    "year": "2016",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.50",
+                    "DOI": "10.1002/pon.1940",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.51",
+                    "DOI": "10.1177/109019817400200401",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "679",
+                    "DOI": "10.1186/s12889-015-2050-5",
+                    "article-title": "Breast cancer screening disparities among urban immigrants: a population-based study in Ontario, Canada",
+                    "volume": "15",
+                    "author": "Vahabi",
+                    "year": "2015",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "176",
+                    "DOI": "10.1016/j.ypmed.2017.09.008",
+                    "article-title": "Breast cancer screening utilization among women from Muslim majority countries in Ontario, Canada",
+                    "volume": "105",
+                    "author": "Vahabi",
+                    "year": "2017",
+                    "journal-title": "Prev Med"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.54",
+                    "DOI": "10.1158/1055-9965.EPI-17-0323",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1089",
+                    "DOI": "10.1016/j.socscimed.2010.06.016",
+                    "article-title": "Cervical cancer screening in Malaysia: Are targeted interventions necessary?",
+                    "volume": "71",
+                    "author": "Dunn",
+                    "year": "2010",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.56",
+                    "DOI": "10.1038/bjc.2015.248",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.57",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e98",
+                    "DOI": "10.2105/AJPH.2014.302250",
+                    "article-title": "Asian American women in California: a pooled analysis of predictors for breast and cervical cancer screening",
+                    "volume": "105",
+                    "author": "Chawla",
+                    "year": "2015",
+                    "journal-title": "Am J Public Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.58",
+                    "first-page": "425",
+                    "article-title": "Adherence to Pap test guidelines: variation among Asians in California",
+                    "volume": "19",
+                    "author": "Lin",
+                    "year": "2009",
+                    "journal-title": "Ethn Dis"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "90",
+                    "DOI": "10.1016/j.jcpo.2017.03.015",
+                    "article-title": "The uptake of cervical cancer screening among South Asians and the general population in Hong Kong: A comparative study",
+                    "volume": "12",
+                    "author": "So",
+                    "year": "2017",
+                    "journal-title": "Journal of Cancer Policy"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.60",
+                    "DOI": "10.1016/j.amepre.2012.04.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "602",
+                    "DOI": "10.1089/jwh.2013.4569",
+                    "article-title": "Breast cancer screening practices among first-generation immigrant muslim women",
+                    "volume": "23",
+                    "author": "Hasnain",
+                    "year": "2014",
+                    "journal-title": "J Womens Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "126",
+                    "DOI": "10.1080/00909882.2012.754485",
+                    "article-title": "Understanding Immigrant Women\u2019s Information Needs: Role of Acculturation in Breast Cancer Prevention among Immigrant Asian Indian Women",
+                    "volume": "41",
+                    "author": "Marfani",
+                    "year": "2013",
+                    "journal-title": "Journal of Applied Communication Research"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.63",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "348",
+                    "DOI": "10.1097/00004479-200410000-00007",
+                    "article-title": "Empowering factors in repeat mammography: insights from the stories of underserved women",
+                    "volume": "27",
+                    "author": "Ahmed",
+                    "year": "2004",
+                    "journal-title": "J Ambul Care Manage"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.64",
+                    "DOI": "10.1080/13557850120078107",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.65",
+                    "DOI": "10.1097/NCC.0b013e31822fcab4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1079",
+                    "DOI": "10.1007/s10900-017-0355-2",
+                    "article-title": "Perceptions of Cervical Cancer Screening, Screening Behavior, and Post-Migration Living Difficulties Among Bhutanese-Nepali Refugee Women in the United States",
+                    "volume": "42",
+                    "author": "Kue",
+                    "year": "2017",
+                    "journal-title": "J Community Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "667",
+                    "DOI": "10.5993/AJHB.37.5.11",
+                    "article-title": "Screening mammography behavior and barriers in Singaporean Asian women",
+                    "volume": "37",
+                    "author": "Teo",
+                    "year": "2013",
+                    "journal-title": "Am J Health Behav"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.68",
+                    "DOI": "10.1016/j.cdp.2005.06.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.69",
+                    "DOI": "10.1080/03630240802463384",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.70",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "DOI": "10.1159/000252837",
+                    "article-title": "Knowledge and perception of breast cancer among women of various ethnic groups in the state of Penang: a cross-sectional survey",
+                    "volume": "19",
+                    "author": "Abdul Hadi",
+                    "year": "2010",
+                    "journal-title": "Med Princ Pract"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.71",
+                    "DOI": "10.1016/j.socscimed.2004.05.018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.72",
+                    "first-page": "S42",
+                    "article-title": "Evaluation of a pilot study for breast and cervical cancer screening with Bradford\u2019s minority ethnic women; a community development approach, 1991-93",
+                    "volume": "29",
+                    "author": "Kernohan",
+                    "year": "1996",
+                    "journal-title": "Br J Cancer Suppl"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.73",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/1475-9276-2-12",
+                    "article-title": "Heterogeneity within the Asian American community",
+                    "volume": "2",
+                    "author": "Sadler",
+                    "year": "2003",
+                    "journal-title": "Int J Equity Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.74",
+                    "unstructured": "Ornelas IJ , Ho K , Jackson JC , et al . Results From a Pilot Video Intervention to Increase Cervical Cancer Screening in Refugee Women. Health Educ Behav 2017:109019811774215.doi:10.1177/1090198117742153",
+                    "DOI": "10.1177/1090198117742153",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.75",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1093/oxfordjournals.pubmed.a042954",
+                    "article-title": "Can the uptake of breast screening by Asian women be increased? A randomized controlled trial of a linkworker intervention",
+                    "volume": "16",
+                    "author": "Hoare",
+                    "year": "1994",
+                    "journal-title": "J Public Health Med"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.76",
+                    "DOI": "10.1111/j.0737-1209.2004.21504.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.77",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "495",
+                    "DOI": "10.2147/PPA.S127147",
+                    "article-title": "Lay health educators within primary care practices to improve cancer screening uptake for South Asian patients: challenges in quality improvement",
+                    "volume": "11",
+                    "author": "Lofters",
+                    "year": "2017",
+                    "journal-title": "Patient Prefer Adherence"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.78",
+                    "unstructured": "Kinnaird V , Momsen J , Places D . Different Voices: Gender and Development in Africa, Asia and Latin America. London and New York: Routledge, 2002.",
+                    "DOI": "10.4324/9780203033029",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.79",
+                    "DOI": "10.1177/1010539509331590",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.80",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "289",
+                    "DOI": "10.1111/ajco.12661",
+                    "article-title": "Epidemiology of breast cancer in Indian women",
+                    "volume": "13",
+                    "author": "Malvia",
+                    "year": "2017",
+                    "journal-title": "Asia Pac J Clin Oncol"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.81",
+                    "unstructured": "DH. NHS Cancer Screening, 2015."
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.82",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/bcr2400",
+                    "article-title": "Breast cancer screening - how do we communicate with women of South Asian origin?",
+                    "volume": "11",
+                    "author": "Jain",
+                    "year": "2009",
+                    "journal-title": "Breast Cancer Research"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.83",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "413",
+                    "DOI": "10.1007/s10903-010-9388-7",
+                    "article-title": "Erratum to: Cervical Cancer Screening Among Southeast Asian American Women",
+                    "volume": "13",
+                    "author": "Ho",
+                    "year": "2011",
+                    "journal-title": "J Immigr Minor Health"
+                },
+                {
+                    "key": "2020050713385867000_8.7.e020892.84",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "211",
+                    "DOI": "10.1007/s10903-006-9325-y",
+                    "article-title": "Breast and cervical cancer screening among South Asian women in New York City",
+                    "volume": "8",
+                    "author": "Islam",
+                    "year": "2006",
+                    "journal-title": "J Immigr Minor Health"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2017-020892",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T22:01:38Z",
+                "timestamp": 1588888898000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 84,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            12
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "7"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2017-020892"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2017-020892",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "South Asian women",
+                        "asymptomatic screening",
+                        "breast cancer",
+                        "cervical cancer",
+                        "mammography",
+                        "smear"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29982210",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "10",
+                    "Day": "16"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "10",
+                    "Day": "16"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2017-020892"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "07",
+                            "Day": "07"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "8",
+                            "Issue": "7",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "07",
+                                "Day": "07"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "A systematic review of barriers and enablers to South Asian women's attendance for asymptomatic screening of breast and cervical cancers in emigrant countries.",
+                    "Pagination": {
+                        "MedlinePgn": "e020892"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The aim of this review was to identify the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance in South Asian populations, in order to improve uptake and propose priorities for further research.",
+                            "A systematic review of the literature for inductive, comparative, prospective and intervention studies. We searched the following databases: MEDLINE/In-Process, Web of Science, EMBASE, SCOPUS, CENTRAL, CDSR, CINAHL, PsycINFO and PsycARTICLES from database inception to 23 January 2018. The review included studies on the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance and cervical smear testing (Papanicolaou test) in South Asian populations and those published in the English language. The framework analysis method was used and themes were drawn out following the thematic analysis method.",
+                            "Asymptomatic breast or cervical screening.",
+                            "South Asian women, including Bangladeshi, Indian, Pakistani, Sri Lankan, Bhutanese, Maldivian and Nepali populations.",
+                            "51 included studies were published between 1991 and 2018. Sample sizes ranged from 25 to 38\u2009733 and participants had a mean age of 18 to 83 years. Our review showed that South Asian women generally had lower screening rates than host country women. South Asian women had poorer knowledge of cancer and cancer prevention and experienced more barriers to screening. Cultural practices and assumptions influenced understandings of cancer and prevention, emphasising the importance of host country cultures and healthcare systems.",
+                            "High-quality research on screening attendance is required using prospective designs, where objectively validated attendance is predicted from cultural understandings, beliefs, norms and practices, thus informing policy on targeting relevant public health messages to the South Asian communities about screening for cancer.",
+                            "CSD 42015025284."
+                        ],
+                        "CopyrightInformation": "\u00a9 Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2018. All rights reserved. No commercial use is permitted unless otherwise expressly granted."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-7790-5332"
+                            ],
+                            "LastName": "Anderson de Cuevas",
+                            "ForeName": "Rachel Mary",
+                            "Initials": "RM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-4981-7914"
+                            ],
+                            "LastName": "Saini",
+                            "ForeName": "Pooja",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Royal Liverpool and Broadgreen Hospital NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Roberts",
+                            "ForeName": "Deborah",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Beaver",
+                            "ForeName": "Kinta",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Royal Liverpool and Broadgreen Hospital NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chandrashekar",
+                            "ForeName": "Mysore",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Nightingale Centre and Genesis Prevention Centre, University Hospital of South Manchester NHS Foundation Trust, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jain",
+                            "ForeName": "Anil",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kotas",
+                            "ForeName": "Eleanor",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tahir",
+                            "ForeName": "Naheed",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ahmed",
+                            "ForeName": "Saiqa",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Brown",
+                            "ForeName": "Stephen L",
+                            "Initials": "SL"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Acculturation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Asian Continental Ancestry Group",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Bangladesh",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Bhutan",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Breast Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cultural Characteristics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Culturally Competent Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Early Detection of Cancer",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Emigrants and Immigrants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Education",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Health Knowledge, Attitudes, Practice",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "India",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Nepal",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Pakistan",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Sri Lanka",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Uterine Cervical Neoplasms",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Women Health. 2008;48(3):261-81",
+                                "ArticleIdList": [
+                                    "19064462"
+                                ]
+                            },
+                            {
+                                "Citation": "J Low Genit Tract Dis. 2008 Jul;12(3):232-41",
+                                "ArticleIdList": [
+                                    "18596467"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Educ Behav. 2018 Aug;45(4):559-568",
+                                "ArticleIdList": [
+                                    "29202606"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Educ Behav. 1998 Oct;25(5):545-63",
+                                "ArticleIdList": [
+                                    "9768376"
+                                ]
+                            },
+                            {
+                                "Citation": "Can J Nurs Res. 2007 Mar;39(1):174-89",
+                                "ArticleIdList": [
+                                    "17450712"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 1998 Dec;47(12):2075-85",
+                                "ArticleIdList": [
+                                    "10075248"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer. 2011 Nov 8;105(10):1474-9",
+                                "ArticleIdList": [
+                                    "21989188"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2008 Oct 02;8:346",
+                                "ArticleIdList": [
+                                    "18831751"
+                                ]
+                            },
+                            {
+                                "Citation": "J Community Health. 2017 Dec;42(6):1079-1089",
+                                "ArticleIdList": [
+                                    "28455671"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Prefer Adherence. 2017 Mar 08;11:495-503",
+                                "ArticleIdList": [
+                                    "28331296"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2016 Oct 13;16(1):1077",
+                                "ArticleIdList": [
+                                    "27733161"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer Epidemiol Biomarkers Prev. 2017 Oct;26(10):1493-1499",
+                                "ArticleIdList": [
+                                    "28939586"
+                                ]
+                            },
+                            {
+                                "Citation": "J Immigr Minor Health. 2011 Feb;13(1):49-60",
+                                "ArticleIdList": [
+                                    "20571898"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer. 2015 Sep 1;113(5):833-9",
+                                "ArticleIdList": [
+                                    "26171938"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 Feb 11;348:g366",
+                                "ArticleIdList": [
+                                    "24519768"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Promot Int. 2005 Dec;20(4):367-74",
+                                "ArticleIdList": [
+                                    "16169885"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2010 Sep;71(6):1089-93",
+                                "ArticleIdList": [
+                                    "20685019"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Cancer Care (Engl). 2007 Mar;16(2):109-21",
+                                "ArticleIdList": [
+                                    "17371419"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer. 2013 Jun 11;108(11):2205-40",
+                                "ArticleIdList": [
+                                    "23744281"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2015 Jul 21;15:679",
+                                "ArticleIdList": [
+                                    "26194189"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2005 Feb;60(3):575-86",
+                                "ArticleIdList": [
+                                    "15550305"
+                                ]
+                            },
+                            {
+                                "Citation": "J Immigr Minor Health. 2012 Apr;14(2):242-50",
+                                "ArticleIdList": [
+                                    "21538023"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Screen. 2008;15(3):130-6",
+                                "ArticleIdList": [
+                                    "18927095"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Prim Care. 2010;18(4):251-61",
+                                "ArticleIdList": [
+                                    "20836941"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2005 Dec;52(5):546-53",
+                                "ArticleIdList": [
+                                    "16268861"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer Nurs. 2012 Jul-Aug;35(4):278-87",
+                                "ArticleIdList": [
+                                    "21963722"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2012 Jun;21(6):618-29",
+                                "ArticleIdList": [
+                                    "21384466"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Place. 2012 Nov;18(6):1270-81",
+                                "ArticleIdList": [
+                                    "23073242"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer Detect Prev. 2006;30(1):58-66",
+                                "ArticleIdList": [
+                                    "16458452"
+                                ]
+                            },
+                            {
+                                "Citation": "J Womens Health (Larchmt). 2014 Jul;23(7):602-12",
+                                "ArticleIdList": [
+                                    "24865517"
+                                ]
+                            },
+                            {
+                                "Citation": "J Immigr Health. 2001 Jan;3(1):5-13",
+                                "ArticleIdList": [
+                                    "16228797"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health Med. 1994 Jun;16(2):179-85",
+                                "ArticleIdList": [
+                                    "7946492"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer Suppl. 1996 Sep;29:S38-41",
+                                "ArticleIdList": [
+                                    "8782797"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer. 2008 Oct 15;113(8 Suppl):2244-56",
+                                "ArticleIdList": [
+                                    "18837017"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer Suppl. 1996 Sep;29:S42-6",
+                                "ArticleIdList": [
+                                    "8782798"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer Epidemiol Biomarkers Prev. 2007 Nov;16(11):2257-61",
+                                "ArticleIdList": [
+                                    "18006913"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Soc Care Community. 2016 Mar;24(2):123-53",
+                                "ArticleIdList": [
+                                    "25721339"
+                                ]
+                            },
+                            {
+                                "Citation": "Asia Pac J Clin Oncol. 2017 Aug;13(4):289-295",
+                                "ArticleIdList": [
+                                    "28181405"
+                                ]
+                            },
+                            {
+                                "Citation": "Ethn Dis. 2009 Autumn;19(4):425-32",
+                                "ArticleIdList": [
+                                    "20073144"
+                                ]
+                            },
+                            {
+                                "Citation": "Women Health. 2001;33(3-4):29-46",
+                                "ArticleIdList": [
+                                    "11527105"
+                                ]
+                            },
+                            {
+                                "Citation": "J Community Health. 2014 Oct;39(5):872-8",
+                                "ArticleIdList": [
+                                    "25060231"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Princ Pract. 2010;19(1):61-7",
+                                "ArticleIdList": [
+                                    "19996622"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1991 Apr 6;302(6780):833-6",
+                                "ArticleIdList": [
+                                    "1958248"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2015 Feb;105(2):e98-e109",
+                                "ArticleIdList": [
+                                    "25521898"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Intern Med. 1997 Sep 1;127(5):380-7",
+                                "ArticleIdList": [
+                                    "9273830"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Prev Med. 2012 Jul;43(1):97-118",
+                                "ArticleIdList": [
+                                    "22704754"
+                                ]
+                            },
+                            {
+                                "Citation": "Asia Pac J Public Health. 2009 Apr;21(2):137-43",
+                                "ArticleIdList": [
+                                    "19190000"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2009 Jun 16;338:b2025",
+                                "ArticleIdList": [
+                                    "19531549"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Health Behav. 2013 Sep;37(5):667-82",
+                                "ArticleIdList": [
+                                    "23985290"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Care Women Int. 2005 Mar;26(3):225-46",
+                                "ArticleIdList": [
+                                    "15804695"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2004 Sep;26(3):293-6",
+                                "ArticleIdList": [
+                                    "15454600"
+                                ]
+                            },
+                            {
+                                "Citation": "Ethn Health. 2001 Aug-Nov;6(3-4):179-88",
+                                "ArticleIdList": [
+                                    "11696929"
+                                ]
+                            },
+                            {
+                                "Citation": "Prev Med. 2017 Dec;105:176-183",
+                                "ArticleIdList": [
+                                    "28916289"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health Nurs. 2004 Sep-Oct;21(5):412-8",
+                                "ArticleIdList": [
+                                    "15363021"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer. 2016 May 24;114(11):1269-76",
+                                "ArticleIdList": [
+                                    "27124337"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2007 Jun;100(6):254-5",
+                                "ArticleIdList": [
+                                    "17541088"
+                                ]
+                            },
+                            {
+                                "Citation": "J Immigr Minor Health. 2006 Jul;8(3):211-21",
+                                "ArticleIdList": [
+                                    "16791531"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer Causes Control. 2016 Jun;27(6):825-9",
+                                "ArticleIdList": [
+                                    "27106576"
+                                ]
+                            },
+                            {
+                                "Citation": "J Ambul Care Manage. 2004 Oct-Dec;27(4):348-55",
+                                "ArticleIdList": [
+                                    "15495747"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2009 Jul 21;6(7):e1000097",
+                                "ArticleIdList": [
+                                    "19621072"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Equity Health. 2003 Dec 29;2(1):12",
+                                "ArticleIdList": [
+                                    "14697098"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29982210",
+                    "bmjopen-2017-020892",
+                    "10.1136/bmjopen-2017-020892",
+                    "PMC6042536"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29982210)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829982210%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829982210%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049959796"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049959796?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049959796&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049959796&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049959796",
+                        "dc:identifier": "SCOPUS_ID:85049959796",
+                        "eid": "2-s2.0-85049959796",
+                        "dc:title": "A systematic review of barriers and enablers to South Asian women's attendance for asymptomatic screening of breast and cervical cancers in emigrant countries",
+                        "dc:creator": "De Cuevas R.M.A.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "8",
+                        "prism:issueIdentifier": "7",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-07-01",
+                        "prism:coverDisplayDate": "1 July 2018",
+                        "prism:doi": "10.1136/bmjopen-2017-020892",
+                        "citedby-count": "10",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29982210",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "e020892",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "A5CK9TXY.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29982210"
+            }
+        },
+        "title": "A systematic review of barriers and enablers to South Asian women's attendance for asymptomatic screening of breast and cervical cancers in emigrant countries.",
+        "full_author_list": [
+            {
+                "clean": "Anderson de Cuevas R",
+                "family": "Anderson de Cuevas",
+                "given": "Rachel Mary",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Saini P",
+                "family": "Saini",
+                "given": "Pooja",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Roberts D",
+                "family": "Roberts",
+                "given": "Deborah",
+                "affiliation": {
+                    "name": "Royal Liverpool and Broadgreen Hospital NHS Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Beaver K",
+                "family": "Beaver",
+                "given": "Kinta",
+                "affiliation": {
+                    "name": "School of Health Sciences, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Chandrashekar M",
+                "family": "Chandrashekar",
+                "given": "Mysore",
+                "affiliation": {
+                    "name": "Royal Liverpool and Broadgreen Hospital NHS Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Jain A",
+                "family": "Jain",
+                "given": "Anil",
+                "affiliation": {
+                    "name": "The Nightingale Centre and Genesis Prevention Centre, University Hospital of South Manchester NHS Foundation Trust, Manchester, UK."
+                }
+            },
+            {
+                "clean": "Kotas E",
+                "family": "Kotas",
+                "given": "Eleanor",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Tahir N",
+                "family": "Tahir",
+                "given": "Naheed",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ahmed S",
+                "family": "Ahmed",
+                "given": "Saiqa",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Brown S",
+                "family": "Brown",
+                "given": "Stephen L",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Anderson de Cuevas R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Acculturation",
+                    "major": "N"
+                },
+                {
+                    "term": "Asian Continental Ancestry Group",
+                    "major": "Y"
+                },
+                {
+                    "term": "Bangladesh",
+                    "major": "N"
+                },
+                {
+                    "term": "Bhutan",
+                    "major": "N"
+                },
+                {
+                    "term": "Breast Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Cultural Characteristics",
+                    "major": "N"
+                },
+                {
+                    "term": "Culturally Competent Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Early Detection of Cancer",
+                    "major": "N"
+                },
+                {
+                    "term": "Emigrants and Immigrants",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Education",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Knowledge, Attitudes, Practice",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "India",
+                    "major": "N"
+                },
+                {
+                    "term": "Nepal",
+                    "major": "N"
+                },
+                {
+                    "term": "Pakistan",
+                    "major": "N"
+                },
+                {
+                    "term": "Sri Lanka",
+                    "major": "N"
+                },
+                {
+                    "term": "Uterine Cervical Neoplasms",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "8",
+            "issue": "7"
+        },
+        "abstract": "['The aim of this review was to identify the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance in South Asian populations, in order to improve uptake and propose priorities for further research.', 'A systematic review of the literature for inductive, comparative, prospective and intervention studies. We searched the following databases: MEDLINE/In-Process, Web of Science, EMBASE, SCOPUS, CENTRAL, CDSR, CINAHL, PsycINFO and PsycARTICLES from database inception to 23 January 2018. The review included studies on the cultural, social, structural and behavioural factors that influence asymptomatic breast and cervical cancer screening attendance and cervical smear testing (Papanicolaou test) in South Asian populations and those published in the English language. The framework analysis method was used and themes were drawn out following the thematic analysis method.', 'Asymptomatic breast or cervical screening.', 'South Asian women, including Bangladeshi, Indian, Pakistani, Sri Lankan, Bhutanese, Maldivian and Nepali populations.', '51 included studies were published between 1991 and 2018. Sample sizes ranged from 25 to 38\\u2009733 and participants had a mean age of 18 to 83 years. Our review showed that South Asian women generally had lower screening rates than host country women. South Asian women had poorer knowledge of cancer and cancer prevention and experienced more barriers to screening. Cultural practices and assumptions influenced understandings of cancer and prevention, emphasising the importance of host country cultures and healthcare systems.', 'High-quality research on screening attendance is required using prospective designs, where objectively validated attendance is predicted from cultural understandings, beliefs, norms and practices, thus informing policy on targeting relevant public health messages to the South Asian communities about screening for cancer.', 'CSD 42015025284.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "10"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

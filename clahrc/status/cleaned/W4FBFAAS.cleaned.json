@@ -1,0 +1,1231 @@
+{
+    "IDs": {
+        "zotero": "W4FBFAAS",
+        "DOI": "10.1016/j.jinf.2018.09.008",
+        "DOI_filename": "12dce7f50a9b2920fdb73fac2fc4095e",
+        "PMID": "30267800",
+        "scopus": "2-s2.0-85054148263",
+        "hash": "cbd92bd291c7adafb7677a1f131c419c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "W4FBFAAS",
+            "version": 195,
+            "itemType": "journalArticle",
+            "title": "Social patterning of telephone health-advice for diarrhoea and vomiting: analysis of 24 million telehealth calls in England",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Natalie L.",
+                    "lastName": "Adams"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tanith C.",
+                    "lastName": "Rose"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alex J.",
+                    "lastName": "Elliot"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gillian",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Roger",
+                    "lastName": "Morbey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Loveridge"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Lewis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gareth",
+                    "lastName": "Studdard"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mara",
+                    "lastName": "Violato"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J.",
+                    "lastName": "O'Brien"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Margaret",
+                    "lastName": "Whitehead"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David C.",
+                    "lastName": "Taylor-Robinson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jeremy I.",
+                    "lastName": "Hawker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Benjamin",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Infection",
+            "volume": "78",
+            "issue": "2",
+            "pages": "95-100",
+            "date": "02/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Infection",
+            "language": "en",
+            "DOI": "10.1016/j.jinf.2018.09.008",
+            "ISSN": "01634453",
+            "shortTitle": "Social patterning of telephone health-advice for diarrhoea and vomiting",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0163445318302810",
+            "accessDate": "2020-09-10T17:08:47Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30267800",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:47Z",
+            "dateModified": "2020-09-15T14:37:00Z",
+            "pmid": "30267800"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        24
+                    ]
+                ],
+                "date-time": "2020-03-24T04:23:24Z",
+                "timestamp": 1585023804943
+            },
+            "reference-count": 16,
+            "publisher": "Elsevier BV",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                2,
+                                1
+                            ]
+                        ],
+                        "date-time": "2019-02-01T00:00:00Z",
+                        "timestamp": 1548979200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                11,
+                                2
+                            ]
+                        ],
+                        "date-time": "2018-11-02T00:00:00Z",
+                        "timestamp": 1541116800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research Health Protection Research Unit",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "journalofinfection.com",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "clinicalkey.fr",
+                    "clinicalkey.com.au",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.jinf.2018.09.008",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2018-09-26T07:07:02Z",
+                "timestamp": 1537945622000
+            },
+            "page": "95-100",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Social patterning of telephone health-advice for diarrhoea and vomiting: analysis of 24 million telehealth calls in England",
+            "prefix": "10.1016",
+            "volume": "78",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-6131-480X",
+                    "authenticated-orcid": false,
+                    "given": "Natalie L.",
+                    "family": "Adams",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tanith C.",
+                    "family": "Rose",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alex J.",
+                    "family": "Elliot",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gillian",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8543-477X",
+                    "authenticated-orcid": false,
+                    "given": "Roger",
+                    "family": "Morbey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paul",
+                    "family": "Loveridge",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "James",
+                    "family": "Lewis",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gareth",
+                    "family": "Studdard",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mara",
+                    "family": "Violato",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sarah J.",
+                    "family": "O'Brien",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Margaret",
+                    "family": "Whitehead",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "David C.",
+                    "family": "Taylor-Robinson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jeremy I.",
+                    "family": "Hawker",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Benjamin",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Journal of Infection",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0163445318302810?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0163445318302810?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        12
+                    ]
+                ],
+                "date-time": "2019-03-12T21:50:52Z",
+                "timestamp": 1552427452000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 16,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "S0163445318302810"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.jinf.2018.09.008",
+            "relation": {},
+            "ISSN": [
+                "0163-4453"
+            ],
+            "subject": [
+                "Microbiology (medical)",
+                "Infectious Diseases"
+            ],
+            "container-title-short": "Journal of Infection",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Social patterning of telephone health-advice for diarrhoea and vomiting: analysis of 24 million telehealth calls in England",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Journal of Infection",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.jinf.2018.09.008",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2018 The British Infection Association. Published by Elsevier Ltd.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Diarrhoea",
+                        "Inequalities",
+                        "Syndromic surveillance",
+                        "Vomiting"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30267800",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "28"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0163-4453(18)30281-0",
+                        "10.1016/j.jinf.2018.09.008"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "09",
+                            "Day": "26"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-2742",
+                        "JournalIssue": {
+                            "Volume": "78",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "02"
+                            }
+                        },
+                        "Title": "The Journal of infection",
+                        "ISOAbbreviation": "J. Infect."
+                    },
+                    "ArticleTitle": "Social patterning of telephone health-advice for diarrhoea and vomiting: analysis of 24 million telehealth calls in England.",
+                    "Pagination": {
+                        "MedlinePgn": "95-100"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Gastrointestinal (GI) infections are common and most people do not see a physician. There is conflicting evidence of the impact of socioeconomic status (SES) on risk of GI infections. We assessed the relationship between SES and GI calls to two National Health Service (NHS) telephone advice services in England.",
+                            "Over 24 million calls to NHS Direct (2010-13) and NHS 111 (2013-15) were extracted from Public Health England (PHE) syndromic surveillance systems. The relationship between SES and GI calls was assessed using generalised linear models (GLM).",
+                            "Adjusting for rurality and age-sex interactions, in NHS Direct, children in disadvantaged areas were at lower risk of GI calls; in NHS 111 there was a higher risk of GI calls in disadvantaged areas for all ages (0-4 years RR 1.27, 95% CI 1.25-1.29; 5-9 years RR 1.43, 95% CI 1.36-1.51; 10-14 years RR 1.36, 95% CI 1.26-1.41; 15-19 years RR 1.59, 95% CI 1.52-1.67; 20-59 years RR 1.50, 95% CI 1.47-1.53, 60 years and over RR 1.12, 95% CI 1.09-1.14).",
+                            "Disadvantaged areas had higher risk of GI calls in NHS 111. This may relate to differences in exposure or vulnerability to GI infections, or propensity to call about GI infections."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018 The British Infection Association. Published by Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK; National Infection Service, Public Health England, London, UK. Electronic address: Natalie.Adams@phe.gov.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Adams",
+                            "ForeName": "Natalie L",
+                            "Initials": "NL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rose",
+                            "ForeName": "Tanith C",
+                            "Initials": "TC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK; NIHR Health Protection Research Unit in Emergency Preparedness and Response, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Elliot",
+                            "ForeName": "Alex J",
+                            "Initials": "AJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK; NIHR Health Protection Research Unit in Emergency Preparedness and Response, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Smith",
+                            "ForeName": "Gillian",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK; NIHR Health Protection Research Unit in Emergency Preparedness and Response, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Morbey",
+                            "ForeName": "Roger",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Loveridge",
+                            "ForeName": "Paul",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Emergency Response Department, Science and Technology, Health Protection Directorate, Public Health England, Porton Down, Salisbury, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lewis",
+                            "ForeName": "James",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NHS England, West Midlands Integrated Urgent Care, Birmingham, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Studdard",
+                            "ForeName": "Gareth",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Health Economics Research Centre, University of Oxford, Oxford, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Violato",
+                            "ForeName": "Mara",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "O'Brien",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whitehead",
+                            "ForeName": "Margaret",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Taylor-Robinson",
+                            "ForeName": "David C",
+                            "Initials": "DC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; National Infection Service, Field Service, Public Health England, Birmingham, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hawker",
+                            "ForeName": "Jeremy I",
+                            "Initials": "JI"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Benjamin",
+                            "Initials": "B"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/P008577/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Observational Study",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Infect",
+                    "NlmUniqueID": "7908424",
+                    "ISSNLinking": "0163-4453"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child, Preschool",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Diarrhea",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant, Newborn",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Public Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "State Medicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Telemedicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Vomiting",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Infect. 2003 Feb;46(2):101-5",
+                                "ArticleIdList": [
+                                    "12634071"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2005 Apr;55(513):287-91",
+                                "ArticleIdList": [
+                                    "15826436"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2010 May 05;10:39",
+                                "ArticleIdList": [
+                                    "20444246"
+                                ]
+                            },
+                            {
+                                "Citation": "Epidemiol Infect. 2011 Mar;139(3):400-5",
+                                "ArticleIdList": [
+                                    "20334731"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2014 Oct 25;14:487",
+                                "ArticleIdList": [
+                                    "25344061"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2017 Mar 1;39(1):184-192",
+                                "ArticleIdList": [
+                                    "26956114"
+                                ]
+                            },
+                            {
+                                "Citation": "Euro Surveill. 2006;11(12):220-4",
+                                "ArticleIdList": [
+                                    "17370968"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1999 Mar 6;353(9155):807-8",
+                                "ArticleIdList": [
+                                    "10459964"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2008 Mar;30(1):75-81",
+                                "ArticleIdList": [
+                                    "18216300"
+                                ]
+                            },
+                            {
+                                "Citation": "Epidemiol Infect. 2015 Sep;143(12):2473-85",
+                                "ArticleIdList": [
+                                    "25600652"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health Med. 2003 Jun;25(2):174-6",
+                                "ArticleIdList": [
+                                    "12848411"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med. 2018 Jan 29;16(1):10",
+                                "ArticleIdList": [
+                                    "29375036"
+                                ]
+                            },
+                            {
+                                "Citation": "J Infect Dis. 2016 Jan 15;213(2):243-9",
+                                "ArticleIdList": [
+                                    "26232438"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "06",
+                        "Day": "04"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "09",
+                        "Day": "14"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "09",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30267800",
+                    "S0163-4453(18)30281-0",
+                    "10.1016/j.jinf.2018.09.008",
+                    "PMC6428660"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30267800)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830267800%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830267800%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054148263"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054148263?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054148263&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054148263&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0163445318302810"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054148263",
+                        "dc:identifier": "SCOPUS_ID:85054148263",
+                        "eid": "2-s2.0-85054148263",
+                        "dc:title": "Social patterning of telephone health-advice for diarrhoea and vomiting: analysis of 24 million telehealth calls in England",
+                        "dc:creator": "Adams N.L.",
+                        "prism:publicationName": "Journal of Infection",
+                        "prism:issn": "01634453",
+                        "prism:eIssn": "15322742",
+                        "prism:volume": "78",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "95-100",
+                        "prism:coverDate": "2019-02-01",
+                        "prism:coverDisplayDate": "February 2019",
+                        "prism:doi": "10.1016/j.jinf.2018.09.008",
+                        "pii": "S0163445318302810",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Public Health England",
+                                "affiliation-city": "London",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR Health Protection Research Unit in Gastrointestinal Infections",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30267800",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "22428",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "W4FBFAAS.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30267800"
+            }
+        },
+        "title": "Social patterning of telephone health-advice for diarrhoea and vomiting: analysis of 24 million telehealth calls in England.",
+        "full_author_list": [
+            {
+                "clean": "Adams N",
+                "family": "Adams",
+                "given": "Natalie L",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK; National Infection Service, Public Health England, London, UK. Electronic address: Natalie.Adams@phe.gov.uk."
+                }
+            },
+            {
+                "clean": "Rose T",
+                "family": "Rose",
+                "given": "Tanith C",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Elliot A",
+                "family": "Elliot",
+                "given": "Alex J",
+                "affiliation": {
+                    "name": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK; NIHR Health Protection Research Unit in Emergency Preparedness and Response, London, UK."
+                }
+            },
+            {
+                "clean": "Smith G",
+                "family": "Smith",
+                "given": "Gillian",
+                "affiliation": {
+                    "name": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK; NIHR Health Protection Research Unit in Emergency Preparedness and Response, London, UK."
+                }
+            },
+            {
+                "clean": "Morbey R",
+                "family": "Morbey",
+                "given": "Roger",
+                "affiliation": {
+                    "name": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK; NIHR Health Protection Research Unit in Emergency Preparedness and Response, London, UK."
+                }
+            },
+            {
+                "clean": "Loveridge P",
+                "family": "Loveridge",
+                "given": "Paul",
+                "affiliation": {
+                    "name": "Real-time Syndromic Surveillance Team, Field Service, National Infection Service, Public Health England, Birmingham, UK."
+                }
+            },
+            {
+                "clean": "Lewis J",
+                "family": "Lewis",
+                "given": "James",
+                "affiliation": {
+                    "name": "Emergency Response Department, Science and Technology, Health Protection Directorate, Public Health England, Porton Down, Salisbury, UK."
+                }
+            },
+            {
+                "clean": "Studdard G",
+                "family": "Studdard",
+                "given": "Gareth",
+                "affiliation": {
+                    "name": "NHS England, West Midlands Integrated Urgent Care, Birmingham, UK."
+                }
+            },
+            {
+                "clean": "Violato M",
+                "family": "Violato",
+                "given": "Mara",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Health Economics Research Centre, University of Oxford, Oxford, UK."
+                }
+            },
+            {
+                "clean": "O'Brien S",
+                "family": "O'Brien",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Whitehead M",
+                "family": "Whitehead",
+                "given": "Margaret",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Taylor-Robinson D",
+                "family": "Taylor-Robinson",
+                "given": "David C",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hawker J",
+                "family": "Hawker",
+                "given": "Jeremy I",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; National Infection Service, Field Service, Public Health England, Birmingham, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Benjamin",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Adams N",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Child, Preschool",
+                    "major": "N"
+                },
+                {
+                    "term": "Diarrhea",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant, Newborn",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Public Health",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "Y"
+                },
+                {
+                    "term": "State Medicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Telemedicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Vomiting",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J. Infect.",
+            "volume": "78",
+            "issue": "2"
+        },
+        "abstract": "['Gastrointestinal (GI) infections are common and most people do not see a physician. There is conflicting evidence of the impact of socioeconomic status (SES) on risk of GI infections. We assessed the relationship between SES and GI calls to two National Health Service (NHS) telephone advice services in England.', 'Over 24 million calls to NHS Direct (2010-13) and NHS 111 (2013-15) were extracted from Public Health England (PHE) syndromic surveillance systems. The relationship between SES and GI calls was assessed using generalised linear models (GLM).', 'Adjusting for rurality and age-sex interactions, in NHS Direct, children in disadvantaged areas were at lower risk of GI calls; in NHS 111 there was a higher risk of GI calls in disadvantaged areas for all ages (0-4 years RR 1.27, 95% CI 1.25-1.29; 5-9 years RR 1.43, 95% CI 1.36-1.51; 10-14 years RR 1.36, 95% CI 1.26-1.41; 15-19 years RR 1.59, 95% CI 1.52-1.67; 20-59 years RR 1.50, 95% CI 1.47-1.53, 60 years and over RR 1.12, 95% CI 1.09-1.14).', 'Disadvantaged areas had higher risk of GI calls in NHS 111. This may relate to differences in exposure or vulnerability to GI infections, or propensity to call about GI infections.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "NIHR Health Protection Research Unit in Gastrointestinal Infections, Liverpool, UK; Department of Public Health and Policy, University of Liverpool, UK; National Infection Service, Public Health England, London, UK. Electronic address: Natalie.Adams@phe.gov.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

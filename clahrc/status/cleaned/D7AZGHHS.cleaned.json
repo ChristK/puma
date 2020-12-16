@@ -1,0 +1,1035 @@
+{
+    "IDs": {
+        "zotero": "D7AZGHHS",
+        "DOI": "10.1136/jech-2017-210432",
+        "DOI_filename": "9248539aeb9cd1136ac416f7b6dfb9a2",
+        "PMID": "30442819",
+        "scopus": "2-s2.0-85056707439",
+        "hash": "71e216ec58dc982cc8b705f57c83cd6e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "D7AZGHHS",
+            "version": 140,
+            "itemType": "journalArticle",
+            "title": "Why caesarean is more unequally concentrated among better-off people in Tehran? A concentration index decomposition approach",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Reza",
+                    "lastName": "Omani-Samani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amir",
+                    "lastName": "Almasi-Hashiani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saeid",
+                    "lastName": "Safiri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mahroo",
+                    "lastName": "Rezaeinejad"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fatemeh",
+                    "lastName": "Shokri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil",
+                    "lastName": "Khedmati Morasae"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saman",
+                    "lastName": "Maroufizadeh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mahdi",
+                    "lastName": "Sepidarkish"
+                }
+            ],
+            "abstractNote": "Background\n              Iran, as one of the low-income and middle-income countries, has experienced a remarkable increase in the caesarean section (CS) rate during the past three decades. Although several studies have been conducted on the prevalence and risk factors affecting CS, but few studies were done regarding socioeconomic factors influencing the CS rate. The aim of this study was to identify socioeconomic inequalities and its determinants in CS in Tehran, capital of Iran.\n            \n            \n              Methods\n              A population-based cross-sectional study was conducted on 5170 pregnancies in Tehran, since 2015. Principal component analysis was applied to measure the asset-based economic status. Concentration index was used to measure socioeconomic inequality in CS and then decomposed in to its determinants.\n            \n            \n              Results\n              The concentration index and its 95% CI for CS history was 0.102 (0.091 to 0.112). Decomposition of the concentration index showed that economic status had the largest contribution (49.2%) to socioeconomic inequality in CS. Mother\u2019s education (14.9%), father\u2019s occupation (13.3%) and father\u2019s nationality (9.7%) had the next high positive contribution to measured inequality in CS, respectively.\n            \n            \n              Conclusions\n              CS is mostly concentrated among women with high economic status. The identified contributing factors should be addressed to decrease the socioeconomic inequalities as possible.",
+            "publicationTitle": "Journal of Epidemiology and Community Health",
+            "volume": "73",
+            "issue": "2",
+            "pages": "182-187",
+            "date": "02/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Epidemiol Community Health",
+            "language": "en",
+            "DOI": "10.1136/jech-2017-210432",
+            "ISSN": "0143-005X, 1470-2738",
+            "shortTitle": "Why caesarean is more unequally concentrated among better-off people in Tehran?",
+            "url": "http://jech.bmj.com/lookup/doi/10.1136/jech-2017-210432",
+            "accessDate": "2020-09-10T17:09:19Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30442819",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:19Z",
+            "dateModified": "2020-09-15T12:08:59Z",
+            "pmid": "30442819"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T06:10:39Z",
+                "timestamp": 1588918239172
+            },
+            "reference-count": 31,
+            "publisher": "BMJ",
+            "issue": "2",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Background</jats:title><jats:p>Iran, as one of the low-income and middle-income countries, has experienced a remarkable increase in the caesarean section (CS) rate during the past three decades. Although several studies have been conducted on the prevalence and risk factors affecting CS, but few studies were done regarding socioeconomic factors influencing the CS rate. The aim of this study was to identify socioeconomic inequalities and its determinants in CS in Tehran, capital of Iran.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>A population-based cross-sectional study was conducted on 5170 pregnancies in Tehran, since 2015. Principal component analysis was applied to measure the asset-based economic status. Concentration index was used to measure socioeconomic inequality in CS and then decomposed in to its determinants.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The concentration index and its 95% CI for CS history was 0.102 (0.091 to 0.112). Decomposition of the concentration index showed that economic status had the largest contribution (49.2%) to socioeconomic inequality in CS. Mother\u2019s education (14.9%), father\u2019s occupation (13.3%) and father\u2019s nationality (9.7%) had the next high positive contribution to measured inequality in CS, respectively.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>CS is mostly concentrated among women with high economic status. The identified contributing factors should be addressed to decrease the socioeconomic inequalities as possible.</jats:p></jats:sec>",
+            "DOI": "10.1136/jech-2017-210432",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        16
+                    ]
+                ],
+                "date-time": "2018-11-16T06:37:42Z",
+                "timestamp": 1542350262000
+            },
+            "page": "182-187",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Why caesarean is more unequally concentrated among better-off people in Tehran? A concentration index decomposition approach",
+            "prefix": "10.1136",
+            "volume": "73",
+            "author": [
+                {
+                    "given": "Reza",
+                    "family": "Omani-Samani",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Amir",
+                    "family": "Almasi-Hashiani",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Saeid",
+                    "family": "Safiri",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mahroo",
+                    "family": "Rezaeinejad",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Fatemeh",
+                    "family": "Shokri",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Esmaeil",
+                    "family": "Khedmati Morasae",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Saman",
+                    "family": "Maroufizadeh",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mahdi",
+                    "family": "Sepidarkish",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050722092368000_73.2.182.1"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.2",
+                    "DOI": "10.1186/s12978-015-0043-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.3",
+                    "unstructured": "Osterman MJ , Kochanek KD , MacDorman MF , et al . Annual summary of vital statistics: 2012\u20132013. Pediatrics 2015;135.doi:10.1542/peds.2015-0434",
+                    "DOI": "10.1542/peds.2015-0434",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.4",
+                    "unstructured": "Betr\u00e1n AP , Ye J , Moller AB , et al . The increasing trend in caesarean section rates : global, regional and national estimates : 1990\u20132014. PLoS One 2016;11:e0148343.doi:10.1371/journal.pone.0148343",
+                    "DOI": "10.1371/journal.pone.0148343",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.5",
+                    "first-page": "1389",
+                    "article-title": "Caesarean section in the Islamic Republic of Iran: prevalence and some sociodemographic correlates",
+                    "volume": "15",
+                    "author": "Ahmad-Nia",
+                    "year": "2009",
+                    "journal-title": "East Mediterr Health J"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.6",
+                    "first-page": "2",
+                    "article-title": "Growing rate of cesarean section in Iran: dimensions and concerns",
+                    "volume": "15",
+                    "author": "Sepanlou",
+                    "year": "2012",
+                    "journal-title": "Arch Iran Med"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "29",
+                    "DOI": "10.1016/S0140-6736(16)30899-6",
+                    "article-title": "Caesarean section in Iran",
+                    "volume": "388",
+                    "author": "Shahshahan",
+                    "year": "2016",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.8",
+                    "first-page": "4",
+                    "article-title": "Rise in cesarean section rate over a 30-year period in a public hospital in Tehran, Iran",
+                    "volume": "15",
+                    "author": "Badakhsh",
+                    "year": "2012",
+                    "journal-title": "Arch Iran Med"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.9",
+                    "first-page": "545",
+                    "article-title": "Prevalence and causes of cesarean section in Iran: systematic review and meta-analysis",
+                    "volume": "43",
+                    "author": "Azami-Aghdash",
+                    "year": "2014",
+                    "journal-title": "Iran J Public Health"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.10",
+                    "first-page": "457",
+                    "article-title": "Caesarean section rates in teaching hospitals of Tehran: 1999\u20132003",
+                    "volume": "13",
+                    "author": "Moini",
+                    "year": "2007",
+                    "journal-title": "East Mediterr Health J"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.11",
+                    "first-page": "5",
+                    "article-title": "Cesarean section in maternity hospitals in Tehran, Iran",
+                    "volume": "1",
+                    "author": "Shariat",
+                    "year": "2002",
+                    "journal-title": "Payesh"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.12",
+                    "unstructured": "Blas E , Sommerfeld J , Kurup AS . Social determinants approaches to public health: World Health Organization."
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.13",
+                    "unstructured": "Adler NE , Cutler DM , Fielding JE , et al ; Addressing social determinants of health and health disparities. Vital Directions for Health and Health Care Initiative: National Academy of Medicine Perspectives, 2016.",
+                    "DOI": "10.31478/201609t",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.14",
+                    "unstructured": "Lundberg O , Dahl E , Fritzell J , et al . Social protection, income and health inequalities: final report from task group on GDP, taxes, income and welfare. Review of social determinants and the health divide in the WHO European Region. WHO 2016."
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.15",
+                    "DOI": "10.2105/AJPH.93.3.383",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "671",
+                    "DOI": "10.26719/2015.21.9.671",
+                    "article-title": "Health priorities and the social determinants of health",
+                    "volume": "21",
+                    "author": "Marmot",
+                    "year": "2015",
+                    "journal-title": "East Mediterr Health J"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e277",
+                    "DOI": "10.1016/S2214-109X(17)30058-X",
+                    "article-title": "Socioeconomic status and non-communicable disease behavioural risk factors in low-income and lower-middle-income countries: a systematic review",
+                    "volume": "5",
+                    "author": "Allen",
+                    "year": "2017",
+                    "journal-title": "Lancet Glob Health"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.18",
+                    "first-page": "220",
+                    "article-title": "Tehran survey of potential risk factors for multiple births",
+                    "volume": "11",
+                    "author": "Omani Samani",
+                    "year": "2017",
+                    "journal-title": "Int J Fertil Steril"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.19",
+                    "DOI": "10.1002/hec.919",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.20",
+                    "DOI": "10.1016/0277-9536(91)90212-U",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.21",
+                    "DOI": "10.1016/S0304-4076(02)00161-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.22",
+                    "DOI": "10.1111/j.1365-3016.2007.00786.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.23",
+                    "DOI": "10.1016/S0140-6736(06)69639-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.24",
+                    "DOI": "10.1007/s00038-009-0105-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.25",
+                    "DOI": "10.1093/ije/dym139",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.26",
+                    "unstructured": "Liverpool LSO , Winter-Nelson A . Asset versus consumption poverty and poverty dynamics in the presence of multiple equilibria in rural Ethiopia. Washington DC, USA: International Food Policy Research Institute, 2010."
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.27",
+                    "DOI": "10.1093/ije/dys037",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1236",
+                    "DOI": "10.1016/j.socscimed.2008.06.032",
+                    "article-title": "Community factors affecting rising caesarean section rates in developing countries: an analysis of six countries",
+                    "volume": "67",
+                    "author": "Leone",
+                    "year": "2008",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "391",
+                    "DOI": "10.1111/j.1471-0528.2010.02793.x",
+                    "article-title": "Women\u2019s preference for caesarean section: a systematic review and meta-analysis of observational studies",
+                    "volume": "118",
+                    "author": "Mazzoni",
+                    "year": "2011",
+                    "journal-title": "BJOG: An Int J Obstet Gynaecol"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.30",
+                    "unstructured": "Neuman M , Alcock G , Azad K , et al . Prevalence and determinants of caesarean section in private and public health facilities in underserved South Asian communities: cross-sectional analysis of data from Bangladesh, India and Nepal. BMJ Open 2014;4:e005982.doi:10.1136/bmjopen-2014-005982",
+                    "DOI": "10.1136/bmjopen-2014-005982",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092368000_73.2.182.31",
+                    "unstructured": "O\u2019Donnell OA , Wagstaff A . Analyzing health equity using household survey data: a guide to techniques and their implementation: World Bank Publications, 2008.",
+                    "DOI": "10.1596/978-0-8213-6933-3",
+                    "doi-asserted-by": "crossref"
+                }
+            ],
+            "container-title": "Journal of Epidemiology and Community Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/jech-2017-210432",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T05:33:01Z",
+                "timestamp": 1588915981000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 31,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            10
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1136/jech-2017-210432"
+            ],
+            "URL": "http://dx.doi.org/10.1136/jech-2017-210432",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0143-005X",
+                "1470-2738"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Epidemiology"
+            ],
+            "container-title-short": "J Epidemiol Community Health"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30442819",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/jech-2017-210432"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "11",
+                            "Day": "15"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1470-2738",
+                        "JournalIssue": {
+                            "Volume": "73",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "02"
+                            }
+                        },
+                        "Title": "Journal of epidemiology and community health",
+                        "ISOAbbreviation": "J Epidemiol Community Health"
+                    },
+                    "ArticleTitle": "Why caesarean is more unequally concentrated among better-off people in Tehran? A concentration index decomposition approach.",
+                    "Pagination": {
+                        "MedlinePgn": "182-187"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Iran, as one of the low-income and middle-income countries, has experienced a remarkable increase in the caesarean section (CS) rate during the past three decades. Although several studies have been conducted on the prevalence and risk factors affecting CS, but few studies were done regarding socioeconomic factors influencing the CS rate. The aim of this study was to identify socioeconomic inequalities and its determinants in CS in Tehran, capital of Iran.",
+                            "A population-based cross-sectional study was conducted on 5170 pregnancies in Tehran, since 2015. Principal component analysis was applied to measure the asset-based economic status. Concentration index was used to measure socioeconomic inequality in CS and then decomposed in to its determinants.",
+                            "The concentration index and its 95% CI for CS history was 0.102 (0.091 to 0.112). Decomposition of the concentration index showed that economic status had the largest contribution (49.2%) to socioeconomic inequality in CS. Mother's education (14.9%), father's occupation (13.3%) and father's nationality (9.7%) had the next high positive contribution to measured inequality in CS, respectively.",
+                            "CS is mostly concentrated among women with high economic status. The identified contributing factors should be addressed to decrease the socioeconomic inequalities as possible."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2019. No commercial re-use. See rights and permissions. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Departmentof Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Omani-Samani",
+                            "ForeName": "Reza",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Almasi-Hashiani",
+                            "ForeName": "Amir",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Managerial Epidemiology Research Center, Department of Public Health, School of Nursing and Midwifery, Maragheh University of Medical Sciences, Maragheh, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Safiri",
+                            "ForeName": "Saeid",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Obstetrics and Gynecology, Imam Khomeini Hospital, Tehran University of Medical Sciences, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rezaeinejad",
+                            "ForeName": "Mahroo",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Education and Promotion, Iran University of Medical Sciences, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shokri",
+                            "ForeName": "Fatemeh",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health and Society, Health Services Research Department, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Khedmati Morasae",
+                            "ForeName": "Esmaeil",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maroufizadeh",
+                            "ForeName": "Saman",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sepidarkish",
+                            "ForeName": "Mahdi",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Epidemiol Community Health",
+                    "NlmUniqueID": "7909766",
+                    "ISSNLinking": "0143-005X"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Cesarean Section",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cross-Sectional Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Income",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Iran",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Residence Characteristics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Class",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "01",
+                        "Day": "02"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "06",
+                        "Day": "14"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "28"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30442819",
+                    "jech-2017-210432",
+                    "10.1136/jech-2017-210432"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30442819)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830442819%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830442819%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056707439"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056707439?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056707439&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056707439&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056707439",
+                        "dc:identifier": "SCOPUS_ID:85056707439",
+                        "eid": "2-s2.0-85056707439",
+                        "dc:title": "Why caesarean is more unequally concentrated among better-off people in Tehran? A concentration index decomposition approach",
+                        "dc:creator": "Omani-Samani R.",
+                        "prism:publicationName": "Journal of Epidemiology and Community Health",
+                        "prism:issn": "0143005X",
+                        "prism:eIssn": "14702738",
+                        "prism:volume": "73",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "182-187",
+                        "prism:coverDate": "2019-02-01",
+                        "prism:coverDisplayDate": "1 February 2019",
+                        "prism:doi": "10.1136/jech-2017-210432",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Royan Institute",
+                                "affiliation-city": "Tehran",
+                                "affiliation-country": "Iran"
+                            }
+                        ],
+                        "pubmed-id": "30442819",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "15896",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "D7AZGHHS.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30442819"
+            }
+        },
+        "title": "Why caesarean is more unequally concentrated among better-off people in Tehran? A concentration index decomposition approach.",
+        "full_author_list": [
+            {
+                "clean": "Omani-Samani R",
+                "family": "Omani-Samani",
+                "given": "Reza",
+                "affiliation": {
+                    "name": "Departmentof Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Almasi-Hashiani A",
+                "family": "Almasi-Hashiani",
+                "given": "Amir",
+                "affiliation": {
+                    "name": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran."
+                }
+            },
+            {
+                "clean": "Safiri S",
+                "family": "Safiri",
+                "given": "Saeid",
+                "affiliation": {
+                    "name": "Managerial Epidemiology Research Center, Department of Public Health, School of Nursing and Midwifery, Maragheh University of Medical Sciences, Maragheh, Iran."
+                }
+            },
+            {
+                "clean": "Rezaeinejad M",
+                "family": "Rezaeinejad",
+                "given": "Mahroo",
+                "affiliation": {
+                    "name": "Department of Obstetrics and Gynecology, Imam Khomeini Hospital, Tehran University of Medical Sciences, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Shokri F",
+                "family": "Shokri",
+                "given": "Fatemeh",
+                "affiliation": {
+                    "name": "Department of Health Education and Promotion, Iran University of Medical Sciences, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Khedmati Morasae E",
+                "family": "Khedmati Morasae",
+                "given": "Esmaeil",
+                "affiliation": {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health and Society, Health Services Research Department, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Maroufizadeh S",
+                "family": "Maroufizadeh",
+                "given": "Saman",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Sepidarkish M",
+                "family": "Sepidarkish",
+                "given": "Mahdi",
+                "affiliation": {
+                    "name": "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+                }
+            }
+        ],
+        "first_author": "Omani-Samani R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Cesarean Section",
+                    "major": "N"
+                },
+                {
+                    "term": "Cross-Sectional Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Income",
+                    "major": "N"
+                },
+                {
+                    "term": "Iran",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Residence Characteristics",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Class",
+                    "major": "Y"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Epidemiol Community Health",
+            "volume": "73",
+            "issue": "2"
+        },
+        "abstract": "['Iran, as one of the low-income and middle-income countries, has experienced a remarkable increase in the caesarean section (CS) rate during the past three decades. Although several studies have been conducted on the prevalence and risk factors affecting CS, but few studies were done regarding socioeconomic factors influencing the CS rate. The aim of this study was to identify socioeconomic inequalities and its determinants in CS in Tehran, capital of Iran.', 'A population-based cross-sectional study was conducted on 5170 pregnancies in Tehran, since 2015. Principal component analysis was applied to measure the asset-based economic status. Concentration index was used to measure socioeconomic inequality in CS and then decomposed in to its determinants.', \"The concentration index and its 95% CI for CS history was 0.102 (0.091 to 0.112). Decomposition of the concentration index showed that economic status had the largest contribution (49.2%) to socioeconomic inequality in CS. Mother's education (14.9%), father's occupation (13.3%) and father's nationality (9.7%) had the next high positive contribution to measured inequality in CS, respectively.\", 'CS is mostly concentrated among women with high economic status. The identified contributing factors should be addressed to decrease the socioeconomic inequalities as possible.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Departmentof Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran.",
+            "clean_institute": "Royan Institute",
+            "country": "Iran",
+            "postal_town": "Tehran"
+        }
+    }
+}

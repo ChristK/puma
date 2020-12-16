@@ -1,0 +1,770 @@
+{
+    "IDs": {
+        "zotero": "WR6I5QRH",
+        "DOI": "10.1016/j.schres.2017.03.022",
+        "DOI_filename": "aa96aaefa91189bfa3b9f597d7cb0d42",
+        "PMID": "28318838",
+        "scopus": "2-s2.0-85015281460",
+        "hash": "fa49f578ec1a9c27c915c286af4d8a5a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "WR6I5QRH",
+            "version": 197,
+            "itemType": "journalArticle",
+            "title": "Do paranoid delusions exist on a continuum with subclinical paranoia? A multi-method taxometric study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Elahi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "G.",
+                    "lastName": "Perez Algorta"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "F.",
+                    "lastName": "Varese"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "R.P.",
+                    "lastName": "Bentall"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Schizophrenia Research",
+            "volume": "190",
+            "issue": "",
+            "pages": "77-81",
+            "date": "12/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Schizophrenia Research",
+            "language": "en",
+            "DOI": "10.1016/j.schres.2017.03.022",
+            "ISSN": "09209964",
+            "shortTitle": "Do paranoid delusions exist on a continuum with subclinical paranoia?",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0920996417301421",
+            "accessDate": "2020-09-10T17:08:35Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28318838",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:35Z",
+            "dateModified": "2020-09-15T14:38:06Z",
+            "pmid": "28318838"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        18
+                    ]
+                ],
+                "date-time": "2020-09-18T04:44:05Z",
+                "timestamp": 1600404245324
+            },
+            "reference-count": 42,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                12,
+                                1
+                            ]
+                        ],
+                        "date-time": "2017-12-01T00:00:00Z",
+                        "timestamp": 1512086400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                3,
+                                16
+                            ]
+                        ],
+                        "date-time": "2017-03-16T00:00:00Z",
+                        "timestamp": 1489622400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "schres-journal.com",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.schres.2017.03.022",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        3,
+                        18
+                    ]
+                ],
+                "date-time": "2017-03-18T06:45:26Z",
+                "timestamp": 1489819526000
+            },
+            "page": "77-81",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 29,
+            "title": "Do paranoid delusions exist on a continuum with subclinical paranoia? A multi-method taxometric study",
+            "prefix": "10.1016",
+            "volume": "190",
+            "author": [
+                {
+                    "given": "A.",
+                    "family": "Elahi",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6610-4951",
+                    "authenticated-orcid": false,
+                    "given": "G.",
+                    "family": "Perez Algorta",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "F.",
+                    "family": "Varese",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "J.C.",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "R.P.",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Schizophrenia Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0920996417301421?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0920996417301421?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        8
+                    ]
+                ],
+                "date-time": "2018-09-08T00:16:48Z",
+                "timestamp": 1536365808000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 42,
+            "alternative-id": [
+                "S0920996417301421"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.schres.2017.03.022",
+            "relation": {},
+            "ISSN": [
+                "0920-9964"
+            ],
+            "container-title-short": "Schizophrenia Research",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Do paranoid delusions exist on a continuum with subclinical paranoia? A multi-method taxometric study",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Schizophrenia Research",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.schres.2017.03.022",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2017 Elsevier B.V.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Dimensional",
+                        "L-MODE",
+                        "MAMBAC",
+                        "MAXEIG",
+                        "Paranoia",
+                        "Taxometrics"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28318838",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "07",
+                    "Day": "30"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "08",
+                    "Day": "29"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0920-9964(17)30142-1",
+                        "10.1016/j.schres.2017.03.022"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "03",
+                            "Day": "18"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1573-2509",
+                        "JournalIssue": {
+                            "Volume": "190",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "12"
+                            }
+                        },
+                        "Title": "Schizophrenia research",
+                        "ISOAbbreviation": "Schizophr. Res."
+                    },
+                    "ArticleTitle": "Do paranoid delusions exist on a continuum with subclinical paranoia? A multi-method taxometric study.",
+                    "Pagination": {
+                        "MedlinePgn": "77-81"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "There is widespread interest in whether psychosis exists on a continuum with healthy functioning. Previous research has implied that paranoia, a common symptom of psychosis, exists on a continuum but this has not been investigated using samples including both patients and non-patients and up-to-date taxometric methods.",
+                            "To assess the latent structure of paranoia in a diverse sample using taxometric methods.",
+                            "We obtained data from 2836 participants, including the general population as well as at-risk mental state and psychotic patients using the P-scale of the Paranoia and Deservedness Scale. Data were analysed using three taxometric procedures, MAMBAC, MAXEIG and L-MODE (Ruscio, 2016), and two sets of paranoia indicators (subscales and selected items from the P scale), including and excluding the patient groups.",
+                            "Eleven of the twelve analyses supported a dimensional model. Using the full sample and subscales as indicators, the MAMBAC analysis was ambiguous. Overall, the findings converged on a dimensional latent structure.",
+                            "A dimensional latent structure of paranoia implies that the processes involved in sub-clinical paranoia may be similar to those in clinical paranoia."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2017 Elsevier B.V. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: hlaelahi@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Elahi",
+                            "ForeName": "A",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancaster University, Spectrum Centre for Mental Health Research, Furness Building C73, Lancaster LA1 4YG, United Kingdom. Electronic address: g.perezalgorta@lancaster.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Perez Algorta",
+                            "ForeName": "G",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Manchester, Division of Psychology and Mental Health, School of Health Sciences, Zochonis Building, Manchester M13 9PL, United Kingdom. Electronic address: filippo.varese@manchester.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Varese",
+                            "ForeName": "F",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: j.mcintyre@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "J C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: rpb@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bentall",
+                            "ForeName": "R P",
+                            "Initials": "RP"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Netherlands",
+                    "MedlineTA": "Schizophr Res",
+                    "NlmUniqueID": "8804207",
+                    "ISSNLinking": "0920-9964"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "classification"
+                        ],
+                        "DescriptorName": "Delusions",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Models, Theoretical",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "classification"
+                        ],
+                        "DescriptorName": "Paranoid Behavior",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "classification"
+                        ],
+                        "DescriptorName": "Paranoid Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Principal Component Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Psychiatric Status Rating Scales",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "classification",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Psychotic Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "06",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "01",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "03",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "3",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "31",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "3",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28318838",
+                    "S0920-9964(17)30142-1",
+                    "10.1016/j.schres.2017.03.022"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28318838)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828318838%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828318838%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015281460"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015281460?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015281460&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015281460&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0920996417301421"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015281460",
+                        "dc:identifier": "SCOPUS_ID:85015281460",
+                        "eid": "2-s2.0-85015281460",
+                        "dc:title": "Do paranoid delusions exist on a continuum with subclinical paranoia? A multi-method taxometric study",
+                        "dc:creator": "Elahi A.",
+                        "prism:publicationName": "Schizophrenia Research",
+                        "prism:issn": "09209964",
+                        "prism:eIssn": "15732509",
+                        "prism:volume": "190",
+                        "prism:pageRange": "77-81",
+                        "prism:coverDate": "2017-12-01",
+                        "prism:coverDisplayDate": "December 2017",
+                        "prism:doi": "10.1016/j.schres.2017.03.022",
+                        "pii": "S0920996417301421",
+                        "citedby-count": "33",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28318838",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19355",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "WR6I5QRH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28318838"
+            }
+        },
+        "title": "Do paranoid delusions exist on a continuum with subclinical paranoia? A multi-method taxometric study.",
+        "full_author_list": [
+            {
+                "clean": "Elahi A",
+                "family": "Elahi",
+                "given": "A",
+                "affiliation": {
+                    "name": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: hlaelahi@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Perez Algorta G",
+                "family": "Perez Algorta",
+                "given": "G",
+                "affiliation": {
+                    "name": "Lancaster University, Spectrum Centre for Mental Health Research, Furness Building C73, Lancaster LA1 4YG, United Kingdom. Electronic address: g.perezalgorta@lancaster.ac.uk."
+                }
+            },
+            {
+                "clean": "Varese F",
+                "family": "Varese",
+                "given": "F",
+                "affiliation": {
+                    "name": "University of Manchester, Division of Psychology and Mental Health, School of Health Sciences, Zochonis Building, Manchester M13 9PL, United Kingdom. Electronic address: filippo.varese@manchester.ac.uk."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "J C",
+                "affiliation": {
+                    "name": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: j.mcintyre@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "R P",
+                "affiliation": {
+                    "name": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: rpb@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Elahi A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Delusions",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Models, Theoretical",
+                    "major": "N"
+                },
+                {
+                    "term": "Paranoid Behavior",
+                    "major": "N"
+                },
+                {
+                    "term": "Paranoid Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Principal Component Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Psychiatric Status Rating Scales",
+                    "major": "N"
+                },
+                {
+                    "term": "Psychotic Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Schizophr. Res.",
+            "volume": "190",
+            "issue": ""
+        },
+        "abstract": "['There is widespread interest in whether psychosis exists on a continuum with healthy functioning. Previous research has implied that paranoia, a common symptom of psychosis, exists on a continuum but this has not been investigated using samples including both patients and non-patients and up-to-date taxometric methods.', 'To assess the latent structure of paranoia in a diverse sample using taxometric methods.', 'We obtained data from 2836 participants, including the general population as well as at-risk mental state and psychotic patients using the P-scale of the Paranoia and Deservedness Scale. Data were analysed using three taxometric procedures, MAMBAC, MAXEIG and L-MODE (Ruscio, 2016), and two sets of paranoia indicators (subscales and selected items from the P scale), including and excluding the patient groups.', 'Eleven of the twelve analyses supported a dimensional model. Using the full sample and subscales as indicators, the MAMBAC analysis was ambiguous. Overall, the findings converged on a dimensional latent structure.', 'A dimensional latent structure of paranoia implies that the processes involved in sub-clinical paranoia may be similar to those in clinical paranoia.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "33"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, Institute of Psychology, Health and Society, Waterhouse Building, Block B, Brownlow St, Liverpool L69 3GL, United Kingdom. Electronic address: hlaelahi@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

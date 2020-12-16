@@ -1,0 +1,1077 @@
+{
+    "IDs": {
+        "zotero": "HNLM44CH",
+        "DOI": "10.1177/2167702619830640",
+        "DOI_filename": "d4df3612fd5fbb456eed95857d094f5e",
+        "PMID": "",
+        "scopus": "2-s2.0-85063603689",
+        "hash": "f884f26021572b77dfc33e9d0bbd86fe"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "HNLM44CH",
+            "version": 86,
+            "itemType": "journalArticle",
+            "title": "Mental Health, Deprivation, and the Neighborhood Social Environment: A Network Analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Eoin",
+                    "lastName": "McElroy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard P.",
+                    "lastName": "Bentall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Keith",
+                    "lastName": "Holt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cecil",
+                    "lastName": "Kullu"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rajan",
+                    "lastName": "Nathan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Kerr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katerina",
+                    "lastName": "Panagaki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mick",
+                    "lastName": "McKeown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pooja",
+                    "lastName": "Saini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                }
+            ],
+            "abstractNote": "Different aspects of the neighborhood social environment have been linked with mental ill health; however, the mechanisms underlying these associations remain poorly understood because of the number and complexity of the components involved. We used a novel statistical approach, network analysis, to explore the complex associations between neighborhood social cohesion, social disorder, and mental-health symptoms in a sample of 3,670 adults from an economically deprived region of the United Kingdom (mean age = 49.34 years, SD = 18.87; 57% female). Elasso regularized networks were estimated, and network comparisons were conducted by level of deprivation. Mental-health symptoms and neighborhood components formed relatively distinct clusters of items. These domains were linked primarily by paranoia, although only in the most deprived group. Drunken/rowdy behavior was particularly influential within the neighborhood cluster; therefore, policies aimed at reducing such disruptive behavior could have positive knock-on effects for social cohesion and mental health.",
+            "publicationTitle": "Clinical Psychological Science",
+            "volume": "7",
+            "issue": "4",
+            "pages": "719-734",
+            "date": "07/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Clinical Psychological Science",
+            "language": "en",
+            "DOI": "10.1177/2167702619830640",
+            "ISSN": "2167-7026, 2167-7034",
+            "shortTitle": "Mental Health, Deprivation, and the Neighborhood Social Environment",
+            "url": "http://journals.sagepub.com/doi/10.1177/2167702619830640",
+            "accessDate": "2020-09-10T17:08:39Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:39Z",
+            "dateModified": "2020-09-10T17:08:39Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        25
+                    ]
+                ],
+                "date-time": "2020-03-25T02:51:44Z",
+                "timestamp": 1585104704444
+            },
+            "reference-count": 83,
+            "publisher": "SAGE Publications",
+            "issue": "4",
+            "license": [
+                {
+                    "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                3,
+                                26
+                            ]
+                        ],
+                        "date-time": "2019-03-26T00:00:00Z",
+                        "timestamp": 1553558400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership and Health Research and Care North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "journals.sagepub.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7
+                    ]
+                ]
+            },
+            "abstract": "<jats:p> Different aspects of the neighborhood social environment have been linked with mental ill health; however, the mechanisms underlying these associations remain poorly understood because of the number and complexity of the components involved. We used a novel statistical approach, network analysis, to explore the complex associations between neighborhood social cohesion, social disorder, and mental-health symptoms in a sample of 3,670 adults from an economically deprived region of the United Kingdom (mean age = 49.34 years, SD = 18.87; 57% female). Elasso regularized networks were estimated, and network comparisons were conducted by level of deprivation. Mental-health symptoms and neighborhood components formed relatively distinct clusters of items. These domains were linked primarily by paranoia, although only in the most deprived group. Drunken/rowdy behavior was particularly influential within the neighborhood cluster; therefore, policies aimed at reducing such disruptive behavior could have positive knock-on effects for social cohesion and mental health. </jats:p>",
+            "DOI": "10.1177/2167702619830640",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        26
+                    ]
+                ],
+                "date-time": "2019-03-26T22:23:26Z",
+                "timestamp": 1553639006000
+            },
+            "page": "719-734",
+            "update-policy": "http://dx.doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Mental Health, Deprivation, and the Neighborhood Social Environment: A Network Analysis",
+            "prefix": "10.1177",
+            "volume": "7",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5466-8522",
+                    "authenticated-orcid": false,
+                    "given": "Eoin",
+                    "family": "McElroy",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-5601-524X",
+                    "authenticated-orcid": false,
+                    "given": "Jason C.",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Natural Sciences and Psychology, Liverpool John Moores University"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard P.",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychology, University of Sheffield"
+                        }
+                    ]
+                },
+                {
+                    "given": "Tim",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Collaboration for Applied Health Research and Care-North West Coast, Liverpool, England"
+                        }
+                    ]
+                },
+                {
+                    "given": "Keith",
+                    "family": "Holt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Collaboration for Applied Health Research and Care-North West Coast, Liverpool, England"
+                        }
+                    ]
+                },
+                {
+                    "given": "Cecil",
+                    "family": "Kullu",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Merseycare National Health Service (NHS) Foundation Trust, Liverpool, England"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rajan",
+                    "family": "Nathan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Cheshire and Wirral Partnership NHS Foundation Trust, Cheshire, England"
+                        }
+                    ]
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Kerr",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NHS Liverpool Clinical Commissioning Group, Liverpool, England"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0383-4890",
+                    "authenticated-orcid": false,
+                    "given": "Katerina",
+                    "family": "Panagaki",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Spectrum Centre for Mental Health Research, Division of Health Research, Lancaster University"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mick",
+                    "family": "McKeown",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire"
+                        }
+                    ]
+                },
+                {
+                    "given": "Pooja",
+                    "family": "Saini",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Natural Sciences and Psychology, Liverpool John Moores University"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                        }
+                    ]
+                }
+            ],
+            "member": "179",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        26
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "bibr1-2167702619830640",
+                    "DOI": "10.1136/bmj.332.7549.1080",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr2-2167702619830640",
+                    "DOI": "10.2307/2137258",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr3-2167702619830640",
+                    "DOI": "10.1037/abn0000257",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr4-2167702619830640",
+                    "DOI": "10.1037/0033-2909.117.3.497",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr5-2167702619830640",
+                    "DOI": "10.1017/S0033291716002300",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr6-2167702619830640",
+                    "DOI": "10.1192/bjp.bp.112.119032",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr7-2167702619830640",
+                    "DOI": "10.1017/S0033291716001550",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr8-2167702619830640",
+                    "DOI": "10.1080/17522431003592649",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr9-2167702619830640",
+                    "author": "Booth J.",
+                    "volume": "39",
+                    "first-page": "137",
+                    "year": "2012",
+                    "journal-title": "Journal of Sociology and Social Welfare"
+                },
+                {
+                    "key": "bibr10-2167702619830640",
+                    "DOI": "10.1146/annurev-clinpsy-050212-185608",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr11-2167702619830640",
+                    "DOI": "10.1371/journal.pone.0027407",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr12-2167702619830640",
+                    "DOI": "10.1037/abn0000150",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr13-2167702619830640",
+                    "DOI": "10.1177/2167702613497473",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr14-2167702619830640",
+                    "DOI": "10.1037/0278-6133.25.6.704",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr15-2167702619830640",
+                    "DOI": "10.1093/geront/gny021",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr16-2167702619830640",
+                    "DOI": "10.1016/j.jval.2016.08.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr17-2167702619830640",
+                    "DOI": "10.1177/2158244017707004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr18-2167702619830640",
+                    "DOI": "10.1371/journal.pone.0202412",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr19-2167702619830640",
+                    "DOI": "10.1016/j.jrp.2014.07.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr20-2167702619830640",
+                    "DOI": "10.1007/s12439-013-0010-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr21-2167702619830640",
+                    "DOI": "10.1177/1088868314523839",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr22-2167702619830640",
+                    "DOI": "10.1177/1948550614543309",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr23-2167702619830640",
+                    "author": "Csardi G.",
+                    "volume": "1695",
+                    "first-page": "1",
+                    "year": "2006",
+                    "journal-title": "InterJournal, Complex Systems"
+                },
+                {
+                    "key": "bibr24-2167702619830640",
+                    "DOI": "10.1016/j.schres.2017.03.022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr25-2167702619830640",
+                    "DOI": "10.1521/jscp.2018.37.3.159",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr26-2167702619830640",
+                    "DOI": "10.1080/00420980120087171",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr27-2167702619830640",
+                    "DOI": "10.1016/j.puhe.2009.09.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr28-2167702619830640",
+                    "DOI": "10.1016/j.schres.2007.10.027",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr29-2167702619830640",
+                    "DOI": "10.3758/s13428-017-0862-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr30-2167702619830640",
+                    "DOI": "10.18637/jss.v048.i04",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr31-2167702619830640",
+                    "author": "Epskamp S.",
+                    "year": "2016",
+                    "journal-title": "arXiv"
+                },
+                {
+                    "key": "bibr32-2167702619830640",
+                    "DOI": "10.1177/2167702617744325",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr33-2167702619830640",
+                    "author": "Faris R. E. L.",
+                    "year": "1939",
+                    "volume-title": "Mental disorders in urban areas: An ecological study of schizophrenia and other psychoses"
+                },
+                {
+                    "key": "bibr34-2167702619830640",
+                    "DOI": "10.1017/S0033291713003255",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr35-2167702619830640",
+                    "DOI": "10.1017/S0033291708003589",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr36-2167702619830640",
+                    "DOI": "10.1177/1745691617705892",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr37-2167702619830640",
+                    "DOI": "10.1016/j.jad.2015.09.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr38-2167702619830640",
+                    "DOI": "10.1002/spe.4380211102",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr39-2167702619830640",
+                    "DOI": "10.1016/j.healthplace.2011.05.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr40-2167702619830640",
+                    "DOI": "10.1016/j.envint.2016.08.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr41-2167702619830640",
+                    "author": "Harper R.",
+                    "year": "2003",
+                    "volume-title": "Measuring social capital in the United Kingdom"
+                },
+                {
+                    "key": "bibr42-2167702619830640",
+                    "DOI": "10.7717/peerj.287",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr43-2167702619830640",
+                    "author": "Ising E.",
+                    "volume": "31",
+                    "first-page": "253",
+                    "year": "1925",
+                    "journal-title": "Zeitschrift f\u00fcr Physik A Hadrons and Nuclei"
+                },
+                {
+                    "key": "bibr44-2167702619830640",
+                    "DOI": "10.1093/schbul/sbw049",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr45-2167702619830640",
+                    "DOI": "10.1093/schbul/sbw055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr47-2167702619830640",
+                    "author": "Kawachi I.",
+                    "volume": "174",
+                    "year": "2000",
+                    "journal-title": "Social Epidemiology"
+                },
+                {
+                    "key": "bibr48-2167702619830640",
+                    "DOI": "10.1016/j.brat.2008.07.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr49-2167702619830640",
+                    "DOI": "10.1136/jech-2017-209999",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr50-2167702619830640",
+                    "DOI": "10.3928/0048-5713-20020901-06",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr51-2167702619830640",
+                    "DOI": "10.4088/JCP.10m06176blu",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr52-2167702619830640",
+                    "DOI": "10.1016/0191-8869(81)90027-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr53-2167702619830640",
+                    "DOI": "10.1037/0022-0167.45.3.338",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr54-2167702619830640",
+                    "DOI": "10.1037/0021-843X.95.1.15",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr55-2167702619830640",
+                    "DOI": "10.1016/0005-7967(96)00046-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr56-2167702619830640",
+                    "DOI": "10.1016/j.jaac.2018.05.027",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr57-2167702619830640",
+                    "DOI": "10.1111/jcpp.13044",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr58-2167702619830640",
+                    "DOI": "10.1093/schbul/sbx110",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr59-2167702619830640",
+                    "DOI": "10.1348/147608308X398337",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr60-2167702619830640",
+                    "DOI": "10.1093/schbul/sbx013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr61-2167702619830640",
+                    "DOI": "10.1080/13546800701566686",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr62-2167702619830640",
+                    "DOI": "10.7717/peerj.236",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr63-2167702619830640",
+                    "DOI": "10.1016/j.socnet.2010.03.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr64-2167702619830640",
+                    "DOI": "10.1111/j.1600-0447.2009.01438.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr65-2167702619830640",
+                    "DOI": "10.5708/EJMH.9.2014.2.2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr66-2167702619830640",
+                    "DOI": "10.7155/jgaa.00124",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr67-2167702619830640",
+                    "DOI": "10.1007/s10903-011-9492-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr68-2167702619830640",
+                    "DOI": "10.1177/002214650905000104",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr69-2167702619830640",
+                    "DOI": "10.1353/pbm.2003.0059",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr70-2167702619830640",
+                    "DOI": "10.1521/jscp.2017.36.5.396",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr71-2167702619830640",
+                    "DOI": "10.1002/nur.21784",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr72-2167702619830640",
+                    "DOI": "10.1001/archinte.166.10.1092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr73-2167702619830640",
+                    "DOI": "10.1017/S0144686X10001236",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr74-2167702619830640",
+                    "DOI": "10.1192/bjp.184.4.293",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr75-2167702619830640",
+                    "author": "United Kingdom Cabinet Office",
+                    "year": "2014",
+                    "volume-title": "Community Life Survey questionnaire: 2013 to 2014"
+                },
+                {
+                    "key": "bibr76-2167702619830640",
+                    "author": "United Kingdom Department for Communities and Local Government",
+                    "year": "2015",
+                    "volume-title": "The English Indices of Deprivation. 2015"
+                },
+                {
+                    "key": "bibr77-2167702619830640",
+                    "DOI": "10.1001/jamapsychiatry.2015.2079",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr78-2167702619830640",
+                    "author": "van Borkulo C. D.",
+                    "volume": "4",
+                    "year": "2014",
+                    "journal-title": "Scientific Reports"
+                },
+                {
+                    "key": "bibr79-2167702619830640",
+                    "DOI": "10.1017/S0033291708003814",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr80-2167702619830640",
+                    "DOI": "10.1016/j.schres.2017.02.018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr81-2167702619830640",
+                    "DOI": "10.1093/schbul/sbs096",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr82-2167702619830640",
+                    "DOI": "10.1371/journal.pone.0105140",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr83-2167702619830640",
+                    "DOI": "10.1016/j.socscimed.2013.02.028",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr84-2167702619830640",
+                    "DOI": "10.1080/00224545.1989.9713793",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Clinical Psychological Science",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2167702619830640",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/2167702619830640",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2167702619830640",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ],
+                "date-time": "2019-07-12T07:07:50Z",
+                "timestamp": 1562915270000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        26
+                    ]
+                ]
+            },
+            "references-count": 83,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            5,
+                            6
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1177/2167702619830640"
+            ],
+            "URL": "http://dx.doi.org/10.1177/2167702619830640",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2167-7026",
+                "2167-7034"
+            ],
+            "subject": [
+                "Clinical Psychology"
+            ],
+            "container-title-short": "Clinical Psychological Science"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1177/2167702619830640)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1177%2F2167702619830640%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1177%2F2167702619830640%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063603689"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063603689?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063603689&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063603689&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063603689",
+                        "dc:identifier": "SCOPUS_ID:85063603689",
+                        "eid": "2-s2.0-85063603689",
+                        "dc:title": "Mental Health, Deprivation, and the Neighborhood Social Environment: A Network Analysis",
+                        "dc:creator": "McElroy E.",
+                        "prism:publicationName": "Clinical Psychological Science",
+                        "prism:issn": "21677026",
+                        "prism:eIssn": "21677034",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "719-734",
+                        "prism:coverDate": "2019-07-01",
+                        "prism:coverDisplayDate": "1 July 2019",
+                        "prism:doi": "10.1177/2167702619830640",
+                        "citedby-count": "7",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "21100274406",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "HNLM44CH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Mental Health, Deprivation, and the Neighborhood Social Environment: A Network Analysis",
+        "full_author_list": [
+            {
+                "clean": "McElroy E",
+                "family": "McElroy",
+                "given": "Eoin",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C.",
+                "affiliation": {
+                    "name": "School of Natural Sciences and Psychology, Liverpool John Moores University"
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "Richard P.",
+                "affiliation": {
+                    "name": "Department of Psychology, University of Sheffield"
+                }
+            },
+            {
+                "clean": "Wilson T",
+                "family": "Wilson",
+                "given": "Tim",
+                "affiliation": {
+                    "name": "Collaboration for Applied Health Research and Care-North West Coast, Liverpool, England"
+                }
+            },
+            {
+                "clean": "Holt K",
+                "family": "Holt",
+                "given": "Keith",
+                "affiliation": {
+                    "name": "Collaboration for Applied Health Research and Care-North West Coast, Liverpool, England"
+                }
+            },
+            {
+                "clean": "Kullu C",
+                "family": "Kullu",
+                "given": "Cecil",
+                "affiliation": {
+                    "name": "Merseycare National Health Service (NHS) Foundation Trust, Liverpool, England"
+                }
+            },
+            {
+                "clean": "Nathan R",
+                "family": "Nathan",
+                "given": "Rajan",
+                "affiliation": {
+                    "name": "Cheshire and Wirral Partnership NHS Foundation Trust, Cheshire, England"
+                }
+            },
+            {
+                "clean": "Kerr A",
+                "family": "Kerr",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "NHS Liverpool Clinical Commissioning Group, Liverpool, England"
+                }
+            },
+            {
+                "clean": "Panagaki K",
+                "family": "Panagaki",
+                "given": "Katerina",
+                "affiliation": {
+                    "name": "Spectrum Centre for Mental Health Research, Division of Health Research, Lancaster University"
+                }
+            },
+            {
+                "clean": "McKeown M",
+                "family": "McKeown",
+                "given": "Mick",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire"
+                }
+            },
+            {
+                "clean": "Saini P",
+                "family": "Saini",
+                "given": "Pooja",
+                "affiliation": {
+                    "name": "School of Natural Sciences and Psychology, Liverpool John Moores University"
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                }
+            }
+        ],
+        "first_author": "McElroy E",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Clinical Psychological Science",
+            "volume": "7",
+            "issue": "4"
+        },
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "7"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology, Health and Society, University of Liverpool",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

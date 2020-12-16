@@ -1,0 +1,1075 @@
+{
+    "IDs": {
+        "zotero": "3TCY8UIC",
+        "DOI": "10.1093/pubmed/fdy214",
+        "DOI_filename": "62c219b6a1622ee6dbb6d8b4e1f64e05",
+        "PMID": "30576532",
+        "scopus": "2-s2.0-85080027179",
+        "hash": "bbfd9c74d2140eebaed4fb1b84fb0c2b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "3TCY8UIC",
+            "version": 112,
+            "itemType": "journalArticle",
+            "title": "The elephant in the room? Why spatial stigma does not receive the public health attention it deserves",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Emma",
+                    "lastName": "Halliday"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennie",
+                    "lastName": "Popay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rachel",
+                    "lastName": "Anderson de Cuevas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Wheeler"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Public Health",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2018-12-20",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1093/pubmed/fdy214",
+            "ISSN": "1741-3842, 1741-3850",
+            "shortTitle": "The elephant in the room?",
+            "url": "https://academic.oup.com/jpubhealth/advance-article/doi/10.1093/pubmed/fdy214/5253783",
+            "accessDate": "2020-09-10T17:08:53Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30576532",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:53Z",
+            "dateModified": "2020-09-11T13:18:37Z",
+            "pmid": "30576532"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T13:41:12Z",
+                "timestamp": 1589982072002
+            },
+            "reference-count": 53,
+            "publisher": "Oxford University Press (OUP)",
+            "license": [
+                {
+                    "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                12,
+                                20
+                            ]
+                        ],
+                        "date-time": "2018-12-20T00:00:00Z",
+                        "timestamp": 1545264000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100012349",
+                    "name": "School for Public Health Research",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.1093/pubmed/fdy214",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        26
+                    ]
+                ],
+                "date-time": "2018-11-26T12:07:58Z",
+                "timestamp": 1543234078000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "The elephant in the room? Why spatial stigma does not receive the public health attention it deserves",
+            "prefix": "10.1093",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-2216-9259",
+                    "authenticated-orcid": false,
+                    "given": "Emma",
+                    "family": "Halliday",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennie",
+                    "family": "Popay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rachel",
+                    "family": "Anderson de Cuevas",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Paula",
+                    "family": "Wheeler",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK"
+                        },
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        20
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C1",
+                    "author": "Dudfield",
+                    "year": "1893",
+                    "volume-title": "Report of the Medical Officer of Health for Kensington"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "66",
+                    "DOI": "10.1177/0725513607082003",
+                    "article-title": "Territorial stigmatization in the age of advanced marginality",
+                    "volume": "91",
+                    "author": "Wacquant",
+                    "year": "2007",
+                    "journal-title": "Thesis Eleven"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1317",
+                    "DOI": "10.1068/a45635",
+                    "article-title": "Challenging the rhetoric of stigmatization: the benefits of concentrated poverty in Toronto\u2019s Regent Park",
+                    "volume": "46",
+                    "author": "August",
+                    "year": "2014",
+                    "journal-title": "Environ Plan A"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1281",
+                    "DOI": "10.1068/a45636",
+                    "article-title": "The cites strike back: restive responses to territorial taint in the French banlieues",
+                    "volume": "46",
+                    "author": "Kirkness",
+                    "year": "2014",
+                    "journal-title": "Environ Plan A"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "684",
+                    "DOI": "10.1080/01419870.2011.591406",
+                    "article-title": "Stigmatization, space, and boundaries in de-industrial Burnley",
+                    "volume": "35",
+                    "author": "Rhodes",
+                    "year": "2012",
+                    "journal-title": "Ethn Racial Stud"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.healthplace.2015.12.001",
+                    "article-title": "\u2018It\u2019s not that bad\u2019: stigma, health, and place in a post-industrial community",
+                    "volume": "38",
+                    "author": "Thomas",
+                    "year": "2016",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "121",
+                    "DOI": "10.1177/000169939603900201",
+                    "article-title": "The rise of advanced marginality: notes on its nature and implications",
+                    "volume": "39",
+                    "author": "Wacquant",
+                    "year": "1996",
+                    "journal-title": "Acta Sociol"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "578",
+                    "DOI": "10.1111/1467-954X.12423",
+                    "article-title": "Place revisited: class, stigma and urban restructuring in the case of Glasgow\u2019s Commonwealth Games",
+                    "volume": "65",
+                    "author": "Paton",
+                    "year": "2017",
+                    "journal-title": "Sociol Rev"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1351",
+                    "DOI": "10.1068/a45634",
+                    "article-title": "Activating territorial stigma: gentrifying marginality on Edinburgh\u2019s periphery",
+                    "volume": "46",
+                    "author": "Kallin",
+                    "year": "2014",
+                    "journal-title": "Environ Plan A"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1921",
+                    "DOI": "10.1016/j.socscimed.2012.07.033",
+                    "article-title": "The \u2018blemish of place\u2019: stigma, geography and health inequalities. A commentary on Tabuchi, Fukuhara & Iso",
+                    "volume": "75",
+                    "author": "Pearce",
+                    "year": "2012",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "46",
+                    "DOI": "10.1080/14036096.2012.683294",
+                    "article-title": "\u2018Welfare ghettos\u2019 and the \u2018broken society\u2019: territorial stigmatization in the contemporary UK",
+                    "volume": "30",
+                    "author": "Hancock",
+                    "year": "2013",
+                    "journal-title": "Hous Theory Soc"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C12",
+                    "author": "Tyler",
+                    "year": "2013",
+                    "volume-title": "Revolting Subjects: Social Abjection and Resistance in Neoliberal Britain"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "369",
+                    "DOI": "10.1080/09687599.2011.560420",
+                    "article-title": "\u2018The language of shirkers and scroungers?\u2019 Talking about illness, disability and coalition welfare reform",
+                    "volume": "26",
+                    "author": "Garthwaite",
+                    "year": "2011",
+                    "journal-title": "Disabil Soc"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "15",
+                    "DOI": "10.1016/1353-8292(95)00003-5",
+                    "article-title": "Health and perceptions of the local environment in socially contrasting neighbourhoods in Glasgow",
+                    "volume": "1",
+                    "author": "Sooman",
+                    "year": "1995",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "125",
+                    "DOI": "10.1016/S0277-9536(01)00214-3",
+                    "article-title": "Place effects on health: how can we conceptualise, operationalise and measure them?",
+                    "volume": "55",
+                    "author": "Macintyre",
+                    "year": "2002",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "87",
+                    "DOI": "10.1136/jech-2011-200415",
+                    "article-title": "The psychosocial pathway to mental well-being at the local level: investigating the effects of perceived relative position in a deprived area context",
+                    "volume": "67",
+                    "author": "Kearns",
+                    "year": "2013",
+                    "journal-title": "J Epidemiol Commun Health"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "579",
+                    "DOI": "10.1080/02673037.2013.759546",
+                    "article-title": "Notorious places: image, reputation, stigma. The role of newspapers in area reputations for social housing estates",
+                    "volume": "28",
+                    "author": "Kearns",
+                    "year": "2013",
+                    "journal-title": "Hous Stud"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "392",
+                    "DOI": "10.1080/09581596.2013.873532",
+                    "article-title": "Spatial stigma and health inequality",
+                    "volume": "24",
+                    "author": "Keene",
+                    "year": "2014",
+                    "journal-title": "Crit Public Health"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "556",
+                    "DOI": "10.1111/maq.12124",
+                    "article-title": "Stigmatized neighborhoods, social bonding, and health",
+                    "volume": "28",
+                    "author": "Wutich",
+                    "year": "2014",
+                    "journal-title": "Med Anthropol Q"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "381",
+                    "DOI": "10.1016/j.healthplace.2009.11.010",
+                    "article-title": "Living in \u2018Birdsville\u2019: exploring the impact of neighbourhood stigma on health",
+                    "volume": "16",
+                    "author": "Kelaher",
+                    "year": "2010",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "591",
+                    "DOI": "10.1002/jcop.20383",
+                    "article-title": "Does the perceived neighborhood reputation contribute to neighborhood differences in social trust and residential wellbeing?",
+                    "volume": "38",
+                    "author": "Kullberg",
+                    "year": "2010",
+                    "journal-title": "J Community Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1015",
+                    "DOI": "10.1016/j.socscimed.2012.04.030",
+                    "article-title": "Geographically-based discrimination is a social determinant of mental health in a deprived or stigmatized area in Japan: a cross-sectional study",
+                    "volume": "75",
+                    "author": "Tabuchi",
+                    "year": "2012",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1002/casp.2184",
+                    "article-title": "Stigmatised identity and service usage in disadvantaged communities: residents\u2019, community workers\u2019 and service providers\u2019 perspectives",
+                    "volume": "24",
+                    "author": "Stevenson",
+                    "year": "2014",
+                    "journal-title": "J Community Appl Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "268",
+                    "DOI": "10.1016/j.socscimed.2017.05.021",
+                    "article-title": "\u2018How the other half live\u2019: lay perspectives on health inequalities in an age of austerity",
+                    "volume": "187",
+                    "author": "Garthwaite",
+                    "year": "2017",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1216",
+                    "DOI": "10.1016/j.healthplace.2010.08.006",
+                    "article-title": "Race, class and the stigma of place: moving to \u2018opportunity\u2019 in Eastern Iowa",
+                    "volume": "16",
+                    "author": "Keene",
+                    "year": "2010",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "169",
+                    "DOI": "10.1016/j.healthplace.2016.06.005",
+                    "article-title": "Navigating identity, territorial stigma, and HIV care services in Vancouver, Canada: a qualitative study",
+                    "volume": "40",
+                    "author": "Collins",
+                    "year": "2016",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "239",
+                    "DOI": "10.1080/08111146.2011.591285",
+                    "article-title": "Perceptions of neighbourhood disorder and reputation: qualitative findings from two contrasting areas of an Australian city",
+                    "volume": "29",
+                    "author": "Osborne",
+                    "year": "2011",
+                    "journal-title": "Urban Policy Res"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "411",
+                    "DOI": "10.1080/0811114042000296326",
+                    "article-title": "Challenging the stigma of public housing: preliminary findings from a qualitative study in South Australia",
+                    "volume": "22",
+                    "author": "Palmer",
+                    "year": "2004",
+                    "journal-title": "Urban Policy Res"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "393",
+                    "DOI": "10.1002/ejsp.1953",
+                    "article-title": "Community identity as resource and context: a mixed method investigation of coping and collective action in a disadvantaged community",
+                    "volume": "43",
+                    "author": "McNamara",
+                    "year": "2013",
+                    "journal-title": "Eur J Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "763",
+                    "DOI": "10.1177/0042098013492230",
+                    "article-title": "Does poor neighbourhood reputation create a neighbourhood effect on employment? The results of a field experiment in the UK",
+                    "volume": "51",
+                    "author": "Tunstall",
+                    "year": "2014",
+                    "journal-title": "Urban Stud"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C31",
+                    "author": "Public Health England",
+                    "year": "2017",
+                    "volume-title": "Psychosocial Pathways and Health Outcomes: Informing Action on Health Inequalities"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "55",
+                    "DOI": "10.1016/S0277-9536(02)00299-X",
+                    "article-title": "A proper place to live: health inequalities, agency and the normative dimensions of space",
+                    "volume": "57",
+                    "author": "Popay",
+                    "year": "2003",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C33",
+                    "author": "Marriott",
+                    "year": "2011",
+                    "volume-title": "Beyond the Tower: A History of East London"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C34",
+                    "author": "Roberts",
+                    "year": "1971",
+                    "volume-title": "Salford Life in the First Quarter of the Century"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C35",
+                    "first-page": "668",
+                    "article-title": "Public health implications of 4 decades of neoliberal policy: a qualitative case study from post-industrial west central Scotland",
+                    "volume": "39",
+                    "author": "Garnham",
+                    "year": "2017",
+                    "journal-title": "J Public Health (Bangkok)"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "47",
+                    "DOI": "10.1016/S1353-8292(00)00037-X",
+                    "article-title": "\u2018Even the birds round here cough\u2019: stigma, air pollution and health in Teesside",
+                    "volume": "7",
+                    "author": "Bush",
+                    "year": "2001",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C37",
+                    "author": "Public Health England",
+                    "year": "2015",
+                    "volume-title": "A Guide to Community-Centred Approaches for Health and Wellbeing"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "i57",
+                    "DOI": "10.1093/pubmed/fdx147",
+                    "article-title": "A knowledge translation project on community-centred approaches in public health",
+                    "volume": "40",
+                    "author": "Stansfield",
+                    "year": "2018",
+                    "journal-title": "J Public Health (Bangkok)"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "j2966",
+                    "DOI": "10.1136/bmj.j2966",
+                    "article-title": "Grenfell Tower fire: Why we cannot ignore the political determinants of health",
+                    "volume": "357",
+                    "author": "McKee",
+                    "year": "2017",
+                    "journal-title": "Br Med J"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "508",
+                    "DOI": "10.1111/j.1475-4762.2007.00768.x",
+                    "article-title": "Moralising geographies: stigma, smoking islands and responsible subjects",
+                    "volume": "39",
+                    "author": "Thompson",
+                    "year": "2007",
+                    "journal-title": "Area"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "146",
+                    "DOI": "10.1111/1467-9566.12629",
+                    "article-title": "Understanding lay perspectives on socioeconomic health inequalities in Britain: a meta\u2010ethnography",
+                    "volume": "40",
+                    "author": "Smith",
+                    "year": "2018",
+                    "journal-title": "Sociol Health Illn"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C42",
+                    "author": "Royal Society for Public Health",
+                    "year": "2016"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C43",
+                    "author": "Daily Mail"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C44",
+                    "author": "BBC"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "227",
+                    "DOI": "10.1111/j.1740-8709.2005.00022.x",
+                    "article-title": "Low\u2010income mothers, nutrition and health: a systematic review of qualitative evidence",
+                    "volume": "1",
+                    "author": "Attree",
+                    "year": "2005",
+                    "journal-title": "Matern Child Nutr"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "251",
+                    "DOI": "10.1016/j.appet.2006.11.004",
+                    "article-title": "Neighbourhood fast food environment and area deprivation\u2014substitution or concentration?",
+                    "volume": "49",
+                    "author": "Macdonald",
+                    "year": "2007",
+                    "journal-title": "Appetite"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C47",
+                    "author": "Fox"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "537",
+                    "DOI": "10.1177/1474474018762811",
+                    "article-title": "Light, connectivity and place: young people living in a post-industrial town",
+                    "volume": "25",
+                    "author": "Thomas",
+                    "year": "2018",
+                    "journal-title": "Cult Geogr"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C49"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C50"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C51",
+                    "first-page": "77",
+                    "article-title": "Poor places, powerful people? Co-producing cultural counter-representations of place",
+                    "volume": "3",
+                    "author": "Byrne",
+                    "year": "2016",
+                    "journal-title": "Vis Methodol"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "813",
+                    "DOI": "10.2105/AJPH.2012.301069",
+                    "article-title": "Stigma as a fundamental cause of population health inequalities",
+                    "volume": "103",
+                    "author": "Hatzenbuehler",
+                    "year": "2013",
+                    "journal-title": "Am J Public Health"
+                },
+                {
+                    "key": "key\n\t\t\t\t2019012511132808200_fdy214C53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "441",
+                    "DOI": "10.1111/j.1467-9566.2009.01161.x",
+                    "article-title": "Health-related stigma",
+                    "volume": "31",
+                    "author": "Scambler",
+                    "year": "2009",
+                    "journal-title": "Sociol Health Illn"
+                }
+            ],
+            "container-title": "Journal of Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/jpubhealth/advance-article-pdf/doi/10.1093/pubmed/fdy214/27203843/fdy214.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T13:25:34Z",
+                "timestamp": 1589981134000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        20
+                    ]
+                ]
+            },
+            "references-count": 53,
+            "URL": "http://dx.doi.org/10.1093/pubmed/fdy214",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1741-3842",
+                "1741-3850"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "General Medicine"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "communities",
+                        "health inequalities",
+                        "place-based stigma",
+                        "spatial stigma"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30576532",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "07",
+                    "Day": "03"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1093/pubmed/fdy214"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1741-3850",
+                        "JournalIssue": {
+                            "Volume": "42",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "02",
+                                "Day": "28"
+                            }
+                        },
+                        "Title": "Journal of public health (Oxford, England)",
+                        "ISOAbbreviation": "J Public Health (Oxf)"
+                    },
+                    "ArticleTitle": "The elephant in the room? Why spatial stigma does not receive the public health attention it deserves.",
+                    "Pagination": {
+                        "MedlinePgn": "38-43"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "In the context of health inequalities, spatial stigma refers to the ways that areas experiencing socioeconomic inequalities become negatively portrayed and labelled in public, official and policy discourses. With respect to the body of research on social determinants of health and health inequalities, and attention accorded to this issue in policy or practice, spatial stigma remains significantly under-represented compared with other possible causal factors. We suggest three explanations contributing to this neglect. First, the lack of research into spatial stigma originates from a more limited public health focus on the symbolic meanings of places for health, compared to their physical and social dimensions. Second, lay involvement and evidence of lived experiences of health inequalities continues to be under-represented in public health decision-making. Finally, it is the case that public health organizations may also be contributing to negative area portrayals in their communications of health inequalities. There are growing examples of social action being taken by groups of residents to resist this stigma through the promotion of more positive portrayals of areas and communities. Greater public health attention to this issue as well is likely to result in health gains and aid the development of more effective health inequalities strategies."
+                        ],
+                        "CopyrightInformation": "\u00a9 The Author(s) 2018. Published by Oxford University Press on behalf of Faculty of Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Halliday",
+                            "ForeName": "Emma",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Popay",
+                            "ForeName": "Jennie",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Anderson de Cuevas",
+                            "ForeName": "Rachel",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wheeler",
+                            "ForeName": "Paula",
+                            "Initials": "P"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "PHR/16/09/13",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Public Health (Oxf)",
+                    "NlmUniqueID": "101188638",
+                    "ISSNLinking": "1741-3842"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "06",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "07",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "26"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30576532",
+                    "5253783",
+                    "10.1093/pubmed/fdy214"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30576532)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830576532%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830576532%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080027179"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080027179?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85080027179&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85080027179&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85080027179",
+                        "dc:identifier": "SCOPUS_ID:85080027179",
+                        "eid": "2-s2.0-85080027179",
+                        "dc:title": "The elephant in the room? Why spatial stigma does not receive the public health attention it deserves",
+                        "dc:creator": "Halliday E.",
+                        "prism:publicationName": "Journal of Public Health (United Kingdom)",
+                        "prism:issn": "17413842",
+                        "prism:eIssn": "17413850",
+                        "prism:volume": "42",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "38-43",
+                        "prism:coverDate": "2020-03-01",
+                        "prism:coverDisplayDate": "1 March 2020",
+                        "prism:doi": "10.1093/pubmed/fdy214",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "The Division of Health Research, Lancaster University",
+                                "affiliation-city": "Lancaster",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30576532",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "12252",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "3TCY8UIC.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30576532"
+            }
+        },
+        "title": "The elephant in the room? Why spatial stigma does not receive the public health attention it deserves.",
+        "full_author_list": [
+            {
+                "clean": "Halliday E",
+                "family": "Halliday",
+                "given": "Emma",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Popay J",
+                "family": "Popay",
+                "given": "Jennie",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Anderson de Cuevas R",
+                "family": "Anderson de Cuevas",
+                "given": "Rachel",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wheeler P",
+                "family": "Wheeler",
+                "given": "Paula",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            }
+        ],
+        "first_author": "Halliday E",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Public Health (Oxf)",
+            "volume": "42",
+            "issue": "1"
+        },
+        "abstract": "['In the context of health inequalities, spatial stigma refers to the ways that areas experiencing socioeconomic inequalities become negatively portrayed and labelled in public, official and policy discourses. With respect to the body of research on social determinants of health and health inequalities, and attention accorded to this issue in policy or practice, spatial stigma remains significantly under-represented compared with other possible causal factors. We suggest three explanations contributing to this neglect. First, the lack of research into spatial stigma originates from a more limited public health focus on the symbolic meanings of places for health, compared to their physical and social dimensions. Second, lay involvement and evidence of lived experiences of health inequalities continues to be under-represented in public health decision-making. Finally, it is the case that public health organizations may also be contributing to negative area portrayals in their communications of health inequalities. There are growing examples of social action being taken by groups of residents to resist this stigma through the promotion of more positive portrayals of areas and communities. Greater public health attention to this issue as well is likely to result in health gains and aid the development of more effective health inequalities strategies.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK.",
+            "clean_institute": "University of Lancaster",
+            "latitude": "54.0106601",
+            "longitude": "-2.788237",
+            "country": "United Kingdom",
+            "postal_town": "Lancaster"
+        }
+    }
+}

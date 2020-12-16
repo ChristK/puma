@@ -1,0 +1,755 @@
+{
+    "IDs": {
+        "zotero": "JI8N9W3Y",
+        "DOI": "10.1080/13632752.2018.1530497",
+        "DOI_filename": "aeab51fa57b08d807eb59b61c8d28c03",
+        "PMID": "",
+        "scopus": "2-s2.0-85054901858",
+        "hash": "a076511a3b7558f78132d6e0cf2635f5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JI8N9W3Y",
+            "version": 86,
+            "itemType": "journalArticle",
+            "title": "Cyberbullying victimisation and mental distress: testing the moderating role of attachment security, social support, and coping styles",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanne D.",
+                    "lastName": "Worsley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Emotional and Behavioural Difficulties",
+            "volume": "24",
+            "issue": "1",
+            "pages": "20-35",
+            "date": "2019-01-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Emotional and Behavioural Difficulties",
+            "language": "en",
+            "DOI": "10.1080/13632752.2018.1530497",
+            "ISSN": "1363-2752, 1741-2692",
+            "shortTitle": "Cyberbullying victimisation and mental distress",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/13632752.2018.1530497",
+            "accessDate": "2020-09-10T17:08:45Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:45Z",
+            "dateModified": "2020-09-10T17:08:45Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        6
+                    ]
+                ],
+                "date-time": "2020-04-06T17:44:08Z",
+                "timestamp": 1586195048093
+            },
+            "reference-count": 67,
+            "publisher": "Informa UK Limited",
+            "issue": "1",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/13632752.2018.1530497",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        12
+                    ]
+                ],
+                "date-time": "2018-10-12T07:51:39Z",
+                "timestamp": 1539330699000
+            },
+            "page": "20-35",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Cyberbullying victimisation and mental distress: testing the moderating role of attachment security, social support, and coping styles",
+            "prefix": "10.1080",
+            "volume": "24",
+            "author": [
+                {
+                    "given": "Joanne D.",
+                    "family": "Worsley",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-5601-524X",
+                    "authenticated-orcid": false,
+                    "given": "Jason C.",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Natural Sciences and Psychology, Liverpool John Moores University, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8900-9199",
+                    "authenticated-orcid": false,
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        12
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1016/j.jadohealth.2015.04.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1037/0022-3514.51.6.1173",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.1108/17504971111142637",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1037/0022-3514.61.2.226",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "author": "Beck A. T.",
+                    "year": "1976",
+                    "volume-title": "Cognitive Therapy and the Emotional Disorders"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1111/j.1469-7610.2010.02216.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "author": "Bowlby J.",
+                    "year": "1973",
+                    "volume-title": "Attachment and Loss: Vol. 2. Separation"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1001/jamapediatrics.2014.1627",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1007/s10610-015-9292-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1080/13632752.2012.704316",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1023/A:1005109522457",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1016/j.jad.2014.07.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1016/j.chiabu.2013.01.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1037/0033-2909.98.2.310",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1001/jamapsychiatry.2013.504",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "CIT0016",
+                    "first-page": "383",
+                    "volume": "36",
+                    "author": "Davidson L. M.",
+                    "year": "2007",
+                    "journal-title": "School Psychology Review"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1001/jamapediatrics.2014.1223",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1016/j.jadohealth.2016.06.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1007/s10964-016-0541-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1002/ab.90014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1007/s10964-016-0436-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1016/j.paid.2006.04.010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.1016/j.adolescence.2014.07.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1016/S0191-8869(00)00113-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1542/peds.2013-0614",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1037/0022-3514.67.3.430",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "author": "Hinduja S.",
+                    "year": "2014",
+                    "volume-title": "Cyberbullying: Identification, Prevention, & Response"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1007/s10964-006-9153-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1111/j.1746-1561.2008.00335.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "DOI": "10.1037/0012-1649.38.2.267",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1080/15388220.2013.766134",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1111/pere.12126",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "DOI": "10.1037/1040-3590.14.1.74",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0034",
+                    "author": "Lazarus R. S.",
+                    "year": "1984",
+                    "volume-title": "Stress, Appraisal, and Coping"
+                },
+                {
+                    "key": "CIT0035",
+                    "DOI": "10.1111/jcpp.12197",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1080/13632752.2012.704310",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "DOI": "10.1037//0022-0006X.64.2.264",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1016/j.talanta.2008.05.041",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "author": "McGuckin C.",
+                    "first-page": "121",
+                    "year": "2013",
+                    "volume-title": "Cyberbullying through the New Media: Findings from an International Network"
+                },
+                {
+                    "key": "CIT0040",
+                    "author": "Mikulincer M.",
+                    "year": "2007",
+                    "volume-title": "Attachment in Adulthood: Structure, Dynamics, and Change"
+                },
+                {
+                    "key": "CIT0041",
+                    "DOI": "10.1080/02643944.2011.626069",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "DOI": "10.1016/j.chb.2012.10.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0043",
+                    "author": "Olweus D.",
+                    "first-page": "7",
+                    "year": "1999",
+                    "volume-title": "The Nature of School Bullying. A Cross-National Perspective"
+                },
+                {
+                    "key": "CIT0044",
+                    "DOI": "10.1146/annurev-clinpsy-050212-185516",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0045",
+                    "DOI": "10.1057/978-1-137-41291-1_30",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0047",
+                    "DOI": "10.1002/pits.20589",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0048",
+                    "DOI": "10.1016/j.jpsychores.2009.08.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0049",
+                    "DOI": "10.1177/0265407595123004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0050",
+                    "DOI": "10.1016/j.jadohealth.2015.09.026",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0051",
+                    "DOI": "10.1111/j.1467-9450.2007.00611.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0052",
+                    "DOI": "10.1016/j.chb.2012.05.024",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0053",
+                    "DOI": "10.7458/SPP2012702332",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0054",
+                    "author": "Smith P. K.",
+                    "first-page": "26",
+                    "year": "2013",
+                    "volume-title": "Principles of Cyberbullying Research: Definitions, Measures and Methods"
+                },
+                {
+                    "key": "CIT0055",
+                    "DOI": "10.1111/j.1469-7610.2007.01846.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0056",
+                    "DOI": "10.1177/14614440222226271",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0057",
+                    "author": "Steinberg L.",
+                    "year": "2005",
+                    "volume-title": "Adolescence"
+                },
+                {
+                    "key": "CIT0058",
+                    "DOI": "10.1037/0021-843X.113.1.155",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0059",
+                    "DOI": "10.1089/1094931041291295",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0060",
+                    "DOI": "10.1016/j.chb.2015.04.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0061",
+                    "DOI": "10.1016/j.chb.2009.11.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0062",
+                    "DOI": "10.1093/schbul/sbs050",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0063",
+                    "DOI": "10.1002/jocc.12055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0064",
+                    "DOI": "10.1192/bjp.175.5.452",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0065",
+                    "DOI": "10.1016/j.psychres.2018.05.023",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0066",
+                    "DOI": "10.1016/j.psychres.2017.06.037",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0067",
+                    "DOI": "10.1111/j.1600-0447.1983.tb09716.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0068",
+                    "DOI": "10.1207/s15327752jpa5201_2",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Emotional and Behavioural Difficulties",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/13632752.2018.1530497",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        25
+                    ]
+                ],
+                "date-time": "2019-03-25T11:34:49Z",
+                "timestamp": 1553513689000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 67,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            11
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1080/13632752.2018.1530497"
+            ],
+            "URL": "http://dx.doi.org/10.1080/13632752.2018.1530497",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1363-2752",
+                "1741-2692"
+            ],
+            "subject": [
+                "Developmental and Educational Psychology",
+                "Clinical Psychology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Emotional and Behavioural Difficulties",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rebd20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rebd20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2018-10-12",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1080/13632752.2018.1530497)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F13632752.2018.1530497%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F13632752.2018.1530497%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054901858"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054901858?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054901858&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054901858&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054901858",
+                        "dc:identifier": "SCOPUS_ID:85054901858",
+                        "eid": "2-s2.0-85054901858",
+                        "dc:title": "Cyberbullying victimisation and mental distress: testing the moderating role of attachment security, social support, and coping styles",
+                        "dc:creator": "Worsley J.",
+                        "prism:publicationName": "Emotional and Behavioural Difficulties",
+                        "prism:issn": "13632752",
+                        "prism:eIssn": "17412692",
+                        "prism:volume": "24",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "20-35",
+                        "prism:coverDate": "2019-01-02",
+                        "prism:coverDisplayDate": "2 January 2019",
+                        "prism:doi": "10.1080/13632752.2018.1530497",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "22041",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JI8N9W3Y.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Cyberbullying victimisation and mental distress: testing the moderating role of attachment security, social support, and coping styles",
+        "full_author_list": [
+            {
+                "clean": "Worsley J",
+                "family": "Worsley",
+                "given": "Joanne D.",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, UK"
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C.",
+                "affiliation": {
+                    "name": "Department of Natural Sciences and Psychology, Liverpool John Moores University, UK"
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, UK"
+                }
+            }
+        ],
+        "first_author": "Worsley J",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Emotional and Behavioural Difficulties",
+            "volume": "24",
+            "issue": "1"
+        },
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Psychological Sciences, University of Liverpool, Liverpool, UK",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

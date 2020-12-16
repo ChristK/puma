@@ -1,0 +1,762 @@
+{
+    "IDs": {
+        "zotero": "MJHSBVSM",
+        "DOI": "10.1177/0004867415591827",
+        "DOI_filename": "2b844d555a0d51aa4a1d35a6d02d4840",
+        "PMID": "26113744",
+        "scopus": "2-s2.0-84964467884",
+        "hash": "e559c3a929b804de1ea45571a394b37e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "MJHSBVSM",
+            "version": 171,
+            "itemType": "journalArticle",
+            "title": "Digital inclusion: The concept and strategies for people with mental health difficulties",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Saeed",
+                    "lastName": "Farooq"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher DJ",
+                    "lastName": "Taylor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nadeem",
+                    "lastName": "Gire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Myfanwy",
+                    "lastName": "Riley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Neil",
+                    "lastName": "Caton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nusrat",
+                    "lastName": "Husain"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Australian & New Zealand Journal of Psychiatry",
+            "volume": "49",
+            "issue": "9",
+            "pages": "772-773",
+            "date": "09/2015",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Aust N Z J Psychiatry",
+            "language": "en",
+            "DOI": "10.1177/0004867415591827",
+            "ISSN": "0004-8674, 1440-1614",
+            "shortTitle": "Digital inclusion",
+            "url": "http://journals.sagepub.com/doi/10.1177/0004867415591827",
+            "accessDate": "2020-09-10T17:08:37Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 26113744",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:37Z",
+            "dateModified": "2020-09-15T14:16:46Z",
+            "pmid": "26113744"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        15
+                    ]
+                ],
+                "date-time": "2020-09-15T05:45:23Z",
+                "timestamp": 1600148723302
+            },
+            "reference-count": 3,
+            "publisher": "SAGE Publications",
+            "issue": "9",
+            "license": [
+                {
+                    "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2015,
+                                6,
+                                25
+                            ]
+                        ],
+                        "date-time": "2015-06-25T00:00:00Z",
+                        "timestamp": 1435190400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "journals.sagepub.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2015,
+                        9
+                    ]
+                ]
+            },
+            "DOI": "10.1177/0004867415591827",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2015,
+                        6,
+                        25
+                    ]
+                ],
+                "date-time": "2015-06-25T21:41:12Z",
+                "timestamp": 1435268472000
+            },
+            "page": "772-773",
+            "update-policy": "http://dx.doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Digital inclusion: The concept and strategies for people with mental health difficulties",
+            "prefix": "10.1177",
+            "volume": "49",
+            "author": [
+                {
+                    "given": "Saeed",
+                    "family": "Farooq",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Black Country NHS Foundation Trust, West Midlands, UK"
+                        },
+                        {
+                            "name": "Staffordshire University, Staffordshire, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Christopher DJ",
+                    "family": "Taylor",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Lancashire Care NHS Foundation Trust, Accrington, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Nadeem",
+                    "family": "Gire",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Research and Development, Lancashire Care NHS Foundation Trust, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Myfanwy",
+                    "family": "Riley",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Lancashire Care NHS Foundation Trust, Blackpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Neil",
+                    "family": "Caton",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Lancashire Care NHS Foundation Trust, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Nusrat",
+                    "family": "Husain",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Manchester Academic Health Science Centre, The University of Manchester, Manchester, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "179",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2015,
+                        6,
+                        25
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "bibr2-0004867415591827",
+                    "DOI": "10.1176/ps.2009.60.9.1265",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr3-0004867415591827",
+                    "DOI": "10.1017/CBO9781139164887",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr5-0004867415591827",
+                    "DOI": "10.1177/0020764011431792",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Australian & New Zealand Journal of Psychiatry",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/0004867415591827",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/0004867415591827",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/0004867415591827",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2019-02-14T03:34:20Z",
+                "timestamp": 1550115260000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        6,
+                        25
+                    ]
+                ]
+            },
+            "references-count": 3,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2015,
+                            7,
+                            24
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2015,
+                            9
+                        ]
+                    ]
+                },
+                "issue": "9"
+            },
+            "alternative-id": [
+                "10.1177/0004867415591827"
+            ],
+            "URL": "http://dx.doi.org/10.1177/0004867415591827",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0004-8674",
+                "1440-1614"
+            ],
+            "container-title-short": "Aust N Z J Psychiatry"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "26113744",
+                "DateCompleted": {
+                    "Year": "2016",
+                    "Month": "05",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "10",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1177/0004867415591827"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2015",
+                            "Month": "06",
+                            "Day": "25"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1440-1614",
+                        "JournalIssue": {
+                            "Volume": "49",
+                            "Issue": "9",
+                            "PubDate": {
+                                "Year": "2015",
+                                "Month": "Sep"
+                            }
+                        },
+                        "Title": "The Australian and New Zealand journal of psychiatry",
+                        "ISOAbbreviation": "Aust N Z J Psychiatry"
+                    },
+                    "ArticleTitle": "Digital inclusion: The concept and strategies for people with mental health difficulties.",
+                    "Pagination": {
+                        "MedlinePgn": "772-3"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Black Country NHS Foundation Trust, West Midlands, UK Staffordshire University, Staffordshire, UK sfarooqlrh@yahoo.com."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Farooq",
+                            "ForeName": "Saeed",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire Care NHS Foundation Trust, Accrington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Taylor",
+                            "ForeName": "Christopher D J",
+                            "Initials": "CD"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research and Development, Lancashire Care NHS Foundation Trust, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gire",
+                            "ForeName": "Nadeem",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire Care NHS Foundation Trust, Blackpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Riley",
+                            "ForeName": "Myfanwy",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire Care NHS Foundation Trust, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Caton",
+                            "ForeName": "Neil",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Manchester Academic Health Science Centre, The University of Manchester, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Husain",
+                            "ForeName": "Nusrat",
+                            "Initials": "N"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "DRF-2012-05-211",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Aust N Z J Psychiatry",
+                    "NlmUniqueID": "0111052",
+                    "ISSNLinking": "0004-8674"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Digital Divide",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Education",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Employment",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Internet",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Smartphone",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Determinants of Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Marginalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Support",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2015",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2015",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "5",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "26113744",
+                    "0004867415591827",
+                    "10.1177/0004867415591827"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(26113744)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2826113744%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2826113744%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964467884"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964467884?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84964467884&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84964467884&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84964467884",
+                        "dc:identifier": "SCOPUS_ID:84964467884",
+                        "eid": "2-s2.0-84964467884",
+                        "dc:title": "Digital inclusion: The concept and strategies for people with mental health difficulties",
+                        "dc:creator": "Farooq S.",
+                        "prism:publicationName": "Australian and New Zealand Journal of Psychiatry",
+                        "prism:issn": "00048674",
+                        "prism:eIssn": "14401614",
+                        "prism:volume": "49",
+                        "prism:issueIdentifier": "9",
+                        "prism:pageRange": "772-773",
+                        "prism:coverDate": "2015-09-01",
+                        "prism:coverDisplayDate": "September 2015",
+                        "prism:doi": "10.1177/0004867415591827",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Black Country Healthcare NHS Foundation Trust",
+                                "affiliation-city": "West Bromwich",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Staffordshire University",
+                                "affiliation-city": "Stoke-on-Trent",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "26113744",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "sh",
+                        "subtypeDescription": "Short Survey",
+                        "source-id": "14250",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "MJHSBVSM.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "26113744"
+            }
+        },
+        "title": "Digital inclusion: The concept and strategies for people with mental health difficulties.",
+        "full_author_list": [
+            {
+                "clean": "Farooq S",
+                "family": "Farooq",
+                "given": "Saeed",
+                "affiliation": {
+                    "name": "Black Country NHS Foundation Trust, West Midlands, UK Staffordshire University, Staffordshire, UK sfarooqlrh@yahoo.com."
+                }
+            },
+            {
+                "clean": "Taylor C",
+                "family": "Taylor",
+                "given": "Christopher D J",
+                "affiliation": {
+                    "name": "Lancashire Care NHS Foundation Trust, Accrington, UK."
+                }
+            },
+            {
+                "clean": "Gire N",
+                "family": "Gire",
+                "given": "Nadeem",
+                "affiliation": {
+                    "name": "Research and Development, Lancashire Care NHS Foundation Trust, Preston, UK."
+                }
+            },
+            {
+                "clean": "Riley M",
+                "family": "Riley",
+                "given": "Myfanwy",
+                "affiliation": {
+                    "name": "Lancashire Care NHS Foundation Trust, Blackpool, UK."
+                }
+            },
+            {
+                "clean": "Caton N",
+                "family": "Caton",
+                "given": "Neil",
+                "affiliation": {
+                    "name": "Lancashire Care NHS Foundation Trust, UK."
+                }
+            },
+            {
+                "clean": "Husain N",
+                "family": "Husain",
+                "given": "Nusrat",
+                "affiliation": {
+                    "name": "Manchester Academic Health Science Centre, The University of Manchester, Manchester, UK."
+                }
+            }
+        ],
+        "first_author": "Farooq S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Digital Divide",
+                    "major": "Y"
+                },
+                {
+                    "term": "Education",
+                    "major": "N"
+                },
+                {
+                    "term": "Employment",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Internet",
+                    "major": "Y"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Smartphone",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Determinants of Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Marginalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Support",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Aust N Z J Psychiatry",
+            "volume": "49",
+            "issue": "9"
+        },
+        "clean_date": {
+            "year": "2015"
+        },
+        "year_published": "2015",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Black Country NHS Foundation Trust, West Midlands, UK Staffordshire University, Staffordshire, UK sfarooqlrh@yahoo.com.",
+            "clean_institute": "Black Country Healthcare NHS Foundation Trust",
+            "country": "United Kingdom"
+        }
+    }
+}

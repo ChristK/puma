@@ -1,0 +1,1041 @@
+{
+    "IDs": {
+        "zotero": "295VGSZ6",
+        "DOI": "10.1111/epi.14697",
+        "DOI_filename": "7245ff8b9c9252e77f536c9436483927",
+        "PMID": "30900756",
+        "scopus": "2-s2.0-85063768951",
+        "hash": "26b352d4f8b20aa69695626e11cb6e61"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "295VGSZ6",
+            "version": 108,
+            "itemType": "journalArticle",
+            "title": "Identifying patients who will not reachieve remission after breakthrough seizures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "David M.",
+                    "lastName": "Hughes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura J.",
+                    "lastName": "Bonnett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G.",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marta",
+                    "lastName": "Garc\u00eda\u2010Fi\u00f1ana"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Epilepsia",
+            "volume": "60",
+            "issue": "4",
+            "pages": "774-782",
+            "date": "04/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Epilepsia",
+            "language": "en",
+            "DOI": "10.1111/epi.14697",
+            "ISSN": "0013-9580, 1528-1167",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/epi.14697",
+            "accessDate": "2020-09-10T17:09:31Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30900756",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/W4GHGU36"
+            },
+            "dateAdded": "2020-09-10T17:09:31Z",
+            "dateModified": "2020-09-11T13:12:29Z",
+            "pmid": "30900756"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        28
+                    ]
+                ],
+                "date-time": "2020-05-28T14:51:06Z",
+                "timestamp": 1590677466699
+            },
+            "reference-count": 23,
+            "publisher": "Wiley",
+            "issue": "4",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                3,
+                                22
+                            ]
+                        ],
+                        "date-time": "2019-03-22T00:00:00Z",
+                        "timestamp": 1553212800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                3,
+                                22
+                            ]
+                        ],
+                        "date-time": "2019-03-22T00:00:00Z",
+                        "timestamp": 1553212800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000266",
+                    "name": "Engineering and Physical Sciences Research Council",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "EP/N014499/1"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "NIHR CLAHRC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1111/epi.14697",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        22
+                    ]
+                ],
+                "date-time": "2019-03-22T09:21:34Z",
+                "timestamp": 1553246494000
+            },
+            "page": "774-782",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Identifying patients who will not reachieve remission after breakthrough seizures",
+            "prefix": "10.1111",
+            "volume": "60",
+            "author": [
+                {
+                    "given": "David M.",
+                    "family": "Hughes",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of BiostatisticsInstitute of Translational MedicineUniversity of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Laura J.",
+                    "family": "Bonnett",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of BiostatisticsInstitute of Translational MedicineUniversity of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G.",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical PharmacologyInstitute of Translational MedicineUniversity of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trustmembers of Liverpool Health Partners Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Marta",
+                    "family": "Garc\u00eda\u2010Fi\u00f1ana",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of BiostatisticsInstitute of Translational MedicineUniversity of Liverpool Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        22
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_9_2_1",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_3_1",
+                    "author": "Bourgeois BF",
+                    "year": "2007",
+                    "volume-title": "Pediatric epilepsy: diagnosis and therapy"
+                },
+                {
+                    "key": "e_1_2_9_4_1",
+                    "DOI": "10.1212/WNL.0b013e3182563b19",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_5_1",
+                    "DOI": "10.1136/bmjopen-2017-015868",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_6_1",
+                    "DOI": "10.1371/journal.pone.0190035",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_7_1",
+                    "DOI": "10.1001/archneurol.2009.211",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_8_1",
+                    "DOI": "10.1186/1471-2377-13-182",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_9_1",
+                    "DOI": "10.4103/1110-1083.162002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_10_1",
+                    "DOI": "10.1093/brain/awh200",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_11_1",
+                    "DOI": "10.1016/j.yebeh.2014.07.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_12_1",
+                    "DOI": "10.1093/brain/awn357",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_13_1",
+                    "DOI": "10.1212/WNL.0000000000006564",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_14_1",
+                    "DOI": "10.1093/brain/aww280",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_15_1",
+                    "DOI": "10.1016/S0140-6736(07)60461-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_16_1",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_17_1",
+                    "DOI": "10.1016/S1474-4422(12)70018-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_18_1",
+                    "DOI": "10.1371/journal.pone.0099063",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_19_1",
+                    "DOI": "10.1136/jnnp-2013-306040",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_20_1",
+                    "DOI": "10.1177/0962280216674496",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_21_1",
+                    "DOI": "10.1016/j.eplepsyres.2011.06.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_22_1",
+                    "DOI": "10.1093/biostatistics/kxm049",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_23_1",
+                    "DOI": "10.1002/sim.7397",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_24_1",
+                    "DOI": "10.1371/journal.pone.0190035",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Epilepsia",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fepi.14697",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/epi.14697",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/epi.14697",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/epi.14697",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        28
+                    ]
+                ],
+                "date-time": "2019-05-28T05:36:00Z",
+                "timestamp": 1559021760000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        22
+                    ]
+                ]
+            },
+            "references-count": 23,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            3,
+                            13
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1111/epi.14697"
+            ],
+            "URL": "http://dx.doi.org/10.1111/epi.14697",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0013-9580",
+                "1528-1167"
+            ],
+            "subject": [
+                "Neurology",
+                "Clinical Neurology"
+            ],
+            "container-title-short": "Epilepsia"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "breakthrough",
+                        "dynamic classification",
+                        "epilepsy",
+                        "focal",
+                        "generalized",
+                        "remission"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30900756",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "04",
+                    "Day": "13"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "04",
+                    "Day": "20"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1111/epi.14697"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "03",
+                            "Day": "22"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1528-1167",
+                        "JournalIssue": {
+                            "Volume": "60",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "04"
+                            }
+                        },
+                        "Title": "Epilepsia",
+                        "ISOAbbreviation": "Epilepsia"
+                    },
+                    "ArticleTitle": "Identifying patients who will not reachieve remission after breakthrough seizures.",
+                    "Pagination": {
+                        "MedlinePgn": "774-782"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "We aim to identify people with epilepsy who are unlikely to reachieve a 12-month remission within 2\u00a0years after experiencing a breakthrough seizure following an initial 12-month remission.",
+                            "We apply a novel longitudinal discriminant approach to data from the Standard and New Antiepileptic Drugs study to dynamically predict the risk of a patient not achieving a second remission after a breakthrough seizure by combining both baseline covariates (collected at the time of breakthrough seizure) and follow-up data.",
+                            "The model classifies 83% of patients. Of these, 73% of patients (95% confidence interval [CI] = 58%-88%) who did not achieve a second remission were correctly identified (sensitivity), and 84% of patients (95% CI = 69%-96%) who achieved a second remission were correctly identified (specificity). The area under the curve from our model was 87% (95% CI = 80%-94%). Patients who did not achieve a second remission were correctly identified on average after 10\u00a0months of observation postbreakthrough. Occurrence of seizures after breakthrough and the number of seizures experienced were the most informative longitudinal variables. These longitudinal profiles were influenced by the following baseline covariates: age at breakthrough seizure, presence of neurological insult, and number of antiepileptic drugs required to achieve first remission.",
+                            "Using longitudinal data gathered during patient follow-up allows more accurate predictions than using baseline covariates in a standard Cox model. The model developed in this paper is a useful first step in developing a tool for identifying patients who develop drug resistance after an initial remission."
+                        ],
+                        "CopyrightInformation": "\u00a9 2019 The Authors. Epilepsia published by Wiley Periodicals, Inc. on behalf of International League Against Epilepsy."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hughes",
+                            "ForeName": "David M",
+                            "Initials": "DM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bonnett",
+                            "ForeName": "Laura J",
+                            "Initials": "LJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, members of Liverpool Health Partners, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Garc\u00eda-Fi\u00f1ana",
+                            "ForeName": "Marta",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/R024847/1",
+                            "Agency": "Medical Research Council UK",
+                            "Country": "International"
+                        },
+                        {
+                            "GrantID": "MR/L010909/1",
+                            "Agency": "Medical Research Council UK",
+                            "Country": "International"
+                        },
+                        {
+                            "GrantID": "RP-PG-0606-1062",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "NIHR CLAHRC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": "International"
+                        },
+                        {
+                            "GrantID": "EP/N014499/1",
+                            "Agency": "Engineering and Physical Sciences Research Council",
+                            "Country": "International"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, N.I.H., Extramural",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Epilepsia",
+                    "NlmUniqueID": "2983306R",
+                    "ISSNLinking": "0013-9580"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Models, Statistical",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Recurrence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remission Induction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Treatment Failure",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Brain. 2004 Aug;127(Pt 8):1774-84",
+                                "ArticleIdList": [
+                                    "15201192"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1016-26",
+                                "ArticleIdList": [
+                                    "17382828"
+                                ]
+                            },
+                            {
+                                "Citation": "Biostatistics. 2008 Jul;9(3):523-39",
+                                "ArticleIdList": [
+                                    "18209015"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain. 2009 Apr;132(Pt 4):989-98",
+                                "ArticleIdList": [
+                                    "19153149"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 2009 Oct;66(10):1233-9",
+                                "ArticleIdList": [
+                                    "19822778"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2011 Nov;97(1-2):20-9",
+                                "ArticleIdList": [
+                                    "22000868"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2012 Apr;11(4):331-40",
+                                "ArticleIdList": [
+                                    "22377180"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2012 May 15;78(20):1548-54",
+                                "ArticleIdList": [
+                                    "22573629"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Neurol. 2013 Nov 21;13:182",
+                                "ArticleIdList": [
+                                    "24261551"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2014 Jun;85(6):603-10",
+                                "ArticleIdList": [
+                                    "24292995"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Jun 11;9(6):e99063",
+                                "ArticleIdList": [
+                                    "24919184"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2014 Aug;37:282-6",
+                                "ArticleIdList": [
+                                    "25128686"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Methods Med Res. 2018 Jul;27(7):2060-2080",
+                                "ArticleIdList": [
+                                    "27789653"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain. 2017 Jan;140(1):68-82",
+                                "ArticleIdList": [
+                                    "28031219"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2017 Jul 10;7(7):e015868",
+                                "ArticleIdList": [
+                                    "28698335"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2017 Oct 30;36(24):3858-3874",
+                                "ArticleIdList": [
+                                    "28762546"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2017 Dec 21;12(12):e0190035",
+                                "ArticleIdList": [
+                                    "29267375"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2018 Nov 27;91(22):e2035-e2044",
+                                "ArticleIdList": [
+                                    "30389894"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "08",
+                        "Day": "17"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "03",
+                        "Day": "01"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "03",
+                        "Day": "01"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "3",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "4",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "3",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30900756",
+                    "10.1111/epi.14697",
+                    "PMC6487810"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30900756)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830900756%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830900756%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063768951"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063768951?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063768951&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063768951&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063768951",
+                        "dc:identifier": "SCOPUS_ID:85063768951",
+                        "eid": "2-s2.0-85063768951",
+                        "dc:title": "Identifying patients who will not reachieve remission after breakthrough seizures",
+                        "dc:creator": "Hughes D.M.",
+                        "prism:publicationName": "Epilepsia",
+                        "prism:issn": "00139580",
+                        "prism:eIssn": "15281167",
+                        "prism:volume": "60",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "774-782",
+                        "prism:coverDate": "2019-04-01",
+                        "prism:coverDisplayDate": "April 2019",
+                        "prism:doi": "10.1111/epi.14697",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30900756",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "15510",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "295VGSZ6.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30900756"
+            }
+        },
+        "title": "Identifying patients who will not reachieve remission after breakthrough seizures.",
+        "full_author_list": [
+            {
+                "clean": "Hughes D",
+                "family": "Hughes",
+                "given": "David M",
+                "affiliation": {
+                    "name": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Bonnett L",
+                "family": "Bonnett",
+                "given": "Laura J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Garc\u00eda-Fi\u00f1ana M",
+                "family": "Garc\u00eda-Fi\u00f1ana",
+                "given": "Marta",
+                "affiliation": {
+                    "name": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Hughes D",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Models, Statistical",
+                    "major": "Y"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Recurrence",
+                    "major": "N"
+                },
+                {
+                    "term": "Remission Induction",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Treatment Failure",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Epilepsia",
+            "volume": "60",
+            "issue": "4"
+        },
+        "abstract": "['We aim to identify people with epilepsy who are unlikely to reachieve a 12-month remission within 2\\xa0years after experiencing a breakthrough seizure following an initial 12-month remission.', 'We apply a novel longitudinal discriminant approach to data from the Standard and New Antiepileptic Drugs study to dynamically predict the risk of a patient not achieving a second remission after a breakthrough seizure by combining both baseline covariates (collected at the time of breakthrough seizure) and follow-up data.', 'The model classifies 83% of patients. Of these, 73% of patients (95% confidence interval [CI] = 58%-88%) who did not achieve a second remission were correctly identified (sensitivity), and 84% of patients (95% CI = 69%-96%) who achieved a second remission were correctly identified (specificity). The area under the curve from our model was 87% (95% CI = 80%-94%). Patients who did not achieve a second remission were correctly identified on average after 10\\xa0months of observation postbreakthrough. Occurrence of seizures after breakthrough and the number of seizures experienced were the most informative longitudinal variables. These longitudinal profiles were influenced by the following baseline covariates: age at breakthrough seizure, presence of neurological insult, and number of antiepileptic drugs required to achieve first remission.', 'Using longitudinal data gathered during patient follow-up allows more accurate predictions than using baseline covariates in a standard Cox model. The model developed in this paper is a useful first step in developing a tool for identifying patients who develop drug resistance after an initial remission.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

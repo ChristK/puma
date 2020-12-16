@@ -1,0 +1,723 @@
+{
+    "IDs": {
+        "zotero": "A9W5IQTS",
+        "DOI": "10.1080/09638288.2019.1589586",
+        "DOI_filename": "8821e68df3db453e0009a98081097967",
+        "PMID": "31006346",
+        "scopus": "2-s2.0-85064627512",
+        "hash": "9ce052c4c5a0a81c1f684370a1f17225"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "A9W5IQTS",
+            "version": 133,
+            "itemType": "journalArticle",
+            "title": "Great expectations? A qualitative study of health professionals\u2019 perspectives on breaking bad news about rehabilitation potential after traumatic brain injury or spinal injury",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosemary",
+                    "lastName": "Peel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephanie",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Colette",
+                    "lastName": "Miller"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine",
+                    "lastName": "Gibson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Disability and Rehabilitation",
+            "volume": "",
+            "issue": "",
+            "pages": "1-6",
+            "date": "2019-04-21",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Disability and Rehabilitation",
+            "language": "en",
+            "DOI": "10.1080/09638288.2019.1589586",
+            "ISSN": "0963-8288, 1464-5165",
+            "shortTitle": "Great expectations?",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09638288.2019.1589586",
+            "accessDate": "2020-09-10T17:10:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31006346",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:20Z",
+            "dateModified": "2020-09-11T15:04:57Z",
+            "pmid": "31006346"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        6
+                    ]
+                ],
+                "date-time": "2020-09-06T16:40:28Z",
+                "timestamp": 1599410428007
+            },
+            "reference-count": 19,
+            "publisher": "Informa UK Limited",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100015509",
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "name": "Health Education England",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1080/09638288.2019.1589586",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        21
+                    ]
+                ],
+                "date-time": "2019-04-21T12:28:26Z",
+                "timestamp": 1555849706000
+            },
+            "page": "1-6",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Great expectations? A qualitative study of health professionals\u2019 perspectives on breaking bad news about rehabilitation potential after traumatic brain injury or spinal injury",
+            "prefix": "10.1080",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-0784-9392",
+                    "authenticated-orcid": false,
+                    "given": "Rosemary",
+                    "family": "Peel",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "College of Health and Wellbeing, University of Central Lancashire, Preston, UK;"
+                        },
+                        {
+                            "name": "Therapies Department, University Hospitals of Morecambe Bay NHS Foundation Trust, Kendal, UK;"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-9149-8606",
+                    "authenticated-orcid": false,
+                    "given": "Stephanie",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-0620-6029",
+                    "authenticated-orcid": false,
+                    "given": "Colette",
+                    "family": "Miller",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-3051-1237",
+                    "authenticated-orcid": false,
+                    "given": "Josephine",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "unstructured": "British Society of Rehabilitation Medicine. Specialised Neurorehabilitation Service Standards 7 30 4 2015-PCATV2-forweb-4-5-16.doc Update 2015 Apr 30. [Cited 2017 Dec 20]. Available from: https://www.bsrm.org.uk/downloads/specialised-neurorehabilitation-service-standards\u20137-30-4-2015-pcatv2-forweb-4-5-16.pdf"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.3109/02699052.2015.1113569",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.1097/01.JTN.0000278797.51407.d5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.7748/ns.28.45.51.e8935",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1191/0269216305pm1080oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1634/theoncologist.5-4-302",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.4276/030802213X13706169932860",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1080/02699050600744244",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1093/ageing/afh163",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1515/come.2005.2.1.35",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.3109/09638288.2012.703757",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1080/00909880701262997",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1016/S0140-6736(03)15392-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1111/j.1365-2648.2004.03099.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "author": "Stejskal T",
+                    "volume": "31",
+                    "first-page": "75",
+                    "year": "2012",
+                    "journal-title": "NeuroRehabilitation",
+                    "DOI": "10.3233/NRE-2012-0776",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0016",
+                    "author": "Silverman D",
+                    "year": "2014",
+                    "edition": "5",
+                    "volume-title": "Interpreting qualitative data"
+                },
+                {
+                    "key": "CIT0017",
+                    "author": "Ruff R",
+                    "volume": "32",
+                    "first-page": "771",
+                    "year": "2013",
+                    "journal-title": "NeuroRehabilitation",
+                    "DOI": "10.3233/NRE-130901",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.3109/09638288.2012.670028",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1111/jan.13252",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Disability and Rehabilitation",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09638288.2019.1589586",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        6
+                    ]
+                ],
+                "date-time": "2020-09-06T16:21:16Z",
+                "timestamp": 1599409276000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        21
+                    ]
+                ]
+            },
+            "references-count": 19,
+            "alternative-id": [
+                "10.1080/09638288.2019.1589586"
+            ],
+            "URL": "http://dx.doi.org/10.1080/09638288.2019.1589586",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0963-8288",
+                "1464-5165"
+            ],
+            "subject": [
+                "Rehabilitation"
+            ],
+            "container-title-short": "Disability and Rehabilitation",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=idre20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=idre20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2018-04-03",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-02-27",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-02-27",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-04-21",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "KeywordList": [
+                    [
+                        "Multidisciplinary team",
+                        "communication",
+                        "expectation management",
+                        "neurology",
+                        "neurorehabilitation"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31006346",
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "20"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/09638288.2019.1589586"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "04",
+                            "Day": "21"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1464-5165",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Apr",
+                                "Day": "21"
+                            }
+                        },
+                        "Title": "Disability and rehabilitation",
+                        "ISOAbbreviation": "Disabil Rehabil"
+                    },
+                    "ArticleTitle": "Great expectations? A qualitative study of health professionals' perspectives on breaking bad news about rehabilitation potential after traumatic brain injury or spinal injury.",
+                    "Pagination": {
+                        "MedlinePgn": "1-6"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Neurorehabilitation units play an important role in facilitating recovery for those with complex needs following a neurological event. National guidance highlights the importance of providing patients and their families with information and fostering realistic expectations. This may involve the breaking of bad news. The aim of this study is to explore health professionals' perspectives on breaking bad news in the neurorehabilitation setting.",
+                            "15 health professionals (physiotherapists, occupational therapists, nurses, speech therapists, psychologists and doctors) working at a 24 bedded neurorehabilitation unit in a National Health Service acute trust in England were recruited. A qualitative study was conducted using patient vignettes to facilitate discussions during semi-structured interviews and a focus group. The results were analyzed using thematic analysis.",
+                            "Four major themes emerged: influencing factors, current approaches used, staff experiences, and strategies to improve breaking bad news. There was a need for better management of patients' and families' expectations. Breaking bad news was seen as emotionally demanding yet often unrecognized work.",
+                            "Breaking bad news in the neurorehabilitation setting is complex and under-recognized work, involving multiple health professionals. There is a need for both experience and training to improve skills and confidence in breaking bad news. Implications for Rehabilitation Existing tools to support breaking bad news provide a structured step by step approach which may be helpful, but it is recognised there is also a need for experience, reflection, flexibility, and individualisation of the process. Discussing information about rehabilitation potential may be stressful for health professionals themselves and adversely affect their own well-being. Both novice and experienced staff require opportunities for reflective practice and training to develop the skills they need to discuss rehabilitation potential."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a College of Health and Wellbeing , University of Central Lancashire , Preston , UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b Therapies Department , University Hospitals of Morecambe Bay NHS Foundation Trust , Kendal , UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-0784-9392"
+                            ],
+                            "LastName": "Peel",
+                            "ForeName": "Rosemary",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c School of Nursing , University of Central Lancashire , Preston , UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-9149-8606"
+                            ],
+                            "LastName": "Jones",
+                            "ForeName": "Stephanie",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c School of Nursing , University of Central Lancashire , Preston , UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-0620-6029"
+                            ],
+                            "LastName": "Miller",
+                            "ForeName": "Colette",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c School of Nursing , University of Central Lancashire , Preston , UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-3051-1237"
+                            ],
+                            "LastName": "Gibson",
+                            "ForeName": "Josephine",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Disabil Rehabil",
+                    "NlmUniqueID": "9207179",
+                    "ISSNLinking": "0963-8288"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "31006346",
+                    "10.1080/09638288.2019.1589586"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31006346)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831006346%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831006346%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064627512"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064627512?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064627512&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064627512&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064627512",
+                        "dc:identifier": "SCOPUS_ID:85064627512",
+                        "eid": "2-s2.0-85064627512",
+                        "dc:title": "Great expectations? A qualitative study of health professionals\u2019 perspectives on breaking bad news about rehabilitation potential after traumatic brain injury or spinal injury",
+                        "dc:creator": "Peel R.",
+                        "prism:publicationName": "Disability and Rehabilitation",
+                        "prism:issn": "09638288",
+                        "prism:eIssn": "14645165",
+                        "prism:volume": "42",
+                        "prism:issueIdentifier": "22",
+                        "prism:pageRange": "3209-3214",
+                        "prism:coverDate": "2020-10-22",
+                        "prism:coverDisplayDate": "22 October 2020",
+                        "prism:doi": "10.1080/09638288.2019.1589586",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University Hospitals of Morecambe Bay NHS Foundation Trust",
+                                "affiliation-city": "Kendal",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31006346",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "13710",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "A9W5IQTS.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31006346"
+            }
+        },
+        "title": "Great expectations? A qualitative study of health professionals' perspectives on breaking bad news about rehabilitation potential after traumatic brain injury or spinal injury.",
+        "full_author_list": [
+            {
+                "clean": "Peel R",
+                "family": "Peel",
+                "given": "Rosemary",
+                "affiliation": {
+                    "name": "a College of Health and Wellbeing , University of Central Lancashire , Preston , UK."
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "Stephanie",
+                "affiliation": {
+                    "name": "c School of Nursing , University of Central Lancashire , Preston , UK."
+                }
+            },
+            {
+                "clean": "Miller C",
+                "family": "Miller",
+                "given": "Colette",
+                "affiliation": {
+                    "name": "c School of Nursing , University of Central Lancashire , Preston , UK."
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine",
+                "affiliation": {
+                    "name": "c School of Nursing , University of Central Lancashire , Preston , UK."
+                }
+            }
+        ],
+        "first_author": "Peel R",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Disabil Rehabil",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "[\"Neurorehabilitation units play an important role in facilitating recovery for those with complex needs following a neurological event. National guidance highlights the importance of providing patients and their families with information and fostering realistic expectations. This may involve the breaking of bad news. The aim of this study is to explore health professionals' perspectives on breaking bad news in the neurorehabilitation setting.\", '15 health professionals (physiotherapists, occupational therapists, nurses, speech therapists, psychologists and doctors) working at a 24 bedded neurorehabilitation unit in a National Health Service acute trust in England were recruited. A qualitative study was conducted using patient vignettes to facilitate discussions during semi-structured interviews and a focus group. The results were analyzed using thematic analysis.', \"Four major themes emerged: influencing factors, current approaches used, staff experiences, and strategies to improve breaking bad news. There was a need for better management of patients' and families' expectations. Breaking bad news was seen as emotionally demanding yet often unrecognized work.\", 'Breaking bad news in the neurorehabilitation setting is complex and under-recognized work, involving multiple health professionals. There is a need for both experience and training to improve skills and confidence in breaking bad news. Implications for Rehabilitation Existing tools to support breaking bad news provide a structured step by step approach which may be helpful, but it is recognised there is also a need for experience, reflection, flexibility, and individualisation of the process. Discussing information about rehabilitation potential may be stressful for health professionals themselves and adversely affect their own well-being. Both novice and experienced staff require opportunities for reflective practice and training to develop the skills they need to discuss rehabilitation potential.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "a College of Health and Wellbeing , University of Central Lancashire , Preston , UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

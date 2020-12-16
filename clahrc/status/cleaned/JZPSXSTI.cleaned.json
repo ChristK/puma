@@ -1,0 +1,1198 @@
+{
+    "IDs": {
+        "zotero": "JZPSXSTI",
+        "DOI": "10.1007/s00405-016-4208-x",
+        "DOI_filename": "4f1d7d9485562d91652261e4784de6c2",
+        "PMID": "27447962",
+        "scopus": "2-s2.0-84979234465",
+        "hash": "a6721f779de98511133f010780a5c7ec"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JZPSXSTI",
+            "version": 161,
+            "itemType": "journalArticle",
+            "title": "Is social inequality related to different patient concerns in routine oral cancer follow-up clinics?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Allen"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Derek",
+                    "lastName": "Lowe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca V.",
+                    "lastName": "Harris"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Steve",
+                    "lastName": "Brown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Simon N.",
+                    "lastName": "Rogers"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "European Archives of Oto-Rhino-Laryngology",
+            "volume": "274",
+            "issue": "1",
+            "pages": "451-459",
+            "date": "1/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Eur Arch Otorhinolaryngol",
+            "language": "en",
+            "DOI": "10.1007/s00405-016-4208-x",
+            "ISSN": "0937-4477, 1434-4726",
+            "shortTitle": "",
+            "url": "http://link.springer.com/10.1007/s00405-016-4208-x",
+            "accessDate": "2020-09-10T17:09:25Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27447962",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:25Z",
+            "dateModified": "2020-09-15T13:03:59Z",
+            "pmid": "27447962"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        2
+                    ]
+                ],
+                "date-time": "2020-06-02T18:43:44Z",
+                "timestamp": 1591123424162
+            },
+            "reference-count": 25,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2016,
+                                7,
+                                22
+                            ]
+                        ],
+                        "date-time": "2016-07-22T00:00:00Z",
+                        "timestamp": 1469145600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "NIHR CLAHRC NWC",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1007/s00405-016-4208-x",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        22
+                    ]
+                ],
+                "date-time": "2016-07-22T09:21:44Z",
+                "timestamp": 1469179304000
+            },
+            "page": "451-459",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Is social inequality related to different patient concerns in routine oral cancer follow-up clinics?",
+            "prefix": "10.1007",
+            "volume": "274",
+            "author": [
+                {
+                    "given": "Sarah",
+                    "family": "Allen",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Derek",
+                    "family": "Lowe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rebecca V.",
+                    "family": "Harris",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Steve",
+                    "family": "Brown",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Simon N.",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "6",
+                    "key": "4208_CR1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "445",
+                    "DOI": "10.1016/j.oraloncology.2010.02.021",
+                    "volume": "46",
+                    "author": "SN Rogers",
+                    "year": "2010",
+                    "unstructured": "Rogers SN (2010) Quality of life perspectives in patients with oral cancer. Oral Oncol 46(6):445\u2013447. doi: 10.1016/j.oraloncology.2010.02.021",
+                    "journal-title": "Oral Oncol"
+                },
+                {
+                    "issue": "1",
+                    "key": "4208_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "11",
+                    "DOI": "10.1016/j.bjoms.2009.03.020",
+                    "volume": "48",
+                    "author": "DI Conway",
+                    "year": "2010",
+                    "unstructured": "Conway DI, McMahon AD, Smith K, Black R, Robertson G, Devine J, McKinney PA (2010) Components of socioeconomic risk associated with head and neck cancer: a population-based case-control study in Scotland. Br J Oral Maxillofac Surg 48(1):11\u201317. doi: 10.1016/j.bjoms.2009.03.020",
+                    "journal-title": "Br J Oral Maxillofac Surg"
+                },
+                {
+                    "issue": "3",
+                    "key": "4208_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "177",
+                    "DOI": "10.1016/j.bjoms.2005.06.024",
+                    "volume": "44",
+                    "author": "E Woolley",
+                    "year": "2006",
+                    "unstructured": "Woolley E, Magennis P, Shokar P, Lowe D, Edwards D, Rogers SN (2006) The correlation between indices of deprivation and health-related quality of life in patients with oral and oropharyngeal squamous cell carcinoma. Br J Oral Maxillofac Surg 44(3):177\u2013186. doi: 10.1016/j.bjoms.2005.06.024",
+                    "journal-title": "Br J Oral Maxillofac Surg"
+                },
+                {
+                    "issue": "6",
+                    "key": "4208_CR4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "669",
+                    "DOI": "10.1016/j.bjoms.2016.03.030",
+                    "volume": "54",
+                    "author": "J Rylands",
+                    "year": "2016",
+                    "unstructured": "Rylands J, Lowe D, Rogers SN (2016) The influence of deprivation on health related quality of life in head and neck cancer patients in Merseyside and Cheshire. Br J Oral Maxillofac Surg 54(6):669\u2013676",
+                    "journal-title": "Br J Oral Maxillofac Surg"
+                },
+                {
+                    "key": "4208_CR5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "30",
+                    "DOI": "10.1016/j.oraloncology.2015.10.017",
+                    "volume": "52",
+                    "author": "J Rylands",
+                    "year": "2016",
+                    "unstructured": "Rylands J, Lowe D, Rogers SN (2016) Outcomes by area of residence deprivation in a cohort of oral cancer patients: survival, health-related quality of life, and place of death. Oral Oncol 52:30\u201336",
+                    "journal-title": "Oral Oncol"
+                },
+                {
+                    "issue": "3",
+                    "key": "4208_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "S9",
+                    "DOI": "10.1353/pbm.2003.0056",
+                    "volume": "46",
+                    "author": "MG Marmot",
+                    "year": "2003",
+                    "unstructured": "Marmot MG (2003) Understanding social inequalities in health. Perspect Biol Med 46(3):S9\u2013S23. doi: 10.1353/pbm.2003.0056",
+                    "journal-title": "Perspect Biol Med"
+                },
+                {
+                    "key": "4208_CR7",
+                    "unstructured": "The English Indices of Deprivation 2010 (2011)"
+                },
+                {
+                    "issue": "4",
+                    "key": "4208_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "873",
+                    "DOI": "10.1007/s10459-014-9569-6",
+                    "volume": "20",
+                    "author": "K Aelbrecht",
+                    "year": "2015",
+                    "unstructured": "Aelbrecht K, Rimondini M, Bensing J, Moretti F, Willems S, Mazzi M, Fletcher I, Deveugele M (2015) Quality of doctor-patient communication through the eyes of the patient: variation according to the patient\u2019s educational level. Adv Health Sci Educ 20(4):873\u2013884. doi: 10.1007/s10459-014-9569-6",
+                    "journal-title": "Adv Health Sci Educ"
+                },
+                {
+                    "key": "4208_CR9",
+                    "author": "NCI Network",
+                    "year": "2010",
+                    "unstructured": "Network NCI (2010) Evidence to March 2010 on cancer inequalities in England. National Cancer Action Team, NHS",
+                    "volume-title": "Evidence to March 2010 on cancer inequalities in England"
+                },
+                {
+                    "issue": "3",
+                    "key": "4208_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "317",
+                    "DOI": "10.1016/s0022-3913(99)70087-9",
+                    "volume": "82",
+                    "author": "SN Rogers",
+                    "year": "1999",
+                    "unstructured": "Rogers SN, McNally D, Mahmoud M, Chan M, Humphris GM (1999) Psychologic response of the edentulous patient after primary surgery for oral cancer: a cross-sectional study. J Prosthet Dent 82(3):317\u2013321. doi: 10.1016/s0022-3913(99)70087-9",
+                    "journal-title": "J Prosthet Dent"
+                },
+                {
+                    "issue": "7",
+                    "key": "4208_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "555",
+                    "DOI": "10.1016/j.oraloncology.2008.09.004",
+                    "volume": "45",
+                    "author": "SN Rogers",
+                    "year": "2009",
+                    "unstructured": "Rogers SN, El-Sheikha J, Lowe D (2009) The development of a patients concerns inventory (PCI) to help reveal patients concerns in the head and neck clinic. Oral Oncol 45(7):555\u2013561. doi: 10.1016/j.oraloncology.2008.09.004",
+                    "journal-title": "Oral Oncol"
+                },
+                {
+                    "issue": "2",
+                    "key": "4208_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "189",
+                    "DOI": "10.1111/ecc.12289",
+                    "volume": "24",
+                    "author": "SN Rogers",
+                    "year": "2015",
+                    "unstructured": "Rogers SN, Audisio RA, Lowe D (2015) Do the elderly raise different issues when using the patient concerns inventory in routine head and neck cancer follow-up clinics? Eur J Cancer Care 24(2):189\u2013197. doi: 10.1111/ecc.12289",
+                    "journal-title": "Eur J Cancer Care"
+                },
+                {
+                    "issue": "2",
+                    "key": "4208_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "147",
+                    "DOI": "10.1016/j.ijom.2013.08.006",
+                    "volume": "43",
+                    "author": "JMM Hatta",
+                    "year": "2014",
+                    "unstructured": "Hatta JMM, Doss JG, Rogers SN (2014) The feasibility of using patients concerns inventory (PCI) in managing Malaysian oral cancer patients. Int J Oral Maxillofac Surg 43(2):147\u2013155. doi: 10.1016/j.ijom.2013.08.006",
+                    "journal-title": "Int J Oral Maxillofac Surg"
+                },
+                {
+                    "issue": "4",
+                    "key": "4208_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "371",
+                    "DOI": "10.1016/j.bjoms.2015.01.022",
+                    "volume": "53",
+                    "author": "N Ghazali",
+                    "year": "2015",
+                    "unstructured": "Ghazali N, Roe B, Lowe D, Rogers SN (2015) Patients concerns inventory highlights perceived needs and concerns in head and neck cancer survivors and its impact on health-related quality of life. Br J Oral Maxillofac Surg 53(4):371\u2013379. doi: 10.1016/j.bjoms.2015.01.022",
+                    "journal-title": "Br J Oral Maxillofac Surg"
+                },
+                {
+                    "issue": "6",
+                    "key": "4208_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "521",
+                    "DOI": "10.1002/hed.10106",
+                    "volume": "24",
+                    "author": "SN Rogers",
+                    "year": "2002",
+                    "unstructured": "Rogers SN, Gwanne S, Lowe D, Stat C, Humphris G, Yueh B, Weymuller EA (2002) The addition of mood and anxiety domains to the University of Washington quality of life scale. Head Neck-J Sci Spec Head Neck 24(6):521\u2013529. doi: 10.1002/hed.10106",
+                    "journal-title": "Head Neck-J Sci Spec Head Neck"
+                },
+                {
+                    "issue": "4",
+                    "key": "4208_CR16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "369",
+                    "DOI": "10.1001/archoto.2009.7",
+                    "volume": "135",
+                    "author": "SN Rogers",
+                    "year": "2009",
+                    "unstructured": "Rogers SN, Lowe D (2009) Screening for dysfunction to promote multidisciplinary intervention by using the University of Washington Quality of Life Questionnaire. Arch Otolaryngol Head Neck Surg 135(4):369\u2013375",
+                    "journal-title": "Arch Otolaryngol Head Neck Surg"
+                },
+                {
+                    "issue": "4",
+                    "key": "4208_CR17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "352",
+                    "DOI": "10.1001/archoto.2010.32",
+                    "volume": "136",
+                    "author": "SN Rogers",
+                    "year": "2010",
+                    "unstructured": "Rogers SN, Lowe D, Yueh B, Weymuller EA (2010) The physical function and social-emotional function subscales of the University of Washington Quality of Life Questionnaire. Arch Otolaryngol Head Neck Surg 136(4):352\u2013357",
+                    "journal-title": "Arch Otolaryngol Head Neck Surg"
+                },
+                {
+                    "issue": "3",
+                    "key": "4208_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1067",
+                    "DOI": "10.1007/s00405-012-2092-6",
+                    "volume": "270",
+                    "author": "A Kanatas",
+                    "year": "2013",
+                    "unstructured": "Kanatas A, Ghazali N, Lowe D, Udberg M, Heseltine J, O\u2019Mahony E, Rogers SN (2013) Issues patients would like to discuss at their review consultation: variation by early and late stage oral, oropharyngeal and laryngeal subsites. Eur Arch Oto-Rhino-Laryn 270(3):1067\u20131074. doi: 10.1007/s00405-012-2092-6",
+                    "journal-title": "Eur Arch Oto-Rhino-Laryn"
+                },
+                {
+                    "issue": "3",
+                    "key": "4208_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "208",
+                    "DOI": "10.1016/j.bjoms.2011.03.264",
+                    "volume": "50",
+                    "author": "SN Rogers",
+                    "year": "2012",
+                    "unstructured": "Rogers SN, Rozek A, Aleyaasin N, Promod P, Lowe D (2012) Internet use among head and neck cancer survivors in the North West of England. Br J Oral Maxillofac Surg 50(3):208\u2013214. doi: 10.1016/j.bjoms.2011.03.264",
+                    "journal-title": "Br J Oral Maxillofac Surg"
+                },
+                {
+                    "issue": "10",
+                    "key": "4208_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1385",
+                    "DOI": "10.1016/s0277-9536(99)00390-1",
+                    "volume": "50",
+                    "author": "WH Courtenay",
+                    "year": "2000",
+                    "unstructured": "Courtenay WH (2000) Constructions of masculinity and their influence on men\u2019s well-being: a theory of gender and health. Soc Sci Med 50(10):1385\u20131401. doi: 10.1016/s0277-9536(99)00390-1",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "issue": "4",
+                    "key": "4208_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "807",
+                    "DOI": "10.1002/pon.3069",
+                    "volume": "22",
+                    "author": "N Ghazali",
+                    "year": "2013",
+                    "unstructured": "Ghazali N, Cadwallader E, Lowe D, Humphris G, Ozakinci G, Rogers SN (2013) Fear of recurrence among head and neck cancer survivors: longitudinal trends. Psycho-Oncology 22(4):807\u2013813. doi: 10.1002/pon.3069",
+                    "journal-title": "Psycho-Oncology"
+                },
+                {
+                    "issue": "5",
+                    "key": "4208_CR22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1235",
+                    "DOI": "10.1007/s00405-015-3585-x",
+                    "volume": "273",
+                    "author": "SN Rogers",
+                    "year": "2016",
+                    "unstructured": "Rogers SN, Cross B, Talwar C, Lowe D, Humphris G (2016) A single-item screening question for fear of recurrence in head and neck cancer. Eur Arch Oto-Rhino-Laryn 273(5):1235\u20131242",
+                    "journal-title": "Eur Arch Oto-Rhino-Laryn"
+                },
+                {
+                    "key": "4208_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "12",
+                    "DOI": "10.1186/1475-9276-11-12",
+                    "volume": "11",
+                    "author": "E Verlinde",
+                    "year": "2012",
+                    "unstructured": "Verlinde E, De Laender N, De Maesschalck S, Deveugele M, Willems S (2012) The social gradient in doctor-patient communication. Int J Equity Health 11:12. doi: 10.1186/1475-9276-11-12",
+                    "journal-title": "Int J Equity Health"
+                },
+                {
+                    "issue": "2",
+                    "key": "4208_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "126",
+                    "DOI": "10.1016/j.amjmed.2014.08.031",
+                    "volume": "128",
+                    "author": "M Greville-Harris",
+                    "year": "2015",
+                    "unstructured": "Greville-Harris M, Dieppe P (2015) Bad is more powerful than good: the Nocebo response in medical consultations. Am J Med 128(2):126\u2013129. doi: 10.1016/j.amjmed.2014.08.031",
+                    "journal-title": "Am J Med"
+                },
+                {
+                    "key": "4208_CR25",
+                    "unstructured": "Epstein RM, Street JR RL (2007) Patient-centered communication in cancer care: promoting healing and reducing suffering. doi: 10.1037/e481972008-001",
+                    "DOI": "10.1037/e481972008-001",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "European Archives of Oto-Rhino-Laryngology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00405-016-4208-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1007/s00405-016-4208-x/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00405-016-4208-x",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00405-016-4208-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        24
+                    ]
+                ],
+                "date-time": "2017-06-24T18:59:39Z",
+                "timestamp": 1498330779000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "references-count": 25,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "4208"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s00405-016-4208-x",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0937-4477",
+                "1434-4726"
+            ],
+            "container-title-short": "Eur Arch Otorhinolaryngol"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Health-related quality of life",
+                        "Oral cancer",
+                        "Patient concerns inventory",
+                        "Patient reported outcomes",
+                        "Social deprivation"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27447962",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "03",
+                    "Day": "01"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1007/s00405-016-4208-x"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "07",
+                            "Day": "22"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1434-4726",
+                        "JournalIssue": {
+                            "Volume": "274",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+                        "ISOAbbreviation": "Eur Arch Otorhinolaryngol"
+                    },
+                    "ArticleTitle": "Is social inequality related to different patient concerns in routine oral cancer follow-up clinics?",
+                    "Pagination": {
+                        "MedlinePgn": "451-459"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Oral cancer has a higher incidence in the lower social strata, and these patients are less likely to engage in supportive interventions and report a poorer quality of life (QoL). The aim of this paper is to compare the Patient Concerns Inventory (PCI) responses across social groups attending routine oral cancer follow-up clinics with particular focus on the deprivation lower quartile. The PCI package is completed by patients as part of their routine review consultation with SNR. Patients were those diagnosed between 2008 and 2012. Deprivation was stratified using the IMD 2010 from postcode. Of the 106 eligible patients, 85\u00a0% used the PCI. Just over half (54\u00a0%) were living in the most deprived quartile, with two-thirds (68\u00a0%) of males in the most deprived quartile, compared with 35\u00a0% of females (p\u00a0=\u00a00.004). In regard to number and type of PCI items selected by patients at their first PCI clinic, there were no notable differences in respect of IMD classification. The two commonest concerns were fear of recurrence (43\u00a0%) and sore mouth (43\u00a0%). The most deprived quartile reported significant problems in regard to mood (p\u00a0=\u00a00.004) and recreation (p\u00a0=\u00a00.02), and a non-significant trend (36 vs 18\u00a0%, p\u00a0=\u00a00.09) in stating their overall QoL as being less than good. It is possible to identify the concerns of patients from lower socioeconomic strata as part of routine follow-up clinics. This allows for targeted multi-professional intervention and supports to improve the outcome in this hard to reach group."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Sarah.Allen@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Allen",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Social Care, Evidence-Based Practice Research Centre (EPRC), Edge Hill University, St Helens Road, Ormskirk, L39 4QP, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Regional Maxillofacial Unit, University Hospital Aintree, Liverpool, L9 1AE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lowe",
+                            "ForeName": "Derek",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harris",
+                            "ForeName": "Rebecca V",
+                            "Initials": "RV"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychological Sciences, University of Liverpool, Liverpool, L69 3BX, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Brown",
+                            "ForeName": "Steve",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Social Care, Evidence-Based Practice Research Centre (EPRC), Edge Hill University, St Helens Road, Ormskirk, L39 4QP, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Regional Maxillofacial Unit, University Hospital Aintree, Liverpool, L9 1AE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rogers",
+                            "ForeName": "Simon N",
+                            "Initials": "SN"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "Eur Arch Otorhinolaryngol",
+                    "NlmUniqueID": "9002937",
+                    "ISSNLinking": "0937-4477"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Alcohol Drinking",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Ambulatory Care Facilities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Carcinoma, Squamous Cell",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Behavior",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Mouth Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Poverty Areas",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Smoking",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "The authors declare that they have no conflict of interest. Ethical approval All procedures performed in this study were approved by and in accordance with the ethical standards of the Clinical Audit Department, University Hospital Aintree and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. This article does not contain any studies with animals performed by any of the authors. Informed consent Informed consent was obtained from all individual participants included in the study."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Head Neck. 2002 Jun;24(6):521-9",
+                                "ArticleIdList": [
+                                    "12112548"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Oral Maxillofac Surg. 2012 Apr;50(3):208-14",
+                                "ArticleIdList": [
+                                    "21596462"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Oral Maxillofac Surg. 2014 Feb;43(2):147-55",
+                                "ArticleIdList": [
+                                    "24074487"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Arch Otorhinolaryngol. 2016 May;273(5):1235-42",
+                                "ArticleIdList": [
+                                    "25749490"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2000 May;50(10):1385-401",
+                                "ArticleIdList": [
+                                    "10741575"
+                                ]
+                            },
+                            {
+                                "Citation": "Perspect Biol Med. 2003 Summer;46(3 Suppl):S9-23",
+                                "ArticleIdList": [
+                                    "14563071"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med. 2015 Feb;128(2):126-9",
+                                "ArticleIdList": [
+                                    "25232716"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2013 Apr;22(4):807-13",
+                                "ArticleIdList": [
+                                    "22451036"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Cancer Care (Engl). 2015 Mar;24(2):189-97",
+                                "ArticleIdList": [
+                                    "25651100"
+                                ]
+                            },
+                            {
+                                "Citation": "Oral Oncol. 2010 Jun;46(6):445-7",
+                                "ArticleIdList": [
+                                    "20308002"
+                                ]
+                            },
+                            {
+                                "Citation": "J Prosthet Dent. 1999 Sep;82(3):317-21",
+                                "ArticleIdList": [
+                                    "10479259"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Oral Maxillofac Surg. 2015 Apr;53(4):371-9",
+                                "ArticleIdList": [
+                                    "25708200"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Otolaryngol Head Neck Surg. 2009 Apr;135(4):369-75",
+                                "ArticleIdList": [
+                                    "19380359"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Equity Health. 2012 Mar 12;11:12",
+                                "ArticleIdList": [
+                                    "22409902"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Oral Maxillofac Surg. 2016 Jul;54(6):669-76",
+                                "ArticleIdList": [
+                                    "27130568"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Health Sci Educ Theory Pract. 2015 Oct;20(4):873-84",
+                                "ArticleIdList": [
+                                    "25428194"
+                                ]
+                            },
+                            {
+                                "Citation": "Oral Oncol. 2009 Jul;45(7):555-61",
+                                "ArticleIdList": [
+                                    "19028135"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Arch Otorhinolaryngol. 2013 Mar;270(3):1067-74",
+                                "ArticleIdList": [
+                                    "22743645"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Otolaryngol Head Neck Surg. 2010 Apr;136(4):352-7",
+                                "ArticleIdList": [
+                                    "20403851"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Oral Maxillofac Surg. 2006 Jun;44(3):177-86",
+                                "ArticleIdList": [
+                                    "16105713"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Oral Maxillofac Surg. 2010 Jan;48(1):11-7",
+                                "ArticleIdList": [
+                                    "19481316"
+                                ]
+                            },
+                            {
+                                "Citation": "Oral Oncol. 2016 Jan;52:30-6",
+                                "ArticleIdList": [
+                                    "26586367"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "04",
+                        "Day": "04"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "07",
+                        "Day": "11"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "7",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "3",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "7",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "27447962",
+                    "10.1007/s00405-016-4208-x",
+                    "10.1007/s00405-016-4208-x",
+                    "PMC5222928"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27447962)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827447962%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827447962%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84979234465"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84979234465?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84979234465&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84979234465&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84979234465",
+                        "dc:identifier": "SCOPUS_ID:84979234465",
+                        "eid": "2-s2.0-84979234465",
+                        "dc:title": "Is social inequality related to different patient concerns in routine oral cancer follow-up clinics?",
+                        "dc:creator": "Allen S.",
+                        "prism:publicationName": "European Archives of Oto-Rhino-Laryngology",
+                        "prism:issn": "09374477",
+                        "prism:eIssn": "14344726",
+                        "prism:volume": "274",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "451-459",
+                        "prism:coverDate": "2017-01-01",
+                        "prism:coverDisplayDate": "1 January 2017",
+                        "prism:doi": "10.1007/s00405-016-4208-x",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27447962",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "13682",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JZPSXSTI.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27447962"
+            }
+        },
+        "title": "Is social inequality related to different patient concerns in routine oral cancer follow-up clinics?",
+        "full_author_list": [
+            {
+                "clean": "Allen S",
+                "family": "Allen",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Sarah.Allen@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Lowe D",
+                "family": "Lowe",
+                "given": "Derek",
+                "affiliation": {
+                    "name": "Faculty of Health and Social Care, Evidence-Based Practice Research Centre (EPRC), Edge Hill University, St Helens Road, Ormskirk, L39 4QP, UK."
+                }
+            },
+            {
+                "clean": "Harris R",
+                "family": "Harris",
+                "given": "Rebecca V",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Brown S",
+                "family": "Brown",
+                "given": "Steve",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, University of Liverpool, Liverpool, L69 3BX, UK."
+                }
+            },
+            {
+                "clean": "Rogers S",
+                "family": "Rogers",
+                "given": "Simon N",
+                "affiliation": {
+                    "name": "Faculty of Health and Social Care, Evidence-Based Practice Research Centre (EPRC), Edge Hill University, St Helens Road, Ormskirk, L39 4QP, UK."
+                }
+            }
+        ],
+        "first_author": "Allen S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Alcohol Drinking",
+                    "major": "N"
+                },
+                {
+                    "term": "Ambulatory Care Facilities",
+                    "major": "N"
+                },
+                {
+                    "term": "Carcinoma, Squamous Cell",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Behavior",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Mouth Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Poverty Areas",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "Y"
+                },
+                {
+                    "term": "Smoking",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "Y"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Eur Arch Otorhinolaryngol",
+            "volume": "274",
+            "issue": "1"
+        },
+        "abstract": "['Oral cancer has a higher incidence in the lower social strata, and these patients are less likely to engage in supportive interventions and report a poorer quality of life (QoL). The aim of this paper is to compare the Patient Concerns Inventory (PCI) responses across social groups attending routine oral cancer follow-up clinics with particular focus on the deprivation lower quartile. The PCI package is completed by patients as part of their routine review consultation with SNR. Patients were those diagnosed between 2008 and 2012. Deprivation was stratified using the IMD 2010 from postcode. Of the 106 eligible patients, 85\\xa0% used the PCI. Just over half (54\\xa0%) were living in the most deprived quartile, with two-thirds (68\\xa0%) of males in the most deprived quartile, compared with 35\\xa0% of females (p\\xa0=\\xa00.004). In regard to number and type of PCI items selected by patients at their first PCI clinic, there were no notable differences in respect of IMD classification. The two commonest concerns were fear of recurrence (43\\xa0%) and sore mouth (43\\xa0%). The most deprived quartile reported significant problems in regard to mood (p\\xa0=\\xa00.004) and recreation (p\\xa0=\\xa00.02), and a non-significant trend (36 vs 18\\xa0%, p\\xa0=\\xa00.09) in stating their overall QoL as being less than good. It is possible to identify the concerns of patients from lower socioeconomic strata as part of routine follow-up clinics. This allows for targeted multi-professional intervention and supports to improve the outcome in this hard to reach group.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, Institute of Psychology Health and Society, University of Liverpool, Room 111, 1st floor, Block B, Waterhouse Building, 1-5 Brownlow Street, Liverpool, L69 3GL, UK. Sarah.Allen@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

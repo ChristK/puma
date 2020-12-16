@@ -1,0 +1,556 @@
+{
+    "IDs": {
+        "zotero": "7WQ2R79D",
+        "DOI": "10.1080/15398285.2019.1570800",
+        "DOI_filename": "14299b87d644ad99346239343090e9b9",
+        "PMID": "",
+        "scopus": "2-s2.0-85064572268",
+        "hash": "6abe1efb701ba222dd381742a1f50be7"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "7WQ2R79D",
+            "version": 94,
+            "itemType": "journalArticle",
+            "title": "\u2018Dr Google\u2019 Will See You Now! A Review of Online Consumer Information about Anticoagulant and Antithrombotic Medication for Prevention of Recurrent Stroke",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine M. E.",
+                    "lastName": "Gibson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca K.",
+                    "lastName": "Ellis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephanie P.",
+                    "lastName": "Jones"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Consumer Health on the Internet",
+            "volume": "23",
+            "issue": "1",
+            "pages": "1-12",
+            "date": "2019-01-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Consumer Health on the Internet",
+            "language": "en",
+            "DOI": "10.1080/15398285.2019.1570800",
+            "ISSN": "1539-8285, 1539-8293",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/15398285.2019.1570800",
+            "accessDate": "2020-09-10T17:10:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:09Z",
+            "dateModified": "2020-09-10T17:10:09Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        31
+                    ]
+                ],
+                "date-time": "2020-07-31T11:41:57Z",
+                "timestamp": 1596195717278
+            },
+            "reference-count": 21,
+            "publisher": "Informa UK Limited",
+            "issue": "1",
+            "funder": [
+                {
+                    "name": "University of Central Lancashire Undergraduate Research Internship",
+                    "award": []
+                },
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/15398285.2019.1570800",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        16
+                    ]
+                ],
+                "date-time": "2019-04-16T14:37:37Z",
+                "timestamp": 1555425457000
+            },
+            "page": "1-12",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "\u2018Dr Google\u2019 Will See You Now! A Review of Online Consumer Information about Anticoagulant and Antithrombotic Medication for Prevention of Recurrent Stroke",
+            "prefix": "10.1080",
+            "volume": "23",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-3051-1237",
+                    "authenticated-orcid": false,
+                    "given": "Josephine M. E.",
+                    "family": "Gibson",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Preston, PR1 2HE, UK;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rebecca K.",
+                    "family": "Ellis",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Life Sciences &amp; Education, Staffordshire University, Stoke-on-Trent, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-9149-8606",
+                    "authenticated-orcid": false,
+                    "given": "Stephanie P.",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Preston, PR1 2HE, UK;"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        16
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1111/1755-5922.12176",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1136/bmj.e1602",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.1016/S2468-2667(18)30030-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1097/JCN.0000000000000324",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "DOI": "10.1136/jech.53.2.105",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1093/her/16.6.671",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1161/STROKEAHA.112.670844",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1080/02687038.2017.1385052",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1186/1472-6963-13-225",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1186/s12916-014-0151-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "author": "Higgins O.",
+                    "year": "2011",
+                    "volume-title": "A Literature Review on Health Information Seeking Behaviour on the Web: A Health Consumer and Health Professional Perspective"
+                },
+                {
+                    "key": "CIT0014",
+                    "author": "Intercollegiate Stroke Working Party.",
+                    "year": "2012",
+                    "edition": "4",
+                    "volume-title": "National Clinical Guideline for Stroke."
+                },
+                {
+                    "key": "CIT0015",
+                    "author": "Intercollegiate Stroke Working Party",
+                    "year": "2016",
+                    "edition": "5",
+                    "volume-title": "National Clinical Guideline for Stroke."
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1080/13548509608400003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "author": "McLaughlin G. H",
+                    "volume": "8",
+                    "first-page": "639",
+                    "year": "1969",
+                    "journal-title": "Journal of Reading"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1016/j.wneu.2016.02.045",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.4066/AMJ.2012.86",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "unstructured": "Patient Information Forum. 2013. Health Literacy and Health Information Producers \u2013 report. https://www.pifonline.org.uk/wp-content/uploads/2013/09/PiF-Health-Literacy-Report-WEB-NEW-FINAL.pdf 2013."
+                },
+                {
+                    "key": "CIT0021",
+                    "author": "Sabate E",
+                    "year": "2003",
+                    "volume-title": "Adherence to Long-Term Therapies. Evidence for Action"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1016/j.jstrokecerebrovasdis.2013.11.017",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "author": "Stroke Foundation",
+                    "year": "2017",
+                    "volume-title": "Clinical Guidelines for Stroke Management"
+                }
+            ],
+            "container-title": "Journal of Consumer Health on the Internet",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/15398285.2019.1570800",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        21
+                    ]
+                ],
+                "date-time": "2019-04-21T14:03:47Z",
+                "timestamp": 1555855427000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 21,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            4,
+                            16
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1080/15398285.2019.1570800"
+            ],
+            "URL": "http://dx.doi.org/10.1080/15398285.2019.1570800",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1539-8285",
+                "1539-8293"
+            ],
+            "subject": [
+                "Health(social science)"
+            ],
+            "container-title-short": "Journal of Consumer Health on the Internet",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=wchi20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=wchi20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2018-11-29",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-01-11",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-01-14",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-04-16",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1080/15398285.2019.1570800)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F15398285.2019.1570800%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F15398285.2019.1570800%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064572268"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064572268?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064572268&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064572268&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064572268",
+                        "dc:identifier": "SCOPUS_ID:85064572268",
+                        "eid": "2-s2.0-85064572268",
+                        "dc:title": "\u2018Dr Google\u2019 Will See You Now! A Review of Online Consumer Information about Anticoagulant and Antithrombotic Medication for Prevention of Recurrent Stroke",
+                        "dc:creator": "Gibson J.",
+                        "prism:publicationName": "Journal of Consumer Health on the Internet",
+                        "prism:issn": "15398285",
+                        "prism:eIssn": "15398293",
+                        "prism:volume": "23",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "1-12",
+                        "prism:coverDate": "2019-01-02",
+                        "prism:coverDisplayDate": "2 January 2019",
+                        "prism:doi": "10.1080/15398285.2019.1570800",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "4700152747",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "7WQ2R79D.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "\u2018Dr Google\u2019 Will See You Now! A Review of Online Consumer Information about Anticoagulant and Antithrombotic Medication for Prevention of Recurrent Stroke",
+        "full_author_list": [
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine M. E.",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Preston, PR1 2HE, UK;"
+                }
+            },
+            {
+                "clean": "Ellis R",
+                "family": "Ellis",
+                "given": "Rebecca K.",
+                "affiliation": {
+                    "name": "School of Life Sciences &amp; Education, Staffordshire University, Stoke-on-Trent, UK"
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "Stephanie P.",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Preston, PR1 2HE, UK;"
+                }
+            }
+        ],
+        "first_author": "Gibson J",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Journal of Consumer Health on the Internet",
+            "volume": "23",
+            "issue": "1"
+        },
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Nursing, University of Central Lancashire, Preston, PR1 2HE, UK;",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

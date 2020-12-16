@@ -1,0 +1,1200 @@
+{
+    "IDs": {
+        "zotero": "5HKPAQA6",
+        "DOI": "10.1371/journal.pone.0190035",
+        "DOI_filename": "7acfc1e294725123d9ae7571c059abe7",
+        "PMID": "29267375",
+        "scopus": "2-s2.0-85038939215",
+        "hash": "6b6f1f6115a850035b5850124d23c9e3"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "5HKPAQA6",
+            "version": 118,
+            "itemType": "journalArticle",
+            "title": "Breakthrough seizures\u2014Further analysis of the Standard versus New Antiepileptic Drugs (SANAD) study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura J.",
+                    "lastName": "Bonnett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham A.",
+                    "lastName": "Powell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G.",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Hyunmi",
+                    "lastName": "Choi"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "PLOS ONE",
+            "volume": "12",
+            "issue": "12",
+            "pages": "e0190035",
+            "date": "2017-12-21",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLoS ONE",
+            "language": "en",
+            "DOI": "10.1371/journal.pone.0190035",
+            "ISSN": "1932-6203",
+            "shortTitle": "",
+            "url": "https://dx.plos.org/10.1371/journal.pone.0190035",
+            "accessDate": "2020-09-10T17:09:30Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29267375",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:30Z",
+            "dateModified": "2020-09-11T14:54:17Z",
+            "pmid": "29267375"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        9
+                    ]
+                ],
+                "date-time": "2020-05-09T03:41:51Z",
+                "timestamp": 1588995711134
+            },
+            "reference-count": 35,
+            "publisher": "Public Library of Science (PLoS)",
+            "issue": "12",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                12,
+                                21
+                            ]
+                        ],
+                        "date-time": "2017-12-21T00:00:00Z",
+                        "timestamp": 1513814400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000659",
+                    "name": "Research Trainees Coordinating Centre",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "PDF-2015-08-044"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.plosone.org"
+                ],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.1371/journal.pone.0190035",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        21
+                    ]
+                ],
+                "date-time": "2017-12-21T20:50:45Z",
+                "timestamp": 1513889445000
+            },
+            "page": "e0190035",
+            "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Breakthrough seizures\u2014Further analysis of the Standard versus New Antiepileptic Drugs (SANAD) study",
+            "prefix": "10.1371",
+            "volume": "12",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-6981-9212",
+                    "authenticated-orcid": true,
+                    "given": "Laura J.",
+                    "family": "Bonnett",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Graham A.",
+                    "family": "Powell",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anthony G.",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "340",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "8968",
+                    "key": "ref1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Sander JWAS, Hart YM, Shorvon SD. Remission of Epilepsy\u2014Results from the National General-Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "OC Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "ref2",
+                    "author": "JM Pellock",
+                    "year": "2008",
+                    "article-title": "Pediatric Epilepsy: Diagnosis and Therapy: Third Edition"
+                },
+                {
+                    "key": "ref3",
+                    "year": "2006",
+                    "article-title": "Emergency Care and Transportation of the Sick and Injured"
+                },
+                {
+                    "key": "ref4",
+                    "first-page": "182",
+                    "article-title": "Factors precipitating breakthrough seizures in well-controlled epilepsy",
+                    "volume": "42",
+                    "author": "S Kumar",
+                    "year": "2005",
+                    "journal-title": "Indian Pediatr"
+                },
+                {
+                    "issue": "12",
+                    "key": "ref5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1534",
+                    "DOI": "10.1111/j.1499-1654.2000.001534.x",
+                    "article-title": "Distribution of seizure precipitants among epilepsy syndromes",
+                    "volume": "41",
+                    "author": "MM Frucht",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "ref6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "729",
+                    "DOI": "10.1111/j.1528-1157.1979.tb04857.x",
+                    "article-title": "Remission of seizures and relapse in patients with epilepsy",
+                    "volume": "20",
+                    "author": "JF Annegers",
+                    "year": "1979",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "ref7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "31",
+                    "DOI": "10.1111/j.1528-1157.1997.tb01075.x",
+                    "article-title": "Prognosis of epilepsy: a review and further analysis of the first nine years of the British National General Practice Study of Epilepsy, a prospective population-based study",
+                    "volume": "38",
+                    "author": "OC Cockerell",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Pt 3",
+                    "key": "ref8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "617",
+                    "DOI": "10.1093/brain/awh726",
+                    "article-title": "Natural history of treated childhood-onset epilepsy: prospective, long-term population-based study",
+                    "volume": "129",
+                    "author": "M Sillanpaa",
+                    "year": "2006",
+                    "journal-title": "Brain"
+                },
+                {
+                    "issue": "1",
+                    "key": "ref9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "40",
+                    "DOI": "10.17925/USN.2008.04.01.40",
+                    "article-title": "Breakthrough Seizures\u2014Approach to Prevention and Diagnosis",
+                    "volume": "4",
+                    "author": "AB Ettinger",
+                    "year": "2008",
+                    "journal-title": "US Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "ref10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.4103/0972-2327.56312",
+                    "article-title": "Status epilepticus",
+                    "volume": "12",
+                    "author": "A Cherian",
+                    "year": "2009",
+                    "journal-title": "Annals of Indian Academy of Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "ref11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "25",
+                    "DOI": "10.1111/j.1535-7597.2004.04110.x",
+                    "article-title": "Mortality Associated with Status Epilepticus",
+                    "volume": "4",
+                    "author": "JG Boggs",
+                    "year": "2004",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "issue": "1",
+                    "key": "ref12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/1471-2377-13-182",
+                    "article-title": "The frequency and precipitating factors for breakthrough seizures among patients with epilepsy in Uganda",
+                    "volume": "13",
+                    "author": "M Kaddumukasa",
+                    "year": "2013",
+                    "journal-title": "BMC Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "ref13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "165",
+                    "DOI": "10.4103/1110-1083.162002",
+                    "article-title": "Assessment of precipitating factors of breakthrough seizures in epileptic patients",
+                    "volume": "52",
+                    "author": "M Al-Kattan",
+                    "year": "2015",
+                    "journal-title": "The Egyptian Journal of Neurology, Psychiatry and Neurosurgery"
+                },
+                {
+                    "issue": "9566",
+                    "key": "ref14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "AG Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "9566",
+                    "key": "ref15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1016",
+                    "DOI": "10.1016/S0140-6736(07)60461-9",
+                    "article-title": "The SANAD study of effectiveness of valproate, lamotrigine, or topiramate for generalised and unclassifiable epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "AG Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "6",
+                    "key": "ref16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "716",
+                    "DOI": "10.1109/TAC.1974.1100705",
+                    "article-title": "A New Look at the Statistical Model Identification",
+                    "volume": "19",
+                    "author": "H Akaike",
+                    "year": "1974",
+                    "journal-title": "Automatic Control, IEEE Transactions on"
+                },
+                {
+                    "key": "ref17",
+                    "author": "D Collett",
+                    "year": "2003",
+                    "article-title": "Modelling Survival Data in Medical Research"
+                },
+                {
+                    "issue": "1",
+                    "key": "ref18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "239",
+                    "DOI": "10.1093/biomet/69.1.239",
+                    "article-title": "Partial Residuals for the Proportional Hazards Regression-Model",
+                    "volume": "69",
+                    "author": "D Schoenfeld",
+                    "year": "1982",
+                    "journal-title": "Biometrika"
+                },
+                {
+                    "issue": "4",
+                    "key": "ref19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "361",
+                    "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+                    "article-title": "Multivariable prognostic models: Issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors",
+                    "volume": "15",
+                    "author": "FE Harrell",
+                    "year": "1996",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "ref20",
+                    "year": "2015",
+                    "article-title": "R: A language and environment for statistical computing"
+                },
+                {
+                    "issue": "8",
+                    "key": "ref21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "801",
+                    "DOI": "10.1001/archneur.1992.00530320025008",
+                    "article-title": "The National General Practice Study of Epilepsy. The syndromic classification of the International League Against Epilepsy applied to epilepsy in a general population",
+                    "volume": "49",
+                    "author": "M Manford",
+                    "year": "1992",
+                    "journal-title": "Arch Neurol"
+                },
+                {
+                    "issue": "5",
+                    "key": "ref22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "964",
+                    "DOI": "10.1093/ije/28.5.964",
+                    "article-title": "The use of fractional polynomials to model continuous risk variables in epidemiology",
+                    "volume": "28",
+                    "author": "P Royston",
+                    "year": "1999",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "issue": "3",
+                    "key": "ref23",
+                    "first-page": "429",
+                    "article-title": "Regression Using Fractional Polynomials of Continuous Covariates\u2014Parsimonious Parametric Modeling",
+                    "volume": "43",
+                    "author": "P Royston",
+                    "year": "1994",
+                    "journal-title": "Applied Statistics-Journal of the Royal Statistical Society Series C"
+                },
+                {
+                    "key": "ref24",
+                    "author": "P Royston",
+                    "year": "2008",
+                    "article-title": "Multivariable Model-Building\u2014A pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables"
+                },
+                {
+                    "issue": "4",
+                    "key": "ref25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "561",
+                    "DOI": "10.1055/s-0038-1634008",
+                    "article-title": "Building multivariable regression models with continuous covariates in clinical epidemiology\u2014with an emphasis on fractional polynomials",
+                    "volume": "44",
+                    "author": "P Royston",
+                    "year": "2005",
+                    "journal-title": "Methods Inf Med"
+                },
+                {
+                    "key": "ref26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.1214/ss/1177013607",
+                    "article-title": "Comment: Generalized Additive Models",
+                    "volume": "1",
+                    "author": "CJ Stone",
+                    "year": "1986",
+                    "journal-title": "Statistical Science"
+                },
+                {
+                    "key": "ref27",
+                    "author": "DW Hosmer",
+                    "year": "2000",
+                    "article-title": "Applied Logistic Regression",
+                    "DOI": "10.1002/0471722146",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "2",
+                    "key": "ref28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1002/sim.4780030207",
+                    "article-title": "Regression Modeling Strategies for Improved Prognostic Prediction",
+                    "volume": "3",
+                    "author": "FE Harrell",
+                    "year": "1984",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "issue": "4",
+                    "key": "ref29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "331",
+                    "DOI": "10.1016/S1474-4422(12)70018-2",
+                    "article-title": "Prognostic factors for time to treatment failure and time to 12 months of remission for patients with focal epilepsy: post-hoc, subgroup analyses of data from the SANAD trial",
+                    "volume": "11",
+                    "author": "LJ Bonnett",
+                    "year": "2012",
+                    "journal-title": "Lancet Neurol"
+                },
+                {
+                    "key": "ref30",
+                    "author": "LJ Bonnett",
+                    "year": "2012",
+                    "article-title": "Prognostic Factors for Time to Treatment Failure and Time to 12 Month Remission for patients with focal epilepsy: Post Hoc and Subgroup Analyses of SANAD",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "ref31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "603",
+                    "DOI": "10.1136/jnnp-2013-306040",
+                    "article-title": "Time to 12-month remission and treatment failure for generalised and unclassified epilepsy",
+                    "volume": "85",
+                    "author": "LJ Bonnett",
+                    "year": "2013",
+                    "journal-title": "J Neurol Neurosurg Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "ref32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "552",
+                    "DOI": "10.1212/WNL.0000000000000673",
+                    "article-title": "Treatment outcome after failure of a first antiepileptic drug",
+                    "volume": "83",
+                    "author": "LJ Bonnett",
+                    "year": "2014",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "2",
+                    "key": "ref33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1375/136905203321536263",
+                    "article-title": "A twin study of genetic influences on epilepsy outcome",
+                    "volume": "6",
+                    "author": "MR Johnson",
+                    "year": "2003",
+                    "journal-title": "Twin research: the official journal of the International Society for Twin Studies"
+                },
+                {
+                    "issue": "2",
+                    "key": "ref34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "51",
+                    "DOI": "10.1111/j.1535-7511.2006.00092.x",
+                    "article-title": "The multidrug transporter hypothesis of refractory epilepsy: corroboration and contradiction in equal measure",
+                    "volume": "6",
+                    "author": "GJ Sills",
+                    "year": "2006",
+                    "journal-title": "Epilepsy currents / American Epilepsy Society"
+                },
+                {
+                    "key": "ref35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "volume": "8",
+                    "author": "C Tudur Smith",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                }
+            ],
+            "container-title": "PLOS ONE",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://dx.plos.org/10.1371/journal.pone.0190035",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        9
+                    ]
+                ],
+                "date-time": "2020-05-09T03:18:12Z",
+                "timestamp": 1588994292000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "given": "Hyunmi",
+                    "family": "Choi",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        21
+                    ]
+                ]
+            },
+            "references-count": 35,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12,
+                            21
+                        ]
+                    ]
+                },
+                "issue": "12"
+            },
+            "URL": "http://dx.doi.org/10.1371/journal.pone.0190035",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1932-6203"
+            ],
+            "subject": [
+                "General Biochemistry, Genetics and Molecular Biology",
+                "General Agricultural and Biological Sciences",
+                "General Medicine"
+            ],
+            "container-title-short": "PLoS ONE"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29267375",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "01",
+                    "Day": "16"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1371/journal.pone.0190035"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "12",
+                            "Day": "21"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1932-6203",
+                        "JournalIssue": {
+                            "Volume": "12",
+                            "Issue": "12",
+                            "PubDate": {
+                                "Year": "2017"
+                            }
+                        },
+                        "Title": "PloS one",
+                        "ISOAbbreviation": "PLoS ONE"
+                    },
+                    "ArticleTitle": "Breakthrough seizures-Further analysis of the Standard versus New Antiepileptic Drugs (SANAD) study.",
+                    "Pagination": {
+                        "MedlinePgn": "e0190035"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To develop prognostic models for risk of a breakthrough seizure, risk of seizure recurrence after a breakthrough seizure, and likelihood of achieving 12-month remission following a breakthrough seizure. A breakthrough seizure is one that occurs following at least 12 months remission whilst on treatment.",
+                            "We analysed data from the SANAD study. This long-term randomised trial compared treatments for participants with newly diagnosed epilepsy. Multivariable Cox models investigated how clinical factors affect the probability of each outcome. Best fitting multivariable models were produced with variable reduction by Akaike's Information Criterion. Risks associated with combinations of risk factors were calculated from each multivariable model.",
+                            "Significant factors in the multivariable model for risk of a breakthrough seizure following 12-month remission were number of tonic-clonic seizures by achievement of 12-month remission, time taken to achieve 12-month remission, and neurological insult. Significant factors in the model for risk of seizure recurrence following a breakthrough seizure were total number of drugs attempted to achieve 12-month remission, time to achieve 12-month remission prior to breakthrough seizure, and breakthrough seizure treatment decision. Significant factors in the model for likelihood of achieving 12-month remission after a breakthrough seizure were gender, age at breakthrough seizure, time to achieve 12-month remission prior to breakthrough, and breakthrough seizure treatment decision.",
+                            "This is the first analysis to consider risk of a breakthrough seizure and subsequent outcomes. The described models can be used to identify people most likely to have a breakthrough seizure, a seizure recurrence following a breakthrough seizure, and to achieve 12-month remission following a breakthrough seizure. The results suggest that focussing on achieving 12-month remission swiftly represents the best therapeutic aim to reduce the risk of a breakthrough seizure and subsequent negative outcomes. This will aid individual patient risk stratification and the design of future epilepsy trials."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-6981-9212"
+                            ],
+                            "LastName": "Bonnett",
+                            "ForeName": "Laura J",
+                            "Initials": "LJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Powell",
+                            "ForeName": "Graham A",
+                            "Initials": "GA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "PDF-2015-08-044",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "RP-PG-0606-1062",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Randomized Controlled Trial",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "PLoS One",
+                    "NlmUniqueID": "101285081",
+                    "ISSNLinking": "1932-6203"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Multivariate Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prognosis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remission Induction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "physiopathology"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Trials. 2007 Nov 05;8:34",
+                                "ArticleIdList": [
+                                    "17983480"
+                                ]
+                            },
+                            {
+                                "Citation": "Methods Inf Med. 2005;44(4):561-71",
+                                "ArticleIdList": [
+                                    "16342923"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2014 Aug 5;83(6):552-60",
+                                "ArticleIdList": [
+                                    "24994842"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1996 Feb 28;15(4):361-87",
+                                "ArticleIdList": [
+                                    "8668867"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Indian Acad Neurol. 2009 Jul;12(3):140-53",
+                                "ArticleIdList": [
+                                    "20174493"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2014 Jun;85(6):603-10",
+                                "ArticleIdList": [
+                                    "24292995"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1984 Apr-Jun;3(2):143-52",
+                                "ArticleIdList": [
+                                    "6463451"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Curr. 2004 Jan;4(1):25-27",
+                                "ArticleIdList": [
+                                    "15346141"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 1999 Oct;28(5):964-74",
+                                "ArticleIdList": [
+                                    "10597998"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Neurol. 2013 Nov 21;13:182",
+                                "ArticleIdList": [
+                                    "24261551"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1016-26",
+                                "ArticleIdList": [
+                                    "17382828"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 1992 Aug;49(8):801-8",
+                                "ArticleIdList": [
+                                    "1524512"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1997 Jan;38(1):31-46",
+                                "ArticleIdList": [
+                                    "9024182"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Curr. 2006 Mar-Apr;6(2):51-4",
+                                "ArticleIdList": [
+                                    "16604202"
+                                ]
+                            },
+                            {
+                                "Citation": "Indian Pediatr. 2005 Feb;42(2):182-3",
+                                "ArticleIdList": [
+                                    "15767720"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2012 Apr;11(4):331-40",
+                                "ArticleIdList": [
+                                    "22377180"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1979 Dec;20(6):729-37",
+                                "ArticleIdList": [
+                                    "499118"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain. 2006 Mar;129(Pt 3):617-24",
+                                "ArticleIdList": [
+                                    "16401617"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "Twin Res. 2003 Apr;6(2):140-6",
+                                "ArticleIdList": [
+                                    "12724000"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000 Dec;41(12):1534-9",
+                                "ArticleIdList": [
+                                    "11114210"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "04",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29267375",
+                    "10.1371/journal.pone.0190035",
+                    "PONE-D-17-13927",
+                    "PMC5739445"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29267375)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829267375%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829267375%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038939215"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038939215?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85038939215&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85038939215&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85038939215",
+                        "dc:identifier": "SCOPUS_ID:85038939215",
+                        "eid": "2-s2.0-85038939215",
+                        "dc:title": "Breakthrough seizures\u2014Further analysis of the Standard versus New Antiepileptic Drugs (SANAD) study",
+                        "dc:creator": "Bonnett L.",
+                        "prism:publicationName": "PLoS ONE",
+                        "prism:eIssn": "19326203",
+                        "prism:volume": "12",
+                        "prism:issueIdentifier": "12",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-12-01",
+                        "prism:coverDisplayDate": "December 2017",
+                        "prism:doi": "10.1371/journal.pone.0190035",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29267375",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e0190035",
+                        "source-id": "10600153309",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "5HKPAQA6.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29267375"
+            }
+        },
+        "title": "Breakthrough seizures-Further analysis of the Standard versus New Antiepileptic Drugs (SANAD) study.",
+        "full_author_list": [
+            {
+                "clean": "Bonnett L",
+                "family": "Bonnett",
+                "given": "Laura J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                }
+            },
+            {
+                "clean": "Powell G",
+                "family": "Powell",
+                "given": "Graham A",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, Merseyside, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Bonnett L",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Multivariate Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Prognosis",
+                    "major": "N"
+                },
+                {
+                    "term": "Remission Induction",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "PLoS ONE",
+            "volume": "12",
+            "issue": "12"
+        },
+        "abstract": "['To develop prognostic models for risk of a breakthrough seizure, risk of seizure recurrence after a breakthrough seizure, and likelihood of achieving 12-month remission following a breakthrough seizure. A breakthrough seizure is one that occurs following at least 12 months remission whilst on treatment.', \"We analysed data from the SANAD study. This long-term randomised trial compared treatments for participants with newly diagnosed epilepsy. Multivariable Cox models investigated how clinical factors affect the probability of each outcome. Best fitting multivariable models were produced with variable reduction by Akaike's Information Criterion. Risks associated with combinations of risk factors were calculated from each multivariable model.\", 'Significant factors in the multivariable model for risk of a breakthrough seizure following 12-month remission were number of tonic-clonic seizures by achievement of 12-month remission, time taken to achieve 12-month remission, and neurological insult. Significant factors in the model for risk of seizure recurrence following a breakthrough seizure were total number of drugs attempted to achieve 12-month remission, time to achieve 12-month remission prior to breakthrough seizure, and breakthrough seizure treatment decision. Significant factors in the model for likelihood of achieving 12-month remission after a breakthrough seizure were gender, age at breakthrough seizure, time to achieve 12-month remission prior to breakthrough, and breakthrough seizure treatment decision.', 'This is the first analysis to consider risk of a breakthrough seizure and subsequent outcomes. The described models can be used to identify people most likely to have a breakthrough seizure, a seizure recurrence following a breakthrough seizure, and to achieve 12-month remission following a breakthrough seizure. The results suggest that focussing on achieving 12-month remission swiftly represents the best therapeutic aim to reduce the risk of a breakthrough seizure and subsequent negative outcomes. This will aid individual patient risk stratification and the design of future epilepsy trials.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, University of Liverpool, Liverpool, Merseyside, United Kingdom.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

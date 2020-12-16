@@ -1,0 +1,1026 @@
+{
+    "IDs": {
+        "zotero": "SSSTTAA5",
+        "DOI": "10.2217/pgs-2017-0076",
+        "DOI_filename": "6cc6ee1d9601e106bdc4db2acf15b509",
+        "PMID": "29095091",
+        "scopus": "2-s2.0-85034454883",
+        "hash": "09492ba44f3c49c5b1e85dd06b6ece47"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "SSSTTAA5",
+            "version": 180,
+            "itemType": "journalArticle",
+            "title": "An assessment of the impact of pharmacogenomics on health disparities: a systematic literature review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Antony",
+                    "lastName": "Martin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Maden"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nigel",
+                    "lastName": "Fleeman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Alfirevic"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alan",
+                    "lastName": "Haycox"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Pharmacogenomics",
+            "volume": "18",
+            "issue": "16",
+            "pages": "1541-1550",
+            "date": "11/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Pharmacogenomics",
+            "language": "en",
+            "DOI": "10.2217/pgs-2017-0076",
+            "ISSN": "1462-2416, 1744-8042",
+            "shortTitle": "An assessment of the impact of pharmacogenomics on health disparities",
+            "url": "https://www.futuremedicine.com/doi/10.2217/pgs-2017-0076",
+            "accessDate": "2020-09-10T17:10:18Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29095091",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/HJ4UGGXF"
+            },
+            "dateAdded": "2020-09-10T17:10:18Z",
+            "dateModified": "2020-09-15T14:26:26Z",
+            "pmid": "29095091"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2020-03-29T10:42:39Z",
+                "timestamp": 1585478559444
+            },
+            "reference-count": 30,
+            "publisher": "Future Medicine Ltd",
+            "issue": "16",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        11
+                    ]
+                ]
+            },
+            "DOI": "10.2217/pgs-2017-0076",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        2
+                    ]
+                ],
+                "date-time": "2017-11-02T15:25:23Z",
+                "timestamp": 1509636323000
+            },
+            "page": "1541-1550",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "An assessment of the impact of pharmacogenomics on health disparities: a systematic literature review",
+            "prefix": "10.2217",
+            "volume": "18",
+            "author": [
+                {
+                    "given": "Antony",
+                    "family": "Martin",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1\u20135 Brownlow Street, Liverpool, L69 3GL, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1\u20135 Brownlow Street, Liverpool, L69 3GL, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Michelle",
+                    "family": "Maden",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1\u20135 Brownlow Street, Liverpool, L69 3GL, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Nigel",
+                    "family": "Fleeman",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Liverpool Reviews &amp; Implementation Group, Universityof Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ana",
+                    "family": "Alfirevic",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1\u20135 Brownlow Street, Liverpool, L69 3GL, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Alan",
+                    "family": "Haycox",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Liverpool Health Economics, University ofLiverpool Management School, Chatham Street, Liverpool, L69 7ZH, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1\u20135 Brownlow Street, Liverpool, L69 3GL, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "1057",
+            "reference": [
+                {
+                    "key": "B1",
+                    "DOI": "10.1371/journal.pmed.1001727",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B2",
+                    "DOI": "10.1093/heapro/6.3.217",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B3",
+                    "author": "EPEMED",
+                    "year": "2014",
+                    "volume-title": "Personalized Medicine in Europe \u2013 Enhancing Patient Access to Pharmaceutical Companion Products"
+                },
+                {
+                    "key": "B4",
+                    "unstructured": "Shargel L, Wu-Pong S, ABC Y. Applied Biopharmaceutics and Pharmacokinetics, 5th ed. McGraw-Hill, NY, USA, 258\u2013267 (2005)."
+                },
+                {
+                    "key": "B6",
+                    "DOI": "10.1007/s10897-014-9712-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B7",
+                    "DOI": "10.1186/2046-4053-2-43",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B8",
+                    "author": "CRD",
+                    "journal-title": "Systematic reviews: CRD's guidance for undertaking reviews in healthcare"
+                },
+                {
+                    "key": "B9",
+                    "DOI": "10.1371/journal.pmed.1001333",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B11",
+                    "DOI": "10.1017/S0266462312000086",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B12",
+                    "DOI": "10.1016/j.jclinepi.2010.04.026",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B13",
+                    "DOI": "10.2217/14622416.8.3.217",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B14",
+                    "DOI": "10.2217/14622416.9.5.511",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B15",
+                    "author": "Gladding P",
+                    "volume": "18",
+                    "first-page": "S11",
+                    "year": "2009",
+                    "journal-title": "Hear. Lung Circ."
+                },
+                {
+                    "key": "B16",
+                    "DOI": "10.2217/pgs.12.104",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B17",
+                    "DOI": "10.2165/11595080-000000000-00000",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B18",
+                    "DOI": "10.1056/NEJMsa1507092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B19",
+                    "DOI": "10.2165/11595080-000000000-00000",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B20",
+                    "DOI": "10.1007/s40273-016-0397-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B21",
+                    "DOI": "10.1056/NEJMoa1310669",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B22",
+                    "DOI": "10.1056/NEJMoa1310669",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B23",
+                    "DOI": "10.1258/jrsm.2012.120193",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B24",
+                    "DOI": "10.1038/tpj.2016.41",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B25",
+                    "DOI": "10.1016/S0140-6736(13)60681-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B26",
+                    "DOI": "10.1038/tpj.2016.57",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B27",
+                    "DOI": "10.1182/blood-2014-04-568436",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B28",
+                    "DOI": "10.1056/NEJMoa0808227",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B29",
+                    "DOI": "10.1038/clpt.2013.105",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B30",
+                    "DOI": "10.1161/CIRCGENETICS.115.001318",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B31",
+                    "DOI": "10.1200/JCO.2015.62.0096",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B32",
+                    "author": "WHO",
+                    "year": "2008",
+                    "volume-title": "Closing the gap in a generation"
+                }
+            ],
+            "container-title": "Pharmacogenomics",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.futuremedicine.com/doi/pdf/10.2217/pgs-2017-0076",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        11,
+                        20
+                    ]
+                ],
+                "date-time": "2019-11-20T10:40:25Z",
+                "timestamp": 1574246425000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        11
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            11
+                        ]
+                    ]
+                },
+                "issue": "16"
+            },
+            "alternative-id": [
+                "10.2217/pgs-2017-0076"
+            ],
+            "URL": "http://dx.doi.org/10.2217/pgs-2017-0076",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1462-2416",
+                "1744-8042"
+            ],
+            "container-title-short": "Pharmacogenomics"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "disparities",
+                        "efficacy",
+                        "equity",
+                        "genetics",
+                        "pharmacogenomics"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29095091",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "07",
+                    "Day": "13"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "01",
+                    "Day": "18"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.2217/pgs-2017-0076"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "02"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1744-8042",
+                        "JournalIssue": {
+                            "Volume": "18",
+                            "Issue": "16",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Nov"
+                            }
+                        },
+                        "Title": "Pharmacogenomics",
+                        "ISOAbbreviation": "Pharmacogenomics"
+                    },
+                    "ArticleTitle": "An assessment of the impact of pharmacogenomics on health disparities: a systematic literature review.",
+                    "Pagination": {
+                        "MedlinePgn": "1541-1550"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This review assessed evidence of disparities in benefits of pharmacogenomics related to 'model performance' in subgroups of patients and studies which reported impact on health inequalities. 'Model performance' refers to the ability of algorithms including clinical, environmental and genetic information to guide treatment. A total of 4978 abstracts were screened by one reviewer and 30% (1494) were double screened by a second independent reviewer, after which data extraction was performed. Additional forward and backward citation searching of reference lists was conducted. Investigators independently double rated study quality and applicability of included studies. Only five individual studies were identified which met our inclusion criteria, but were contradictory in their conclusions. While three studies of genotype-guided dosing of warfarin reported that ethnic disparities in healthcare may widen, two other studies (one reporting on warfarin and reporting on clopidogrel) suggested that disparities in healthcare may reduce. There is a paucity of studies which evaluates the impact of pharmacogenomics on health disparities. Further work is required not only to evaluate health disparities between ethnic groups and countries but also within ethnic groups in the same country and solutions need to be identified to overcome these disparities."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Martin",
+                            "ForeName": "Antony",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maden",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Reviews & Implementation Group, Universityof Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Fleeman",
+                            "ForeName": "Nigel",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alfirevic",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Health Economics, University ofLiverpool Management School, Chatham Street, Liverpool, L69 7ZH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Haycox",
+                            "ForeName": "Alan",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L006758/1",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Pharmacogenomics",
+                    "NlmUniqueID": "100897350",
+                    "ISSNLinking": "1462-2416"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Delivery of Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Ethnic Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Genotype",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Pharmacogenetics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Pharmacogenomics. 2007 Mar;8(3):217-25",
+                                "ArticleIdList": [
+                                    "17324110"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacogenomics. 2008 May;9(5):511-26",
+                                "ArticleIdList": [
+                                    "18466099"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2008 Nov 8;372(9650):1661-9",
+                                "ArticleIdList": [
+                                    "18994664"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2009 Jan 22;360(4):363-75",
+                                "ArticleIdList": [
+                                    "19106083"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2011 Apr;64(4):383-94",
+                                "ArticleIdList": [
+                                    "21195583"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Technol Assess Health Care. 2012 Apr;28(2):138-44",
+                                "ArticleIdList": [
+                                    "22559755"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacogenomics. 2012 Aug;13(11):1247-56",
+                                "ArticleIdList": [
+                                    "22920395"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2012 Nov 1;30(11):1067-84",
+                                "ArticleIdList": [
+                                    "22974536"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2012;9(10):e1001333",
+                                "ArticleIdList": [
+                                    "23222917"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2013 Feb;106(2):41-4",
+                                "ArticleIdList": [
+                                    "23401634"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Pharmacol Ther. 2013 Sep;94(3):317-23",
+                                "ArticleIdList": [
+                                    "23698643"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2013 Aug 31;382(9894):790-6",
+                                "ArticleIdList": [
+                                    "23755828"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2013 Jun 22;2:43",
+                                "ArticleIdList": [
+                                    "23799964"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2013 Dec 12;369(24):2283-93",
+                                "ArticleIdList": [
+                                    "24251361"
+                                ]
+                            },
+                            {
+                                "Citation": "J Genet Couns. 2014 Jun;23(3):263-88",
+                                "ArticleIdList": [
+                                    "24719248"
+                                ]
+                            },
+                            {
+                                "Citation": "Blood. 2014 Oct 2;124(14):2298-305",
+                                "ArticleIdList": [
+                                    "25079360"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2014 Sep 22;11(9):e1001727",
+                                "ArticleIdList": [
+                                    "25243463"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Oncol. 2016 Jan 1;34(1):91-101",
+                                "ArticleIdList": [
+                                    "26578615"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2016 Aug;34(8):771-93",
+                                "ArticleIdList": [
+                                    "26984520"
+                                ]
+                            },
+                            {
+                                "Citation": "Circ Cardiovasc Genet. 2016 Apr;9(2):185-8",
+                                "ArticleIdList": [
+                                    "27094200"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacogenomics J. 2016 Oct;16(5):478-84",
+                                "ArticleIdList": [
+                                    "27272045"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacogenomics J. 2017 Dec;17(6):494-500",
+                                "ArticleIdList": [
+                                    "27503578"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2016 Aug 18;375(7):655-65",
+                                "ArticleIdList": [
+                                    "27532831"
+                                ]
+                            },
+                            {
+                                "Citation": "Per Med. 2010 May;7(3):319-325",
+                                "ArticleIdList": [
+                                    "29776219"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "7",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29095091",
+                    "10.2217/pgs-2017-0076",
+                    "PMC5694021"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29095091)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829095091%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829095091%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034454883"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034454883?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034454883&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034454883&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034454883",
+                        "dc:identifier": "SCOPUS_ID:85034454883",
+                        "eid": "2-s2.0-85034454883",
+                        "dc:title": "An assessment of the impact of pharmacogenomics on health disparities: A systematic literature review",
+                        "dc:creator": "Martin A.",
+                        "prism:publicationName": "Pharmacogenomics",
+                        "prism:issn": "14622416",
+                        "prism:eIssn": "17448042",
+                        "prism:volume": "18",
+                        "prism:issueIdentifier": "16",
+                        "prism:pageRange": "1541-1550",
+                        "prism:coverDate": "2017-11-01",
+                        "prism:coverDisplayDate": "November 2017",
+                        "prism:doi": "10.2217/pgs-2017-0076",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29095091",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "21167",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "SSSTTAA5.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29095091"
+            }
+        },
+        "title": "An assessment of the impact of pharmacogenomics on health disparities: a systematic literature review.",
+        "full_author_list": [
+            {
+                "clean": "Martin A",
+                "family": "Martin",
+                "given": "Antony",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Maden M",
+                "family": "Maden",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Fleeman N",
+                "family": "Fleeman",
+                "given": "Nigel",
+                "affiliation": {
+                    "name": "Liverpool Reviews & Implementation Group, Universityof Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                }
+            },
+            {
+                "clean": "Alfirevic A",
+                "family": "Alfirevic",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Haycox A",
+                "family": "Haycox",
+                "given": "Alan",
+                "affiliation": {
+                    "name": "Liverpool Health Economics, University ofLiverpool Management School, Chatham Street, Liverpool, L69 7ZH, UK."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            }
+        ],
+        "first_author": "Martin A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Delivery of Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Ethnic Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Genotype",
+                    "major": "N"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Pharmacogenetics",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Pharmacogenomics",
+            "volume": "18",
+            "issue": "16"
+        },
+        "abstract": "[\"This review assessed evidence of disparities in benefits of pharmacogenomics related to 'model performance' in subgroups of patients and studies which reported impact on health inequalities. 'Model performance' refers to the ability of algorithms including clinical, environmental and genetic information to guide treatment. A total of 4978 abstracts were screened by one reviewer and 30% (1494) were double screened by a second independent reviewer, after which data extraction was performed. Additional forward and backward citation searching of reference lists was conducted. Investigators independently double rated study quality and applicability of included studies. Only five individual studies were identified which met our inclusion criteria, but were contradictory in their conclusions. While three studies of genotype-guided dosing of warfarin reported that ethnic disparities in healthcare may widen, two other studies (one reporting on warfarin and reporting on clopidogrel) suggested that disparities in healthcare may reduce. There is a paucity of studies which evaluates the impact of pharmacogenomics on health disparities. Further work is required not only to evaluate health disparities between ethnic groups and countries but also within ethnic groups in the same country and solutions need to be identified to overcome these disparities.\"]",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "NIHR CLAHRC NWC Wolfson Centre for Personalised Medicine, University of Liverpool, Block A: Waterhouse Buildings, 1-5 Brownlow Street, Liverpool, L69 3GL, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

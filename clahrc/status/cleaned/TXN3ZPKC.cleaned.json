@@ -1,0 +1,450 @@
+{
+    "IDs": {
+        "zotero": "TXN3ZPKC",
+        "DOI": "10.1521/jscp.2018.37.3.159",
+        "DOI_filename": "ad3f599776987ac9f11a24fcfea9ceb6",
+        "PMID": "",
+        "scopus": "2-s2.0-85047387602",
+        "hash": "9ea7f0729d2a5f3d5464b7e1a61a5770"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "TXN3ZPKC",
+            "version": 85,
+            "itemType": "journalArticle",
+            "title": "Home Is Where You Hang Your Hat: Host Town Identity, But Not Hometown Identity, Protects Against Mental Health Symptoms Associated with Financial Stress",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Elahi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Hampson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "H. J.",
+                    "lastName": "Bodycote"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "K.",
+                    "lastName": "Sitko"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "R. G.",
+                    "lastName": "White"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "R. P.",
+                    "lastName": "Bentall"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Social and Clinical Psychology",
+            "volume": "37",
+            "issue": "3",
+            "pages": "159-181",
+            "date": "03/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Social and Clinical Psychology",
+            "language": "en",
+            "DOI": "10.1521/jscp.2018.37.3.159",
+            "ISSN": "0736-7236",
+            "shortTitle": "Home Is Where You Hang Your Hat",
+            "url": "https://guilfordjournals.com/doi/10.1521/jscp.2018.37.3.159",
+            "accessDate": "2020-09-10T17:08:36Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:36Z",
+            "dateModified": "2020-09-10T17:08:36Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        6
+                    ]
+                ],
+                "date-time": "2020-06-06T10:23:30Z",
+                "timestamp": 1591439010453
+            },
+            "reference-count": 3,
+            "publisher": "Guilford Publications",
+            "issue": "3",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1521/jscp.2018.37.3.159",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        3
+                    ]
+                ],
+                "date-time": "2018-04-03T15:26:46Z",
+                "timestamp": 1522769206000
+            },
+            "page": "159-181",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Home Is Where You Hang Your Hat: Host Town Identity, But Not Hometown Identity, Protects Against Mental Health Symptoms Associated with Financial Stress",
+            "prefix": "10.1521",
+            "volume": "37",
+            "author": [
+                {
+                    "given": "A.",
+                    "family": "Elahi",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, England."
+                        }
+                    ]
+                },
+                {
+                    "given": "J. C.",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, England."
+                        }
+                    ]
+                },
+                {
+                    "given": "C.",
+                    "family": "Hampson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, England."
+                        }
+                    ]
+                },
+                {
+                    "given": "H. J.",
+                    "family": "Bodycote",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, England."
+                        }
+                    ]
+                },
+                {
+                    "given": "K.",
+                    "family": "Sitko",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Leeds, England."
+                        }
+                    ]
+                },
+                {
+                    "given": "R. G.",
+                    "family": "White",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, England."
+                        }
+                    ]
+                },
+                {
+                    "given": "R. P.",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Sheffield, England."
+                        }
+                    ]
+                }
+            ],
+            "member": "377",
+            "reference": [
+                {
+                    "key": "p_1",
+                    "DOI": "10.1037/0033-2909.117.3.497",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "p_2",
+                    "author": "Berry J. W.",
+                    "volume": "46",
+                    "first-page": "5",
+                    "year": "1997",
+                    "journal-title": "Applied Psychology"
+                },
+                {
+                    "key": "p_3",
+                    "DOI": "10.2307/1131226",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Journal of Social and Clinical Psychology",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        3
+                    ]
+                ],
+                "date-time": "2018-04-03T15:26:50Z",
+                "timestamp": 1522769210000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 3,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1521/jscp.2018.37.3.159"
+            ],
+            "URL": "http://dx.doi.org/10.1521/jscp.2018.37.3.159",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0736-7236"
+            ],
+            "subject": [
+                "Clinical Psychology",
+                "Social Psychology"
+            ],
+            "container-title-short": "Journal of Social and Clinical Psychology"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1521/jscp.2018.37.3.159)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1521%2Fjscp.2018.37.3.159%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1521%2Fjscp.2018.37.3.159%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047387602"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047387602?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047387602&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047387602&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047387602",
+                        "dc:identifier": "SCOPUS_ID:85047387602",
+                        "eid": "2-s2.0-85047387602",
+                        "dc:title": "Home is where you hang your hat: Host town identity, but not hometown identity, protects against mental health symptoms associated with financial stress",
+                        "dc:creator": "Elahi A.",
+                        "prism:publicationName": "Journal of Social and Clinical Psychology",
+                        "prism:issn": "07367236",
+                        "prism:volume": "37",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "159-181",
+                        "prism:coverDate": "2018-01-01",
+                        "prism:coverDisplayDate": "2018",
+                        "prism:doi": "10.1521/jscp.2018.37.3.159",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "30085",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "TXN3ZPKC.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Home Is Where You Hang Your Hat: Host Town Identity, But Not Hometown Identity, Protects Against Mental Health Symptoms Associated with Financial Stress",
+        "full_author_list": [
+            {
+                "clean": "Elahi A",
+                "family": "Elahi",
+                "given": "A.",
+                "affiliation": {
+                    "name": "University of Liverpool, England."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "J. C.",
+                "affiliation": {
+                    "name": "University of Liverpool, England."
+                }
+            },
+            {
+                "clean": "Hampson C",
+                "family": "Hampson",
+                "given": "C.",
+                "affiliation": {
+                    "name": "University of Liverpool, England."
+                }
+            },
+            {
+                "clean": "Bodycote H",
+                "family": "Bodycote",
+                "given": "H. J.",
+                "affiliation": {
+                    "name": "University of Liverpool, England."
+                }
+            },
+            {
+                "clean": "Sitko K",
+                "family": "Sitko",
+                "given": "K.",
+                "affiliation": {
+                    "name": "University of Leeds, England."
+                }
+            },
+            {
+                "clean": "White R",
+                "family": "White",
+                "given": "R. G.",
+                "affiliation": {
+                    "name": "University of Liverpool, England."
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "R. P.",
+                "affiliation": {
+                    "name": "University of Sheffield, England."
+                }
+            }
+        ],
+        "first_author": "Elahi A",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Journal of Social and Clinical Psychology",
+            "volume": "37",
+            "issue": "3"
+        },
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, England.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

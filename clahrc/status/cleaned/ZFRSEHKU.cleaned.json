@@ -1,0 +1,2633 @@
+{
+    "IDs": {
+        "zotero": "ZFRSEHKU",
+        "DOI": "10.3310/hta21350",
+        "DOI_filename": "dcab81d81e6d3d8b2b3574abeb9e0b84",
+        "PMID": "28648148",
+        "scopus": "2-s2.0-85021272205",
+        "hash": "f245f8e969200c907c51e77fe626fa18"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ZFRSEHKU",
+            "version": 202,
+            "itemType": "journalArticle",
+            "title": "Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer study)",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark B",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Adele",
+                    "lastName": "Ring"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Byng"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pippa",
+                    "lastName": "Anderson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rod S",
+                    "lastName": "Taylor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Caryn",
+                    "lastName": "Matthews"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tirril",
+                    "lastName": "Harris"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vashti",
+                    "lastName": "Berry"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Byrne"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elliot",
+                    "lastName": "Carter"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pam",
+                    "lastName": "Clarke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura",
+                    "lastName": "Cocking"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Suzanne",
+                    "lastName": "Edwards"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Emsley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mauro",
+                    "lastName": "Fornasiero"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lucy",
+                    "lastName": "Frith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaun",
+                    "lastName": "Harris"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Huxley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Siw",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Kinderman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "King"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Liv",
+                    "lastName": "Kosnes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Marshall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dave",
+                    "lastName": "Mercer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carl",
+                    "lastName": "May"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Debbie",
+                    "lastName": "Nolan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ceri",
+                    "lastName": "Phillips"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Rawcliffe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexandra V",
+                    "lastName": "Sardani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elizabeth",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sam",
+                    "lastName": "Thompson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane",
+                    "lastName": "Vickery"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Brian",
+                    "lastName": "Wainman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Warner"
+                }
+            ],
+            "abstractNote": "Background\n              Depression and debt are common in the UK. Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer) aimed to assess the clinical effectiveness and cost-effectiveness of the addition of a primary care debt counselling advice service to usual care for patients with depression and debt. However, the study was terminated early during the internal pilot trial phase because of recruitment delays. This report describes the rationale, methods and findings of the pilot study, and implications for future research.\n            \n            \n              Objectives\n              The overarching aim of the internal pilot was to identify and resolve problems, thereby assessing the feasibility of the main trial. The specific objectives were to confirm methods for practice recruitment and the ability to recruit patients via the proposed approaches; to determine the acceptability of the study interventions and outcome measures; to assess contamination; to confirm the randomisation method for main trial and the level of participant attrition; and to check the robustness of data collection systems.\n            \n            \n              Design\n              An adaptive, parallel, two-group multicentre randomised controlled pilot trial with a nested mixed-methods process and economic evaluation. Both individual- and cluster (general practice)-level were was used in the pilot phase to assign participants to intervention or control groups.\n            \n            \n              Setting\n              General practices in England and Wales.\n            \n            \n              Participants\n              Individuals were included who were aged \u2265\u200918 years, scored \u2265\u200914 on the Beck Depression Inventory II and self-identified as having debt worries. The main exclusion criteria were being actively suicidal or psychotic and/or severely depressed and unresponsive to treatment; having a severe addiction to alcohol/illicit drugs; being unable/unwilling to give written informed consent; currently participating in other research including follow-up phases; having received Citizens Advice Bureau (CAB) debt advice in the past year; and not wanting debt advice via a general practice.\n            \n            \n              Interventions\n              The participants in the intervention group were given debt advice provided by the CAB and shared biopsychosocial assessment, in addition to treatment as usual (TAU) and two debt advice leaflets. The participants in the control group were given advice leaflets provided by the general practitioner and TAU only.\n            \n            \n              Main outcome measures\n              (1) Outcomes of the pilot trial \u2013 the proportion of eligible patients who consented, the number of participants recruited compared with target, assessment of contamination, and assessment of patient satisfaction with intervention and outcome measures. (2) Participant outcomes \u2013 primary \u2013 Beck Depression Inventory II; secondary \u2013 psychological well-being, health and social care utilisation, service satisfaction, substance misuse, record of priority/non-priority debts, life events and difficulties, and explanatory measures. Outcomes were assessed at baseline (pre-randomisation) and at 4 months post randomisation. Other data sources \u2013 qualitative interviews were conducted with participants, clinicians and CAB advisors.\n            \n            \n              Results\n              Of the 238 expressions of interest screened, 61 participants (26%) were recruited and randomised (32 in the intervention group and 29 in the control group). All participants provided baseline outcomes and 52 provided the primary outcome at 4 months\u2019 follow-up (14.7% dropout). Seventeen participants allocated to the intervention saw a CAB advisor. Descriptive statistics are reported for participants with complete outcomes at baseline and 4 months\u2019 follow-up. Our qualitative findings suggest that the relationship between debt and depression is complex, and the impact of each on the other is compounded by other psychological, social and contextual influences.\n            \n            \n              Conclusions\n              As a result of low recruitment, this trial was terminated at the internal pilot phase and was too small for inferential statistical analysis. We recommend ways to reduce this risk when conducting complex trials among vulnerable populations recruited in community settings. These cover trial design, the design and delivery of interventions, recruitment strategies and support for sites.\n            \n            \n              Trial registration\n              Current Controlled Trials ISRCTN79705874.\n            \n            \n              Funding\n              \n                This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in\n                Health Technology Assessment\n                ; Vol. 21, No. 35. See the NIHR Journals Library website for further project information. Mark Gabbay and Adele Ring are part-funded by NIHR Collaborations for Leadership in Applied Health Research and Care (CLAHRC) North West Coast and Richard Byng and Rod S Taylor, Vashti Berry and Elizabeth Shaw part-funded by NIHR CLAHRC South West Peninsula.",
+            "publicationTitle": "Health Technology Assessment",
+            "volume": "21",
+            "issue": "35",
+            "pages": "1-164",
+            "date": "06/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Technol Assess",
+            "language": "en",
+            "DOI": "10.3310/hta21350",
+            "ISSN": "1366-5278, 2046-4924",
+            "shortTitle": "Debt Counselling for Depression in Primary Care",
+            "url": "https://www.journalslibrary.nihr.ac.uk/hta/hta21350",
+            "accessDate": "2020-09-10T17:09:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28648148",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:07Z",
+            "dateModified": "2020-09-15T14:40:56Z",
+            "pmid": "28648148"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        4
+                    ]
+                ],
+                "date-time": "2020-06-04T09:40:59Z",
+                "timestamp": 1591263659693
+            },
+            "reference-count": 84,
+            "publisher": "National Institute for Health Research",
+            "issue": "35",
+            "license": [
+                {
+                    "URL": "http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/non-commercial-government-licence.htm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                6,
+                                1
+                            ]
+                        ],
+                        "date-time": "2017-06-01T00:00:00Z",
+                        "timestamp": 1496275200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000664",
+                    "name": "Health Technology Assessment Programme",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "11/148/01"
+                    ]
+                },
+                {
+                    "name": "NIHR Collaborations for Leadership in Applied Health Research and Care North West Coast",
+                    "award": []
+                },
+                {
+                    "name": "NIHR Collaborations for Leadership in Applied Health Research and Care South West Peninsula",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "abstract": "<jats:sec id=\"abs1-1\">\n                  <jats:title>Background</jats:title>\n                  <jats:p>Depression and debt are common in the UK. Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer) aimed to assess the clinical effectiveness and cost-effectiveness of the addition of a primary care debt counselling advice service to usual care for patients with depression and debt. However, the study was terminated early during the internal pilot trial phase because of recruitment delays. This report describes the rationale, methods and findings of the pilot study, and implications for future research.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-2\">\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>The overarching aim of the internal pilot was to identify and resolve problems, thereby assessing the feasibility of the main trial. The specific objectives were to confirm methods for practice recruitment and the ability to recruit patients via the proposed approaches; to determine the acceptability of the study interventions and outcome measures; to assess contamination; to confirm the randomisation method for main trial and the level of participant attrition; and to check the robustness of data collection systems.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-3\">\n                  <jats:title>Design</jats:title>\n                  <jats:p>An adaptive, parallel, two-group multicentre randomised controlled pilot trial with a nested mixed-methods process and economic evaluation. Both individual- and cluster (general practice)-level were was used in the pilot phase to assign participants to intervention or control groups.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-4\">\n                  <jats:title>Setting</jats:title>\n                  <jats:p>General practices in England and Wales.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-5\">\n                  <jats:title>Participants</jats:title>\n                  <jats:p>Individuals were included who were aged \u2265\u200918 years, scored \u2265\u200914 on the Beck Depression Inventory II and self-identified as having debt worries. The main exclusion criteria were being actively suicidal or psychotic and/or severely depressed and unresponsive to treatment; having a severe addiction to alcohol/illicit drugs; being unable/unwilling to give written informed consent; currently participating in other research including follow-up phases; having received Citizens Advice Bureau (CAB) debt advice in the past year; and not wanting debt advice via a general practice.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-6\">\n                  <jats:title>Interventions</jats:title>\n                  <jats:p>The participants in the intervention group were given debt advice provided by the CAB and shared biopsychosocial assessment, in addition to treatment as usual (TAU) and two debt advice leaflets. The participants in the control group were given advice leaflets provided by the general practitioner and TAU only.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-7\">\n                  <jats:title>Main outcome measures</jats:title>\n                  <jats:p>(1) Outcomes of the pilot trial \u2013 the proportion of eligible patients who consented, the number of participants recruited compared with target, assessment of contamination, and assessment of patient satisfaction with intervention and outcome measures. (2) Participant outcomes \u2013 primary \u2013 Beck Depression Inventory II; secondary \u2013 psychological well-being, health and social care utilisation, service satisfaction, substance misuse, record of priority/non-priority debts, life events and difficulties, and explanatory measures. Outcomes were assessed at baseline (pre-randomisation) and at 4 months post randomisation. Other data sources \u2013 qualitative interviews were conducted with participants, clinicians and CAB advisors.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-8\">\n                  <jats:title>Results</jats:title>\n                  <jats:p>Of the 238 expressions of interest screened, 61 participants (26%) were recruited and randomised (32 in the intervention group and 29 in the control group). All participants provided baseline outcomes and 52 provided the primary outcome at 4 months\u2019 follow-up (14.7% dropout). Seventeen participants allocated to the intervention saw a CAB advisor. Descriptive statistics are reported for participants with complete outcomes at baseline and 4 months\u2019 follow-up. Our qualitative findings suggest that the relationship between debt and depression is complex, and the impact of each on the other is compounded by other psychological, social and contextual influences.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-9\">\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>As a result of low recruitment, this trial was terminated at the internal pilot phase and was too small for inferential statistical analysis. We recommend ways to reduce this risk when conducting complex trials among vulnerable populations recruited in community settings. These cover trial design, the design and delivery of interventions, recruitment strategies and support for sites.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-10\">\n                  <jats:title>Trial registration</jats:title>\n                  <jats:p>Current Controlled Trials ISRCTN79705874.</jats:p>\n               </jats:sec>\n               <jats:sec id=\"abs1-11\">\n                  <jats:title>Funding</jats:title>\n                  <jats:p>This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in <jats:italic>Health Technology Assessment</jats:italic>; Vol. 21, No. 35. See the NIHR Journals Library website for further project information. Mark Gabbay and Adele Ring are part-funded by NIHR Collaborations for Leadership in Applied Health Research and Care (CLAHRC) North West Coast and Richard Byng and Rod S Taylor, Vashti Berry and Elizabeth Shaw part-funded by NIHR CLAHRC South West Peninsula.</jats:p>\n               </jats:sec>",
+            "DOI": "10.3310/hta21350",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        26
+                    ]
+                ],
+                "date-time": "2017-06-26T08:33:38Z",
+                "timestamp": 1498466018000
+            },
+            "page": "1-164",
+            "update-policy": "http://dx.doi.org/10.3310/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer study)",
+            "prefix": "10.3310",
+            "volume": "21",
+            "clinical-trial-number": [
+                {
+                    "clinical-trial-number": "isrctn79705874",
+                    "registry": "10.18810/isrctn",
+                    "type": "results"
+                }
+            ],
+            "author": [
+                {
+                    "given": "Mark B",
+                    "family": "Gabbay",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Adele",
+                    "family": "Ring",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard",
+                    "family": "Byng",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Pippa",
+                    "family": "Anderson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rod S",
+                    "family": "Taylor",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Health Research, University of Exeter Medical School, Exeter, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Caryn",
+                    "family": "Matthews",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Citizens Advice Bureau, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Tirril",
+                    "family": "Harris",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Service and Population Research, King\u2019s College London, London, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Vashti",
+                    "family": "Berry",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Health Research, University of Exeter Medical School, Exeter, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Paula",
+                    "family": "Byrne",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Elliot",
+                    "family": "Carter",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Pam",
+                    "family": "Clarke",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Laura",
+                    "family": "Cocking",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Suzanne",
+                    "family": "Edwards",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University Medical School, Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard",
+                    "family": "Emsley",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mauro",
+                    "family": "Fornasiero",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lucy",
+                    "family": "Frith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Shaun",
+                    "family": "Harris",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Peter",
+                    "family": "Huxley",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Centre for Mental Health and Society, School of Social Sciences, Bangor University, Bangor, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Siw",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Citizens Advice Bureau, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Peter",
+                    "family": "Kinderman",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Michael",
+                    "family": "King",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Psychiatry, University College London, London, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Liv",
+                    "family": "Kosnes",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Daniel",
+                    "family": "Marshall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Dave",
+                    "family": "Mercer",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Carl",
+                    "family": "May",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Faculty of Life Sciences, University of Southampton, Southampton, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Debbie",
+                    "family": "Nolan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Citizens Advice Bureau, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ceri",
+                    "family": "Phillips",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Tim",
+                    "family": "Rawcliffe",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Lancashire Care NHS Foundation Trust, Lancashire, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Alexandra V",
+                    "family": "Sardani",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Elizabeth",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sam",
+                    "family": "Thompson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jane",
+                    "family": "Vickery",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Brian",
+                    "family": "Wainman",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Warner",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "6221",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key20170606125101975_ref1-bib1",
+                    "author": "NIHR HTA Programme",
+                    "year": "2002",
+                    "volume-title": "Provision of Debt Counselling in Primary Care for People with Depression and Related Debt Problems"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "535",
+                    "DOI": "10.1177/0038038509103208",
+                    "article-title": "Implementing, embedding, and integrating practices: an outline of normalization process theory",
+                    "volume": "43",
+                    "author": "May",
+                    "year": "2009",
+                    "journal-title": "Sociology"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib3",
+                    "author": "Praxis Evaluation and Research Liverpool",
+                    "year": "2013",
+                    "volume-title": "CAB Advice in Health Centres Pilot Evaluation Report"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib4",
+                    "author": "Beaumont",
+                    "year": "2012",
+                    "volume-title": "Measuring National Well-being, Health, 2012"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "362",
+                    "DOI": "10.1192/bjp.bp.107.039966",
+                    "article-title": "Prevalence of common mental disorders in general practice attendees across Europe",
+                    "volume": "192",
+                    "author": "King",
+                    "year": "2008",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib6",
+                    "author": "Goldberg",
+                    "year": "1992",
+                    "volume-title": "Common Mental Disorders: A Bio-social Model"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib7",
+                    "author": "National Institute for Health and Care Excellence (NICE)",
+                    "year": "2009",
+                    "volume-title": "Depression in Adults: The Treatment and Management of Depression in Adults"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "520",
+                    "DOI": "10.1192/bjp.bp.108.058636",
+                    "article-title": "Recent trends in the incidence of recorded depression in primary care",
+                    "volume": "195",
+                    "author": "Rait",
+                    "year": "2009",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "250",
+                    "DOI": "10.1080/14034940601072364",
+                    "article-title": "Patient, clinician, and general practice factors in long-term certified sickness",
+                    "volume": "35",
+                    "author": "Shiels",
+                    "year": "2007",
+                    "journal-title": "Scand J Public Health"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "467",
+                    "DOI": "10.1136/oemed-2014-102307",
+                    "article-title": "Factors associated with the length of fit note-certified sickness episodes in the UK",
+                    "volume": "72",
+                    "author": "Gabbay",
+                    "year": "2015",
+                    "journal-title": "Occup Environ Med"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib11",
+                    "author": "Sainsbury Centre for Mental Health Policy",
+                    "year": "2007",
+                    "volume-title": "Mental Health at Work: Developing the Business Case"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib12",
+                    "author": "Lelliott",
+                    "year": "2008",
+                    "volume-title": "Mental Health and Work DWP Report"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib13",
+                    "author": "Morawiec",
+                    "year": "2016",
+                    "volume-title": "A Picture of Over-indebtedness"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "675",
+                    "DOI": "10.1016/j.puhe.2010.08.019",
+                    "article-title": "Common mental disorders, unemployment and welfare benefits in England",
+                    "volume": "124",
+                    "author": "Ford",
+                    "year": "2010",
+                    "journal-title": "Public Health"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1508",
+                    "DOI": "10.1093/ije/dyu048",
+                    "article-title": "Job loss, wealth and depression during the Great Recession in the USA and Europe",
+                    "volume": "43",
+                    "author": "Riumallo-Herl",
+                    "year": "2014",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e5142",
+                    "DOI": "10.1136/bmj.e5142",
+                    "article-title": "Suicides associated with the 2008-10 economic recession in England: time trend analysis",
+                    "volume": "345",
+                    "author": "Barr",
+                    "year": "2012",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib17",
+                    "author": "Chamberlain",
+                    "year": "2016",
+                    "volume-title": "Household Debt Inequalities"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib18",
+                    "author": "Lucchino",
+                    "year": "2012",
+                    "volume-title": "Inequality, Debt and Growth"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib19",
+                    "author": "The Financial Inclusion Centre",
+                    "year": "2011",
+                    "volume-title": "Report 1: Debt and Household Incomes"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "h1775",
+                    "DOI": "10.1136/bmj.h1775",
+                    "article-title": "Austerity, sanctions, and the rise of food banks in the UK",
+                    "volume": "350",
+                    "author": "Loopstra",
+                    "year": "2015",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "22",
+                    "key": "key20170606125101975_ref1-bib21",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.3310/hta13220",
+                    "article-title": "Randomised controlled trial to determine the clinical effectiveness and cost-effectiveness of selective serotonin reuptake inhibitors plus supportive care, versus supportive care alone, for mild to moderate depression with somatic symptoms in primary care: the THREAD (THREshold for AntiDepressant response) study",
+                    "volume": "13",
+                    "author": "Kendrick",
+                    "year": "2009",
+                    "journal-title": "Health Technol Assess"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib22",
+                    "author": "Money Advice Service",
+                    "year": "2013",
+                    "volume-title": "Indebted Lives, the Complexities of Life in Debt"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib23",
+                    "author": "StepChange",
+                    "year": "2016",
+                    "volume-title": "Over 7 Million Brits Kept Awake by Money Worries"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib24",
+                    "author": "Citizens Advice",
+                    "year": "2016",
+                    "volume-title": "The State of Debt Collection: The Case for Fairness in Government Debt Collection Practice"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib25",
+                    "author": "The Government Office for Science",
+                    "year": "2008",
+                    "volume-title": "Foresight Mental Capital and Wellbeing Project (2008): Final Project Report"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib26",
+                    "author": "Gov.uk",
+                    "year": "2016",
+                    "volume-title": "Options for Paying Off Your Debts"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib27",
+                    "author": "Citizens Advice",
+                    "year": "2015",
+                    "volume-title": "Our Annual Report and Accounts 201415"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib28",
+                    "first-page": "88",
+                    "article-title": "Mental disorder in people with debt in the general population",
+                    "volume": "6",
+                    "author": "Jenkins",
+                    "year": "2009",
+                    "journal-title": "Public Health Medicine"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "128",
+                    "DOI": "10.1111/j.1365-2850.2007.01053.x",
+                    "article-title": "Mental health and debt: challenges for knowledge, practice and identity",
+                    "volume": "14",
+                    "author": "Fitch",
+                    "year": "2007",
+                    "journal-title": "J Psychiatr Ment Health Nurs"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "966",
+                    "DOI": "10.1037/a0013786",
+                    "article-title": "Mindfulness-based cognitive therapy to prevent relapse in recurrent depression",
+                    "volume": "76",
+                    "author": "Kuyken",
+                    "year": "2008",
+                    "journal-title": "J Consult Clin Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib31",
+                    "author": "Knapp",
+                    "first-page": "24",
+                    "year": "2011",
+                    "volume-title": "Mental Health Promotion and Mental Illness Prevention: The Economic Case"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib32",
+                    "author": "National Institute for Health and Care Excellence (NICE)",
+                    "year": "2015",
+                    "volume-title": "Clinical Knowledge Summary: Depression"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib33",
+                    "author": "Wagmiller",
+                    "year": "2003",
+                    "volume-title": "Debt and Assets Among Low-income Families"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "642",
+                    "DOI": "10.1016/j.joep.2005.01.002",
+                    "article-title": "Debt and distress: evaluating the psychological cost of credit",
+                    "volume": "26",
+                    "author": "Brown",
+                    "year": "2005",
+                    "journal-title": "J Econ Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib35",
+                    "author": "Cummins",
+                    "year": "2012",
+                    "volume-title": "Australian Unity Wellbeing Index Survey 11: Report 11.0: The Wellbeing of Australians-personal Financial Debt. Part A: The Report, Part B: Appended Tables"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib36",
+                    "author": "Citizens Advice",
+                    "year": "2014",
+                    "volume-title": "Six in Ten People in Debt Affected by Mental Health Problems"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib37",
+                    "author": "Mind",
+                    "year": "2011",
+                    "volume-title": "Still in the Red: Update on Debt and Mental Health"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib38",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1148",
+                    "DOI": "10.1016/j.cpr.2013.08.009",
+                    "article-title": "The relationship between personal unsecured debt and mental and physical health: a systematic review and meta-analysis",
+                    "volume": "33",
+                    "author": "Richardson",
+                    "year": "2013",
+                    "journal-title": "Clin Psychol Rev"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "388",
+                    "DOI": "10.1016/j.jhealeco.2010.02.003",
+                    "article-title": "Debt and depression",
+                    "volume": "29",
+                    "author": "Bridges",
+                    "year": "2010",
+                    "journal-title": "J Health Econ"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "153",
+                    "DOI": "10.1108/13619321111202313",
+                    "article-title": "The relationship between personal debt and mental health: a systematic review",
+                    "volume": "16",
+                    "author": "Fitch",
+                    "year": "2011",
+                    "journal-title": "Ment Health Rev J"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1094",
+                    "DOI": "10.1111/j.1468-0297.2012.02519.x",
+                    "article-title": "Debt and depression: causal links and social norm effects",
+                    "volume": "122",
+                    "author": "Gathergood",
+                    "year": "2012",
+                    "journal-title": "Econ J"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "88",
+                    "DOI": "10.1186/1472-6963-6-88",
+                    "article-title": "A systematic review of complex system interventions designed to increase recovery from depression in primary care",
+                    "volume": "6",
+                    "author": "Gunn",
+                    "year": "2006",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1097",
+                    "DOI": "10.7326/0003-4819-127-12-199712150-00008",
+                    "article-title": "Collaborative management of chronic illness",
+                    "volume": "127",
+                    "author": "Von Korff",
+                    "year": "1997",
+                    "journal-title": "Ann Intern Med"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib44",
+                    "first-page": "1",
+                    "article-title": "Self-management support interventions for persons with chronic disease: an evidence-based analysis",
+                    "volume": "13",
+                    "author": "Franek",
+                    "year": "2013",
+                    "journal-title": "Ont Health Technol Assess Ser"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib45",
+                    "author": "Marmot",
+                    "year": "2010",
+                    "volume-title": "Fair Society, Healthy Lives"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "133",
+                    "DOI": "10.1192/apt.11.2.133",
+                    "article-title": "Shared care for people with mental illness: a GP\u2019s perspective",
+                    "volume": "11",
+                    "author": "Lester",
+                    "year": "2005",
+                    "journal-title": "Adv Psychiatr Treat"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib47",
+                    "author": "Dean",
+                    "year": "2012",
+                    "volume-title": "Debt and Mental Health"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib48",
+                    "author": "Beck",
+                    "year": "1996",
+                    "volume-title": "Manual for the Beck Depression Inventory-II"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "737",
+                    "DOI": "10.1017/S0033291700008448",
+                    "article-title": "The development of a computerized assessment for minor psychiatric disorder",
+                    "volume": "18",
+                    "author": "Lewis",
+                    "year": "1988",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "893",
+                    "DOI": "10.1037/0022-006X.56.6.893",
+                    "article-title": "An inventory for measuring clinical anxiety: psychometric properties",
+                    "volume": "56",
+                    "author": "Beck",
+                    "year": "1988",
+                    "journal-title": "J Consult Clin Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "63",
+                    "DOI": "10.1186/1477-7525-5-63",
+                    "article-title": "The Warwick-Edinburgh Mental Well-being Scale (WEMWBS): development and UK validation",
+                    "volume": "5",
+                    "author": "Tennant",
+                    "year": "2007",
+                    "journal-title": "Health Qual Life Outcomes"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib52",
+                    "author": "Public Health England",
+                    "journal-title": "Public Health Outcomes Framework"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib53",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1727",
+                    "DOI": "10.1007/s11136-011-9903-x",
+                    "article-title": "Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L)",
+                    "volume": "20",
+                    "author": "Herdman",
+                    "year": "2011",
+                    "journal-title": "Qual Life Res"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib54",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1007/s10198-013-0502-3",
+                    "article-title": "The development of new research methods for the valuation of EQ-5D-5L",
+                    "volume": "14",
+                    "author": "Devlin",
+                    "year": "2013",
+                    "journal-title": "Eur J Health Econ"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib55",
+                    "author": "Health and Social Care Information Centre",
+                    "year": "2014",
+                    "volume-title": "Patient Reported Outcome Measures (PROMs) in England \u2013 2011\u20132012, Special Topic, EQ-5D Index Analysis"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "7",
+                    "DOI": "10.1177/002076409904500102",
+                    "article-title": "Application and results of the Manchester Short Assessment of Quality of Life (MANSA)",
+                    "volume": "45",
+                    "author": "Priebe",
+                    "year": "1999",
+                    "journal-title": "Int J Soc Psychiatry"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib57",
+                    "author": "Beecham",
+                    "first-page": "200",
+                    "year": "2001",
+                    "edition": "2nd edn",
+                    "volume-title": "Measuring Mental Health Needs"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib58",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "14",
+                    "DOI": "10.1097/00043764-200201000-00004",
+                    "article-title": "Stanford presenteeism scale: health status and employee productivity",
+                    "volume": "44",
+                    "author": "Koopman",
+                    "year": "2002",
+                    "journal-title": "J Occup Environ Med"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib59",
+                    "first-page": "63",
+                    "article-title": "The development of a General Satisfaction Questionnaire for use in programme evaluation",
+                    "volume": "3",
+                    "author": "Huxley",
+                    "year": "1991",
+                    "journal-title": "Social Work Soc Sci Rev"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib60",
+                    "author": "Babor",
+                    "year": "2001",
+                    "edition": "2nd edn.",
+                    "volume-title": "The Alcohol Use Disorders Identification Test \u2013 Guidelines for Use in Primary Care"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "301",
+                    "DOI": "10.1111/j.1360-0443.1989.tb03463.x",
+                    "article-title": "Diagnostic validity of the drug abuse screening test in the assessment of DSM-III drug disorders",
+                    "volume": "84",
+                    "author": "Gavin",
+                    "year": "1989",
+                    "journal-title": "Br J Addict"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "30",
+                    "DOI": "10.1192/bjp.150.1.30",
+                    "article-title": "Life events, vulnerability and onset of depression: some refinements",
+                    "volume": "150",
+                    "author": "Brown",
+                    "year": "1987",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib63",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "673",
+                    "DOI": "10.1177/0898264311431304",
+                    "article-title": "Neither a borrower nor a lender be: the relative importance of debt and SES for mental health among older adults",
+                    "volume": "24",
+                    "author": "Drentea",
+                    "year": "2012",
+                    "journal-title": "J Aging Health"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib64",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "771",
+                    "DOI": "10.1017/S0033291710001261",
+                    "article-title": "Personal debt and suicidal ideation",
+                    "volume": "41",
+                    "author": "Meltzer",
+                    "year": "2011",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "570",
+                    "DOI": "10.1037/0022-3514.60.4.570",
+                    "article-title": "The will and the ways: development and validation of an individual-differences measure of hope",
+                    "volume": "60",
+                    "author": "Snyder",
+                    "year": "1991",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib66",
+                    "first-page": "139",
+                    "article-title": "Hopelessness, depression, suicidal ideation, and clinical diagnosis of depression",
+                    "volume": "23",
+                    "author": "Beck",
+                    "year": "1993",
+                    "journal-title": "Suicide Life Threat Behav"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib67",
+                    "first-page": "740",
+                    "article-title": "Involuntary subordination or dependency as key dimensions of depressive vulnerability?",
+                    "volume": "51",
+                    "author": "Gilbert",
+                    "year": "1995",
+                    "journal-title": "J Clin Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib68",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "713",
+                    "DOI": "10.1016/0191-8869(94)90149-X",
+                    "article-title": "An exploration of shame measures \u2013 I: the Other as Shamer scale",
+                    "volume": "17",
+                    "author": "Goss",
+                    "year": "1994",
+                    "journal-title": "Pers Individ Diff"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "855",
+                    "DOI": "10.1037/0022-3514.72.4.855",
+                    "article-title": "Rumination and psychological distress among bereaved partners",
+                    "volume": "72",
+                    "author": "Nolen-Hoeksema",
+                    "year": "1997",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib70",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "504",
+                    "DOI": "10.1037/0021-843X.109.3.504",
+                    "article-title": "The role of rumination in depressive disorders and mixed anxiety/depressive symptoms",
+                    "volume": "109",
+                    "author": "Nolen-Hoeksema",
+                    "year": "2000",
+                    "journal-title": "J Abnorm Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "309",
+                    "DOI": "10.1023/A:1023918517378",
+                    "article-title": "Dysphoric rumination impairs concentration on academic tasks",
+                    "volume": "27",
+                    "author": "Lyubomirsky",
+                    "year": "2003",
+                    "journal-title": "Cogn Ther Res"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "115",
+                    "DOI": "10.1037/0022-3514.61.1.115",
+                    "article-title": "A prospective study of depression and posttraumatic stress symptoms after a natural disaster: the 1989 Loma Prieta Earthquake",
+                    "volume": "61",
+                    "author": "Nolen-Hoeksema",
+                    "year": "1991",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib73",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "163",
+                    "DOI": "10.1037/0033-2909.134.2.163",
+                    "article-title": "Constructive and unconstructive repetitive thought",
+                    "volume": "134",
+                    "author": "Watkins",
+                    "year": "2008",
+                    "journal-title": "Psychol Bull"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib74",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1383",
+                    "DOI": "10.1136/bmj.321.7273.1383",
+                    "article-title": "Randomised controlled trial of non-directive counselling, cognitive-behaviour therapy, and usual general practitioner care for patients with depression. I: clinical effectiveness",
+                    "volume": "321",
+                    "author": "Ward",
+                    "year": "2000",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib75",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "785",
+                    "DOI": "10.1016/j.jclinepi.2003.12.013",
+                    "article-title": "Patterns of intra-cluster correlation from primary care research to inform study design and analysis",
+                    "volume": "57",
+                    "author": "Adams",
+                    "year": "2004",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib76",
+                    "author": "Department for Communities and Local Government",
+                    "year": "2015",
+                    "volume-title": "English Indices of Deprivation 2015"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib77",
+                    "author": "Corbin",
+                    "year": "2008",
+                    "edition": "3rd edn",
+                    "volume-title": "Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory",
+                    "DOI": "10.4135/9781452230153",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib78",
+                    "unstructured": "Thompson S. Understanding the Relationship Between Debt Problems and Psychological Distress. DClin thesis. London: University of East London; 2015."
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib79",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "499",
+                    "DOI": "10.1016/S0277-9536(00)00155-6",
+                    "article-title": "Mental health and stress in the workplace: the case of general practice in the UK",
+                    "volume": "52",
+                    "author": "Calnan",
+                    "year": "2001",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib80",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1449",
+                    "DOI": "10.1136/bmj.331.7530.1449",
+                    "article-title": "Deprivation and volunteering by general practices: cross sectional analysis of a national primary care system",
+                    "volume": "331",
+                    "author": "Mackay",
+                    "year": "2005",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib81",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "66",
+                    "DOI": "10.3399/bjgp11X549090",
+                    "article-title": "GPs at the deep end",
+                    "volume": "61",
+                    "author": "Watt",
+                    "year": "2011",
+                    "journal-title": "Br J Gen Pract"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib82",
+                    "author": "Kind",
+                    "year": "1999",
+                    "volume-title": "UK Population Norms for EQ-5D"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib83",
+                    "author": "Janssen",
+                    "first-page": "19",
+                    "year": "2014",
+                    "volume-title": "Self-Reported Population Health: An International Perspective Based on EQ-5D",
+                    "DOI": "10.1007/978-94-007-7596-1_3",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key20170606125101975_ref1-bib84",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "174",
+                    "DOI": "10.1002/1099-0879(200007)7:3<174::AID-CPP236>3.0.CO;2-U",
+                    "article-title": "The relationship of shame, social anxiety and depression: the role of the evaluation of social rank",
+                    "volume": "7",
+                    "author": "Gilbert",
+                    "year": "2000",
+                    "journal-title": "Clin Psychol Psychother"
+                }
+            ],
+            "container-title": "Health Technology Assessment",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.journalslibrary.nihr.ac.uk/publications/hta21350/hta21350.xml",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://njl-admin.nihr.ac.uk/document/download/2002718",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://www.journalslibrary.nihr.ac.uk/publications/hta21350/hta21350.xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://njl-admin.nihr.ac.uk/document/download/2010548",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        4
+                    ]
+                ],
+                "date-time": "2020-06-04T09:21:20Z",
+                "timestamp": 1591262480000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 84,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            6
+                        ]
+                    ]
+                },
+                "issue": "35"
+            },
+            "alternative-id": [
+                "10.3310/hta21350"
+            ],
+            "URL": "http://dx.doi.org/10.3310/hta21350",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1366-5278",
+                "2046-4924"
+            ],
+            "subject": [
+                "Health Policy"
+            ],
+            "container-title-short": "Health Technol Assess",
+            "assertion": [
+                {
+                    "value": "This content has been made freely available to all.",
+                    "name": "free",
+                    "label": "Free to read"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28648148",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "02",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.3310/hta21350"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "2046-4924",
+                        "JournalIssue": {
+                            "Volume": "21",
+                            "Issue": "35",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "06"
+                            }
+                        },
+                        "Title": "Health technology assessment (Winchester, England)",
+                        "ISOAbbreviation": "Health Technol Assess"
+                    },
+                    "ArticleTitle": "Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer study).",
+                    "Pagination": {
+                        "MedlinePgn": "1-164"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Depression and debt are common in the UK. Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer) aimed to assess the clinical effectiveness and cost-effectiveness of the addition of a primary care debt counselling advice service to usual care for patients with depression and debt. However, the study was terminated early during the internal pilot trial phase because of recruitment delays. This report describes the rationale, methods and findings of the pilot study, and implications for future research.",
+                            "The overarching aim of the internal pilot was to identify and resolve problems, thereby assessing the feasibility of the main trial. The specific objectives were to confirm methods for practice recruitment and the ability to recruit patients via the proposed approaches; to determine the acceptability of the study interventions and outcome measures; to assess contamination; to confirm the randomisation method for main trial and the level of participant attrition; and to check the robustness of data collection systems.",
+                            "An adaptive, parallel, two-group multicentre randomised controlled pilot trial with a nested mixed-methods process and economic evaluation. Both individual- and cluster (general practice)-level were was used in the pilot phase to assign participants to intervention or control groups.",
+                            "General practices in England and Wales.",
+                            "Individuals were included who were aged \u2265\u200918 years, scored \u2265\u200914 on the Beck Depression Inventory II and self-identified as having debt worries. The main exclusion criteria were being actively suicidal or psychotic and/or severely depressed and unresponsive to treatment; having a severe addiction to alcohol/illicit drugs; being unable/unwilling to give written informed consent; currently participating in other research including follow-up phases; having received Citizens Advice Bureau (CAB) debt advice in the past year; and not wanting debt advice via a general practice.",
+                            "The participants in the intervention group were given debt advice provided by the CAB and shared biopsychosocial assessment, in addition to treatment as usual (TAU) and two debt advice leaflets. The participants in the control group were given advice leaflets provided by the general practitioner and TAU only.",
+                            "(1) Outcomes of the pilot trial - the proportion of eligible patients who consented, the number of participants recruited compared with target, assessment of contamination, and assessment of patient satisfaction with intervention and outcome measures. (2) Participant outcomes - primary - Beck Depression Inventory II; secondary - psychological well-being, health and social care utilisation, service satisfaction, substance misuse, record of priority/non-priority debts, life events and difficulties, and explanatory measures. Outcomes were assessed at baseline (pre-randomisation) and at 4 months post randomisation. Other data sources - qualitative interviews were conducted with participants, clinicians and CAB advisors.",
+                            "Of the 238 expressions of interest screened, 61 participants (26%) were recruited and randomised (32 in the intervention group and 29 in the control group). All participants provided baseline outcomes and 52 provided the primary outcome at 4 months' follow-up (14.7% dropout). Seventeen participants allocated to the intervention saw a CAB advisor. Descriptive statistics are reported for participants with complete outcomes at baseline and 4 months' follow-up. Our qualitative findings suggest that the relationship between debt and depression is complex, and the impact of each on the other is compounded by other psychological, social and contextual influences.",
+                            "As a result of low recruitment, this trial was terminated at the internal pilot phase and was too small for inferential statistical analysis. We recommend ways to reduce this risk when conducting complex trials among vulnerable populations recruited in community settings. These cover trial design, the design and delivery of interventions, recruitment strategies and support for sites.",
+                            "Current Controlled Trials ISRCTN79705874.",
+                            "This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in <i>Health Technology Assessment</i>; Vol. 21, No. 35. See the NIHR Journals Library website for further project information. Mark Gabbay and Adele Ring are part-funded by NIHR Collaborations for Leadership in Applied Health Research and Care (CLAHRC) North West Coast and Richard Byng and Rod S Taylor, Vashti Berry and Elizabeth Shaw part-funded by NIHR CLAHRC South West Peninsula."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark B",
+                            "Initials": "MB"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ring",
+                            "ForeName": "Adele",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Byng",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Anderson",
+                            "ForeName": "Pippa",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Research, University of Exeter Medical School, Exeter, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Taylor",
+                            "ForeName": "Rod S",
+                            "Initials": "RS"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Citizens Advice Bureau, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Matthews",
+                            "ForeName": "Caryn",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Service and Population Research, King's College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harris",
+                            "ForeName": "Tirril",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Research, University of Exeter Medical School, Exeter, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Berry",
+                            "ForeName": "Vashti",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Byrne",
+                            "ForeName": "Paula",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Carter",
+                            "ForeName": "Elliot",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clarke",
+                            "ForeName": "Pam",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cocking",
+                            "ForeName": "Laura",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University Medical School, Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Edwards",
+                            "ForeName": "Suzanne",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Emsley",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Fornasiero",
+                            "ForeName": "Mauro",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Frith",
+                            "ForeName": "Lucy",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harris",
+                            "ForeName": "Shaun",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Centre for Mental Health and Society, School of Social Sciences, Bangor University, Bangor, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Huxley",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Citizens Advice Bureau, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jones",
+                            "ForeName": "Siw",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kinderman",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Psychiatry, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "King",
+                            "ForeName": "Michael",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kosnes",
+                            "ForeName": "Liv",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marshall",
+                            "ForeName": "Daniel",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mercer",
+                            "ForeName": "Dave",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Life Sciences, University of Southampton, Southampton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "May",
+                            "ForeName": "Carl",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Citizens Advice Bureau, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Nolan",
+                            "ForeName": "Debbie",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Phillips",
+                            "ForeName": "Ceri",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire Care NHS Foundation Trust, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rawcliffe",
+                            "ForeName": "Tim",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sardani",
+                            "ForeName": "Alexandra V",
+                            "Initials": "AV"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Elizabeth",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Thompson",
+                            "ForeName": "Sam",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Vickery",
+                            "ForeName": "Jane",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wainman",
+                            "ForeName": "Brian",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Warner",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "DataBankList": [
+                        {
+                            "DataBankName": "ISRCTN",
+                            "AccessionNumberList": [
+                                "ISRCTN79705874"
+                            ]
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "11/148/01",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Multicenter Study",
+                        "Randomized Controlled Trial"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Technol Assess",
+                    "NlmUniqueID": "9706284",
+                    "ISSNLinking": "1366-5278"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cost-Benefit Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "methods"
+                        ],
+                        "DescriptorName": "Counseling",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Depressive Disorder",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Health Services",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Acceptance of Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Satisfaction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Selection",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pilot Projects",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Primary Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Social Work",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics"
+                        ],
+                        "DescriptorName": "State Medicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Substance-Related Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28648148",
+                    "10.3310/hta21350",
+                    "PMC5502372"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28648148)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828648148%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828648148%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021272205"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021272205?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021272205&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021272205&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021272205",
+                        "dc:identifier": "SCOPUS_ID:85021272205",
+                        "eid": "2-s2.0-85021272205",
+                        "dc:title": "Debt counselling for depression in primary care: An adaptive randomised controlled pilot trial (DeCoDer study)",
+                        "dc:creator": "Gabbay M.B.",
+                        "prism:publicationName": "Health Technology Assessment",
+                        "prism:issn": "13665278",
+                        "prism:eIssn": "20464924",
+                        "prism:volume": "21",
+                        "prism:issueIdentifier": "35",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-01-01",
+                        "prism:coverDisplayDate": "2017",
+                        "prism:doi": "10.3310/hta21350",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28648148",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "23648",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ZFRSEHKU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28648148"
+            }
+        },
+        "title": "Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer study).",
+        "full_author_list": [
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark B",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ring A",
+                "family": "Ring",
+                "given": "Adele",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Byng R",
+                "family": "Byng",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Anderson P",
+                "family": "Anderson",
+                "given": "Pippa",
+                "affiliation": {
+                    "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Taylor R",
+                "family": "Taylor",
+                "given": "Rod S",
+                "affiliation": {
+                    "name": "Institute of Health Research, University of Exeter Medical School, Exeter, UK."
+                }
+            },
+            {
+                "clean": "Matthews C",
+                "family": "Matthews",
+                "given": "Caryn",
+                "affiliation": {
+                    "name": "Citizens Advice Bureau, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harris T",
+                "family": "Harris",
+                "given": "Tirril",
+                "affiliation": {
+                    "name": "Department of Health Service and Population Research, King's College London, London, UK."
+                }
+            },
+            {
+                "clean": "Berry V",
+                "family": "Berry",
+                "given": "Vashti",
+                "affiliation": {
+                    "name": "Institute of Health Research, University of Exeter Medical School, Exeter, UK."
+                }
+            },
+            {
+                "clean": "Byrne P",
+                "family": "Byrne",
+                "given": "Paula",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Carter E",
+                "family": "Carter",
+                "given": "Elliot",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Clarke P",
+                "family": "Clarke",
+                "given": "Pam",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cocking L",
+                "family": "Cocking",
+                "given": "Laura",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Edwards S",
+                "family": "Edwards",
+                "given": "Suzanne",
+                "affiliation": {
+                    "name": "Swansea University Medical School, Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Emsley R",
+                "family": "Emsley",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK."
+                }
+            },
+            {
+                "clean": "Fornasiero M",
+                "family": "Fornasiero",
+                "given": "Mauro",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Frith L",
+                "family": "Frith",
+                "given": "Lucy",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harris S",
+                "family": "Harris",
+                "given": "Shaun",
+                "affiliation": {
+                    "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Huxley P",
+                "family": "Huxley",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "Centre for Mental Health and Society, School of Social Sciences, Bangor University, Bangor, UK."
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "Siw",
+                "affiliation": {
+                    "name": "Citizens Advice Bureau, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Kinderman P",
+                "family": "Kinderman",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "King M",
+                "family": "King",
+                "given": "Michael",
+                "affiliation": {
+                    "name": "Division of Psychiatry, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Kosnes L",
+                "family": "Kosnes",
+                "given": "Liv",
+                "affiliation": {
+                    "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Marshall D",
+                "family": "Marshall",
+                "given": "Daniel",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Mercer D",
+                "family": "Mercer",
+                "given": "Dave",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "May C",
+                "family": "May",
+                "given": "Carl",
+                "affiliation": {
+                    "name": "Faculty of Life Sciences, University of Southampton, Southampton, UK."
+                }
+            },
+            {
+                "clean": "Nolan D",
+                "family": "Nolan",
+                "given": "Debbie",
+                "affiliation": {
+                    "name": "Citizens Advice Bureau, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Phillips C",
+                "family": "Phillips",
+                "given": "Ceri",
+                "affiliation": {
+                    "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Rawcliffe T",
+                "family": "Rawcliffe",
+                "given": "Tim",
+                "affiliation": {
+                    "name": "Lancashire Care NHS Foundation Trust, Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Sardani A",
+                "family": "Sardani",
+                "given": "Alexandra V",
+                "affiliation": {
+                    "name": "Swansea Centre for Health Economics, Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Shaw E",
+                "family": "Shaw",
+                "given": "Elizabeth",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Thompson S",
+                "family": "Thompson",
+                "given": "Sam",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Vickery J",
+                "family": "Vickery",
+                "given": "Jane",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Wainman B",
+                "family": "Wainman",
+                "given": "Brian",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            },
+            {
+                "clean": "Warner M",
+                "family": "Warner",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Translational and Stratified Medicine, Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, UK."
+                }
+            }
+        ],
+        "first_author": "Gabbay M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Cost-Benefit Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Counseling",
+                    "major": "N"
+                },
+                {
+                    "term": "Depressive Disorder",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Acceptance of Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Satisfaction",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Selection",
+                    "major": "N"
+                },
+                {
+                    "term": "Pilot Projects",
+                    "major": "N"
+                },
+                {
+                    "term": "Primary Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Work",
+                    "major": "N"
+                },
+                {
+                    "term": "State Medicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Substance-Related Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Health Technol Assess",
+            "volume": "21",
+            "issue": "35"
+        },
+        "abstract": "['Depression and debt are common in the UK. Debt Counselling for Depression in Primary Care: an adaptive randomised controlled pilot trial (DeCoDer) aimed to assess the clinical effectiveness and cost-effectiveness of the addition of a primary care debt counselling advice service to usual care for patients with depression and debt. However, the study was terminated early during the internal pilot trial phase because of recruitment delays. This report describes the rationale, methods and findings of the pilot study, and implications for future research.', 'The overarching aim of the internal pilot was to identify and resolve problems, thereby assessing the feasibility of the main trial. The specific objectives were to confirm methods for practice recruitment and the ability to recruit patients via the proposed approaches; to determine the acceptability of the study interventions and outcome measures; to assess contamination; to confirm the randomisation method for main trial and the level of participant attrition; and to check the robustness of data collection systems.', 'An adaptive, parallel, two-group multicentre randomised controlled pilot trial with a nested mixed-methods process and economic evaluation. Both individual- and cluster (general practice)-level were was used in the pilot phase to assign participants to intervention or control groups.', 'General practices in England and Wales.', 'Individuals were included who were aged \u2265\\u200918 years, scored \u2265\\u200914 on the Beck Depression Inventory II and self-identified as having debt worries. The main exclusion criteria were being actively suicidal or psychotic and/or severely depressed and unresponsive to treatment; having a severe addiction to alcohol/illicit drugs; being unable/unwilling to give written informed consent; currently participating in other research including follow-up phases; having received Citizens Advice Bureau (CAB) debt advice in the past year; and not wanting debt advice via a general practice.', 'The participants in the intervention group were given debt advice provided by the CAB and shared biopsychosocial assessment, in addition to treatment as usual (TAU) and two debt advice leaflets. The participants in the control group were given advice leaflets provided by the general practitioner and TAU only.', '(1) Outcomes of the pilot trial - the proportion of eligible patients who consented, the number of participants recruited compared with target, assessment of contamination, and assessment of patient satisfaction with intervention and outcome measures. (2) Participant outcomes - primary - Beck Depression Inventory II; secondary - psychological well-being, health and social care utilisation, service satisfaction, substance misuse, record of priority/non-priority debts, life events and difficulties, and explanatory measures. Outcomes were assessed at baseline (pre-randomisation) and at 4 months post randomisation. Other data sources - qualitative interviews were conducted with participants, clinicians and CAB advisors.', \"Of the 238 expressions of interest screened, 61 participants (26%) were recruited and randomised (32 in the intervention group and 29 in the control group). All participants provided baseline outcomes and 52 provided the primary outcome at 4 months' follow-up (14.7% dropout). Seventeen participants allocated to the intervention saw a CAB advisor. Descriptive statistics are reported for participants with complete outcomes at baseline and 4 months' follow-up. Our qualitative findings suggest that the relationship between debt and depression is complex, and the impact of each on the other is compounded by other psychological, social and contextual influences.\", 'As a result of low recruitment, this trial was terminated at the internal pilot phase and was too small for inferential statistical analysis. We recommend ways to reduce this risk when conducting complex trials among vulnerable populations recruited in community settings. These cover trial design, the design and delivery of interventions, recruitment strategies and support for sites.', 'Current Controlled Trials ISRCTN79705874.', 'This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in <i>Health Technology Assessment</i>; Vol. 21, No. 35. See the NIHR Journals Library website for further project information. Mark Gabbay and Adele Ring are part-funded by NIHR Collaborations for Leadership in Applied Health Research and Care (CLAHRC) North West Coast and Richard Byng and Rod S Taylor, Vashti Berry and Elizabeth Shaw part-funded by NIHR CLAHRC South West Peninsula.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

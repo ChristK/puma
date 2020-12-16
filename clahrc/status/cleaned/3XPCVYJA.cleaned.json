@@ -1,0 +1,1732 @@
+{
+    "IDs": {
+        "zotero": "3XPCVYJA",
+        "DOI": "10.1002/14651858.CD012065.pub2",
+        "DOI_filename": "cdcfcb4fbbbdc7720c19fc914f183913",
+        "PMID": "27922722",
+        "scopus": "2-s2.0-85002739986",
+        "hash": "2a3d63f9b036a5bd2551a80ecf06ecb9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "3XPCVYJA",
+            "version": 114,
+            "itemType": "journalArticle",
+            "title": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maria",
+                    "lastName": "Sudell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-12-06",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD012065.pub2",
+            "ISSN": "14651858",
+            "shortTitle": "Topiramate versus carbamazepine monotherapy for epilepsy",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD012065.pub2",
+            "accessDate": "2020-09-10T17:09:53Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27922722",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:53Z",
+            "dateModified": "2020-09-11T13:19:46Z",
+            "pmid": "27922722"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        27
+                    ]
+                ],
+                "date-time": "2020-03-27T19:43:32Z",
+                "timestamp": 1585338212996
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                12,
+                                6
+                            ]
+                        ],
+                        "date-time": "2016-12-06T00:00:00Z",
+                        "timestamp": 1480982400000
+                    },
+                    "DOI": "10.1002/14651858.cd012065",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 73,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd012065.pub2",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        6
+                    ]
+                ],
+                "date-time": "2016-12-06T15:25:12Z",
+                "timestamp": 1481037912000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 7,
+            "title": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Maria",
+                    "family": "Sudell",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The University of Liverpool; Department of Biostatistics; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "Suppl 6",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0001|cit1",
+                    "first-page": "274-5, Abstract",
+                    "article-title": "Response to topiramate (TPM), carbamazepine (CBZ) or valproate (VPA) by seizure type in newly diagnosed epilepsy",
+                    "volume": "46",
+                    "author": "Ben-Menachem",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0002|cit2",
+                    "first-page": "139-40, Abstrac",
+                    "article-title": "Topiramate (TPM) vs carbamazepine (CBZ) and valproate (VPA) in newly diagnosed epilepsy: effectiveness according to seizure type",
+                    "volume": "45",
+                    "author": "Edwards",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 9",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0003|cit3",
+                    "first-page": "270, Abstract n",
+                    "article-title": "100 mg/day topiramate as the initial target dose in newly diagnosed epilepsy",
+                    "volume": "44",
+                    "author": "Privitera",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "165",
+                    "DOI": "10.1034/j.1600-0404.2003.00093.x",
+                    "article-title": "Topiramate, carbamazepine and valproate monotherapy: double-blind comparison in newly diagnosed epilepsy",
+                    "volume": "107",
+                    "author": "Privitera",
+                    "year": "2003",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "Suppl Florence",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0005|cit5",
+                    "first-page": "138",
+                    "article-title": "Topiramate EPMN-105 Study Group. Monotherapy in newly diagnosed epilepsy: topiramate vs investigator choice of carbamazepine or valproate [abstract]",
+                    "volume": "41",
+                    "author": "Privitera",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0006|cit6",
+                    "first-page": "93-4, Abstract",
+                    "article-title": "Topiramate vs. investigator choice of carbamazepine or valproate as monotherapy in newly diagnosed epilepsy",
+                    "volume": "41",
+                    "author": "Privitera",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 8",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0007|cit7",
+                    "first-page": "82, Abstract no",
+                    "article-title": "Topiramate in newly diagnosed epilepsy: 100 mg/day as initial target dose.",
+                    "volume": "44",
+                    "author": "Sander",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "135",
+                    "DOI": "10.1177/08830738040190020901",
+                    "article-title": "Topiramate, carbamazepine, and valproate monotherapy: double-blind comparison in children with newly diagnosed epilepsy",
+                    "volume": "19",
+                    "author": "Wheless",
+                    "year": "2004",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "issue": "8 Suppl 3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0009|cit9",
+                    "first-page": "A234-5, Abstrac",
+                    "article-title": "Topiramate, carbamazepine, and valproate in children with newly diagnosed epilepsy: a unique trial design",
+                    "volume": "56",
+                    "author": "Wheless",
+                    "year": "2001",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0010|cit10",
+                    "first-page": "201",
+                    "article-title": "A randomised open trial comparing monotherapy with topiramate versus carbamazepine in the treatment of paediatric patients with recently diagnosed epilepsy",
+                    "volume": "39",
+                    "author": "Resendiz-Aparicio",
+                    "year": "2004",
+                    "journal-title": "Revista de Neurologia"
+                },
+                {
+                    "issue": "Suppl 4",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0011|cit11",
+                    "first-page": "272",
+                    "article-title": "Carbamazepine versus gabapentin, lamotrigine, oxcarbazepine and topiramate for epilepsy: results from arm A of the SANAD trial",
+                    "volume": "47",
+                    "author": "Marson",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9566",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "37",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "iii-iv, ix-x, 1",
+                    "DOI": "10.3310/hta11370",
+                    "article-title": "A randomised controlled trial examining the longer-term outcomes of standard versus new antiepileptic drugs. The SANAD trial",
+                    "volume": "11",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Health Technology Assessment"
+                },
+                {
+                    "issue": "Suppl 4",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0014|cit14",
+                    "first-page": "138, Abstract n",
+                    "article-title": "A multicenter, randomized, open-labeled, clinical study to evaluate the effect on cognitive and behavioral function of topiramate compared with carbamazepine as monotherapy in children with benign rolandic epilepsy",
+                    "volume": "47",
+                    "author": "Kang",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1716",
+                    "DOI": "10.1111/j.1528-1167.2007.01160.x",
+                    "article-title": "The effects on cognitive function and behavioural problems of topiramate compared to carbamazepine as monotherapy for children with benign rolandic epilepsy",
+                    "volume": "48",
+                    "author": "Kang",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0016|cit16",
+                    "first-page": "322-3, Abstract",
+                    "article-title": "Low-dose topiramate compared with carbamazepine in treating benign rolandic epilepsy",
+                    "volume": "45",
+                    "author": "Lim",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "502",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00748.x",
+                    "article-title": "The incidence of epilepsy and unprovoked seizures in multiethnic, urban health maintenance organizations",
+                    "volume": "40",
+                    "author": "Annegers",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "958",
+                    "DOI": "10.1111/epi.12605",
+                    "article-title": "An unknown quantity-the worldwide prevalence of epilepsy",
+                    "volume": "55",
+                    "author": "Bell",
+                    "year": "2014",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "168",
+                    "DOI": "10.1056/NEJM199601183340308",
+                    "article-title": "Antiepileptic drugs",
+                    "volume": "334",
+                    "author": "Brodie",
+                    "year": "1996",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0020|cit20",
+                    "author": "Bromley",
+                    "issue": "10",
+                    "year": "2014",
+                    "article-title": "Treatment for epilepsy in pregnancy: neurodevelopmental outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010236.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0022|cit22",
+                    "first-page": "123",
+                    "article-title": "Selective effects of topiramate on sustained repetitive firing and spontaneous bursting in cultured hippocampal neurons",
+                    "volume": "34",
+                    "author": "Coulter",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0023|cit23",
+                    "unstructured": "Microsoft Microsoft Excel 2010"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0024|cit24",
+                    "first-page": "203",
+                    "article-title": "Appendix C: Efficacy and tolerability of the new antiepileptic drugs I: Treatment of new onset epilepsy: Report of the Therapeutics and Technology Assessment Subcommittee and Quality Standards Subcommittee of the American Academy of Neurology and the American Epilepsy Society",
+                    "volume": "13",
+                    "author": "French",
+                    "year": "2007",
+                    "journal-title": "CONTINUUM Lifelong Learning in Neurology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "196",
+                    "DOI": "10.1212/01.WNL.0000048200.12663.BC",
+                    "article-title": "A dose-comparison trial of topiramate as monotherapy in recently diagnosed partial epilepsy",
+                    "volume": "60",
+                    "author": "Gilliam",
+                    "year": "2003",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "9995",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "743",
+                    "DOI": "10.1016/S0140-6736(15)60692-4",
+                    "article-title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013",
+                    "volume": "386",
+                    "author": "Global Burden of Disease Study 2013 Collaborators",
+                    "year": "2015",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0027|cit27",
+                    "unstructured": "GRADE Working Group, McMaster University GRADEPro Version 3.6 for Windows 2004"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota 1935-1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7414",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "557",
+                    "DOI": "10.1136/bmj.327.7414.557",
+                    "article-title": "Measuring inconsistency in meta-analyses",
+                    "volume": "327",
+                    "author": "Higgins",
+                    "year": "2003",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0030|cit30",
+                    "unstructured": "Higgins JPT Green S editor(s) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "326",
+                    "DOI": "10.1212/01.wnl.0000252807.38124.a3",
+                    "article-title": "How common are the \"common\" neurologic disorders?",
+                    "volume": "68",
+                    "author": "Hirtz",
+                    "year": "2007",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "272",
+                    "DOI": "10.1212/01.wnl.0000318293.28278.33",
+                    "article-title": "Topiramate in pregnancy: preliminary experience from the UK Epilepsy and Pregnancy Register",
+                    "volume": "71",
+                    "author": "Hunt",
+                    "year": "2008",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "799",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01167.x",
+                    "article-title": "Considerations on designing clinical trials to evaluate the place of new antiepileptic drugs in the treatment of newly diagnosed and chronic patients with epilepsy",
+                    "volume": "39",
+                    "author": "ILAE Commission on Antiepileptic Drugs",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1094",
+                    "DOI": "10.1111/j.1528-1167.2006.00585.x",
+                    "article-title": "ILAE treatment guidelines: evidence based analysis of antiepileptic drug efficacy and effectiveness as initial monotherapy for epileptic seizures and syndromes",
+                    "volume": "47",
+                    "author": "Glauser",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "297",
+                    "DOI": "10.1111/j.1528-1157.1983.tb04893.x",
+                    "article-title": "Natural history of epileptic seizures",
+                    "volume": "24",
+                    "author": "Juul-Jenson",
+                    "year": "1983",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "314",
+                    "DOI": "10.1056/NEJM200002033420503",
+                    "article-title": "Early identification of refractory epilepsy",
+                    "volume": "342",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0038|cit38",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Intervention s Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1026",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02549.x",
+                    "article-title": "Absence seizures and carbamazepine in adults",
+                    "volume": "35",
+                    "author": "Liporace",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S2",
+                    "DOI": "10.1111/j.1528-1157.1995.tb05996.x",
+                    "article-title": "Antiepileptic drug mechanisms of action",
+                    "volume": "36",
+                    "author": "MacDonald",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "833",
+                    "DOI": "10.1002/1531-8249(200012)48:6<833::AID-ANA3>3.0.CO;2-U",
+                    "article-title": "Factors predicting prognosis of epilepsy after presentation with seizures",
+                    "volume": "48",
+                    "author": "MacDonald",
+                    "year": "2000",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0042|cit42",
+                    "author": "Malfosse",
+                    "year": "1994",
+                    "article-title": "Idiopathic Generalised Epilepsies: Clinical,Experimental and Genetic. Eastleigh: John Libbey and Company, 1994.",
+                    "volume-title": "Idiopathic Generalised Epilepsies: Clinical, Experimental and Genetic"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0043|cit43",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0044|cit44",
+                    "first-page": "163",
+                    "article-title": "Is carbamazepine safe to take during pregnancy?",
+                    "volume": "58",
+                    "author": "Matlow",
+                    "year": "2012",
+                    "journal-title": "Canadian Family Physician"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2008.04.022",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: a systematic reviews and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "81",
+                    "author": "Meador",
+                    "year": "2008",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0046|cit46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "DOI": "10.1136/jnnp.2005.074203",
+                    "article-title": "Malformation risks of antiepileptic drugs in pregnancy: a prospective study from the UK Epilepsy and Pregnancy Register",
+                    "volume": "77",
+                    "author": "Morrow",
+                    "year": "2006",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Neuropsychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0047|cit47",
+                    "author": "Murray",
+                    "year": "1994",
+                    "volume-title": "Global Comparative Assessments in the Health Sector"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0048|cit48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1111/j.1528-1167.2009.02481.x",
+                    "article-title": "Estimation of the burden of active and life-time epilepsy: a meta-analytic approach",
+                    "volume": "51",
+                    "author": "Ngugi",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0049|cit49",
+                    "unstructured": "National Institute for Health and Care Excellence The epilepsies: the diagnosis and management of the epilepsies in adults and children in primary and secondary care London: National Institute for Health and Care Excellence"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0050|cit50",
+                    "unstructured": "Nolan SJ Sutton L Marson A Tudur Smith C Consistency of outcome and statistical reporting of time-to-event data: the impact on Cochrane Reviews and meta-analyses in epilepsy Better knowledge for better health. 21st Cochrane Colloquium; 2013 September 19-23; Quebec City, Canada Quebec City, Canada The Cochrane Collaboration 2013 114 5"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0051|cit51",
+                    "author": "Nolan",
+                    "issue": "8",
+                    "year": "2013",
+                    "article-title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0052|cit52",
+                    "author": "Nolan",
+                    "issue": "5",
+                    "year": "2013",
+                    "article-title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD003615.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0053|cit53",
+                    "author": "Nolan",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Phenobarbitone versus phenytoin monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002217.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0054|cit54",
+                    "author": "Nolan",
+                    "issue": "12",
+                    "year": "2014",
+                    "article-title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011412",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0055|cit55",
+                    "author": "Nolan",
+                    "issue": "7",
+                    "year": "2015",
+                    "article-title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0056|cit56",
+                    "author": "Nolan",
+                    "issue": "8",
+                    "year": "2015",
+                    "article-title": "Carbamazepine versus phenytoin monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001911.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0057|cit57",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "627",
+                    "DOI": "10.1016/S1474-4422(05)70172-1",
+                    "article-title": "Incidence of unprovoked seizures and epilepsy in Iceland and assessment of the epilepsy syndrome classification: a prospective study",
+                    "volume": "4",
+                    "author": "Olafsson",
+                    "year": "2005",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "24",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0058|cit58",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2815",
+                    "DOI": "10.1002/(SICI)1097-0258(19981230)17:24<2815::AID-SIM110>3.0.CO;2-8",
+                    "article-title": "Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints",
+                    "volume": "17",
+                    "author": "Parmar",
+                    "year": "1998",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0059|cit59",
+                    "first-page": "756",
+                    "article-title": "Frequency and voltage-dependent inhibition of type IIA Na+ channels,expressed in a mammalian cell line, by local anaesthetic,antiarrhythmic, and anticonvulsant drugs",
+                    "volume": "40",
+                    "author": "Ragsdale",
+                    "year": "1991",
+                    "journal-title": "Molecular Pharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0060|cit60",
+                    "unstructured": "The Nordic Cochrane Centre, The Cochrane Collaboration Review Manager (RevMan) 2014"
+                },
+                {
+                    "issue": "9566",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0061|cit61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1016",
+                    "DOI": "10.1016/S0140-6736(07)60461-9",
+                    "article-title": "The SANAD study of effectiveness of valproate, lamotrigine, or topiramate for generalised and unclassifiable epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0062|cit62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1136/jnnp.61.5.433",
+                    "article-title": "Epidemiology of the epilepsies",
+                    "volume": "61",
+                    "author": "Sander",
+                    "year": "1996",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "Suppl 6",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0063|cit63",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "28",
+                    "DOI": "10.1111/j.0013-9580.2004.455005.x",
+                    "article-title": "The use of anti-epileptic drugs - principles and practice",
+                    "volume": "45",
+                    "author": "Sander",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0064|cit64",
+                    "author": "Shakir",
+                    "first-page": "7",
+                    "year": "1980",
+                    "article-title": "Sodium valproate, phenytoin and carbamazepine as sole anticonvulsants",
+                    "volume-title": "The Place of Sodium Valproate in the Treatment of Epilepsy"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0065|cit65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1487",
+                    "DOI": "10.1212/WNL.33.11.1487",
+                    "article-title": "Myoclonic, atonic, and absence seizures following institution of carbamazepine therapy in children",
+                    "volume": "33",
+                    "author": "Shields",
+                    "year": "1983",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "15",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0066|cit66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "916",
+                    "DOI": "10.1056/NEJM198510103131503",
+                    "article-title": "Exacerbation of seizures in children by carbamazepine",
+                    "volume": "313",
+                    "author": "Snead",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0067|cit67",
+                    "unstructured": "College Station, TX: StataCorp LP StataCorp. 2015. Stata Statistical Software: Release 14 2015"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0068|cit68",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "16",
+                    "DOI": "10.1186/1745-6215-8-16",
+                    "article-title": "Practical methods for incorporating summary time-to-event data into meta-analysis",
+                    "volume": "8",
+                    "author": "Tierney",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0069|cit69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "volume": "5",
+                    "author": "Tudur Smith",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0070|cit70",
+                    "author": "Weston",
+                    "issue": "11",
+                    "year": "2016",
+                    "article-title": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010224.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0071|cit71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "167",
+                    "DOI": "10.1016/S0920-1211(97)00045-4",
+                    "article-title": "Topiramate enhances GABA-mediated chloride flux and GABA-evoked chloride currents in murine brain neurons and increases seizure threshold",
+                    "volume": "28",
+                    "author": "White",
+                    "year": "1997",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0072|cit72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3337",
+                    "DOI": "10.1002/sim.1303",
+                    "article-title": "Aggregate data meta-analysis with time-to-event outcomes",
+                    "volume": "21",
+                    "author": "Williamson",
+                    "year": "2002",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD012065.pub2-BIB0073|cit73",
+                    "author": "Nolan",
+                    "issue": "1",
+                    "year": "2016",
+                    "article-title": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD012065",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD012065.pub2",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        6
+                    ]
+                ],
+                "date-time": "2018-08-06T23:00:48Z",
+                "timestamp": 1533596448000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 73,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD012065.pub2",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27922722",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "02",
+                    "Day": "03"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "11"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD012065.pub2"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "12",
+                            "Day": "06"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "12",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "12",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review.",
+                    "Pagination": {
+                        "MedlinePgn": "CD012065"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy, the majority of which may be able to achieve remission with a single antiepileptic drug (AED).The correct choice of first-line antiepileptic therapy for individuals with newly diagnosed seizures is of great importance. It is important that the choice of AED for an individual is based on the highest-quality evidence available regarding the potential benefits and harms of various treatments. It is also important to compare the efficacy and tolerability of AEDs appropriate to given seizure types.Topiramate and carbamazepine are commonly used AEDs. Performing a synthesis of the evidence from existing trials will increase the precision of results of outcomes relating to efficacy and tolerability, and may help inform a choice between the two drugs.",
+                            "To assess the effects of topiramate monotherapy versus carbamazepine monotherapy for epilepsy in people with partial-onset seizures (simple or complex partial and secondarily generalised) or generalised onset tonic-clonic seizures (with or without other generalised seizure types).",
+                            "We searched the Cochrane Epilepsy Group Specialized Register (14 April 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (14 April 2016) and MEDLINE (Ovid, 1946 to 14 April 2016). We imposed no language restrictions. We also contacted pharmaceutical companies and trial investigators.",
+                            "Randomised controlled trials in children or adults with partial-onset seizures or generalised-onset tonic-clonic seizures with or without other generalised seizure types with a comparison of monotherapy with either topiramate or carbamazepine.",
+                            "This was an individual participant data (IPD) review. Our primary outcome was 'time to withdrawal of allocated treatment', and our secondary outcomes were 'time to first seizure post randomisation', 'time to 6-month remission, 'time to 12-month remission' and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), and used the generic inverse variance method to obtain the overall pooled HRs and 95% CIs.",
+                            "IPD were available for 1151 of 1239 eligible individuals from two of three eligible studies (93% of the potential data). A small proportion of individuals recruited into these trials had 'unclassified seizures;' for analysis purposes, these individuals are grouped with those with generalised onset seizures. For remission outcomes, a HR < 1 indicated an advantage for carbamazepine, and for first seizure and withdrawal outcomes, a HR < 1 indicated an advantage for topiramate.The main overall results, given as pooled HR adjusted for seizure type (95% CI) were: for time to withdrawal of allocated treatment 1.16 (0.98 to 1.38); time to first seizure 1.11 (0.96 to 1.29); and time to 6-month remission 0.88 (0.76 to 1.01). There were no statistically significant differences between the drugs. A statistically significant advantage for carbamazepine was shown for time to 12-month remission: 0.84 (0.71 to 1.00).The results of this review are applicable mainly to individuals with partial-onset seizures; 85% of included individuals experienced seizures of this type at baseline. For individuals with partial-onset seizures, a statistically significant advantage for carbamazepine was shown for time to withdrawal of allocated treatment (HR 1.20, 95% CI 1.00 to 1.45) and time to 12-month remission (HR 0.84, 95% CI 0.71 to 1.00). No statistically significant differences were apparent between the drugs for other outcomes and for the limited number of individuals with generalised-onset tonic-clonic seizures with or without other generalised seizure types or unclassified seizures.The most commonly reported adverse events with both drugs were drowsiness or fatigue, 'pins and needles' (tingling sensation), headache, gastrointestinal disturbance and anxiety or depression The rate of adverse events was similar across the two drugs.We judged the methodological quality of the included trials generally to be good; however, there was some evidence that the open-label design of the larger of the two trials may have influenced the withdrawal rate from the trial. Hence, we judged the evidence for the primary outcome of treatment withdrawal to be moderate for individuals with partial-onset seizures and low for individuals with generalised-onset seizures. For efficacy outcomes (first seizure, remission), we judged the evidence from this review to be high for individuals with partial-onset seizures and moderate for individuals with generalised-onset or unclassified seizures.",
+                            "For individuals with partial-onset seizures, there is evidence that carbamazepine is less likely to be withdrawn and that 12-month remission will be achieved earlier than with topiramate. No differences were found between the drugs in terms of the outcomes measured in the review for individuals with generalised tonic-clonic seizures with or without other seizure types or unclassified epilepsy; however, we encourage caution in the interpretation of these results due to the small numbers of participants with these seizure types.We recommend that future trials should be designed to the highest quality possible and take into consideration masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Nolan",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, The University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sudell",
+                            "ForeName": "Maria",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "0H73WJJ391",
+                        "NameOfSubstance": "Topiramate"
+                    },
+                    {
+                        "RegistryNumber": "30237-26-4",
+                        "NameOfSubstance": "Fructose"
+                    },
+                    {
+                        "RegistryNumber": "33CM23913M",
+                        "NameOfSubstance": "Carbamazepine"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2019 Jun 24;6:CD012065",
+                        "PMID": "31233229"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Carbamazepine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Generalized",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Tonic-Clonic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "analogs & derivatives",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Fructose",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Induction Chemotherapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Topiramate",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Epilepsia. 1999 Apr;40(4):502-6",
+                                "ArticleIdList": [
+                                    "10219279"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2000 Feb 3;342(5):314-9",
+                                "ArticleIdList": [
+                                    "10660394"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000;41 Suppl 1:S40-4",
+                                "ArticleIdList": [
+                                    "10768299"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001030",
+                                "ArticleIdList": [
+                                    "10908558"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2000 Dec;48(6):833-41",
+                                "ArticleIdList": [
+                                    "11117539"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2002 Nov 30;21(22):3337-51",
+                                "ArticleIdList": [
+                                    "12407676"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2003 Jan 28;60(2):196-202",
+                                "ArticleIdList": [
+                                    "12552030"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 2003 Mar;107(3):165-75",
+                                "ArticleIdList": [
+                                    "12614309"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2003 Sep 6;327(7414):557-60",
+                                "ArticleIdList": [
+                                    "12958120"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Neurol. 2004 Feb;19(2):135-41",
+                                "ArticleIdList": [
+                                    "15072107"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2004 Apr 27;62(8):1252-60",
+                                "ArticleIdList": [
+                                    "15111659"
+                                ]
+                            },
+                            {
+                                "Citation": "Rev Neurol. 2004 Aug 1-15;39(3):201-4",
+                                "ArticleIdList": [
+                                    "15284957"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004;45 Suppl 6:28-34",
+                                "ArticleIdList": [
+                                    "15315513"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2006 Feb;77(2):193-8",
+                                "ArticleIdList": [
+                                    "16157661"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2005 Oct;4(10):627-34",
+                                "ArticleIdList": [
+                                    "16168931"
+                                ]
+                            },
+                            {
+                                "Citation": "Mol Pharmacol. 1991 Nov;40(5):756-65",
+                                "ArticleIdList": [
+                                    "1658608"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2006 Jul;47(7):1094-120",
+                                "ArticleIdList": [
+                                    "16886973"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2007 Jan 30;68(5):326-37",
+                                "ArticleIdList": [
+                                    "17261678"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1016-26",
+                                "ArticleIdList": [
+                                    "17382828"
+                                ]
+                            },
+                            {
+                                "Citation": "Trials. 2007 Jun 07;8:16",
+                                "ArticleIdList": [
+                                    "17555582"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2007 Sep;48(9):1716-1723",
+                                "ArticleIdList": [
+                                    "17561952"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Technol Assess. 2007 Oct;11(37):iii-iv, ix-x, 1-134",
+                                "ArticleIdList": [
+                                    "17903391"
+                                ]
+                            },
+                            {
+                                "Citation": "Trials. 2007 Nov 05;8:34",
+                                "ArticleIdList": [
+                                    "17983480"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2008 Sep;81(1):1-13",
+                                "ArticleIdList": [
+                                    "18565732"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2008 Jul 22;71(4):272-6",
+                                "ArticleIdList": [
+                                    "18645165"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 May;51(5):883-90",
+                                "ArticleIdList": [
+                                    "20067507"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Can Fam Physician. 2012 Feb;58(2):163-4",
+                                "ArticleIdList": [
+                                    "22337738"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Jan 31;(1):CD002217",
+                                "ArticleIdList": [
+                                    "23440786"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 May 31;(5):CD003615",
+                                "ArticleIdList": [
+                                    "23728645"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Aug 23;(8):CD001769",
+                                "ArticleIdList": [
+                                    "23970302"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2014 Jul;55(7):958-62",
+                                "ArticleIdList": [
+                                    "24964732"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Oct 30;(10):CD010236",
+                                "ArticleIdList": [
+                                    "25354543"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2015 Aug 22;386(9995):743-800",
+                                "ArticleIdList": [
+                                    "26063472"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Jul 23;(7):CD001904",
+                                "ArticleIdList": [
+                                    "26204241"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Aug 14;(8):CD001911",
+                                "ArticleIdList": [
+                                    "26275105"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Nov 07;11:CD010224",
+                                "ArticleIdList": [
+                                    "27819746"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1985 Oct 10;313(15):916-21",
+                                "ArticleIdList": [
+                                    "3929090"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1983 Jun;24(3):297-312",
+                                "ArticleIdList": [
+                                    "6406213"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1983 Nov;33(11):1487-9",
+                                "ArticleIdList": [
+                                    "6415512"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994 Sep-Oct;35(5):1026-8",
+                                "ArticleIdList": [
+                                    "7925146"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1996 Jan 18;334(3):168-75",
+                                "ArticleIdList": [
+                                    "8531974"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1995;36 Suppl 2:S2-12",
+                                "ArticleIdList": [
+                                    "8784210"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1996 Nov;61(5):433-43",
+                                "ArticleIdList": [
+                                    "8965090"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1997 Oct;28(3):167-79",
+                                "ArticleIdList": [
+                                    "9332882"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1998 Jul;39(7):799-803",
+                                "ArticleIdList": [
+                                    "9670910"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1998 Dec 30;17(24):2815-34",
+                                "ArticleIdList": [
+                                    "9921604"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "2",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "12",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27922722",
+                    "10.1002/14651858.CD012065.pub2",
+                    "PMC6463801"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1002/14651858.CD012065.pub2)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD012065.pub2%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD012065.pub2%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85002739986"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85002739986?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85002739986&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85002739986&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85002739986",
+                        "dc:identifier": "SCOPUS_ID:85002739986",
+                        "eid": "2-s2.0-85002739986",
+                        "dc:title": "Topiramate versus carbamazepine monotherapy for epilepsy: An individual participant data review",
+                        "dc:creator": "Nolan S.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "12",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-12-06",
+                        "prism:coverDisplayDate": "6 December 2016",
+                        "prism:doi": "10.1002/14651858.CD012065.pub2",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27922722",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD012065",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "3XPCVYJA.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27922722"
+            }
+        },
+        "title": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review.",
+        "full_author_list": [
+            {
+                "clean": "Nolan S",
+                "family": "Nolan",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                }
+            },
+            {
+                "clean": "Sudell M",
+                "family": "Sudell",
+                "given": "Maria",
+                "affiliation": {
+                    "name": "Department of Biostatistics, The University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Fazakerley, Liverpool, Merseyside, UK, L9 7LJ."
+                }
+            }
+        ],
+        "first_author": "Nolan S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Carbamazepine",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Generalized",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Tonic-Clonic",
+                    "major": "N"
+                },
+                {
+                    "term": "Fructose",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Induction Chemotherapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Topiramate",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "12",
+            "issue": ""
+        },
+        "abstract": "['Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy, the majority of which may be able to achieve remission with a single antiepileptic drug (AED).The correct choice of first-line antiepileptic therapy for individuals with newly diagnosed seizures is of great importance. It is important that the choice of AED for an individual is based on the highest-quality evidence available regarding the potential benefits and harms of various treatments. It is also important to compare the efficacy and tolerability of AEDs appropriate to given seizure types.Topiramate and carbamazepine are commonly used AEDs. Performing a synthesis of the evidence from existing trials will increase the precision of results of outcomes relating to efficacy and tolerability, and may help inform a choice between the two drugs.', 'To assess the effects of topiramate monotherapy versus carbamazepine monotherapy for epilepsy in people with partial-onset seizures (simple or complex partial and secondarily generalised) or generalised onset tonic-clonic seizures (with or without other generalised seizure types).', 'We searched the Cochrane Epilepsy Group Specialized Register (14 April 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (14 April 2016) and MEDLINE (Ovid, 1946 to 14 April 2016). We imposed no language restrictions. We also contacted pharmaceutical companies and trial investigators.', 'Randomised controlled trials in children or adults with partial-onset seizures or generalised-onset tonic-clonic seizures with or without other generalised seizure types with a comparison of monotherapy with either topiramate or carbamazepine.', \"This was an individual participant data (IPD) review. Our primary outcome was 'time to withdrawal of allocated treatment', and our secondary outcomes were 'time to first seizure post randomisation', 'time to 6-month remission, 'time to 12-month remission' and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), and used the generic inverse variance method to obtain the overall pooled HRs and 95% CIs.\", \"IPD were available for 1151 of 1239 eligible individuals from two of three eligible studies (93% of the potential data). A small proportion of individuals recruited into these trials had 'unclassified seizures;' for analysis purposes, these individuals are grouped with those with generalised onset seizures. For remission outcomes, a HR < 1 indicated an advantage for carbamazepine, and for first seizure and withdrawal outcomes, a HR < 1 indicated an advantage for topiramate.The main overall results, given as pooled HR adjusted for seizure type (95% CI) were: for time to withdrawal of allocated treatment 1.16 (0.98 to 1.38); time to first seizure 1.11 (0.96 to 1.29); and time to 6-month remission 0.88 (0.76 to 1.01). There were no statistically significant differences between the drugs. A statistically significant advantage for carbamazepine was shown for time to 12-month remission: 0.84 (0.71 to 1.00).The results of this review are applicable mainly to individuals with partial-onset seizures; 85% of included individuals experienced seizures of this type at baseline. For individuals with partial-onset seizures, a statistically significant advantage for carbamazepine was shown for time to withdrawal of allocated treatment (HR 1.20, 95% CI 1.00 to 1.45) and time to 12-month remission (HR 0.84, 95% CI 0.71 to 1.00). No statistically significant differences were apparent between the drugs for other outcomes and for the limited number of individuals with generalised-onset tonic-clonic seizures with or without other generalised seizure types or unclassified seizures.The most commonly reported adverse events with both drugs were drowsiness or fatigue, 'pins and needles' (tingling sensation), headache, gastrointestinal disturbance and anxiety or depression The rate of adverse events was similar across the two drugs.We judged the methodological quality of the included trials generally to be good; however, there was some evidence that the open-label design of the larger of the two trials may have influenced the withdrawal rate from the trial. Hence, we judged the evidence for the primary outcome of treatment withdrawal to be moderate for individuals with partial-onset seizures and low for individuals with generalised-onset seizures. For efficacy outcomes (first seizure, remission), we judged the evidence from this review to be high for individuals with partial-onset seizures and moderate for individuals with generalised-onset or unclassified seizures.\", 'For individuals with partial-onset seizures, there is evidence that carbamazepine is less likely to be withdrawn and that 12-month remission will be achieved earlier than with topiramate. No differences were found between the drugs in terms of the outcomes measured in the review for individuals with generalised tonic-clonic seizures with or without other seizure types or unclassified epilepsy; however, we encourage caution in the interpretation of these results due to the small numbers of participants with these seizure types.We recommend that future trials should be designed to the highest quality possible and take into consideration masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

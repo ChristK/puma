@@ -1,0 +1,740 @@
+{
+    "IDs": {
+        "zotero": "7SLWKF5Q",
+        "DOI": "10.1093/fampra/cmw050",
+        "DOI_filename": "c846f843698f1be539e6389692b5ee1f",
+        "PMID": "27342583",
+        "scopus": "2-s2.0-84991227837",
+        "hash": "20af7779136c4f12cbec0795c3241f0a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "7SLWKF5Q",
+            "version": 126,
+            "itemType": "journalArticle",
+            "title": "Change in diagnosis on fit notes within an episode of certified sickness absence",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Chris",
+                    "lastName": "Shiels"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark B",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jim",
+                    "lastName": "Hillage"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Family Practice",
+            "volume": "33",
+            "issue": "5",
+            "pages": "510-516",
+            "date": "10/2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "FAMPRJ",
+            "language": "en",
+            "DOI": "10.1093/fampra/cmw050",
+            "ISSN": "0263-2136, 1460-2229",
+            "shortTitle": "",
+            "url": "https://academic.oup.com/fampra/article-lookup/doi/10.1093/fampra/cmw050",
+            "accessDate": "2020-09-10T17:09:24Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27342583",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:24Z",
+            "dateModified": "2020-09-11T15:00:39Z",
+            "pmid": "27342583"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        25
+                    ]
+                ],
+                "date-time": "2020-03-25T21:00:30Z",
+                "timestamp": 1585170030256
+            },
+            "reference-count": 24,
+            "publisher": "Oxford University Press (OUP)",
+            "issue": "5",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        10
+                    ]
+                ]
+            },
+            "DOI": "10.1093/fampra/cmw050",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        25
+                    ]
+                ],
+                "date-time": "2016-06-25T02:08:55Z",
+                "timestamp": 1466820535000
+            },
+            "page": "510-516",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Change in diagnosis on fit notes within an episode of certified sickness absence",
+            "prefix": "10.1093",
+            "volume": "33",
+            "author": [
+                {
+                    "given": "Chris",
+                    "family": "Shiels",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark B",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jim",
+                    "family": "Hillage",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        24
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2016091403390042000_33.5.510.1",
+                    "unstructured": "Office for National Statistics (ONS). Sickness Absence in the Labour Market.2012.http://www.ons.gov.uk/ons/dcp171776_265016.pdf (accessed on 7 November 2015)."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.2",
+                    "unstructured": "Black C Frost D. Health at Work: An Independent Review of Sickness Absence. London: The Stationery Office, 2011."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.3",
+                    "unstructured": "Black C. Working for a Healthier Tomorrow. London: The Stationery Office, 2008."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.4",
+                    "DOI": "10.1136/oem.2007.034165",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.5",
+                    "DOI": "10.3109/13814788.2012.727795",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.6",
+                    "DOI": "10.1136/bmj.37949.656389.EE",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.7",
+                    "unstructured": "Hann M Sibbald B. General Practitioners\u2019 Attitudes Towards Patients\u2019 Health and Work, 2010\u201312. DWP Research Report No. 835. London: The Stationery Office, 2013."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.8",
+                    "DOI": "10.1007/s10926-009-9226-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.9",
+                    "DOI": "10.1007/s00420-010-0540-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.10",
+                    "DOI": "10.1136/oemed-2013-101571",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.11",
+                    "DOI": "10.1177/1403494814560843",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.12",
+                    "unstructured": "Shiels C Hillage J Pollard E Gabbay M. National Evaluation of the Statement of Fitness for Work (Fit Note): Quantitative Survey of Fit Notes. DWP Research Report No. 841. London: The Stationery Office, 2013."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.13",
+                    "unstructured": "Waddell G Burton K. Is Work Good for Your Health and Well-Being? London: The Stationery Office, 2006."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.14",
+                    "unstructured": "Department for Work and Pensions (DWP). Working Our Way to Better Mental Health: A Framework for Action. London: The Stationery Office, 2009."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.15",
+                    "DOI": "10.1111/j.1600-0447.2005.00513.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.16",
+                    "DOI": "10.1177/1355819613493772",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.17",
+                    "DOI": "10.1016/S0140-6736(12)60240-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.18",
+                    "unstructured": "Freeman G Hughes J. Continuity of Care and the Patient Experience. London: The Kings Fund, 2010."
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.19",
+                    "DOI": "10.1177/1403494808097170",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.20",
+                    "DOI": "10.1186/1471-2296-13-10",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.21",
+                    "DOI": "10.3399/bjgp14X677509",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.22",
+                    "DOI": "10.1080/09638280500165179",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.23",
+                    "DOI": "10.1177/1403494810373674",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2016091403390042000_33.5.510.24",
+                    "unstructured": "Litchfield P. An Independent Review of the Work Capability Assessment: Year 5. London: The Stationery Office, 2014."
+                }
+            ],
+            "container-title": "Family Practice",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/fampra/article-pdf/33/5/510/6737648/cmw050.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        24
+                    ]
+                ],
+                "date-time": "2017-08-24T09:00:57Z",
+                "timestamp": 1503565257000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        24
+                    ]
+                ]
+            },
+            "references-count": 24,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2016,
+                            9,
+                            14
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            10
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "10.1093/fampra/cmw050"
+            ],
+            "URL": "http://dx.doi.org/10.1093/fampra/cmw050",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0263-2136",
+                "1460-2229"
+            ],
+            "container-title-short": "FAMPRJ"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Change in diagnosis",
+                        "sick leave",
+                        "sick-listing.",
+                        "sickness absence",
+                        "sickness certification"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27342583",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "02",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1093/fampra/cmw050"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "06",
+                            "Day": "24"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1460-2229",
+                        "JournalIssue": {
+                            "Volume": "33",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "10"
+                            }
+                        },
+                        "Title": "Family practice",
+                        "ISOAbbreviation": "Fam Pract"
+                    },
+                    "ArticleTitle": "Change in diagnosis on fit notes within an episode of certified sickness absence.",
+                    "Pagination": {
+                        "MedlinePgn": "510-6"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Little consideration has previously been given to the implications of a change in diagnosis during a sickness certification episode.",
+                            "To report the extent and patterns of change in diagnosis and to identify factors associated with likelihood of change.",
+                            "Sixty-eight general practices in the UK recorded details of sickness certificates (fit notes) issued to patients in a 12-month data collection period. Diagnoses on fit notes were assigned to modified READ categories.",
+                            "Over 23% (3841/16400) of episodes consisting of more than one sickness certificate had a change in diagnosis during the course of the episode. Over 4% (438/10398) of initial physical health episodes had a later mental health diagnosis. Lowest rate of change was found within episodes with an initial mental health diagnosis, the highest when an unspecified physical symptom was entered on the first fit note in the episode. A change in diagnosis was more likely when the total duration of the episode was longer, the episode included more fit notes and the patient was living in a socially deprived neighbourhood. Episodes where the patient had been issued fit notes by more than one GP were more likely to have a change in diagnosis.",
+                            "Change in diagnosis on fit notes is much less common when the patient has a psychological health problem."
+                        ],
+                        "CopyrightInformation": "\u00a9 The Author 2016. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Services Research, University of Liverpool, Liverpool, UK and."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shiels",
+                            "ForeName": "Chris",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Services Research, University of Liverpool, Liverpool, UK and mbg@liv.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark B",
+                            "Initials": "MB"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute for Employment Studies, Brighton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hillage",
+                            "ForeName": "Jim",
+                            "Initials": "J"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Fam Pract",
+                    "NlmUniqueID": "8500875",
+                    "ISSNLinking": "0263-2136"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "General Practice",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Logistic Models",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Return to Work",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Sick Leave",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Work Capacity Evaluation",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "6",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "6",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "2",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "27342583",
+                    "cmw050",
+                    "10.1093/fampra/cmw050"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27342583)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827342583%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827342583%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84991227837"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84991227837?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84991227837&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84991227837&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84991227837",
+                        "dc:identifier": "SCOPUS_ID:84991227837",
+                        "eid": "2-s2.0-84991227837",
+                        "dc:title": "Change in diagnosis on fit notes within an episode of certified sickness absence",
+                        "dc:creator": "Shiels C.",
+                        "prism:publicationName": "Family Practice",
+                        "prism:issn": "02632136",
+                        "prism:eIssn": "14602229",
+                        "prism:volume": "33",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": "510-516",
+                        "prism:coverDate": "2016-10-01",
+                        "prism:coverDisplayDate": "1 October 2016",
+                        "prism:doi": "10.1093/fampra/cmw050",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27342583",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "cmw050",
+                        "source-id": "27901",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "7SLWKF5Q.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27342583"
+            }
+        },
+        "title": "Change in diagnosis on fit notes within an episode of certified sickness absence.",
+        "full_author_list": [
+            {
+                "clean": "Shiels C",
+                "family": "Shiels",
+                "given": "Chris",
+                "affiliation": {
+                    "name": "Division of Health Services Research, University of Liverpool, Liverpool, UK and."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark B",
+                "affiliation": {
+                    "name": "Division of Health Services Research, University of Liverpool, Liverpool, UK and mbg@liv.ac.uk."
+                }
+            },
+            {
+                "clean": "Hillage J",
+                "family": "Hillage",
+                "given": "Jim",
+                "affiliation": {
+                    "name": "Institute for Employment Studies, Brighton, UK."
+                }
+            }
+        ],
+        "first_author": "Shiels C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "General Practice",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Logistic Models",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Return to Work",
+                    "major": "Y"
+                },
+                {
+                    "term": "Sick Leave",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                },
+                {
+                    "term": "Work Capacity Evaluation",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Fam Pract",
+            "volume": "33",
+            "issue": "5"
+        },
+        "abstract": "['Little consideration has previously been given to the implications of a change in diagnosis during a sickness certification episode.', 'To report the extent and patterns of change in diagnosis and to identify factors associated with likelihood of change.', 'Sixty-eight general practices in the UK recorded details of sickness certificates (fit notes) issued to patients in a 12-month data collection period. Diagnoses on fit notes were assigned to modified READ categories.', 'Over 23% (3841/16400) of episodes consisting of more than one sickness certificate had a change in diagnosis during the course of the episode. Over 4% (438/10398) of initial physical health episodes had a later mental health diagnosis. Lowest rate of change was found within episodes with an initial mental health diagnosis, the highest when an unspecified physical symptom was entered on the first fit note in the episode. A change in diagnosis was more likely when the total duration of the episode was longer, the episode included more fit notes and the patient was living in a socially deprived neighbourhood. Episodes where the patient had been issued fit notes by more than one GP were more likely to have a change in diagnosis.', 'Change in diagnosis on fit notes is much less common when the patient has a psychological health problem.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Division of Health Services Research, University of Liverpool, Liverpool, UK and.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

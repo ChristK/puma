@@ -1,0 +1,992 @@
+{
+    "IDs": {
+        "zotero": "K5HJK8ZU",
+        "DOI": "10.1136/jech-2017-209882",
+        "DOI_filename": "93346c46d83521260186deb7813895e5",
+        "PMID": "29330166",
+        "scopus": "2-s2.0-85042853885",
+        "hash": "4a8c0ef8e35f4110799384f1321352ea"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "K5HJK8ZU",
+            "version": 162,
+            "itemType": "journalArticle",
+            "title": "Impact of free access to leisure facilities and community outreach on inequalities in physical activity: a quasi-experimental study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Higgerson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emma",
+                    "lastName": "Halliday"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aurora",
+                    "lastName": "Ortiz-Nunez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Brown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Background\n              There are large inequalities in levels of physical activity in the UK, and this is an important determinant of health inequalities. Little is known about the effectiveness of community-wide interventions to increase physical activity and whether effects differ by socioeconomic group.\n            \n            \n              Methods\n              We conducted interrupted time series and difference-in-differences analyses using local administrative data and a large national survey to investigate the impact of an intervention providing universal free access to leisure facilities alongside outreach and marketing activities in a deprived local authority area in the northwest of England. Outcomes included attendances at swimming and gym sessions, self-reported participation in gym and swim activity and any physical activity.\n            \n            \n              Results\n              The intervention was associated with a 64% increase in attendances at swimming and gym sessions (relative risk 1.64, 95% CI 1.43 to 1.89, P<0.001), an additional 3.9% of the population participating in at least 30 min of moderate-intensity gym or swim sessions during the previous four weeks (95% CI 3.6 to 4.1) and an additional 1.9% of the population participating in any sport or active recreation of at least moderate intensity for at least 30 min on at least 12 days out of the last four weeks (95% CI 1.7 to 2.1). The effect on gym and swim activity and overall levels of participation in physical activity was significantly greater for the more disadvantaged socioeconomic group.\n            \n            \n              Conclusions\n              The study suggests that removing user charges from leisure facilities in combination with outreach and marketing activities can increase overall population levels of physical activity while reducing inequalities.",
+            "publicationTitle": "Journal of Epidemiology and Community Health",
+            "volume": "72",
+            "issue": "3",
+            "pages": "252-258",
+            "date": "03/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Epidemiol Community Health",
+            "language": "en",
+            "DOI": "10.1136/jech-2017-209882",
+            "ISSN": "0143-005X, 1470-2738",
+            "shortTitle": "Impact of free access to leisure facilities and community outreach on inequalities in physical activity",
+            "url": "http://jech.bmj.com/lookup/doi/10.1136/jech-2017-209882",
+            "accessDate": "2020-09-10T17:08:56Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29330166",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:56Z",
+            "dateModified": "2020-09-15T13:04:42Z",
+            "pmid": "29330166"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T06:10:44Z",
+                "timestamp": 1588918244817
+            },
+            "reference-count": 30,
+            "publisher": "BMJ",
+            "issue": "3",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100001921",
+                    "name": "Public Health Research Programme",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Background</jats:title><jats:p>There are large inequalities in levels of physical activity in the UK, and this is an important determinant of health inequalities. Little is known about the effectiveness of community-wide interventions to increase physical activity and whether effects differ by socioeconomic group.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>We conducted interrupted time series and difference-in-differences analyses using local administrative data and a large national survey to investigate the impact of an intervention providing universal free access to leisure facilities alongside outreach and marketing activities in a deprived local authority area in the northwest of England. Outcomes included attendances at swimming and gym sessions, self-reported participation in gym and swim activity and any physical activity.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The intervention was associated with a 64% increase in attendances at swimming and gym sessions (relative risk 1.64, 95% CI 1.43 to 1.89, P&lt;0.001), an additional 3.9% of the population participating in at least 30 min of moderate-intensity gym or swim sessions during the previous four weeks (95% CI 3.6 to 4.1) and an additional 1.9% of the population participating in any sport or active recreation of at least moderate intensity for at least 30 min on at least 12 days out of the last four weeks (95% CI 1.7 to 2.1). The effect on gym and swim activity and overall levels of participation in physical activity was significantly greater for the more disadvantaged socioeconomic group.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>The study suggests that removing user charges from leisure facilities in combination with outreach and marketing activities can increase overall population levels of physical activity while reducing inequalities.</jats:p></jats:sec>",
+            "DOI": "10.1136/jech-2017-209882",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        12
+                    ]
+                ],
+                "date-time": "2018-01-12T17:16:07Z",
+                "timestamp": 1515777367000
+            },
+            "page": "252-258",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 6,
+            "title": "Impact of free access to leisure facilities and community outreach on inequalities in physical activity: a quasi-experimental study",
+            "prefix": "10.1136",
+            "volume": "72",
+            "author": [
+                {
+                    "given": "James",
+                    "family": "Higgerson",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Emma",
+                    "family": "Halliday",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Aurora",
+                    "family": "Ortiz-Nunez",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Richard",
+                    "family": "Brown",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        12
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050722064541000_72.3.252.1",
+                    "unstructured": "Public Health England. Physical inactivity: economic costs to NHS clinical commissioning groups. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524234/Physical_inactivity_costs_to_CCGs.pdf (accessed 8 Mar 2017)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.2",
+                    "unstructured": "Public Health England. Health matters: getting every adult active every day. https://www.gov.uk/government/publications/health-matters-getting-every-adult-active-every-day/health-matters-getting-every-adult-active-every-day#physical-activity-and-health-inequalities (accessed 8 Mar 2017)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.3",
+                    "unstructured": "Robinson L . Managing public sport and leisure services. London, New York: Routledge, 2003.",
+                    "DOI": "10.4324/9780203646557",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.4",
+                    "unstructured": "legislation.gov.uk. Health and social care act 2012. 2012 http://www.legislation.gov.uk/ukpga/2012/7/section/12/enacted (accessed 6 Mar 2017)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.5",
+                    "unstructured": "Birmingham City Council. Get active with Birminghams Be Active campaign. https://www.mycareinbirmingham.org.uk/get-active-with-birminghams-be-active-campaign.aspx (accessed 8 Mar 2017)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.6",
+                    "unstructured": "Sport England. Blackburn with Darwen\u2019s re:fresh campaign. http://archive.sportengland.org/support__advice/local_government/in_it_for_the_long_run/case_studies/blackburn_with_darwen.aspx (accessed 31 May 2016)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.7",
+                    "unstructured": "Everyone Active. Southwark free swim and gym. https://www.everyoneactive.com/southwarkfreeswimandgym/ (accessed 16 May 2017)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "976",
+                    "DOI": "10.1016/j.puhe.2012.07.008",
+                    "article-title": "Health promotion and the social gradient: the free swimming initiative for children and young people in Bristol",
+                    "volume": "126",
+                    "author": "Audrey",
+                    "year": "2012",
+                    "journal-title": "Public Health"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.9",
+                    "unstructured": "Halliday E , Barr B , Higgerson J , et al . Using local authority entrance charges to tackle inequalities in physical activity? A qualitative study of leisure and public health perspectives. J Public Health 2017:1\u20136.doi:10.1093/pubmed/fdx124",
+                    "DOI": "10.1093/pubmed/fdx124",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.10",
+                    "unstructured": "Coalter F . Entrance charges and sports participation: a review of evidence. 2002 http://www.sportdevelopment.info/index.php/subjects/55-researchsurveys/132-entrance-charges-and-sports-participation-a-review-of-evidence (accessed 7 May 2014)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.11",
+                    "unstructured": "Coalter F . Free swimming \u2013 a need for a more strategic approach - physical activity health alliance. 2006 http://www.paha.org.uk/Resource/free-swimming-a-need-for-a-more-strategic-approach#viewComments (accessed 7 May 2014)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.12",
+                    "unstructured": "Bolton N , Martin S , Anderson M , et al . Free swimming: an evaluation of the welsh assembly government\u2019s initiative. 2008 https://repository.cardiffmet.ac.uk/handle/10369/583 (accessed 30 Jan 2017)."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "616",
+                    "DOI": "10.1186/s12889-016-3300-x",
+                    "article-title": "Cost-effectiveness analysis of offering free leisure centre memberships to physically inactive members of the public receiving state benefits: a case study",
+                    "volume": "16",
+                    "author": "Verhoef",
+                    "year": "2016",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "32",
+                    "DOI": "10.1016/j.smr.2014.09.001",
+                    "article-title": "The impact of a community free swimming programme for young people (under 19) in England",
+                    "volume": "18",
+                    "author": "Bullough",
+                    "year": "2015",
+                    "journal-title": "Sport Management Review"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.15",
+                    "unstructured": "PricewaterhouseCoopers LLP. Evaluation of the Impact of Free Swimming, 2010."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.16",
+                    "DOI": "10.1136/bjsports-2012-091202",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "171",
+                    "DOI": "10.1080/02614369300390171",
+                    "article-title": "Sports participation: price or priorities?",
+                    "volume": "12",
+                    "author": "Coalter",
+                    "year": "1993",
+                    "journal-title": "Leisure Studies"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.18",
+                    "unstructured": "Sport England. Active people survey 5-7 technical report. 2014 http://doc.ukdataservice.ac.uk/doc/7369/mrdoc/pdf/7369_aps_6_technical_report.pdf"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.19",
+                    "DOI": "10.1023/A:1010024016308",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.20",
+                    "DOI": "10.2307/2297912",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.21",
+                    "DOI": "10.1162/rest.89.2.221",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.22",
+                    "unstructured": "Puhani PA . The treatment effect, the cross difference, and the interaction term in nonlinear \u201cdifference-in-differences\u201d models. IZA Discuss Pap 2008:3478."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.23",
+                    "unstructured": "Ball K , Carver A , Downing K , et al . Addressing the social determinants of inequities in physical activity and sedentary behaviours. https://academic.oup.com/heapro/article/30/suppl_2/ii8/641904/Addressing-the-social-determinants-of-inequities (accessed 23 Jun 2017).",
+                    "DOI": "10.1093/heapro/dav022",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.24",
+                    "unstructured": "Lyon A , Frew E , Pallan M , et al . Evaluation of the Birmingham be active programme. Birmingham: University Birmingham, 2011."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.25",
+                    "unstructured": "PricewaterhouseCoopers LLP. Evaluation of the impact of free swimming. London: PricewaterhouseCoopers LLP, 2010."
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "79",
+                    "DOI": "10.1080/08964289.2015.1074880",
+                    "article-title": "A systematic review of financial incentives for physical activity: the effects on physical activity and related outcomes",
+                    "volume": "43",
+                    "author": "Barte",
+                    "year": "2017",
+                    "journal-title": "Behav Med"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "15",
+                    "DOI": "10.1186/s13102-016-0041-1",
+                    "article-title": "A systematic review of financial incentives given in the healthcare setting; do they effectively improve physical activity levels?",
+                    "volume": "8",
+                    "author": "Molema",
+                    "year": "2016",
+                    "journal-title": "BMC Sports Sci Med Rehabil"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.28",
+                    "unstructured": "Giles EL , Robalino S , McColl E , et al . The effectiveness of financial incentives for health behaviour change: systematic review and meta-analysis. PLoS One 2014;9:e90347.doi:10.1371/journal.pone.0090347",
+                    "DOI": "10.1371/journal.pone.0090347",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "199",
+                    "DOI": "10.1016/j.jand.2013.09.018",
+                    "article-title": "Practical guide to measuring physical activity",
+                    "volume": "114",
+                    "author": "Sylvia",
+                    "year": "2014",
+                    "journal-title": "J Acad Nutr Diet"
+                },
+                {
+                    "key": "2020050722064541000_72.3.252.30",
+                    "unstructured": "LGA. Council leaders say these cuts simply cannot go on. 2013 http://www.theguardian.com/theobserver/2013/jun/16/letters-council-leaders-protest-cuts (accessed 12 Sep 2013)."
+                }
+            ],
+            "container-title": "Journal of Epidemiology and Community Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/jech-2017-209882",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T05:29:04Z",
+                "timestamp": 1588915744000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            2,
+                            12
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1136/jech-2017-209882"
+            ],
+            "URL": "http://dx.doi.org/10.1136/jech-2017-209882",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0143-005X",
+                "1470-2738"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Epidemiology"
+            ],
+            "container-title-short": "J Epidemiol Community Health"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "inequalities",
+                        "physical activity",
+                        "policy"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29330166",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/jech-2017-209882"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "01",
+                            "Day": "12"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1470-2738",
+                        "JournalIssue": {
+                            "Volume": "72",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "03"
+                            }
+                        },
+                        "Title": "Journal of epidemiology and community health",
+                        "ISOAbbreviation": "J Epidemiol Community Health"
+                    },
+                    "ArticleTitle": "Impact of free access to leisure facilities and community outreach on inequalities in physical activity: a quasi-experimental study.",
+                    "Pagination": {
+                        "MedlinePgn": "252-258"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "There are large inequalities in levels of physical activity in the UK, and this is an important determinant of health inequalities. Little is known about the effectiveness of community-wide interventions to increase physical activity and whether effects differ by socioeconomic group.",
+                            "We conducted interrupted time series and difference-in-differences analyses using local administrative data and a large national survey to investigate the impact of an intervention providing universal free access to leisure facilities alongside outreach and marketing activities in a deprived local authority area in the northwest of England. Outcomes included attendances at swimming and gym sessions, self-reported participation in gym and swim activity and any physical activity.",
+                            "The intervention was associated with a 64% increase in attendances at swimming and gym sessions (relative risk 1.64, 95% CI 1.43 to 1.89, P<0.001), an additional 3.9% of the population participating in at least 30 min of moderate-intensity gym or swim sessions during the previous four weeks (95% CI 3.6 to 4.1) and an additional 1.9% of the population participating in any sport or active recreation of at least moderate intensity for at least 30 min on at least 12 days out of the last four weeks (95% CI 1.7 to 2.1). The effect on gym and swim activity and overall levels of participation in physical activity was significantly greater for the more disadvantaged socioeconomic group.",
+                            "The study suggests that removing user charges from leisure facilities in combination with outreach and marketing activities can increase overall population levels of physical activity while reducing inequalities."
+                        ],
+                        "CopyrightInformation": "\u00a9 Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2018. All rights reserved. No commercial use is permitted unless otherwise expressly granted."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Higgerson",
+                            "ForeName": "James",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Halliday",
+                            "ForeName": "Emma",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ortiz-Nunez",
+                            "ForeName": "Aurora",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Leisure and Environment Department, Blackburn with Darwen Borough Council, Blackburn, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Brown",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Epidemiol Community Health",
+                    "NlmUniqueID": "7909766",
+                    "ISSNLinking": "0143-005X"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Community-Institutional Relations",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Exercise",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Health Promotion",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Interrupted Time Series Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Leisure Activities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Program Evaluation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: RB is employed by Blackburn with Darwen Council in their Leisure and Environment department, involved in providing information about the nature of the intervention, facilitating access to the data, and providing contextual information upon request when interpreting the results."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Behav Med. 2017 Apr-Jun;43(2):79-90",
+                                "ArticleIdList": [
+                                    "26431076"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Mar 11;9(3):e90347",
+                                "ArticleIdList": [
+                                    "24618584"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2017 Sep 11;:1-6",
+                                "ArticleIdList": [
+                                    "28977634"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2016 Jul 22;16:616",
+                                "ArticleIdList": [
+                                    "27449787"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Sports Med. 2014 Feb;48(3):207-12",
+                                "ArticleIdList": [
+                                    "22797421"
+                                ]
+                            },
+                            {
+                                "Citation": "J Acad Nutr Diet. 2014 Feb;114(2):199-208",
+                                "ArticleIdList": [
+                                    "24290836"
+                                ]
+                            },
+                            {
+                                "Citation": "Prev Sci. 2000 Mar;1(1):31-49",
+                                "ArticleIdList": [
+                                    "11507793"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Sports Sci Med Rehabil. 2016 Jun 04;8:15",
+                                "ArticleIdList": [
+                                    "27274847"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health. 2012 Nov;126(11):976-81",
+                                "ArticleIdList": [
+                                    "22902210"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "08",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29330166",
+                    "jech-2017-209882",
+                    "10.1136/jech-2017-209882",
+                    "PMC5868528"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29330166)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829330166%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829330166%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042853885"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042853885?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042853885&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042853885&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042853885",
+                        "dc:identifier": "SCOPUS_ID:85042853885",
+                        "eid": "2-s2.0-85042853885",
+                        "dc:title": "Impact of free access to leisure facilities and community outreach on inequalities in physical activity: A quasi-experimental study",
+                        "dc:creator": "Higgerson J.",
+                        "prism:publicationName": "Journal of Epidemiology and Community Health",
+                        "prism:issn": "0143005X",
+                        "prism:eIssn": "14702738",
+                        "prism:volume": "72",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "252-258",
+                        "prism:coverDate": "2018-03-01",
+                        "prism:coverDisplayDate": "March 2018",
+                        "prism:doi": "10.1136/jech-2017-209882",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29330166",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "15896",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "K5HJK8ZU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29330166"
+            }
+        },
+        "title": "Impact of free access to leisure facilities and community outreach on inequalities in physical activity: a quasi-experimental study.",
+        "full_author_list": [
+            {
+                "clean": "Higgerson J",
+                "family": "Higgerson",
+                "given": "James",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Halliday E",
+                "family": "Halliday",
+                "given": "Emma",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Ortiz-Nunez A",
+                "family": "Ortiz-Nunez",
+                "given": "Aurora",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Brown R",
+                "family": "Brown",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "Leisure and Environment Department, Blackburn with Darwen Borough Council, Blackburn, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Higgerson J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Community-Institutional Relations",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Exercise",
+                    "major": "Y"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Promotion",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Interrupted Time Series Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Leisure Activities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Program Evaluation",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Epidemiol Community Health",
+            "volume": "72",
+            "issue": "3"
+        },
+        "abstract": "['There are large inequalities in levels of physical activity in the UK, and this is an important determinant of health inequalities. Little is known about the effectiveness of community-wide interventions to increase physical activity and whether effects differ by socioeconomic group.', 'We conducted interrupted time series and difference-in-differences analyses using local administrative data and a large national survey to investigate the impact of an intervention providing universal free access to leisure facilities alongside outreach and marketing activities in a deprived local authority area in the northwest of England. Outcomes included attendances at swimming and gym sessions, self-reported participation in gym and swim activity and any physical activity.', 'The intervention was associated with a 64% increase in attendances at swimming and gym sessions (relative risk 1.64, 95% CI 1.43 to 1.89, P<0.001), an additional 3.9% of the population participating in at least 30 min of moderate-intensity gym or swim sessions during the previous four weeks (95% CI 3.6 to 4.1) and an additional 1.9% of the population participating in any sport or active recreation of at least moderate intensity for at least 30 min on at least 12 days out of the last four weeks (95% CI 1.7 to 2.1). The effect on gym and swim activity and overall levels of participation in physical activity was significantly greater for the more disadvantaged socioeconomic group.', 'The study suggests that removing user charges from leisure facilities in combination with outreach and marketing activities can increase overall population levels of physical activity while reducing inequalities.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

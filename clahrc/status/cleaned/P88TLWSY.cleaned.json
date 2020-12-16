@@ -1,0 +1,2065 @@
+{
+    "IDs": {
+        "zotero": "P88TLWSY",
+        "DOI": "10.1002/14651858.CD001769.pub3",
+        "DOI_filename": "9a13045afcf38c657faaac42ce27d60b",
+        "PMID": "27123830",
+        "scopus": "2-s2.0-84964584572",
+        "hash": "7388d63ee7b91a3142cf0e6b3bdf389e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "P88TLWSY",
+            "version": 174,
+            "itemType": "journalArticle",
+            "title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures: an individual participant data review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Weston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-04-28",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD001769.pub3",
+            "ISSN": "14651858",
+            "shortTitle": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD001769.pub3",
+            "accessDate": "2020-09-10T17:09:49Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27123830",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:49Z",
+            "dateModified": "2020-09-15T14:18:46Z",
+            "pmid": "27123830"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        25
+                    ]
+                ],
+                "date-time": "2020-03-25T00:32:07Z",
+                "timestamp": 1585096327351
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                4,
+                                28
+                            ]
+                        ],
+                        "date-time": "2016-04-28T00:00:00Z",
+                        "timestamp": 1461801600000
+                    },
+                    "DOI": "10.1002/14651858.cd001769.pub2",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 92,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd001769.pub3",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        28
+                    ]
+                ],
+                "date-time": "2016-04-28T13:48:34Z",
+                "timestamp": 1461851314000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 6,
+            "title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures: an individual participant data review",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Weston",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        28
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "639",
+                    "DOI": "10.1136/jnnp.48.7.639",
+                    "article-title": "A prospective study between carbamazepine, phenytoin and sodium valproate as monotherapy in previously untreated and recently diagnosed patients with epilepsy",
+                    "volume": "48",
+                    "author": "Callaghan",
+                    "year": "1985",
+                    "journal-title": "Journal of Neurology, Neurosurgery and Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "381",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02448.x",
+                    "article-title": "Impact of valproate and phenytoin on cognitive function in elderly patients: results of a single-blind randomized comparative study",
+                    "volume": "35",
+                    "author": "Craig",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0003|cit3",
+                    "first-page": "42",
+                    "article-title": "Randomised 36-month comparative study of valproic acid, phenytoin, phenobarbital and carbamazepine efficacy in patients with newly diagnosed epilepsy with partial complex seizures",
+                    "volume": "38",
+                    "author": "Czapinski",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "709",
+                    "DOI": "10.1016/S0140-6736(96)90074-4",
+                    "article-title": "Randomised comparative monotherapy trial of phenobarbitone, phenytoin, carbamazepine, or sodium valproate for newly diagnosed childhood epilepsy",
+                    "volume": "347",
+                    "author": "Silva",
+                    "year": "1996",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "524",
+                    "DOI": "10.1111/j.1469-8749.1991.tb14917.x",
+                    "article-title": "Cognitive impairment in new cases of epilepsy randomly assigned to carbamazepine, phenytoin and sodium valproate",
+                    "volume": "33",
+                    "author": "Forsythe",
+                    "year": "1991",
+                    "journal-title": "Developmental Medicine and Child Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "44",
+                    "DOI": "10.1136/jnnp.58.1.44",
+                    "article-title": "Phenobarbitone, phenytoin, carbamazepine, or sodium valproate for newly diagnosed adult epilepsy: a randomised comparative monotherapy trial",
+                    "volume": "58",
+                    "author": "Heller",
+                    "year": "1995",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "55",
+                    "DOI": "10.1016/S0896-6974(05)80021-0",
+                    "article-title": "Efficacy and safety of valproic acid versus phenytoin as sole therapy for newly diagnosed primary generalized tonic-clonic seizures",
+                    "volume": "5",
+                    "author": "Ramsay",
+                    "year": "1992",
+                    "journal-title": "Journal of Epilepsy"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0008|cit8",
+                    "first-page": "606",
+                    "article-title": "Comparison of sodium valproate and phenytoin as single drug treatment in generalised and partial epilepsy",
+                    "volume": "39",
+                    "author": "Rastogi",
+                    "year": "1991",
+                    "journal-title": "Journal of the Association of Physicians of India"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "27",
+                    "DOI": "10.1111/j.1528-1157.1981.tb04330.x",
+                    "article-title": "Comparison of sodium valproate and phenytoin as single drug treatment in epilepsy",
+                    "volume": "22",
+                    "author": "Shakir",
+                    "year": "1981",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0010|cit10",
+                    "first-page": "549",
+                    "article-title": "Comparison of phenobarbitone, phenytoin with sodium valproate: randomized, double-blind study",
+                    "volume": "33",
+                    "author": "Thilothammal",
+                    "year": "1996",
+                    "journal-title": "Indian Pediatrics"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "815",
+                    "DOI": "10.1136/bmj.290.6471.815",
+                    "article-title": "Which drug for the adult epileptic patient: phenytoin or valproate?",
+                    "volume": "290",
+                    "author": "Turnbull",
+                    "year": "1985",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "149",
+                    "DOI": "10.1111/j.1469-8749.1993.tb11616.x",
+                    "article-title": "Psychiatric aspects of epilepsy in childhood treated with carbamazepine, phenytoin or sodium valproate: a random trial",
+                    "volume": "35",
+                    "author": "Berg",
+                    "year": "1993",
+                    "journal-title": "Developmental Medicine and Child Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0013|cit13",
+                    "first-page": "194",
+                    "article-title": "A comparison between carbamazepine, phenytoin and sodium valproate as single drug treatment in epilepsy [abstract]",
+                    "volume": "150",
+                    "author": "Callaghan",
+                    "year": "1981",
+                    "journal-title": "Irish Journal of Medical Science"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0014|cit14",
+                    "first-page": "7",
+                    "article-title": "A comparative study between carbamazepine, phenytoin and sodium valproate as monotherapy in previously untreated and recently diagnosed patients with epilepsy: a preliminary communication",
+                    "volume": "27",
+                    "author": "Callaghan",
+                    "year": "1983",
+                    "journal-title": "British Journal of Clinical Practice"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0015|cit15",
+                    "first-page": "154",
+                    "article-title": "A comparative study of carbamazepine, sodium valproate and phenytoin as monotherapy in epilepsy: an updated report [abstract]",
+                    "volume": "153",
+                    "author": "Callaghan",
+                    "year": "1984",
+                    "journal-title": "Irish Journal of Medical Science"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "10",
+                    "DOI": "10.1093/ageing/22.suppl_2.P10-a",
+                    "article-title": "The impact of sodium valproate and phenytoin on cognitive function in elderly patients: results of a single-blind comparative study",
+                    "volume": "22",
+                    "author": "Craig",
+                    "year": "1993",
+                    "journal-title": "Age and ageing"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0017|cit17",
+                    "first-page": "S95",
+                    "article-title": "Comparative study of valproic acid (VPA), phenytoin (PHT), phenobarbital (PB) and carbamazepine (CBZ) in patients with newly diagnosed epilepsy with partial complex seizures [abstract]",
+                    "volume": "244",
+                    "author": "Czapinski",
+                    "year": "1997",
+                    "journal-title": "Journal of Neurology"
+                },
+                {
+                    "issue": "Suppl",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S162",
+                    "DOI": "10.1016/S0022-510X(97)85646-8",
+                    "article-title": "Randomized 36-month comparative study of valproic acid (VPA), phenytoin (PHT), phenobarbital (PB) and carbamazepine (CBZ) efficacy in patients with newly diagnosed epilepsy with partial complex seizures",
+                    "volume": "150",
+                    "author": "Czapinski",
+                    "year": "1997",
+                    "journal-title": "Journal of the Neurological Sciences"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0019|cit19",
+                    "first-page": "154",
+                    "article-title": "A re-appraisal by control and seizure type of serum levels in previously untreated patients taking part in a prospective study comparing sodium valproate, phenytoin and carbamazepine as mono-therapy in epilepsy [abstract]",
+                    "volume": "153",
+                    "author": "Goggin",
+                    "year": "1984",
+                    "journal-title": "Irish Journal of Medical Science"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0020|cit20",
+                    "first-page": "150",
+                    "article-title": "Serum levels of sodium valproate, phenytoin and carbamazepine and seizure control in epilepsy",
+                    "volume": "79",
+                    "author": "Goggin",
+                    "year": "1986",
+                    "journal-title": "Irish Medical Journal"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "222",
+                    "DOI": "10.1111/j.1528-1157.2000.tb00144.x",
+                    "article-title": "A multicenter randomized controlled trial on the clinical impact of therapeutic drug monitoring in patients with newly diagnosed epilepsy. The Italian TDM Study Group in Epilepsy",
+                    "volume": "41",
+                    "author": "Jannuzzi",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "659",
+                    "DOI": "10.1016/j.yebeh.2003.08.033",
+                    "article-title": "Lamotrigine monotherapy compared with carbamazepine, phenytoin, or valproate monotherapy in patients with epilepsy",
+                    "volume": "4",
+                    "author": "Kaminow",
+                    "year": "2003",
+                    "journal-title": "Epilepsy and Behaviour"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1111/j.1600-0404.1995.tb00461.x",
+                    "article-title": "Cognitive function and anticonvulsant therapy: effect of monotherapy in epilepsy",
+                    "volume": "92",
+                    "author": "Sabers",
+                    "year": "1995",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "588",
+                    "DOI": "10.1016/j.yebeh.2007.02.011",
+                    "article-title": "How reliable is early treatment response in predicting long-term seizure outcome?",
+                    "volume": "10",
+                    "author": "Schmidt",
+                    "year": "2007",
+                    "journal-title": "Epilepsy and Behaviour"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0025|cit25",
+                    "first-page": "7",
+                    "article-title": "Sodium valproate, phenytoin and carbamazepine as sole anticonvulsants",
+                    "volume": "30",
+                    "author": "Shakir",
+                    "year": "1980",
+                    "journal-title": "Royal Society of Medicine International Congress and Symposium"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S5",
+                    "DOI": "10.1093/ageing/23.suppl_2.P5-c",
+                    "article-title": "Multicentre comparative trial of sodium valproate and phenytoin in elderly patients with newly diagnosed epilepsy",
+                    "volume": "23",
+                    "author": "Tallis",
+                    "year": "1994",
+                    "journal-title": "Age and ageing"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0027|cit27",
+                    "first-page": "62",
+                    "article-title": "Multicenter comparative trial of valproate and phenytoin",
+                    "volume": "35",
+                    "author": "Tallis",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "55",
+                    "DOI": "10.1136/jnnp.45.1.55",
+                    "article-title": "A comparison of phenytoin and valproate in previously untreated adult epileptic patients",
+                    "volume": "45",
+                    "author": "Turnbull",
+                    "year": "1982",
+                    "journal-title": "Journal of Neurology, Neurosurgery and Psychiatry"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1474",
+                    "DOI": "10.1212/WNL.33.11.1474",
+                    "article-title": "Comparison of valproic acid and phenytoin in newly diagnosed tonic-clonic seizures",
+                    "volume": "33",
+                    "author": "Wilder",
+                    "year": "1983",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "291",
+                    "DOI": "10.1016/j.clineuro.2009.12.014",
+                    "article-title": "Adverse effects of carbamazepine, phenytoin, valproate and lamotrigine monotherapy in epileptic adult Chinese patients",
+                    "volume": "112",
+                    "author": "Zeng",
+                    "year": "2010",
+                    "journal-title": "Clinical Neurology and Neurosurgery"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "502",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00748.x",
+                    "article-title": "The incidence of epilepsy and unprovoked seizures in multiethnic, urban health maintenance organizations",
+                    "volume": "40",
+                    "author": "Annegers",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "123",
+                    "DOI": "10.1111/j.1528-1157.1988.tb04407.x",
+                    "article-title": "Interobserver variability in the ILAE classification of seizures in childhood",
+                    "volume": "29",
+                    "author": "Bodensteiner",
+                    "year": "1988",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S8",
+                    "DOI": "10.1111/j.1528-1157.1987.tb05769.x",
+                    "article-title": "Monotherapy with valproate in primary generalized epilepsies",
+                    "volume": "28",
+                    "author": "Bourgeois",
+                    "year": "1987",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "138",
+                    "DOI": "10.1016/S0011-393X(00)88522-7",
+                    "article-title": "Pilot study of divalproex sodium valproate versus valproic acid: drug acquisition costs versus all related costs",
+                    "volume": "60",
+                    "author": "Brasfield",
+                    "year": "1999",
+                    "journal-title": "Current Therapeutic Research"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0035|cit35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "637",
+                    "DOI": "10.1136/jnnp-2012-304270",
+                    "article-title": "The prevalence of neurodevelopmental disorders in children prenatally exposed to antiepileptic drugs",
+                    "volume": "84",
+                    "author": "Bromley",
+                    "year": "2013",
+                    "journal-title": "Journal of Neurology, Neurosurgery and Psychiatry"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1231",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00851.x",
+                    "article-title": "Malformations in offspring of women with epilepsy: A prospective study",
+                    "volume": "40",
+                    "author": "Canger",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "372",
+                    "DOI": "10.1111/j.1528-1157.1992.tb02330.x",
+                    "article-title": "Phenytoin-folate interactions: differing effects of the sodium salt and the free acid of phenytoin",
+                    "volume": "33",
+                    "author": "Carl",
+                    "year": "1992",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S96",
+                    "DOI": "10.1111/j.1528-1157.1994.tb05980.x",
+                    "article-title": "Valproate in the treatment of partial epilepsies",
+                    "volume": "35",
+                    "author": "Chadwick",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "489",
+                    "DOI": "10.1111/j.1528-1157.1981.tb06159.x",
+                    "article-title": "Proposal for revised clinical and electroencephalographic classification of epileptic seizures",
+                    "volume": "22",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1981",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "389",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05316.x",
+                    "article-title": "Proposal for revised classification of epilepsies and epileptic syndromes",
+                    "volume": "30",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "799",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01167.x",
+                    "article-title": "Considerations on designing clinical trials to evaluate the place of new antiepileptic drugs in the treatment of newly diagnosed and chronic patients with epilepsy",
+                    "volume": "39",
+                    "author": "ILAE Commission on Antiepileptic Drugs",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1716",
+                    "DOI": "10.1093/ajhp/54.15.1716",
+                    "article-title": "Clinical and economic impact of replacing divalproex sodium with valproic acid",
+                    "volume": "54",
+                    "author": "Cranor",
+                    "year": "1997",
+                    "journal-title": "American Journal of Health-System Pharmacy"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0044|cit44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "285",
+                    "DOI": "10.1212/WNL.34.3.285",
+                    "article-title": "Juvenile myoclonic epilepsy of Janz",
+                    "volume": "34",
+                    "author": "Delgado-Escueta",
+                    "year": "1984",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0045|cit45",
+                    "first-page": "65",
+                    "article-title": "Weight gain during treatment with valproate",
+                    "volume": "69",
+                    "author": "Dinesen",
+                    "year": "1984",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0046|cit46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "121",
+                    "DOI": "10.1016/S1059-1311(97)80065-9",
+                    "article-title": "Weight gain with valproate or carbamazepine-a reappraisal",
+                    "volume": "6",
+                    "author": "Easter",
+                    "year": "1997",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "6291",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0047|cit47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "577",
+                    "DOI": "10.1136/bmj.283.6291.577",
+                    "article-title": "Effects of sodium valproate in 100 children with special reference to weight",
+                    "volume": "283",
+                    "author": "Egger",
+                    "year": "1981",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0048|cit48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "257",
+                    "DOI": "10.1016/0890-6238(92)90181-R",
+                    "article-title": "Course of pregnancy and fetal outcome following maternal exposure to carbamazepine and phenytoin: a prospective study",
+                    "volume": "6",
+                    "author": "Gladstone",
+                    "year": "1992",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota 1935 - 1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0050|cit50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "557",
+                    "DOI": "10.1136/bmj.327.7414.557",
+                    "article-title": "Measuring inconsistency in meta-analyses",
+                    "volume": "327",
+                    "author": "Higgins",
+                    "year": "2003",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0051|cit51",
+                    "unstructured": "Higgins JPT Green S (editors) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from www.cochrane-handbook.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0052|cit52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "326",
+                    "DOI": "10.1212/01.wnl.0000252807.38124.a3",
+                    "article-title": "How common are the \"common\" neurologic disorders?",
+                    "volume": "68",
+                    "author": "Hirtz",
+                    "year": "2007",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1094",
+                    "DOI": "10.1111/j.1528-1167.2006.00585.x",
+                    "article-title": "ILAE treatment guidelines:Evidence based analysis of antiepileptic drug efficacy and effectiveness as initial monotherapy for epileptic seizures and syndromes",
+                    "volume": "47",
+                    "author": "Glauser",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0054|cit54",
+                    "first-page": "542",
+                    "article-title": "Choice of drug therapy in epilepsy",
+                    "volume": "219",
+                    "author": "Jeavons",
+                    "year": "1977",
+                    "journal-title": "Practitioner"
+                },
+                {
+                    "issue": "7048",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0055|cit55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "36",
+                    "DOI": "10.1136/bmj.313.7048.36",
+                    "article-title": "Trials to assess equivalence: the importance of rigorous methods",
+                    "volume": "313",
+                    "author": "Jones",
+                    "year": "1996",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "297",
+                    "DOI": "10.1111/j.1528-1157.1983.tb04893.x",
+                    "article-title": "Natural history of epileptic seizures",
+                    "volume": "24",
+                    "author": "Juul-Jenson",
+                    "year": "1983",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0057|cit57",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0058|cit58",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "314",
+                    "DOI": "10.1056/NEJM200002033420503",
+                    "article-title": "Early identification of refractory epilepsy",
+                    "volume": "342",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0059|cit59",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from www.cochrane-handbook.org"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0060|cit60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1026",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02549.x",
+                    "article-title": "Absence seizures and carbamazepine in adults",
+                    "volume": "35",
+                    "author": "Liporace",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0061|cit61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "833",
+                    "DOI": "10.1002/1531-8249(200012)48:6<833::AID-ANA3>3.0.CO;2-U",
+                    "article-title": "Factors predicting prognosis of epilepsy after presentation with seizures",
+                    "volume": "48",
+                    "author": "MacDonald",
+                    "year": "2000",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0062|cit62",
+                    "author": "Malafosse",
+                    "year": "1994",
+                    "volume-title": "Idiopathic Generalised Epilepsies: Clinical, Experimental and Genetic Aspects"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0063|cit63",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "9566",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0064|cit64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0065|cit65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "145",
+                    "DOI": "10.1056/NEJM198507183130303",
+                    "article-title": "Comparison of carbamazepine, phenobarbital, phenytoin, and primidone in partial and secondarily generalized tonic-clonic seizures",
+                    "volume": "313",
+                    "author": "Mattson",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0066|cit66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2008.04.022",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: A systematic review and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "81",
+                    "author": "Meador",
+                    "year": "2008",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0067|cit67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "DOI": "10.1136/jnnp.2005.074203",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: A systematic review and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "77",
+                    "author": "Morrow",
+                    "year": "2006",
+                    "journal-title": "Journal of Neurology, Neurosurgery and Neuropsychiatry\u00a0"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0068|cit68",
+                    "unstructured": "Murray CJL Lopez AD Global comparative assessments in the health sector World Health Organization 1994."
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0069|cit69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1111/j.1528-1167.2009.02481.x",
+                    "article-title": "Estimation of the burden of active and life-time epilepsy: a meta-analytic approach",
+                    "volume": "51",
+                    "author": "Ngugi",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0070|cit70",
+                    "unstructured": "National Institute for Health and Care Excellence The epilepsies: the diagnosis and management of the epilepsies in adults and children in primary and secondary care London: National Institute for Health and Care Excellence 2012; Clinical Guidance 137"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0071|cit71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "490",
+                    "DOI": "10.1177/088307389901400802",
+                    "article-title": "Risk of excessive weight gain in epileptic children treated with valproate",
+                    "volume": "14",
+                    "author": "Novak",
+                    "year": "1999",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0072|cit72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1002/(SICI)1096-8628(19970110)68:1<18::AID-AJMG4>3.0.CO;2-U",
+                    "article-title": "Findings in children exposed in utero to phenytoin and carbamazepine monotherapy: independent effects of epilepsy and medications",
+                    "volume": "68",
+                    "author": "Nulman",
+                    "year": "1997",
+                    "journal-title": "American Journal of Medical Genetics"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0073|cit73",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "627",
+                    "DOI": "10.1016/S1474-4422(05)70172-1",
+                    "article-title": "Incidence of unprovoked seizures and epilepsy in Iceland and assessment of the epilepsy syndrome classification: a prospective study",
+                    "volume": "4",
+                    "author": "Olafsson",
+                    "year": "2005",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0074|cit74",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.reprotox.2009.02.014",
+                    "article-title": "Valproic acid in pregnancy: How much are we endangering the embryo and fetus?",
+                    "volume": "28",
+                    "author": "Ornoy",
+                    "year": "2009",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0075|cit75",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2526",
+                    "DOI": "10.1212/WNL.43.12.2526",
+                    "article-title": "Reliability of seizure classification using a semistructured interview",
+                    "volume": "43",
+                    "author": "Ottman",
+                    "year": "1993",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0076|cit76",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2815",
+                    "DOI": "10.1002/(SICI)1097-0258(19981230)17:24<2815::AID-SIM110>3.0.CO;2-8",
+                    "article-title": "Extracting summary statistics to perform meta-analysis of the published literature for survival endpoints",
+                    "volume": "17",
+                    "author": "Parmar",
+                    "year": "1998",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "issue": "Suppl 4",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0077|cit77",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S19",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05833.x",
+                    "article-title": "Juvenile myoclonic epilepsy: long term response to therapy",
+                    "volume": "30",
+                    "author": "Penry",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0078|cit78",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1136/jnnp.61.5.433",
+                    "article-title": "Epidemiology of the epilepsies",
+                    "volume": "61",
+                    "author": "Sander",
+                    "year": "1996",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0079|cit79",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "28",
+                    "DOI": "10.1111/j.0013-9580.2004.455005.x",
+                    "article-title": "The use of anti-epileptic drugs - principles and practice",
+                    "volume": "45",
+                    "author": "Sander",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0080|cit80",
+                    "first-page": "6",
+                    "article-title": "Phenytoin in cutaneous medicine: Its uses, mechanisms and side effects",
+                    "volume": "9",
+                    "author": "Scheinfeld",
+                    "year": "2003",
+                    "journal-title": "Dermatology Online Journal"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0081|cit81",
+                    "unstructured": "StataCorp Stata Statistical Software: Release 11 2009"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0082|cit82",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "609",
+                    "DOI": "10.1016/S1474-4422(11)70107-7",
+                    "article-title": "Dose-dependent risk of malformation with antiepileptic drugs: An analysis of data from the EURAP epilepsy and pregnancy registry",
+                    "volume": "10",
+                    "author": "Tomson",
+                    "year": "2011",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0083|cit83",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "753",
+                    "DOI": "10.1111/j.1528-1157.1975.tb04761.x",
+                    "article-title": "Paradoxical intoxication - a complication of anticonvulsant administration",
+                    "volume": "16",
+                    "author": "Troupin",
+                    "year": "1975",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0084|cit84",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "volume": "5",
+                    "author": "Tudur Smith",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0085|cit85",
+                    "first-page": "27",
+                    "article-title": "Progressive encephalopathy due to chronic hydantoin intoxication",
+                    "volume": "128",
+                    "author": "Vallarta",
+                    "year": "1974",
+                    "journal-title": "American Journal of Diseases of Children"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0086|cit86",
+                    "unstructured": "Wallace H Shorvon SD Hopkins A O'Donoghue M National Society of Epilepsy Guidelines London: Royal College of Physicians 1997"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0087|cit87",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "808",
+                    "DOI": "10.1212/WNL.33.6.808",
+                    "article-title": "Gastrointestinal tolerance of divalproex sodium",
+                    "volume": "33",
+                    "author": "Wilder",
+                    "year": "1983",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0088|cit88",
+                    "author": "Wilder",
+                    "first-page": "339",
+                    "year": "1995",
+                    "article-title": "Phenytoin: clinical use",
+                    "volume-title": "Antiepileptic Drugs"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0089|cit89",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3337",
+                    "DOI": "10.1002/sim.1303",
+                    "article-title": "Aggregate data meta-analysis with time-to-event outcomes",
+                    "volume": "21",
+                    "author": "Williamson",
+                    "year": "2002",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0090|cit90",
+                    "author": "Nolan",
+                    "issue": "8",
+                    "year": "2013",
+                    "article-title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0091|cit91",
+                    "author": "Tudur",
+                    "issue": "3",
+                    "year": "1999",
+                    "article-title": "Phenytoin vs sodium valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001769.pub3-BIB0092|cit92",
+                    "author": "Tudur Smith",
+                    "issue": "4",
+                    "year": "2001",
+                    "article-title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalized onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD001769.pub3",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        7
+                    ]
+                ],
+                "date-time": "2019-09-07T03:14:58Z",
+                "timestamp": 1567826098000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        28
+                    ]
+                ]
+            },
+            "references-count": 92,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD001769.pub3",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27123830",
+                "DateCompleted": {
+                    "Year": "2016",
+                    "Month": "07",
+                    "Day": "21"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD001769.pub3"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "04",
+                            "Day": "28"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "4",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "Apr",
+                                "Day": "28"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures: an individual participant data review.",
+                    "Pagination": {
+                        "MedlinePgn": "CD001769"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Worldwide, phenytoin and valproate are commonly used antiepileptic drugs. It is generally believed that phenytoin is more effective for partial onset seizures, and that valproate is more effective for generalised onset tonic-clonic seizures (with or without other generalised seizure types). This review is one in a series of Cochrane reviews investigating pair-wise monotherapy comparisons. This is the latest updated version of the review first published in 2001 and updated in 2013.",
+                            "To review the time to withdrawal, remission and first seizure of phenytoin compared to valproate when used as monotherapy in people with partial onset seizures or generalised tonic-clonic seizures (with or without other generalised seizure types).",
+                            "We searched the Cochrane Epilepsy Group's Specialised Register (19 May 2015), the Cochrane Central Register of Controlled Trials (CENTRAL; the Cochrane Library; 2015, Issue 4), MEDLINE (1946 to 19 May 2015), SCOPUS (19 February 2013), ClinicalTrials.gov (19 May 2015), and WHO International Clinical Trials Registry Platform ICTRP (19 May 2015). We handsearched relevant journals, contacted pharmaceutical companies, original trial investigators and experts in the field.",
+                            "Randomised controlled trials (RCTs) in children or adults with partial onset seizures or generalised onset tonic-clonic seizures with a comparison of valproate monotherapy versus phenytoin monotherapy.",
+                            "This was an individual participant data (IPD) review. Outcomes were time to: (a) withdrawal of allocated treatment (retention time); (b) achieve 12-month remission (seizure-free period); (c) achieve six-month remission (seizure-free period); and (d) first seizure (post-randomisation). We used Cox proportional hazards regression models to obtain study-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), and the generic inverse variance method to obtain the overall pooled HR and 95% CI.",
+                            "IPD were available for 669 individuals out of 1119 eligible individuals from five out of 11 trials, 60% of the potential data. Results apply to partial onset seizures (simple, complex and secondary generalised tonic-clonic seizures), and generalised tonic-clonic seizures, but not other generalised seizure types (absence or myoclonus seizure types). For remission outcomes: HR > 1 indicates an advantage for phenytoin; and for first seizure and withdrawal outcomes: HR > 1 indicates an advantage for valproate.The main overall results (pooled HR adjusted for seizure type) were time to: (a) withdrawal of allocated treatment 1.09 (95% CI 0.76 to 1.55); (b) achieve 12-month remission 0.98 (95% CI 0.78 to 1.23); (c) achieve six-month remission 0.95 (95% CI 0.78 to 1.15); and (d) first seizure 0.93 (95% CI 0.75 to 1.14). The results suggest no overall difference between the drugs for these outcomes. We did not find any statistical interaction between treatment and seizure type (partial versus generalised).",
+                            "We have not found evidence that a significant difference exists between phenytoin and valproate for the outcomes examined in this review. However misclassification of seizure type may have confounded the results of this review. Results do not apply to absence or myoclonus seizure types. No outright evidence was found to support or refute current treatment policies."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Nolan",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Weston",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "614OI1Z5WI",
+                        "NameOfSubstance": "Valproic Acid"
+                    },
+                    {
+                        "RegistryNumber": "6158TKW0C5",
+                        "NameOfSubstance": "Phenytoin"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2013;(8):CD001769",
+                        "PMID": "23970302"
+                    },
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2018 Aug 09;8:CD001769",
+                        "PMID": "30091458"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Generalized",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Tonic-Clonic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Phenytoin",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Valproic Acid",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Epilepsia. 1999 Apr;40(4):502-6",
+                                "ArticleIdList": [
+                                    "10219279"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Neurol. 1999 Aug;14(8):490-5",
+                                "ArticleIdList": [
+                                    "10456757"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999 Sep;40(9):1231-6",
+                                "ArticleIdList": [
+                                    "10487185"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2000 Feb 3;342(5):314-9",
+                                "ArticleIdList": [
+                                    "10660394"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000 Feb;41(2):222-30",
+                                "ArticleIdList": [
+                                    "10691121"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001030",
+                                "ArticleIdList": [
+                                    "10908558"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2000 Dec;48(6):833-41",
+                                "ArticleIdList": [
+                                    "11117539"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2001;(4):CD001769",
+                                "ArticleIdList": [
+                                    "11687121"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1975 Dec;16(5):753-8",
+                                "ArticleIdList": [
+                                    "1222751"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2002 Nov 30;21(22):3337-51",
+                                "ArticleIdList": [
+                                    "12407676"
+                                ]
+                            },
+                            {
+                                "Citation": "Dermatol Online J. 2003 Aug;9(3):6",
+                                "ArticleIdList": [
+                                    "12952753"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2003 Sep 6;327(7414):557-60",
+                                "ArticleIdList": [
+                                    "12958120"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2003 Dec;4(6):659-66",
+                                "ArticleIdList": [
+                                    "14698699"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004;45 Suppl 6:28-34",
+                                "ArticleIdList": [
+                                    "15315513"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1992 Mar-Apr;33(2):372-5",
+                                "ArticleIdList": [
+                                    "1547769"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 1992;6(3):257-61",
+                                "ArticleIdList": [
+                                    "1591483"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2005 Oct;4(10):627-34",
+                                "ArticleIdList": [
+                                    "16168931"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2006 Jul;47(7):1094-120",
+                                "ArticleIdList": [
+                                    "16886973"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2007 Jan 30;68(5):326-37",
+                                "ArticleIdList": [
+                                    "17261678"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2007 Jun;10(4):588-94",
+                                "ArticleIdList": [
+                                    "17418644"
+                                ]
+                            },
+                            {
+                                "Citation": "Trials. 2007 Nov 05;8:34",
+                                "ArticleIdList": [
+                                    "17983480"
+                                ]
+                            },
+                            {
+                                "Citation": "J Assoc Physicians India. 1991 Aug;39(8):606-8",
+                                "ArticleIdList": [
+                                    "1814875"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2008 Sep;81(1):1-13",
+                                "ArticleIdList": [
+                                    "18565732"
+                                ]
+                            },
+                            {
+                                "Citation": "Dev Med Child Neurol. 1991 Jun;33(6):524-34",
+                                "ArticleIdList": [
+                                    "1864478"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 2009 Jul;28(1):1-10",
+                                "ArticleIdList": [
+                                    "19490988"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 May;51(5):883-90",
+                                "ArticleIdList": [
+                                    "20067507"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Neurol Neurosurg. 2010 May;112(4):291-5",
+                                "ArticleIdList": [
+                                    "20071075"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2011 Jul;10(7):609-17",
+                                "ArticleIdList": [
+                                    "21652013"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2013 Jun;84(6):637-43",
+                                "ArticleIdList": [
+                                    "23370617"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Aug 23;(8):CD001769",
+                                "ArticleIdList": [
+                                    "23970302"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1989 Jul-Aug;30(4):389-99",
+                                "ArticleIdList": [
+                                    "2502382"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1989;30 Suppl 4:S19-23; discussion S24-7",
+                                "ArticleIdList": [
+                                    "2506007"
+                                ]
+                            },
+                            {
+                                "Citation": "Ir Med J. 1986 Jun;79(6):150-6",
+                                "ArticleIdList": [
+                                    "3089966"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1987;28 Suppl 2:S8-11",
+                                "ArticleIdList": [
+                                    "3121293"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1988 Mar-Apr;29(2):123-8",
+                                "ArticleIdList": [
+                                    "3258236"
+                                ]
+                            },
+                            {
+                                "Citation": "Practitioner. 1977 Oct;219(1312):542-56",
+                                "ArticleIdList": [
+                                    "339217"
+                                ]
+                            },
+                            {
+                                "Citation": "Br Med J (Clin Res Ed). 1985 Mar 16;290(6471):815-9",
+                                "ArticleIdList": [
+                                    "3919805"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1985 Jul 18;313(3):145-51",
+                                "ArticleIdList": [
+                                    "3925335"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1985 Jul;48(7):639-44",
+                                "ArticleIdList": [
+                                    "3928820"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Dis Child. 1974 Jul;128(1):27-34",
+                                "ArticleIdList": [
+                                    "4834983"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1983 Jun;33(6):808-11",
+                                "ArticleIdList": [
+                                    "6405304"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1983 Jun;24(3):297-312",
+                                "ArticleIdList": [
+                                    "6406213"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1983 Nov;33(11):1474-6",
+                                "ArticleIdList": [
+                                    "6415511"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1984 Mar;34(3):285-94",
+                                "ArticleIdList": [
+                                    "6422321"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1984 Aug;70(2):65-9",
+                                "ArticleIdList": [
+                                    "6435386"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1981 Feb;22(1):27-33",
+                                "ArticleIdList": [
+                                    "6781888"
+                                ]
+                            },
+                            {
+                                "Citation": "Br Med J (Clin Res Ed). 1981 Aug 29;283(6291):577-81",
+                                "ArticleIdList": [
+                                    "6790086"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1981 Aug;22(4):489-501",
+                                "ArticleIdList": [
+                                    "6790275"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1982 Jan;45(1):55-9",
+                                "ArticleIdList": [
+                                    "6801213"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1995 Jul;92(1):19-27",
+                                "ArticleIdList": [
+                                    "7572056"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1995 Jan;58(1):44-50",
+                                "ArticleIdList": [
+                                    "7823066"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994 Sep-Oct;35(5):1026-8",
+                                "ArticleIdList": [
+                                    "7925146"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994;35 Suppl 5:S96-8",
+                                "ArticleIdList": [
+                                    "8039481"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994 Mar-Apr;35(2):381-90",
+                                "ArticleIdList": [
+                                    "8156961"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1993 Dec;43(12):2526-30",
+                                "ArticleIdList": [
+                                    "8255451"
+                                ]
+                            },
+                            {
+                                "Citation": "Dev Med Child Neurol. 1993 Feb;35(2):149-57",
+                                "ArticleIdList": [
+                                    "8444328"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1996 Mar 16;347(9003):709-13",
+                                "ArticleIdList": [
+                                    "8601999"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1996 Jul 6;313(7048):36-9",
+                                "ArticleIdList": [
+                                    "8664772"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1996 Nov;61(5):433-43",
+                                "ArticleIdList": [
+                                    "8965090"
+                                ]
+                            },
+                            {
+                                "Citation": "Indian Pediatr. 1996 Jul;33(7):549-55",
+                                "ArticleIdList": [
+                                    "8979563"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med Genet. 1997 Jan 10;68(1):18-24",
+                                "ArticleIdList": [
+                                    "8986270"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 1997 Apr;6(2):121-5",
+                                "ArticleIdList": [
+                                    "9153724"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Health Syst Pharm. 1997 Aug 1;54(15):1716-22",
+                                "ArticleIdList": [
+                                    "9262743"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1998 Jul;39(7):799-803",
+                                "ArticleIdList": [
+                                    "9670910"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1998 Dec 30;17(24):2815-34",
+                                "ArticleIdList": [
+                                    "9921604"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "4",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "4",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "7",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27123830",
+                    "10.1002/14651858.CD001769.pub3",
+                    "PMC6478155"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27123830)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827123830%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827123830%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964584572"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84964584572?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84964584572&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84964584572&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84964584572",
+                        "dc:identifier": "SCOPUS_ID:84964584572",
+                        "eid": "2-s2.0-84964584572",
+                        "dc:title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures: An individual participant data review",
+                        "dc:creator": "Nolan S.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:issn": "1469493X",
+                        "prism:eIssn": "13616137",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-04-28",
+                        "prism:coverDisplayDate": "28 April 2016",
+                        "prism:doi": "10.1002/14651858.CD001769.pub3",
+                        "citedby-count": "7",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27123830",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD001769",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "P88TLWSY.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27123830"
+            }
+        },
+        "title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures: an individual participant data review.",
+        "full_author_list": [
+            {
+                "clean": "Nolan S",
+                "family": "Nolan",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Weston J",
+                "family": "Weston",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Nolan S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Generalized",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Tonic-Clonic",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Phenytoin",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Valproic Acid",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "4",
+            "issue": ""
+        },
+        "abstract": "['Worldwide, phenytoin and valproate are commonly used antiepileptic drugs. It is generally believed that phenytoin is more effective for partial onset seizures, and that valproate is more effective for generalised onset tonic-clonic seizures (with or without other generalised seizure types). This review is one in a series of Cochrane reviews investigating pair-wise monotherapy comparisons. This is the latest updated version of the review first published in 2001 and updated in 2013.', 'To review the time to withdrawal, remission and first seizure of phenytoin compared to valproate when used as monotherapy in people with partial onset seizures or generalised tonic-clonic seizures (with or without other generalised seizure types).', \"We searched the Cochrane Epilepsy Group's Specialised Register (19 May 2015), the Cochrane Central Register of Controlled Trials (CENTRAL; the Cochrane Library; 2015, Issue 4), MEDLINE (1946 to 19 May 2015), SCOPUS (19 February 2013), ClinicalTrials.gov (19 May 2015), and WHO International Clinical Trials Registry Platform ICTRP (19 May 2015). We handsearched relevant journals, contacted pharmaceutical companies, original trial investigators and experts in the field.\", 'Randomised controlled trials (RCTs) in children or adults with partial onset seizures or generalised onset tonic-clonic seizures with a comparison of valproate monotherapy versus phenytoin monotherapy.', 'This was an individual participant data (IPD) review. Outcomes were time to: (a) withdrawal of allocated treatment (retention time); (b) achieve 12-month remission (seizure-free period); (c) achieve six-month remission (seizure-free period); and (d) first seizure (post-randomisation). We used Cox proportional hazards regression models to obtain study-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), and the generic inverse variance method to obtain the overall pooled HR and 95% CI.', 'IPD were available for 669 individuals out of 1119 eligible individuals from five out of 11 trials, 60% of the potential data. Results apply to partial onset seizures (simple, complex and secondary generalised tonic-clonic seizures), and generalised tonic-clonic seizures, but not other generalised seizure types (absence or myoclonus seizure types). For remission outcomes: HR > 1 indicates an advantage for phenytoin; and for first seizure and withdrawal outcomes: HR > 1 indicates an advantage for valproate.The main overall results (pooled HR adjusted for seizure type) were time to: (a) withdrawal of allocated treatment 1.09 (95% CI 0.76 to 1.55); (b) achieve 12-month remission 0.98 (95% CI 0.78 to 1.23); (c) achieve six-month remission 0.95 (95% CI 0.78 to 1.15); and (d) first seizure 0.93 (95% CI 0.75 to 1.14). The results suggest no overall difference between the drugs for these outcomes. We did not find any statistical interaction between treatment and seizure type (partial versus generalised).', 'We have not found evidence that a significant difference exists between phenytoin and valproate for the outcomes examined in this review. However misclassification of seizure type may have confounded the results of this review. Results do not apply to absence or myoclonus seizure types. No outright evidence was found to support or refute current treatment policies.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "7"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

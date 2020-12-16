@@ -1,0 +1,1545 @@
+{
+    "IDs": {
+        "zotero": "ZK434NHV",
+        "DOI": "10.1002/14651858.CD007144.pub2",
+        "DOI_filename": "9258f2d981f69b74b04e021051dd21cc",
+        "PMID": "27150433",
+        "scopus": "2-s2.0-84965071538",
+        "hash": "6b302d42e70ca884ae5013ea7b0388ed"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ZK434NHV",
+            "version": 203,
+            "itemType": "journalArticle",
+            "title": "Immediate antiepileptic drug treatment, versus placebo, deferred, or no treatment for first unprovoked seizure",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Maurizio A",
+                    "lastName": "Leone"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Giorgia",
+                    "lastName": "Giussani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ettore",
+                    "lastName": "Beghi"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-05-06",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD007144.pub2",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD007144.pub2",
+            "accessDate": "2020-09-10T17:09:44Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27150433",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:44Z",
+            "dateModified": "2020-09-15T14:41:30Z",
+            "pmid": "27150433"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        18
+                    ]
+                ],
+                "date-time": "2020-07-18T11:43:56Z",
+                "timestamp": 1595072636651
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                5,
+                                6
+                            ]
+                        ],
+                        "date-time": "2016-05-06T00:00:00Z",
+                        "timestamp": 1462492800000
+                    },
+                    "DOI": "10.1002/14651858.cd007144",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 52,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd007144.pub2",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        6
+                    ]
+                ],
+                "date-time": "2016-05-06T12:16:33Z",
+                "timestamp": 1462536993000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 7,
+            "title": "Immediate antiepileptic drug treatment, versus placebo, deferred, or no treatment for first unprovoked seizure",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Maurizio A",
+                    "family": "Leone",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "IRCCS \"Casa Sollievo della Sofferenza\"; SC Neurologia; V.le Cappuccini 1 San Giovanni Rotondo Italy 71013"
+                        }
+                    ]
+                },
+                {
+                    "given": "Giorgia",
+                    "family": "Giussani",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Laboratorio di Malattie Neurologiche, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri; Via La Masa, 19 Milano Milano Italy 20156"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ettore",
+                    "family": "Beghi",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Laboratorio di Malattie Neurologiche, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri; Via La Masa, 19 Milano Milano Italy 20156"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0002|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1128",
+                    "DOI": "10.1111/j.1528-1167.2007.01072.x",
+                    "article-title": "Long-term prognosis for symptomatic (secondarily) generalized epilepsies: a population-based study",
+                    "volume": "48",
+                    "author": "Camfield",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0001|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "851",
+                    "DOI": "10.1212/WNL.39.6.851",
+                    "article-title": "A randomized study of carbamazepine versus no medication after a first unprovoked seizure in childhood",
+                    "volume": "39",
+                    "author": "Camfield",
+                    "year": "1989",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S61",
+                    "DOI": "10.1016/0303-8467(92)90024-W",
+                    "article-title": "First seizure in adults: to treat or not to treat",
+                    "volume": "94 (Suppl)",
+                    "author": "Chandra",
+                    "year": "1992",
+                    "journal-title": "Clinical Neurology and Neurosurgery"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0004|cit4",
+                    "first-page": "357",
+                    "article-title": "Risk of recurrence of seizures following single unprovoked idiopathic seizure",
+                    "volume": "48",
+                    "author": "Das",
+                    "year": "2000",
+                    "journal-title": "Neurology India"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "295",
+                    "DOI": "10.1007/BF02339295",
+                    "article-title": "A randomized trial on the treatment of the first epileptic seizure. Scientific background, rationale, study-design and protocol",
+                    "volume": "14",
+                    "author": "Beghi",
+                    "year": "1993",
+                    "journal-title": "Italian Journal of Neurological Sciences"
+                },
+                {
+                    "issue": "3 (pt 1)",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0006|cit6",
+                    "first-page": "478",
+                    "article-title": "Randomized clinical trial on the efficacy of antiepileptic drugs in reducing the risk of relapse after a first unprovoked tonic-clonic seizure",
+                    "volume": "43",
+                    "author": "First Seizure Trial Group",
+                    "year": "1993",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2227",
+                    "DOI": "10.1212/01.wnl.0000249309.80510.63",
+                    "article-title": "Treatment of the first tonic-clonic seizure does not affect long-term remission of epilepsy",
+                    "volume": "67",
+                    "author": "Leone",
+                    "year": "2006",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "924",
+                    "DOI": "10.1136/jnnp.2010.240069",
+                    "article-title": "Treatment of first tonic-clonic seizure does not affect mortality:long-term follow-up of the randomised clinical trial",
+                    "volume": "82",
+                    "author": "Leone",
+                    "year": "2011",
+                    "journal-title": "Journal of neurology, neurosurgery, and psychiatry"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "991",
+                    "DOI": "10.1212/WNL.49.4.991",
+                    "article-title": "Treatment of first tonic-clonic seizure does not improve the prognosis of epilepsy",
+                    "volume": "49",
+                    "author": "Musicco",
+                    "year": "1997",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1149",
+                    "DOI": "10.1001/archneur.1996.00550110089017",
+                    "article-title": "Early treatment of a single generalized tonic-clonic seizure to prevent recurrence",
+                    "volume": "53",
+                    "author": "Gilad",
+                    "year": "1996",
+                    "journal-title": "Archives of Neurology"
+                },
+                {
+                    "issue": "9476",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2007",
+                    "DOI": "10.1016/S0140-6736(05)66694-9",
+                    "article-title": "Immediate versus deferred antiepileptic drug treatment for early epilepsy and single seizures: a randomised controlled trial",
+                    "volume": "365",
+                    "author": "Marson",
+                    "year": "2005",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0012|cit12",
+                    "first-page": "709",
+                    "article-title": "Prognosis of single unprovoked seizure",
+                    "volume": "41",
+                    "author": "Gupta",
+                    "year": "1993",
+                    "journal-title": "The Journal of the Association of Physicians of India."
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0013|cit13",
+                    "first-page": "161",
+                    "article-title": "Seizure recurrence after a first unprovoked seizure: with and without treatment",
+                    "volume": "13",
+                    "author": "Najafi",
+                    "year": "2008",
+                    "journal-title": "Journal of Research in Medical Sciences"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "729",
+                    "DOI": "10.1111/j.1528-1157.1979.tb04857.x",
+                    "article-title": "Remission of seizures and relapse in patients with epilepsy",
+                    "volume": "20",
+                    "author": "Annegers",
+                    "year": "1979",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "43",
+                    "DOI": "10.1111/j.1528-1157.1986.tb03499.x",
+                    "article-title": "Risk of recurrence after an initial unprovoked seizure",
+                    "volume": "27",
+                    "author": "Annegers",
+                    "year": "1986",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0016|cit16",
+                    "author": "Beghi",
+                    "first-page": "123",
+                    "year": "2007",
+                    "article-title": "Epilepsy",
+                    "volume-title": "Handbook of Clinical Neuroepidemiology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "965",
+                    "DOI": "10.1212/WNL.41.7.965",
+                    "article-title": "The risk of seizure recurrence following a first unprovoked seizure: a quantitative review",
+                    "volume": "41",
+                    "author": "Berg",
+                    "year": "1991",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "331",
+                    "DOI": "10.1016/S1474-4422(12)70018-2",
+                    "article-title": "Prognostic factors for time to treatment failure and time to 12 months of remission for patients with focal epilepsy: post-hoc, subgroup analyses of data from the SANAD trial",
+                    "volume": "11",
+                    "author": "Bonnett",
+                    "year": "2012",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "603",
+                    "DOI": "10.1136/jnnp-2013-306040",
+                    "article-title": "Time to 12-month remission and treatment failure for generalised and unclassified epilepsy",
+                    "volume": "85",
+                    "author": "Bonnett",
+                    "year": "2014",
+                    "journal-title": "Journal of Neurology, Neurosurgery and Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0020|cit20",
+                    "author": "Brigo",
+                    "issue": "10",
+                    "year": "2015",
+                    "article-title": "Antiepileptic drugs for the treatment of infants with severe myoclonic epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010483.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1657",
+                    "DOI": "10.1212/WNL.35.11.1657",
+                    "article-title": "Epilepsy after a first unprovoked seizure in childhood",
+                    "volume": "35",
+                    "author": "Camfield",
+                    "year": "1985",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "323",
+                    "DOI": "10.1111/j.1528-1157.1986.tb03549.x",
+                    "article-title": "Adverse reactions to antiepileptic drugs: a multicenter survey of clinical practice",
+                    "volume": "27",
+                    "author": "Collaborative Group for Epidemiology of Epilepsy (CGEE)",
+                    "year": "1986",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8458",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "752",
+                    "DOI": "10.1016/S0140-6736(85)90631-2",
+                    "article-title": "Prognosis after a first untreated tonic-clonic seizure",
+                    "volume": "2",
+                    "author": "Elwes",
+                    "year": "1985",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "475",
+                    "DOI": "10.1111/epi.12550",
+                    "article-title": "ILAE official report: a practical clinical definition of epilepsy",
+                    "volume": "55",
+                    "author": "Fisher",
+                    "year": "2014",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0025|cit25",
+                    "author": "Gamble",
+                    "issue": "1",
+                    "year": "2006",
+                    "article-title": "Lamotrigine versus carbamazepine monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001031.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0026|cit26",
+                    "author": "Hauser",
+                    "year": "1990",
+                    "volume-title": "Epilepsy: frequency, causes and consequences"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1163",
+                    "DOI": "10.1212/WNL.40.8.1163",
+                    "article-title": "Seizure recurrence after a first unprovoked seizure: an extended follow-up",
+                    "volume": "40",
+                    "author": "Hauser",
+                    "year": "1990",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "429",
+                    "DOI": "10.1056/NEJM199802123380704",
+                    "article-title": "Risk of recurrent seizures after two unprovoked seizures",
+                    "volume": "338",
+                    "author": "Hauser",
+                    "year": "1998",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0029|cit29",
+                    "author": "Hemming",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Vigabatrin for refractory partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007302.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1102",
+                    "DOI": "10.1111/j.1528-1167.2008.01945.x",
+                    "article-title": "Is a first acute symptomatic seizure epilepsy? Mortality and risk for recurrent seizure",
+                    "volume": "50",
+                    "author": "Hesdorffer",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0031|cit31",
+                    "unstructured": "Higgins JPT Green S (editors) Chapter 9.5.2 Identifying and measuring heterogeneity. Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration Available from www.cochrane-handbook.org. 2011"
+                },
+                {
+                    "issue": "8588",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "721",
+                    "DOI": "10.1016/S0140-6736(88)91535-8",
+                    "article-title": "The first seizure in adult life. Value of clinical features, electroencephalography, and computerised tomographic scanning in prediction of seizure recurrence",
+                    "volume": "1",
+                    "author": "Hopkins",
+                    "year": "1988",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "317",
+                    "DOI": "10.1016/S1474-4422(06)70383-0",
+                    "article-title": "Prediction of risk of seizure recurrence after a single seizure and early epilepsy: further results from the MESS trial",
+                    "volume": "5",
+                    "author": "Kim",
+                    "year": "2006",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0034|cit34",
+                    "author": "Koch",
+                    "issue": "4",
+                    "year": "2009",
+                    "article-title": "Oxcarbazepine versus carbamazepine monotherapy for partial onset seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD006453.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0035|cit35",
+                    "author": "Kwan",
+                    "issue": "1",
+                    "year": "2010",
+                    "article-title": "Antiepileptic drugs for the primary and secondary prevention of seizures after stroke",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD005398.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0036|cit36",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from http://handbook.cochrane.org/"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0037|cit37",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "259",
+                    "DOI": "10.1016/S0920-1211(01)00287-X",
+                    "article-title": "Levetiracetam, oxcarbazepine, remacemide and zonisamide for drug resistant localization-related epilepsy: a systematic review",
+                    "volume": "46",
+                    "author": "Marson",
+                    "year": "2001",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "145",
+                    "DOI": "10.1056/NEJM198507183130303",
+                    "article-title": "Comparison of carbamazepine, phenobarbital, phenytoin and primidone in partial and secondarily generalized tonic-clonic seizures",
+                    "volume": "13",
+                    "author": "Mattson",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "765",
+                    "DOI": "10.1056/NEJM199209103271104",
+                    "article-title": "Comparison of valproate with carbamazepine for the treatment of complex partial seizure and secondarily generalized tonic-clonic seizures in adults",
+                    "volume": "327",
+                    "author": "Mattson",
+                    "year": "1992",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0041|cit41",
+                    "author": "Nolan",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Phenobarbitone versus phenytoin monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002217.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0042|cit42",
+                    "author": "Nolan",
+                    "issue": "5",
+                    "year": "2013",
+                    "article-title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD003615.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0043|cit43",
+                    "author": "Nolan",
+                    "issue": "8",
+                    "year": "2013",
+                    "article-title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "627",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0044|cit44",
+                    "first-page": "1",
+                    "article-title": "Prospective study of convulsion in childhood",
+                    "volume": "89",
+                    "author": "Pearce",
+                    "year": "1979",
+                    "journal-title": "New Zealand Medical Journal"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "173",
+                    "DOI": "10.1016/S1474-4422(02)00073-X",
+                    "article-title": "Is epilepsy a progressive disorder? Prospects for new therapeutic approaches in temporal-lobe epilepsy",
+                    "volume": "1",
+                    "author": "Pitk\u00e4nen",
+                    "year": "2002",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0046|cit46",
+                    "author": "Pulman",
+                    "issue": "2",
+                    "year": "2014",
+                    "article-title": "Topiramate add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0047|cit47",
+                    "author": "Schierhout",
+                    "issue": "4",
+                    "year": "2001",
+                    "article-title": "Anti-epileptic drugs for preventing seizures following acute traumatic brain injury",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD000173",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2 (pt 1)",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0048|cit48",
+                    "first-page": "216",
+                    "article-title": "The risk of seizure recurrence after a first unprovoked afebrile seizure in childhood: an extended follow-up",
+                    "volume": "98",
+                    "author": "Shinnar",
+                    "year": "1996",
+                    "journal-title": "Pediatrics"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0049|cit49",
+                    "author": "Tremont-Lukats",
+                    "issue": "2",
+                    "year": "2008",
+                    "article-title": "Antiepileptic drugs for preventing seizures in people with brain tumors",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD004424.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0050|cit50",
+                    "author": "Weston",
+                    "issue": "3",
+                    "year": "2015",
+                    "article-title": "Antiepileptic drugs as prophylaxis for post-craniotomy seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007286.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0051|cit51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "50",
+                    "DOI": "10.1111/j.1528-1167.2008.01451.x",
+                    "article-title": "An evidence-based approach to the first seizure",
+                    "volume": "49",
+                    "author": "Wiebe",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007144.pub2-BIB0052|cit52",
+                    "author": "Beghi",
+                    "issue": "2",
+                    "year": "2008",
+                    "article-title": "Treatment for first epileptic seizure",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007144",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD007144.pub2",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        12
+                    ]
+                ],
+                "date-time": "2020-05-12T07:46:44Z",
+                "timestamp": 1589269604000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 52,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD007144.pub2",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27150433",
+                "DateCompleted": {
+                    "Year": "2016",
+                    "Month": "07",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD007144.pub2"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "05",
+                            "Day": "06"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "May",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Immediate antiepileptic drug treatment, versus placebo, deferred, or no treatment for first unprovoked seizure.",
+                    "Pagination": {
+                        "MedlinePgn": "CD007144"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "There is considerable disagreement about the risk of recurrence following a first unprovoked epileptic seizure. A decision about whether to start antiepileptic drug treatment following a first seizure should be informed by information on the size of any reduction in risk of future seizures, the impact on long-term seizure remission, and the risk of adverse effects.",
+                            "To review the probability of seizure recurrence, seizure remission, mortality, and adverse effects of antiepileptic drug (AED) treatment given immediately after the first seizure compared to controls, in children and adults.",
+                            "We searched the following databases: Cochrane Epilepsy Group Specialized Register (accessed 13 October 2015), Cochrane Central Register of Controlled Trials (The Cochrane Library September 2015, issue 9, accessed 13 October 2015), PUBMED (accessed 22 April 2015), MEDLINE (Ovid, 1946 to 13 October 2015), EMBASE (accessed 22 April 2015), ClinicalTrials.gov (accessed 15 October 2015), and the WHO International Clinical Trials Registry Platform (ICTRP, accessed 13 October 2015). There were no language restrictions.",
+                            "Randomised controlled trials (RCTs) and quasi-RCTs that could be blinded or unblinded. People of any age with a first unprovoked seizure of any type. Included studies compared participants receiving immediate antiepileptic treatment versus those receiving deferred treatment, those assigned to placebo, and those untreated.",
+                            "Two review authors independently assessed the studies identified by the search strategy for inclusion in the review and extracted data. The quality of the evidence was classified in four categories according to the GRADE approach. Dichotomous outcomes were expressed as Risk Ratios (RR) with 95% confidence intervals (CI). Time-to-event outcomes were expressed as Hazard Ratios (HR) with 95% CI. Only one trial used a double-blind design, and the two largest studies were unblinded. Most of the recurrences were generalized tonic-clonic seizures, a major type of seizures that is easily recognised, which should reduce the risk of outcome reporting bias.",
+                            "After exclusion of uninformative papers, only six studies (nine reports) were selected for inclusion. For the two largest studies data were available for individual participant meta-analysis. Compared to controls, participants randomised to immediate treatment had a lower probability of relapse at one year (RR 0.49, 95% CI 0.42 to 0.58, high quality evidence), at five years (RR 0.78; 95% CI 0.68 to 0.89; high quality evidence) and a higher probability of an immediate five-year remission (RR 1.25; 95% CI 1.02 to 1.54, high quality evidence). However there was no difference between immediate treatment and control in terms of five year remission at any time (RR 1.02, 95% CI 0.87 to 1.21, high quality evidence). Antiepileptic drugs did not affect overall mortality after a first seizure (RR 1.16; 95% CI 0.69 to 1.95, high quality evidence). Compared to deferred treatment (RR 1.49, 95% CI 1.23 to 1.79, moderate quality evidence), treatment of the first seizure was associated with a significantly higher risk of adverse events. Moderate to low quality imprecise evidence was available for the association of treatment of the first seizure compared to no treatment or placebo (RR 14.50, 95% CI 1.93 to 108.76) and(RR 4.91, 95% CI 1.10 to 21.93) respectively)",
+                            "Treatment of the first unprovoked seizure reduces the risk of a subsequent seizure but does not affect the proportion of patients in remission in the long-term. Antiepileptic drugs are associated with adverse events, and there is no evidence that they reduce mortality. In light of this review, the decision to start antiepileptic drug treatment following a first unprovoked seizure should be individualized and based on patient preference, clinical, legal, and socio-cultural factors."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "SC Neurologia, IRCCS \"Casa Sollievo della Sofferenza\", V.le Cappuccini 1, San Giovanni Rotondo, Italy, 71013."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Leone",
+                            "ForeName": "Maurizio A",
+                            "Initials": "MA"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Giussani",
+                            "ForeName": "Giorgia",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Nolan",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Beghi",
+                            "ForeName": "Ettore",
+                            "Initials": "E"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Ann Emerg Med. 2017 Jun;69(6):752-754",
+                        "PMID": "27823871"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Recurrence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Remission Induction",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "drug therapy",
+                            "mortality"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Time Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Watchful Waiting",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001030",
+                                "ArticleIdList": [
+                                    "10908558"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol India. 2000 Dec;48(4):357-60",
+                                "ArticleIdList": [
+                                    "11146601"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2001 Sep;46(3):259-70",
+                                "ArticleIdList": [
+                                    "11518627"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2001;(4):CD000173",
+                                "ArticleIdList": [
+                                    "11687070"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2002 Jul;1(3):173-81",
+                                "ArticleIdList": [
+                                    "12849486"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1992 Sep 10;327(11):765-71",
+                                "ArticleIdList": [
+                                    "1298221"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Neurol Neurosurg. 1992;94 Suppl:S61-3",
+                                "ArticleIdList": [
+                                    "1320521"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2005 Jun 11-17;365(9476):2007-13",
+                                "ArticleIdList": [
+                                    "15950714"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2006 Jan 25;(1):CD001031",
+                                "ArticleIdList": [
+                                    "16437428"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2006 Apr;5(4):317-22",
+                                "ArticleIdList": [
+                                    "16545748"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2006 Dec 26;67(12):2227-9",
+                                "ArticleIdList": [
+                                    "17190950"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2007 Jun;48(6):1128-32",
+                                "ArticleIdList": [
+                                    "17442010"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2008;49 Suppl 1:50-7",
+                                "ArticleIdList": [
+                                    "18184156"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2008 Apr 16;(2):CD004424",
+                                "ArticleIdList": [
+                                    "18425902"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2009 May;50(5):1102-8",
+                                "ArticleIdList": [
+                                    "19374657"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2009 Oct 07;(4):CD006453",
+                                "ArticleIdList": [
+                                    "19821367"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2010 Jan 20;(1):CD005398",
+                                "ArticleIdList": [
+                                    "20091574"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1991 Jul;41(7):965-72",
+                                "ArticleIdList": [
+                                    "2067659"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2011 Aug;82(8):924-7",
+                                "ArticleIdList": [
+                                    "21531706"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2012 Apr;11(4):331-40",
+                                "ArticleIdList": [
+                                    "22377180"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Jan 31;(1):CD002217",
+                                "ArticleIdList": [
+                                    "23440786"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Jan 31;(1):CD007302",
+                                "ArticleIdList": [
+                                    "23440814"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 May 31;(5):CD003615",
+                                "ArticleIdList": [
+                                    "23728645"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1990 Aug;40(8):1163-70",
+                                "ArticleIdList": [
+                                    "2381523"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Aug 23;(8):CD001769",
+                                "ArticleIdList": [
+                                    "23970302"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2014 Jun;85(6):603-10",
+                                "ArticleIdList": [
+                                    "24292995"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Feb 25;(2):CD001417",
+                                "ArticleIdList": [
+                                    "24570033"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2014 Apr;55(4):475-82",
+                                "ArticleIdList": [
+                                    "24730690"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1989 Jun;39(6):851-2",
+                                "ArticleIdList": [
+                                    "2524679"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Mar 04;(3):CD007286",
+                                "ArticleIdList": [
+                                    "25738821"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Oct 19;(10):CD010483",
+                                "ArticleIdList": [
+                                    "26482210"
+                                ]
+                            },
+                            {
+                                "Citation": "N Z Med J. 1979 Jan 10;89(627):1-3",
+                                "ArticleIdList": [
+                                    "285362"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1985 Oct 5;2(8458):752-3",
+                                "ArticleIdList": [
+                                    "2864487"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1988 Apr 2;1(8588):721-6",
+                                "ArticleIdList": [
+                                    "2895259"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1986 Jan-Feb;27(1):43-50",
+                                "ArticleIdList": [
+                                    "3081336"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1986 Jul-Aug;27(4):323-30",
+                                "ArticleIdList": [
+                                    "3720693"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1985 Jul 18;313(3):145-51",
+                                "ArticleIdList": [
+                                    "3925335"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1985 Nov;35(11):1657-60",
+                                "ArticleIdList": [
+                                    "4058756"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1979 Dec;20(6):729-37",
+                                "ArticleIdList": [
+                                    "499118"
+                                ]
+                            },
+                            {
+                                "Citation": "J Assoc Physicians India. 1993 Nov;41(11):709-10",
+                                "ArticleIdList": [
+                                    "8005923"
+                                ]
+                            },
+                            {
+                                "Citation": "Ital J Neurol Sci. 1993 May;14(4):295-301",
+                                "ArticleIdList": [
+                                    "8325766"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1993 Mar;43(3 Pt 1):478-83",
+                                "ArticleIdList": [
+                                    "8450987"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatrics. 1996 Aug;98(2 Pt 1):216-25",
+                                "ArticleIdList": [
+                                    "8692621"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 1996 Nov;53(11):1149-52",
+                                "ArticleIdList": [
+                                    "8912488"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1997 Oct;49(4):991-8",
+                                "ArticleIdList": [
+                                    "9339678"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1998 Feb 12;338(7):429-34",
+                                "ArticleIdList": [
+                                    "9459646"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "5",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "5",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "7",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27150433",
+                    "10.1002/14651858.CD007144.pub2",
+                    "PMC6478062"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27150433)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827150433%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827150433%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84965071538"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84965071538?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84965071538&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84965071538&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84965071538",
+                        "dc:identifier": "SCOPUS_ID:84965071538",
+                        "eid": "2-s2.0-84965071538",
+                        "dc:title": "Immediate antiepileptic drug treatment, versus placebo, deferred, or no treatment for first unprovoked seizure",
+                        "dc:creator": "Leone M.A.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-05-06",
+                        "prism:coverDisplayDate": "6 May 2016",
+                        "prism:doi": "10.1002/14651858.CD007144.pub2",
+                        "citedby-count": "25",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "IRCCS Casa Sollievo della Sofferenza",
+                                "affiliation-city": "San Giovanni Rotondo",
+                                "affiliation-country": "Italy"
+                            }
+                        ],
+                        "pubmed-id": "27150433",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD007144",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ZK434NHV.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27150433"
+            }
+        },
+        "title": "Immediate antiepileptic drug treatment, versus placebo, deferred, or no treatment for first unprovoked seizure.",
+        "full_author_list": [
+            {
+                "clean": "Leone M",
+                "family": "Leone",
+                "given": "Maurizio A",
+                "affiliation": {
+                    "name": "SC Neurologia, IRCCS \"Casa Sollievo della Sofferenza\", V.le Cappuccini 1, San Giovanni Rotondo, Italy, 71013."
+                }
+            },
+            {
+                "clean": "Giussani G",
+                "family": "Giussani",
+                "given": "Giorgia",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Nolan S",
+                "family": "Nolan",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Beghi E",
+                "family": "Beghi",
+                "given": "Ettore",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Leone M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Recurrence",
+                    "major": "N"
+                },
+                {
+                    "term": "Remission Induction",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Time Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Watchful Waiting",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "",
+            "issue": "5"
+        },
+        "abstract": "['There is considerable disagreement about the risk of recurrence following a first unprovoked epileptic seizure. A decision about whether to start antiepileptic drug treatment following a first seizure should be informed by information on the size of any reduction in risk of future seizures, the impact on long-term seizure remission, and the risk of adverse effects.', 'To review the probability of seizure recurrence, seizure remission, mortality, and adverse effects of antiepileptic drug (AED) treatment given immediately after the first seizure compared to controls, in children and adults.', 'We searched the following databases: Cochrane Epilepsy Group Specialized Register (accessed 13 October 2015), Cochrane Central Register of Controlled Trials (The Cochrane Library September 2015, issue 9, accessed 13 October 2015), PUBMED (accessed 22 April 2015), MEDLINE (Ovid, 1946 to 13 October 2015), EMBASE (accessed 22 April 2015), ClinicalTrials.gov (accessed 15 October 2015), and the WHO International Clinical Trials Registry Platform (ICTRP, accessed 13 October 2015). There were no language restrictions.', 'Randomised controlled trials (RCTs) and quasi-RCTs that could be blinded or unblinded. People of any age with a first unprovoked seizure of any type. Included studies compared participants receiving immediate antiepileptic treatment versus those receiving deferred treatment, those assigned to placebo, and those untreated.', 'Two review authors independently assessed the studies identified by the search strategy for inclusion in the review and extracted data. The quality of the evidence was classified in four categories according to the GRADE approach. Dichotomous outcomes were expressed as Risk Ratios (RR) with 95% confidence intervals (CI). Time-to-event outcomes were expressed as Hazard Ratios (HR) with 95% CI. Only one trial used a double-blind design, and the two largest studies were unblinded. Most of the recurrences were generalized tonic-clonic seizures, a major type of seizures that is easily recognised, which should reduce the risk of outcome reporting bias.', 'After exclusion of uninformative papers, only six studies (nine reports) were selected for inclusion. For the two largest studies data were available for individual participant meta-analysis. Compared to controls, participants randomised to immediate treatment had a lower probability of relapse at one year (RR 0.49, 95% CI 0.42 to 0.58, high quality evidence), at five years (RR 0.78; 95% CI 0.68 to 0.89; high quality evidence) and a higher probability of an immediate five-year remission (RR 1.25; 95% CI 1.02 to 1.54, high quality evidence). However there was no difference between immediate treatment and control in terms of five year remission at any time (RR 1.02, 95% CI 0.87 to 1.21, high quality evidence). Antiepileptic drugs did not affect overall mortality after a first seizure (RR 1.16; 95% CI 0.69 to 1.95, high quality evidence). Compared to deferred treatment (RR 1.49, 95% CI 1.23 to 1.79, moderate quality evidence), treatment of the first seizure was associated with a significantly higher risk of adverse events. Moderate to low quality imprecise evidence was available for the association of treatment of the first seizure compared to no treatment or placebo (RR 14.50, 95% CI 1.93 to 108.76) and(RR 4.91, 95% CI 1.10 to 21.93) respectively)', 'Treatment of the first unprovoked seizure reduces the risk of a subsequent seizure but does not affect the proportion of patients in remission in the long-term. Antiepileptic drugs are associated with adverse events, and there is no evidence that they reduce mortality. In light of this review, the decision to start antiepileptic drug treatment following a first unprovoked seizure should be individualized and based on patient preference, clinical, legal, and socio-cultural factors.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "25"
+            }
+        },
+        "location": {
+            "candidate_institute": "SC Neurologia, IRCCS \"Casa Sollievo della Sofferenza\", V.le Cappuccini 1, San Giovanni Rotondo, Italy, 71013."
+        }
+    }
+}

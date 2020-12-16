@@ -1,0 +1,566 @@
+{
+    "IDs": {
+        "zotero": "9C8W353Z",
+        "DOI": "10.1136/ebnurs-2019-103068",
+        "DOI_filename": "5f3b1f1bfb114cfdbc93290704ed86d9",
+        "PMID": "31292150",
+        "scopus": "2-s2.0-85068765196",
+        "hash": "bf293c117037811469849eeb89ed07a3"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "9C8W353Z",
+            "version": 131,
+            "itemType": "journalArticle",
+            "title": "Living a life, not an illness: the process of living well with advanced cancer",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanna",
+                    "lastName": "Harrison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joan",
+                    "lastName": "Devereux"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Evidence Based Nursing",
+            "volume": "23",
+            "issue": "2",
+            "pages": "50-50",
+            "date": "04/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Evid Based Nurs",
+            "language": "en",
+            "DOI": "10.1136/ebnurs-2019-103068",
+            "ISSN": "1367-6539, 1468-9618",
+            "shortTitle": "Living a life, not an illness",
+            "url": "http://ebn.bmj.com/lookup/doi/10.1136/ebnurs-2019-103068",
+            "accessDate": "2020-09-10T17:09:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31292150",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:15Z",
+            "dateModified": "2020-09-11T15:03:47Z",
+            "pmid": "31292150"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        29
+                    ]
+                ],
+                "date-time": "2020-05-29T04:12:14Z",
+                "timestamp": 1590725534582
+            },
+            "reference-count": 5,
+            "publisher": "BMJ",
+            "issue": "2",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1136/ebnurs-2019-103068",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        10
+                    ]
+                ],
+                "date-time": "2019-07-10T21:15:27Z",
+                "timestamp": 1562793327000
+            },
+            "page": "50-50",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Living a life, not an illness: the process of living well with advanced cancer",
+            "prefix": "10.1136",
+            "volume": "23",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8963-7240",
+                    "authenticated-orcid": false,
+                    "given": "Joanna",
+                    "family": "Harrison",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Joan",
+                    "family": "Devereux",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        10
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key-10.1136/ebnurs-2019-103068-1",
+                    "author": "Arantzamendi",
+                    "year": "2018",
+                    "article-title": "People With Advanced Cancer: The Process of Living Well With Awareness of Dying",
+                    "journal-title": "Qual Health Res",
+                    "DOI": "10.1177/1049732318816298",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key-10.1136/ebnurs-2019-103068-2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "447",
+                    "DOI": "10.1177/1049732316675590",
+                    "article-title": "Families living well with chronic illness: the healing process of moving On",
+                    "volume": "27",
+                    "author": "Robinson",
+                    "year": "2017",
+                    "journal-title": "Qual Health Res"
+                },
+                {
+                    "key": "key-10.1136/ebnurs-2019-103068-3",
+                    "author": "Garcia-Rueda",
+                    "year": "2017",
+                    "volume-title": "La experiencia de vivir con c\u00e1ncer en fase avanzada: Una aproximaci\u00f3n desde la fenomenolog\u00eda de la pr\u00e1ctica"
+                },
+                {
+                    "key": "key-10.1136/ebnurs-2019-103068-4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0169071",
+                    "DOI": "10.1371/journal.pone.0169071",
+                    "article-title": "Coping well with advanced cancer: a serial qualitative interview study with patients and family carers",
+                    "volume": "12",
+                    "author": "Walshe",
+                    "year": "2017",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "key-10.1136/ebnurs-2019-103068-5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "125",
+                    "DOI": "10.1037/int0000078",
+                    "article-title": "\u201cDouble awareness\u201d in psychotherapy for patients living with advanced cancer",
+                    "volume": "28",
+                    "author": "Colosimo",
+                    "year": "2018",
+                    "journal-title": "J Psychother Integr"
+                }
+            ],
+            "container-title": "Evidence Based Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/ebnurs-2019-103068",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        29
+                    ]
+                ],
+                "date-time": "2020-05-29T03:40:17Z",
+                "timestamp": 1590723617000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        10
+                    ]
+                ]
+            },
+            "references-count": 5,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            3,
+                            24
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1136/ebnurs-2019-103068"
+            ],
+            "URL": "http://dx.doi.org/10.1136/ebnurs-2019-103068",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1367-6539",
+                "1468-9618"
+            ],
+            "subject": [
+                "Fundamentals and skills"
+            ],
+            "container-title-short": "Evid Based Nurs"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM",
+                    "N"
+                ],
+                "KeywordList": [
+                    [
+                        "oncology",
+                        "palliative care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31292150",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/ebnurs-2019-103068"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "07",
+                            "Day": "10"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-9618",
+                        "JournalIssue": {
+                            "Volume": "23",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "04"
+                            }
+                        },
+                        "Title": "Evidence-based nursing",
+                        "ISOAbbreviation": "Evid Based Nurs"
+                    },
+                    "ArticleTitle": "Living a life, not an illness: the process of living well with advanced cancer.",
+                    "Pagination": {
+                        "MedlinePgn": "50"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-8963-7240"
+                            ],
+                            "LastName": "Harrison",
+                            "ForeName": "Joanna",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Palliative Care Department, Lancashire Teaching Hospitals NHS Foundation Trust, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Devereux",
+                            "ForeName": "Joan",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Comment"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Evid Based Nurs",
+                    "NlmUniqueID": "9815947",
+                    "ISSNLinking": "1367-6539"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Qual Health Res. 2020 Jul;30(8):1143-1155",
+                        "PMID": "30539681"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Neoplasms",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Palliative Care",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "06",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "7",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "7",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31292150",
+                    "ebnurs-2019-103068",
+                    "10.1136/ebnurs-2019-103068"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31292150)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831292150%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831292150%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068765196"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068765196?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068765196&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068765196&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068765196",
+                        "dc:identifier": "SCOPUS_ID:85068765196",
+                        "eid": "2-s2.0-85068765196",
+                        "dc:title": "Living a life, not an illness: The process of living well with advanced cancer",
+                        "dc:creator": "Harrison J.",
+                        "prism:publicationName": "Evidence-Based Nursing",
+                        "prism:issn": "13676539",
+                        "prism:eIssn": "14689618",
+                        "prism:volume": "23",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "50",
+                        "prism:coverDate": "2020-04-01",
+                        "prism:coverDisplayDate": "1 April 2020",
+                        "prism:doi": "10.1136/ebnurs-2019-103068",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31292150",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "no",
+                        "subtypeDescription": "Note",
+                        "source-id": "27689",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "9C8W353Z.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31292150"
+            }
+        },
+        "title": "Living a life, not an illness: the process of living well with advanced cancer.",
+        "full_author_list": [
+            {
+                "clean": "Harrison J",
+                "family": "Harrison",
+                "given": "Joanna",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Devereux J",
+                "family": "Devereux",
+                "given": "Joan",
+                "affiliation": {
+                    "name": "Palliative Care Department, Lancashire Teaching Hospitals NHS Foundation Trust, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Harrison J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Neoplasms",
+                    "major": "Y"
+                },
+                {
+                    "term": "Palliative Care",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Evid Based Nurs",
+            "volume": "23",
+            "issue": "2"
+        },
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

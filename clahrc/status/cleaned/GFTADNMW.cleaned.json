@@ -1,0 +1,785 @@
+{
+    "IDs": {
+        "zotero": "GFTADNMW",
+        "DOI": "10.1080/10550887.2016.1182299",
+        "DOI_filename": "203a8c95d29ebdc4b9d5f90d508a5fef",
+        "PMID": "27135713",
+        "scopus": "2-s2.0-84976286255",
+        "hash": "667e308486ae6a9bd001270c07ab2989"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "GFTADNMW",
+            "version": 146,
+            "itemType": "journalArticle",
+            "title": "Assessing the effectiveness and cost-effectiveness of drug intervention programs: UK case study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Brendan J.",
+                    "lastName": "Collins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kevin",
+                    "lastName": "Cuddy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Antony P.",
+                    "lastName": "Martin"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Addictive Diseases",
+            "volume": "36",
+            "issue": "1",
+            "pages": "5-13",
+            "date": "2017-01-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Addictive Diseases",
+            "language": "en",
+            "DOI": "10.1080/10550887.2016.1182299",
+            "ISSN": "1055-0887, 1545-0848",
+            "shortTitle": "Assessing the effectiveness and cost-effectiveness of drug intervention programs",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/10550887.2016.1182299",
+            "accessDate": "2020-09-10T17:10:22Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27135713",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:22Z",
+            "dateModified": "2020-09-15T12:18:47Z",
+            "pmid": "27135713"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        11
+                    ]
+                ],
+                "date-time": "2020-09-11T12:23:53Z",
+                "timestamp": 1599827033984
+            },
+            "reference-count": 22,
+            "publisher": "Informa UK Limited",
+            "issue": "1",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.1080/10550887.2016.1182299",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        2
+                    ]
+                ],
+                "date-time": "2016-05-02T15:49:30Z",
+                "timestamp": 1462204170000
+            },
+            "page": "5-13",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Assessing the effectiveness and cost-effectiveness of drug intervention programs: UK case study",
+            "prefix": "10.1080",
+            "volume": "36",
+            "author": [
+                {
+                    "given": "Brendan J.",
+                    "family": "Collins",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Kevin",
+                    "family": "Cuddy",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Centre for Public Health, Liverpool John Moores University, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Antony P.",
+                    "family": "Martin",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR CLAHRC NWC, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "cit0001",
+                    "DOI": "10.1016/j.jflm.2013.06.022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0002",
+                    "DOI": "10.1080/02791072.1996.10471712",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0003",
+                    "author": "Collins JJ",
+                    "volume": "34",
+                    "first-page": "1145",
+                    "year": "1983",
+                    "journal-title": "Hosp Comm Psych"
+                },
+                {
+                    "key": "cit0004",
+                    "DOI": "10.3109/00952998709001516",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0005",
+                    "DOI": "10.1176/ajp.133.12.1399",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0006",
+                    "DOI": "10.3109/10826089609063962",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0007",
+                    "DOI": "10.1111/j.1360-0443.2005.01268.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0008",
+                    "DOI": "10.1080/09687630124249",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0009",
+                    "DOI": "10.3310/hta19060",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0010",
+                    "DOI": "10.1081/JA-200049159",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0012",
+                    "author": "Parker HJ",
+                    "year": "1988",
+                    "volume-title": "Living with heroin: the impact of a drug epidemic on an English community"
+                },
+                {
+                    "key": "cit0013",
+                    "DOI": "10.1016/j.drugpo.2010.01.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0014",
+                    "DOI": "10.3109/09687630802286893",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0016",
+                    "author": "NICE",
+                    "year": "2012",
+                    "edition": "3",
+                    "volume-title": "Methods for the development of NICE public health guidance"
+                },
+                {
+                    "key": "cit0018",
+                    "author": "Brand S",
+                    "year": "2000",
+                    "volume-title": "Home Office Research Study 217"
+                },
+                {
+                    "key": "cit0019",
+                    "author": "Dubourg R",
+                    "year": "2003",
+                    "volume-title": "Home Office Online Report, 2005"
+                },
+                {
+                    "key": "cit0022",
+                    "author": "Smith K",
+                    "year": "2013",
+                    "edition": "2",
+                    "volume-title": "Crimes detected in England and Wales 2012/13"
+                },
+                {
+                    "key": "cit0023",
+                    "author": "Davies L",
+                    "year": "2009",
+                    "journal-title": "Home Office Research Report 25"
+                },
+                {
+                    "key": "cit0024",
+                    "DOI": "10.1016/j.jhealeco.2007.07.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0025",
+                    "DOI": "10.1080/713659316",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0026",
+                    "DOI": "10.1111/j.1360-0443.2004.00752.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0027",
+                    "DOI": "10.1007/s11136-004-7713-0",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Journal of Addictive Diseases",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10550887.2016.1182299",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        20
+                    ]
+                ],
+                "date-time": "2017-07-20T18:12:22Z",
+                "timestamp": 1500574342000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 22,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2016,
+                            11,
+                            9
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            1,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1080/10550887.2016.1182299"
+            ],
+            "URL": "http://dx.doi.org/10.1080/10550887.2016.1182299",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1055-0887",
+                "1545-0848"
+            ],
+            "container-title-short": "Journal of Addictive Diseases",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=wjad20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=wjad20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Drug treatment",
+                        "cocaine",
+                        "crime",
+                        "opiates",
+                        "quality-of-life",
+                        "test-on-arrest"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27135713",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "03",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2017",
+                    "Month": "03",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/10550887.2016.1182299"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "05",
+                            "Day": "02"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1545-0848",
+                        "JournalIssue": {
+                            "Volume": "36",
+                            "Issue": "1",
+                            "PubDate": {
+                                "MedlineDate": "2017 Jan-Mar"
+                            }
+                        },
+                        "Title": "Journal of addictive diseases",
+                        "ISOAbbreviation": "J Addict Dis"
+                    },
+                    "ArticleTitle": "Assessing the effectiveness and cost-effectiveness of drug intervention programs: UK case study.",
+                    "Pagination": {
+                        "MedlinePgn": "5-13"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The effectiveness and cost-effectiveness of the UK Drug Interventions Program which directs adult drug-misusing offenders out of crime and into treatment programs was established. Quality-adjusted life year estimates from the UK Drug Treatment Outcomes Research Study were collected and a cost-utility assessment of the Drug Interventions Program was conducted. Cost-utility assessment confirmed that the Drug Interventions Program is both effective and cost-effective with an average net cost saving of \u00a3668 (\u00a36,207 including one case of homicide). This study provides evidence that drug intervention programs are cost-effective as they reduce crime, improve quality-of-life and reduce subsequent drug use."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Public Health and Policy , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Collins",
+                            "ForeName": "Brendan J",
+                            "Initials": "BJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b Centre for Public Health , Liverpool John Moores University , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cuddy",
+                            "ForeName": "Kevin",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c NIHR CLAHRC NWC , University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Martin",
+                            "ForeName": "Antony P",
+                            "Initials": "AP"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Addict Dis",
+                    "NlmUniqueID": "9107051",
+                    "ISSNLinking": "1055-0887"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cost Savings",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cost-Benefit Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Crime",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Models, Economic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Program Evaluation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Substance-Related Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "5",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "3",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "5",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "27135713",
+                    "10.1080/10550887.2016.1182299"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27135713)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827135713%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827135713%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84976286255"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84976286255?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84976286255&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84976286255&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84976286255",
+                        "dc:identifier": "SCOPUS_ID:84976286255",
+                        "eid": "2-s2.0-84976286255",
+                        "dc:title": "Assessing the effectiveness and cost-effectiveness of drug intervention programs: UK case study",
+                        "dc:creator": "Collins B.",
+                        "prism:publicationName": "Journal of Addictive Diseases",
+                        "prism:issn": "10550887",
+                        "prism:eIssn": "15450848",
+                        "prism:volume": "36",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": "5-13",
+                        "prism:coverDate": "2017-01-02",
+                        "prism:coverDisplayDate": "2 January 2017",
+                        "prism:doi": "10.1080/10550887.2016.1182299",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27135713",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "25291",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "GFTADNMW.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27135713"
+            }
+        },
+        "title": "Assessing the effectiveness and cost-effectiveness of drug intervention programs: UK case study.",
+        "full_author_list": [
+            {
+                "clean": "Collins B",
+                "family": "Collins",
+                "given": "Brendan J",
+                "affiliation": {
+                    "name": "a Department of Public Health and Policy , University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Cuddy K",
+                "family": "Cuddy",
+                "given": "Kevin",
+                "affiliation": {
+                    "name": "b Centre for Public Health , Liverpool John Moores University , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Martin A",
+                "family": "Martin",
+                "given": "Antony P",
+                "affiliation": {
+                    "name": "c NIHR CLAHRC NWC , University of Liverpool , Liverpool , UK."
+                }
+            }
+        ],
+        "first_author": "Collins B",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Cost Savings",
+                    "major": "N"
+                },
+                {
+                    "term": "Cost-Benefit Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Crime",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Models, Economic",
+                    "major": "N"
+                },
+                {
+                    "term": "Program Evaluation",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "Substance-Related Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Addict Dis",
+            "volume": "36",
+            "issue": "1"
+        },
+        "abstract": "['The effectiveness and cost-effectiveness of the UK Drug Interventions Program which directs adult drug-misusing offenders out of crime and into treatment programs was established. Quality-adjusted life year estimates from the UK Drug Treatment Outcomes Research Study were collected and a cost-utility assessment of the Drug Interventions Program was conducted. Cost-utility assessment confirmed that the Drug Interventions Program is both effective and cost-effective with an average net cost saving of \u00a3668 (\u00a36,207 including one case of homicide). This study provides evidence that drug intervention programs are cost-effective as they reduce crime, improve quality-of-life and reduce subsequent drug use.']",
+        "clean_date": {
+            "day": "02",
+            "month": "05",
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Department of Public Health and Policy , University of Liverpool , Liverpool , UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

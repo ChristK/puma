@@ -1,0 +1,1364 @@
+{
+    "IDs": {
+        "zotero": "7LZIYYX9",
+        "DOI": "10.1186/s12902-017-0182-6",
+        "DOI_filename": "105cbf758af45df618642c3b050dd3ca",
+        "PMID": "28619024",
+        "scopus": "2-s2.0-85027545837",
+        "hash": "86fb4d2cbdac23ba2aebdc6bed197f06"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "7LZIYYX9",
+            "version": 125,
+            "itemType": "journalArticle",
+            "title": "Communication with young people in paediatric and adult endocrine consultations: an intervention development and feasibility study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "H.",
+                    "lastName": "Gleeson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.E.",
+                    "lastName": "Clayton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.R.E.",
+                    "lastName": "Davis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Dimitri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Wales"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Young"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Callery"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMC Endocrine Disorders",
+            "volume": "17",
+            "issue": "1",
+            "pages": "33",
+            "date": "12/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Endocr Disord",
+            "language": "en",
+            "DOI": "10.1186/s12902-017-0182-6",
+            "ISSN": "1472-6823",
+            "shortTitle": "Communication with young people in paediatric and adult endocrine consultations",
+            "url": "http://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-017-0182-6",
+            "accessDate": "2020-09-10T17:10:23Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28619024",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:23Z",
+            "dateModified": "2020-09-11T14:59:54Z",
+            "pmid": "28619024"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        28
+                    ]
+                ],
+                "date-time": "2020-03-28T18:25:46Z",
+                "timestamp": 1585419946023
+            },
+            "reference-count": 35,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "PB-PG-1208-16102"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12902-017-0182-6",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        15
+                    ]
+                ],
+                "date-time": "2017-06-15T12:56:56Z",
+                "timestamp": 1497531416000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Communication with young people in paediatric and adult endocrine consultations: an intervention development and feasibility study",
+            "prefix": "10.1186",
+            "volume": "17",
+            "author": [
+                {
+                    "given": "J.",
+                    "family": "Downing",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "H.",
+                    "family": "Gleeson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "P.E.",
+                    "family": "Clayton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "J.R.E.",
+                    "family": "Davis",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "P.",
+                    "family": "Dimitri",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "J.",
+                    "family": "Wales",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "B.",
+                    "family": "Young",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-9082-8084",
+                    "authenticated-orcid": false,
+                    "given": "P.",
+                    "family": "Callery",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "4",
+                    "key": "182_CR1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "394",
+                    "DOI": "10.1016/j.jadohealth.2008.08.014",
+                    "volume": "44",
+                    "author": "GP Quinn",
+                    "year": "2009",
+                    "unstructured": "Quinn GP, Vadaparampil ST. Fertility preservation and adolescent/young adult cancer patients: physician communication challenges. J Adolesc Health. 2009;44(4):394\u2013400.",
+                    "journal-title": "J Adolesc Health"
+                },
+                {
+                    "issue": "2",
+                    "key": "182_CR2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "218",
+                    "DOI": "10.1212/WNL.58.2.218",
+                    "volume": "58",
+                    "author": "JL Ross",
+                    "year": "2002",
+                    "unstructured": "Ross JL, Stefanatos GA, Kushner H, Zinn A, Bondy C, Roeltgen D. Persistent cognitive deficits in adult women with Turner syndrome. Neurology. 2002;58(2):218\u201325.",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "182_CR3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "32",
+                    "DOI": "10.1177/002221949102400107",
+                    "volume": "24",
+                    "author": "J Downey",
+                    "year": "1991",
+                    "unstructured": "Downey J, Elkin EJ, Ehrhardt AA, Meyer-Bahlburg HF, Bell JJ, Morishima A. Cognitive ability and everyday functioning in women with Turner syndrome. J Learn Disabil. 1991;24(1):32\u20139.",
+                    "journal-title": "J Learn Disabil"
+                },
+                {
+                    "key": "182_CR4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "161",
+                    "DOI": "10.1093/rheumatology/kel198",
+                    "volume": "46",
+                    "author": "JE McDonagh",
+                    "year": "2007",
+                    "unstructured": "McDonagh JE, Southwood TR, Shaw KL. The impact of a coordinated transitional care programme on adolescents with juvenile idiopathic arthritis. Rheumatology (Oxford). 2007;46:161\u20138.",
+                    "journal-title": "Rheumatology (Oxford)"
+                },
+                {
+                    "issue": "5",
+                    "key": "182_CR5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "757",
+                    "DOI": "10.1016/j.pedn.2015.05.028",
+                    "volume": "30",
+                    "author": "A Staa van",
+                    "year": "2015",
+                    "unstructured": "van Staa A, Sattoe JN, Strating MM. Experiences with and outcomes of two interventions to maximize engagement of chronically Ill adolescents during hospital consultations: a mixed methods study. J Pediatr Nurs. 2015;30(5):757\u201375.",
+                    "journal-title": "J Pediatr Nurs"
+                },
+                {
+                    "issue": "3",
+                    "key": "182_CR6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "157",
+                    "DOI": "10.1093/jpepsy/jsh018",
+                    "volume": "29",
+                    "author": "M Civita De",
+                    "year": "2004",
+                    "unstructured": "De Civita M, Dobkin PL. Pediatric adherence as a multidimensional and dynamic construct, involving a triadic partnership.[erratum appears in J Pediatr Psychol. 2004 Jul-Aug;29(5):following 404]. J Pediatr Psychol. 2004;29(3):157\u201369.",
+                    "journal-title": "J Pediatr Psychol"
+                },
+                {
+                    "issue": "6",
+                    "key": "182_CR7",
+                    "first-page": "581",
+                    "volume": "30",
+                    "author": "B Beresford",
+                    "year": "2004",
+                    "unstructured": "Beresford B. On the road to nowhere? Young disabled people and transition. Child. 2004;30(6):581\u20137.",
+                    "journal-title": "Child"
+                },
+                {
+                    "issue": "2",
+                    "key": "182_CR8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "160",
+                    "DOI": "10.1136/adc.2006.103721",
+                    "volume": "93",
+                    "author": "RM Viner",
+                    "year": "2008",
+                    "unstructured": "Viner RM. Transition of care from paediatric to adult services: one part of improved health services for adolescents. Arch Dis Child. 2008;93(2):160\u20133.",
+                    "journal-title": "Arch Dis Child"
+                },
+                {
+                    "issue": "2",
+                    "key": "182_CR9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "162",
+                    "DOI": "10.1111/j.1464-5491.2008.02647.x",
+                    "volume": "26",
+                    "author": "D Allen",
+                    "year": "2009",
+                    "unstructured": "Allen D, Gregory J. The transition from children\u2019s to adult diabetes services: understanding the \u2018problem\u2019. Diabet Med. 2009;26(2):162\u20136.",
+                    "journal-title": "Diabet Med"
+                },
+                {
+                    "issue": "6",
+                    "key": "182_CR10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "839",
+                    "DOI": "10.1016/S0277-9536(00)00193-3",
+                    "volume": "52",
+                    "author": "K Tates",
+                    "year": "2001",
+                    "unstructured": "Tates K, Meeuwesen L. Doctor-parent\u2013child communication. A (re)view of the literature. Soc Sci Med. 2001;52(6):839\u201351.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "issue": "11",
+                    "key": "182_CR11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1501",
+                    "DOI": "10.1111/j.1651-2227.2004.tb02637.x",
+                    "volume": "93",
+                    "author": "E Wassmer",
+                    "year": "2004",
+                    "unstructured": "Wassmer E, Minnaar G, Abdel Aal N, Akinson M, Gupta E, Yuen S, Rylance G. How do paediatricians communicate with children and parents? Acta Paediatr. 2004;93(11):1501\u20136.",
+                    "journal-title": "Acta Paediatr"
+                },
+                {
+                    "issue": "2",
+                    "key": "182_CR12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "363",
+                    "DOI": "10.1016/j.socscimed.2006.09.003",
+                    "volume": "64",
+                    "author": "E Savage",
+                    "year": "2007",
+                    "unstructured": "Savage E, Callery P. Clinic consultations with children and parents on the dietary management of cystic fibrosis. Soc Sci Med. 2007;64(2):363\u201374.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "issue": "3",
+                    "key": "182_CR13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "172",
+                    "DOI": "10.1016/S1054-139X(03)00047-8",
+                    "volume": "33",
+                    "author": "BA Beresford",
+                    "year": "2003",
+                    "unstructured": "Beresford BA, Sloper P. Chronically ill adolescents\u2019 experiences of communicating with doctors: a qualitative study. J Adolesc Health. 2003;33(3):172\u20139.",
+                    "journal-title": "J Adolesc Health"
+                },
+                {
+                    "issue": "1",
+                    "key": "182_CR14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "29",
+                    "DOI": "10.1111/j.1365-2265.2012.04473.x",
+                    "volume": "78",
+                    "author": "J Downing",
+                    "year": "2013",
+                    "unstructured": "Downing J, Gleeson HK, Clayton PE, Davis JR, Wales JK, Callery P. Transition in endocrinology: the challenge of maintaining continuity. Clin Endocrinol (Oxf). 2013;78(1):29\u201335.",
+                    "journal-title": "Clin Endocrinol (Oxf)"
+                },
+                {
+                    "key": "182_CR15",
+                    "unstructured": "Waitzfelder B, Pihoker C, Klingensmith G, Case D, Anderson A, Bell R, Lawrence J, Mayer-Davis E, Imperatore G, Standiford D et al. Adherence to Guidelines for Youths With Diabetes Mellitus. Pediatrics. 2011;128(3):531\u20138.",
+                    "DOI": "10.1542/peds.2010-3641",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "182_CR16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "54",
+                    "DOI": "10.1111/j.1445-5994.2005.00990.x",
+                    "volume": "36",
+                    "author": "CC Pedreira",
+                    "year": "2006",
+                    "unstructured": "Pedreira CC, Hameed R, Kanumakala S, Zacharin M. Health-care problems of Turner syndrome in the adult woman: a cross sectional study of a Victorian cohort and a case for transition. Intern Med J. 2006;36(1):54\u20137.",
+                    "journal-title": "Intern Med J"
+                },
+                {
+                    "issue": "4",
+                    "key": "182_CR17",
+                    "first-page": "161",
+                    "volume": "62",
+                    "author": "F Verlinde",
+                    "year": "2004",
+                    "unstructured": "Verlinde F, Massa G, Lagrou K, Froidecoeur C, Bourguignon JP, Craen M, De Schepper J, Du Caju M, Heinrichs C, Francois I, et al. Health and psychosocial status of patients with turner syndrome after transition to adulthood: the Belgian experience. Horm Res. 2004;62(4):161\u20137.",
+                    "journal-title": "Horm Res"
+                },
+                {
+                    "issue": "4",
+                    "key": "182_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "340",
+                    "DOI": "10.1097/1001.mlr.0000254516.0000204961.d0000254515",
+                    "volume": "45",
+                    "author": "JK Rao",
+                    "year": "2007",
+                    "unstructured": "Rao JK, Anderson LA, Inui TS, Frankel RM. Communication interventions make a difference in conversations between physicians and patients: a systematic review of the evidence. Med Care. 2007;45(4):340\u20139. doi:\n10.1097/1001.mlr.0000254516.0000204961.d0000254515\n\n.",
+                    "journal-title": "Med Care"
+                },
+                {
+                    "key": "182_CR19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "a485",
+                    "DOI": "10.1136/bmj.a485",
+                    "volume": "337",
+                    "author": "P Kinnersley",
+                    "year": "2008",
+                    "unstructured": "Kinnersley P, Edwards A, Hood K, Ryan R, Prout H, Cadbury N, MacBeth F, Butow P, Butler C. Interventions before consultations to help patients address their information needs by encouraging question asking: systematic review. BMJ. 2008;337:a485.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "2",
+                    "key": "182_CR20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "281",
+                    "DOI": "10.1016/j.pec.2014.01.016",
+                    "volume": "95",
+                    "author": "SW Grande",
+                    "year": "2014",
+                    "unstructured": "Grande SW, Faber MJ, Durand M-A, Thompson R, Elwyn G. A classification model of patient engagement methods and assessment of their feasibility in real-world settings. Patient Educ Couns. 2014;95(2):281\u20137.",
+                    "journal-title": "Patient Educ Couns"
+                },
+                {
+                    "key": "182_CR21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/1471-2288-10-1",
+                    "volume": "10",
+                    "author": "L Thabane",
+                    "year": "2010",
+                    "unstructured": "Thabane L, Ma J, Chu R, Cheng J, Ismaila A, Rios LP, Robson R, Thabane M, Giangregorio L, Goldsmith CH. A tutorial on pilot studies: the what, why and how. BMC Med Res Methodol. 2010;10:1\u201310.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "182_CR22",
+                    "unstructured": "What do we mean by \u201cyouth\u201d? [\nhttp://www.unesco.org/new/en/social-and-human-sciences/themes/youth/youth-definition/\n\n]. Accessed 13 June 2017."
+                },
+                {
+                    "issue": "5",
+                    "key": "182_CR23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "307",
+                    "DOI": "10.1136/qshc.2005.016527",
+                    "volume": "15",
+                    "author": "P Bate",
+                    "year": "2006",
+                    "unstructured": "Bate P, Robert G. Experience\u2010based design: from redesigning the system around the patient to co\u2010designing services with the patient. Qual Saf Health Care. 2006;15(5):307\u201310.",
+                    "journal-title": "Qual Saf Health Care"
+                },
+                {
+                    "key": "182_CR24",
+                    "unstructured": "QSR International Pty Ltd: NVivo9. Doncaster,\u00a0Victoria, Australia; 2010."
+                },
+                {
+                    "issue": "6",
+                    "key": "182_CR25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "621",
+                    "DOI": "10.1016/0378-2166(94)90101-5",
+                    "volume": "21",
+                    "author": "AF Freed",
+                    "year": "1994",
+                    "unstructured": "Freed AF. The form and function of questions in informal dyadic conversation. J Pragmat. 1994;21(6):621\u201344.",
+                    "journal-title": "J Pragmat"
+                },
+                {
+                    "issue": "5",
+                    "key": "182_CR26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "323",
+                    "DOI": "10.1136/adc.2008.146191",
+                    "volume": "95",
+                    "author": "RJ Howells",
+                    "year": "2010",
+                    "unstructured": "Howells RJ, Davies HA, Silverman JD, Archer JC, Mellon AF. Assessment of doctors\u2019 consultation skills in the paediatric setting: the Paediatric Consultation Assessment Tool. Arch Dis Child. 2010;95(5):323\u20139.",
+                    "journal-title": "Arch Dis Child"
+                },
+                {
+                    "key": "182_CR27",
+                    "author": "G Elwyn",
+                    "year": "2005",
+                    "unstructured": "Elwyn G, Edwards A, Wensing M, Grol R. Shared decision making: measurement using the OPTION instrument. Cardiff: Cardiff University; 2005.",
+                    "volume-title": "Shared decision making: measurement using the OPTION instrument"
+                },
+                {
+                    "issue": "1",
+                    "key": "182_CR28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1111/j.1369-7625.2004.00311.x",
+                    "volume": "8",
+                    "author": "G Elwyn",
+                    "year": "2005",
+                    "unstructured": "Elwyn G, Hutchings H, Edwards A, Rapport F, Wensing M, Cheung W-Y, Grol R. The OPTION scale: measuring the extent that clinicians involve patients in decision-making tasks. Health Expect. 2005;8(1):34\u201342.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "issue": "3",
+                    "key": "182_CR29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "257",
+                    "DOI": "10.1093/fampra/19.3.257",
+                    "volume": "19",
+                    "author": "R Meakin",
+                    "year": "2002",
+                    "unstructured": "Meakin R, Weinman J. The \u2018medical interview satisfaction scale\u2019 (MISS-21) adapted for British general practice. Fam Pract. 2002;19(3):257\u201363.",
+                    "journal-title": "Fam Pract"
+                },
+                {
+                    "issue": "1",
+                    "key": "182_CR30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "57",
+                    "DOI": "10.1186/1471-2288-6-57",
+                    "volume": "6",
+                    "author": "F Shrive",
+                    "year": "2006",
+                    "unstructured": "Shrive F, Stuart H, Quan H, Ghali W. Dealing with missing data in a multi-question depression scale: a comparison of imputation methods. BMC Med Res Methodol. 2006;6(1):57.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "182_CR31",
+                    "author": "IBM",
+                    "year": "2012",
+                    "edition": "20",
+                    "unstructured": "IBM. SPSS statistics. 20th ed. Armonk, New York: IBM Corporation; 2012.",
+                    "volume-title": "SPSS statistics"
+                },
+                {
+                    "issue": "11",
+                    "key": "182_CR32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1352",
+                    "DOI": "10.1016/j.pec.2015.05.001",
+                    "volume": "98",
+                    "author": "VA Vigilante",
+                    "year": "2015",
+                    "unstructured": "Vigilante VA, Hossain J, Wysocki T, Sharif I. Correlates of type and quantity of child communication during pediatric subspecialty encounters. Patient Educ Couns. 2015;98(11):1352\u20139.",
+                    "journal-title": "Patient Educ Couns"
+                },
+                {
+                    "issue": "4",
+                    "key": "182_CR33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "281",
+                    "DOI": "10.1177/109019817700500402",
+                    "volume": "5",
+                    "author": "DL Roter",
+                    "year": "1977",
+                    "unstructured": "Roter DL. Patient participation in the patient-provider interaction: the effects of patient question asking on the quality of interaction, satisfaction and compliance. Health Educ Behav. 1977;5(4):281\u2013315.",
+                    "journal-title": "Health Educ Behav"
+                },
+                {
+                    "issue": "3",
+                    "key": "182_CR34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "315",
+                    "DOI": "10.1016/j.pec.2014.05.004",
+                    "volume": "96",
+                    "author": "RL Street Jr",
+                    "year": "2014",
+                    "unstructured": "Street Jr RL, Liu L, Farber NJ, Chen Y, Calvitti A, Zuest D, Gabuzda MT, Bell K, Gray B, Rick S, et al. Provider interaction with the electronic health record: The effects on patient-centered communication in medical encounters. Patient Educ Couns. 2014;96(3):315\u20139.",
+                    "journal-title": "Patient Educ Couns"
+                },
+                {
+                    "issue": "12",
+                    "key": "182_CR35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1365",
+                    "DOI": "10.1002/pon.3568",
+                    "volume": "23",
+                    "author": "AV Mellblom",
+                    "year": "2014",
+                    "unstructured": "Mellblom AV, Finset A, Korsvold L, Loge JH, Ruud E, Lie HC. Emotional concerns in follow-up consultations between paediatric oncologists and adolescent survivors: a video-based observational study. Psycho-Oncology. 2014;23(12):1365\u201372.",
+                    "journal-title": "Psycho-Oncology"
+                }
+            ],
+            "container-title": "BMC Endocrine Disorders",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12902-017-0182-6.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        15
+                    ]
+                ],
+                "date-time": "2017-06-15T12:57:23Z",
+                "timestamp": 1497531443000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 35,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "182"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12902-017-0182-6",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1472-6823"
+            ],
+            "container-title-short": "BMC Endocr Disord",
+            "article-number": "33"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Communication",
+                        "Endocrine system diseases",
+                        "Feasibility studies",
+                        "Physician-patient relations",
+                        "Transition to adult care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28619024",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "04",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "11",
+                    "Day": "13"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12902-017-0182-6"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "06",
+                            "Day": "15"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1472-6823",
+                        "JournalIssue": {
+                            "Volume": "17",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jun",
+                                "Day": "15"
+                            }
+                        },
+                        "Title": "BMC endocrine disorders",
+                        "ISOAbbreviation": "BMC Endocr Disord"
+                    },
+                    "ArticleTitle": "Communication with young people in paediatric and adult endocrine consultations: an intervention development and feasibility study.",
+                    "Pagination": {
+                        "MedlinePgn": "33"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Communication is complex in endocrine care, particularly during transition from paediatric to adult services. The aims of this study were to examine the feasibility of interventions to support young people to interact with clinicians.",
+                            "Development and evaluation of a complex intervention in 2 phases: Pre-intervention observational study; Intervention feasibility study. Purposive sample of recordings of 62 consultations with 58 young people aged 11-25 years with long-term endocrine conditions in two paediatric and two adult endocrine clinics. Proportion of time talked during consultations, number and direction of questions asked; Paediatric Consultation Assessment Tool (PCAT); OPTION shared decision making tool; Medical Information Satisfaction Scale (MISS- 21). Young people were invited to use one or more of: a prompt sheet to help them influence consultation agendas and raise questions; a summary sheet to record key information; and the www.explain.me.uk website.",
+                            "Nearly two thirds of young people (63%) chose to use at least one communication intervention. Higher ratings for two PCAT items (95% CI 0.0 to 1.1 and 0.1 to 1.7) suggest interventions can support consultation skills. A higher proportion of accompanying persons (83%) than young people (64%) directed questions to clinicians. The proportion of young people asking questions was higher (84%) in the intervention phase than in the observation phase (71%).",
+                            "Interventions were acceptable and feasible. The Intervention phase was associated with YP asking more questions, which implies that the availability of interventions could promote interactivity."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "J",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Endocrinology, Queen Elizabeth Hospital, Birmingham, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gleeson",
+                            "ForeName": "H",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Medical Sciences, University of Manchester, Royal Manchester Children's Hospital, Central Manchester University Hospital's Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clayton",
+                            "ForeName": "P E",
+                            "Initials": "PE"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Medical Sciences, University of Manchester, Royal Manchester Children's Hospital, Central Manchester University Hospital's Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Davis",
+                            "ForeName": "J R E",
+                            "Initials": "JRE"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Sheffield Children's Hospital, Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dimitri",
+                            "ForeName": "P",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Queensland and Department of Endocrinology & Diabetes, Lady Cilento Children's Hospital, South Brisbane, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wales",
+                            "ForeName": "J",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Young",
+                            "ForeName": "B",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK. peter.callery@manchester.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Nursing, Midwifery & Social Work, School of Health Sciences, University of Manchester, Jean McFarlane Building, Oxford Road, Manchester, M13 9PL, UK. peter.callery@manchester.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-9082-8084"
+                            ],
+                            "LastName": "Callery",
+                            "ForeName": "P",
+                            "Initials": "P"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "PB-PG-1208-16102",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Endocr Disord",
+                    "NlmUniqueID": "101088676",
+                    "ISSNLinking": "1472-6823"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent Health Services",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Communication",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Decision Making",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Endocrinology",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Feasibility Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Participation",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Soc Sci Med. 2001 Mar;52(6):839-51",
+                                "ArticleIdList": [
+                                    "11234859"
+                                ]
+                            },
+                            {
+                                "Citation": "Child Care Health Dev. 2004 Nov;30(6):581-7",
+                                "ArticleIdList": [
+                                    "15527469"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pediatr Psychol. 2004 Apr-May;29(3):157-69",
+                                "ArticleIdList": [
+                                    "15131134"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Educ Monogr. 1977 Winter;5(4):281-315",
+                                "ArticleIdList": [
+                                    "346537"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2010 Jan 06;10:1",
+                                "ArticleIdList": [
+                                    "20053272"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Endocrinol (Oxf). 2013 Jan;78(1):29-35",
+                                "ArticleIdList": [
+                                    "22734661"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabet Med. 2009 Feb;26(2):162-6",
+                                "ArticleIdList": [
+                                    "19236619"
+                                ]
+                            },
+                            {
+                                "Citation": "Fam Pract. 2002 Jun;19(3):257-63",
+                                "ArticleIdList": [
+                                    "11978716"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2015 Nov;98 (11):1352-9",
+                                "ArticleIdList": [
+                                    "26160039"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2007 Apr;45(4):340-9",
+                                "ArticleIdList": [
+                                    "17496718"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2014 Dec;23(12):1365-72",
+                                "ArticleIdList": [
+                                    "24798739"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adolesc Health. 2003 Sep;33(3):172-9",
+                                "ArticleIdList": [
+                                    "12944007"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2014 May;95(2):281-7",
+                                "ArticleIdList": [
+                                    "24582473"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pediatr Nurs. 2015 Sep-Oct;30(5):757-75",
+                                "ArticleIdList": [
+                                    "26199096"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Paediatr. 2004 Nov;93(11):1501-6",
+                                "ArticleIdList": [
+                                    "15513580"
+                                ]
+                            },
+                            {
+                                "Citation": "J Learn Disabil. 1991 Jan;24(1):32-9",
+                                "ArticleIdList": [
+                                    "1997625"
+                                ]
+                            },
+                            {
+                                "Citation": "Rheumatology (Oxford). 2007 Jan;46(1):161-8",
+                                "ArticleIdList": [
+                                    "16790451"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2006 Dec 13;6:57",
+                                "ArticleIdList": [
+                                    "17166270"
+                                ]
+                            },
+                            {
+                                "Citation": "Horm Res. 2004;62(4):161-7",
+                                "ArticleIdList": [
+                                    "15297800"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Saf Health Care. 2006 Oct;15(5):307-10",
+                                "ArticleIdList": [
+                                    "17074863"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatrics. 2011 Sep;128(3):531-8",
+                                "ArticleIdList": [
+                                    "21859914"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adolesc Health. 2009 Apr;44(4):394-400",
+                                "ArticleIdList": [
+                                    "19306799"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2005 Mar;8(1):34-42",
+                                "ArticleIdList": [
+                                    "15713169"
+                                ]
+                            },
+                            {
+                                "Citation": "Intern Med J. 2006 Jan;36(1):54-7",
+                                "ArticleIdList": [
+                                    "16409314"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2002 Jan 22;58(2):218-25",
+                                "ArticleIdList": [
+                                    "11805247"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Jul 16;337:a485",
+                                "ArticleIdList": [
+                                    "18632672"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Dis Child. 2010 May;95(5):323-9",
+                                "ArticleIdList": [
+                                    "19019880"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2007 Jan;64(2):363-74",
+                                "ArticleIdList": [
+                                    "17064831"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2014 Sep;96(3):315-9",
+                                "ArticleIdList": [
+                                    "24882086"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Dis Child. 2008 Feb;93(2):160-3",
+                                "ArticleIdList": [
+                                    "17942588"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "11",
+                        "Day": "02"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "05",
+                        "Day": "31"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "4",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "28619024",
+                    "10.1186/s12902-017-0182-6",
+                    "10.1186/s12902-017-0182-6",
+                    "PMC5472891"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28619024)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828619024%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828619024%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85027545837"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85027545837?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85027545837&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85027545837&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85027545837",
+                        "dc:identifier": "SCOPUS_ID:85027545837",
+                        "eid": "2-s2.0-85027545837",
+                        "dc:title": "Communication with young people in paediatric and adult endocrine consultations: An intervention development and feasibility study",
+                        "dc:creator": "Downing J.",
+                        "prism:publicationName": "BMC Endocrine Disorders",
+                        "prism:eIssn": "14726823",
+                        "prism:volume": "17",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-01-01",
+                        "prism:coverDisplayDate": "2017",
+                        "prism:doi": "10.1186/s12902-017-0182-6",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28619024",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "33",
+                        "source-id": "25411",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "7LZIYYX9.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28619024"
+            }
+        },
+        "title": "Communication with young people in paediatric and adult endocrine consultations: an intervention development and feasibility study.",
+        "full_author_list": [
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "J",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gleeson H",
+                "family": "Gleeson",
+                "given": "H",
+                "affiliation": {
+                    "name": "Department of Endocrinology, Queen Elizabeth Hospital, Birmingham, UK."
+                }
+            },
+            {
+                "clean": "Clayton P",
+                "family": "Clayton",
+                "given": "P E",
+                "affiliation": {
+                    "name": "School of Medical Sciences, University of Manchester, Royal Manchester Children's Hospital, Central Manchester University Hospital's Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK."
+                }
+            },
+            {
+                "clean": "Davis J",
+                "family": "Davis",
+                "given": "J R E",
+                "affiliation": {
+                    "name": "School of Medical Sciences, University of Manchester, Royal Manchester Children's Hospital, Central Manchester University Hospital's Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK."
+                }
+            },
+            {
+                "clean": "Dimitri P",
+                "family": "Dimitri",
+                "given": "P",
+                "affiliation": {
+                    "name": "Sheffield Children's Hospital, Sheffield, UK."
+                }
+            },
+            {
+                "clean": "Wales J",
+                "family": "Wales",
+                "given": "J",
+                "affiliation": {
+                    "name": "University of Queensland and Department of Endocrinology & Diabetes, Lady Cilento Children's Hospital, South Brisbane, Australia."
+                }
+            },
+            {
+                "clean": "Young B",
+                "family": "Young",
+                "given": "B",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Callery P",
+                "family": "Callery",
+                "given": "P",
+                "affiliation": {
+                    "name": "School of Health Sciences, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK. peter.callery@manchester.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Downing J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adolescent Health Services",
+                    "major": "Y"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Communication",
+                    "major": "Y"
+                },
+                {
+                    "term": "Decision Making",
+                    "major": "N"
+                },
+                {
+                    "term": "Endocrinology",
+                    "major": "N"
+                },
+                {
+                    "term": "Feasibility Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Participation",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMC Endocr Disord",
+            "volume": "17",
+            "issue": "1"
+        },
+        "abstract": "['Communication is complex in endocrine care, particularly during transition from paediatric to adult services. The aims of this study were to examine the feasibility of interventions to support young people to interact with clinicians.', 'Development and evaluation of a complex intervention in 2 phases: Pre-intervention observational study; Intervention feasibility study. Purposive sample of recordings of 62 consultations with 58 young people aged 11-25 years with long-term endocrine conditions in two paediatric and two adult endocrine clinics. Proportion of time talked during consultations, number and direction of questions asked; Paediatric Consultation Assessment Tool (PCAT); OPTION shared decision making tool; Medical Information Satisfaction Scale (MISS- 21). Young people were invited to use one or more of: a prompt sheet to help them influence consultation agendas and raise questions; a summary sheet to record key information; and the www.explain.me.uk website.', 'Nearly two thirds of young people (63%) chose to use at least one communication intervention. Higher ratings for two PCAT items (95% CI 0.0 to 1.1 and 0.1 to 1.7) suggest interventions can support consultation skills. A higher proportion of accompanying persons (83%) than young people (64%) directed questions to clinicians. The proportion of young people asking questions was higher (84%) in the intervention phase than in the observation phase (71%).', 'Interventions were acceptable and feasible. The Intervention phase was associated with YP asking more questions, which implies that the availability of interventions could promote interactivity.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

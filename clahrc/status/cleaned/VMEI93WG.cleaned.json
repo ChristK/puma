@@ -1,0 +1,1335 @@
+{
+    "IDs": {
+        "zotero": "VMEI93WG",
+        "DOI": "10.1136/bmjopen-2018-022820",
+        "DOI_filename": "fbac14457b638ab52a440bbe090a723e",
+        "PMID": "30613026",
+        "scopus": "2-s2.0-85059496381",
+        "hash": "3b2b259984c8b8a4aa463ce86b26b25d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "VMEI93WG",
+            "version": 192,
+            "itemType": "journalArticle",
+            "title": "What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason Cameron",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fran",
+                    "lastName": "Walker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Wojciech",
+                    "lastName": "Sawicki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Alfirevic"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Objectives\n              The aim of this study was to identify the most important determinants of accident and emergency (A&E) attendance in disadvantaged areas.\n            \n            \n              Design, setting and participants\n              A total of 3510 residents from 20 disadvantaged neighbourhoods in the North West Coast area in England completed a comprehensive public health survey.\n            \n            \n              Main outcome measures\n              Participants were asked to complete general background information, as well as information about their physical health, mental health, lifestyle, social issues, housing and environment, work and finances, and healthcare service usage. Only one resident per household could take part in the survey. Poisson regression analysis was employed to assess the predictors of A&E attendance frequency in the previous 12 months.\n            \n            \n              Results\n              31.6% of the sample reported having attended A&E in the previous 12 months, ranging from 1 to 95 visits. Controlling for demographic and health factors, not being in employment and living in poor quality housing increased the likelihood of attending an A&E service. Service access was also found to be predictive of A&E attendance insofar as there were an additional 18 fewer A&E attendances per 100 population for each kilometre closer a person lived to a general practitioner (GP) practice, and 3 fewer attendances per 100 population for each kilometre further a person lived from an A&E department.\n            \n            \n              Conclusions\n              This is one of the first surveys to explore a comprehensive set of socio-economic factors as well as proximity to both GP and A&E services as predictors of A&E attendance in disadvantaged areas. Findings from this study suggest the need to address both socioeconomic issues, such as employment and housing quality, as well as structural issues, such as public transport and access to primary care, to reduce the current burden on A&E departments.",
+            "publicationTitle": "BMJ Open",
+            "volume": "9",
+            "issue": "1",
+            "pages": "e022820",
+            "date": "01/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2018-022820",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods?",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2018-022820",
+            "accessDate": "2020-09-10T17:08:51Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30613026",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/HAD8IL49"
+            },
+            "dateAdded": "2020-09-10T17:08:51Z",
+            "dateModified": "2020-09-15T14:34:40Z",
+            "pmid": "30613026"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ],
+                "date-time": "2020-08-18T12:29:49Z",
+                "timestamp": 1597753789147
+            },
+            "reference-count": 35,
+            "publisher": "BMJ",
+            "issue": "1",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>The aim of this study was to identify the most important determinants of accident and emergency (A&amp;E) attendance in disadvantaged areas.</jats:p></jats:sec><jats:sec><jats:title>Design, setting and participants</jats:title><jats:p>A total of 3510 residents from 20 disadvantaged neighbourhoods in the North West Coast area in England completed a comprehensive public health survey.</jats:p></jats:sec><jats:sec><jats:title>Main outcome measures</jats:title><jats:p>Participants were asked to complete general background information, as well as information about their physical health, mental health, lifestyle, social issues, housing and environment, work and finances, and healthcare service usage. Only one resident per household could take part in the survey. Poisson regression analysis was employed to assess the predictors of A&amp;E attendance frequency in the previous 12 months.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>31.6% of the sample reported having attended A&amp;E in the previous 12 months, ranging from 1 to 95 visits. Controlling for demographic and health factors, not being in employment and living in poor quality housing increased the likelihood of attending an A&amp;E service. Service access was also found to be predictive of A&amp;E attendance insofar as there were an additional 18 fewer A&amp;E attendances per 100 population for each kilometre closer a person lived to a general practitioner (GP) practice, and 3 fewer attendances per 100 population for each kilometre further a person lived from an A&amp;E department.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>This is one of the first surveys to explore a comprehensive set of socio-economic factors as well as proximity to both GP and A&amp;E services as predictors of A&amp;E attendance in disadvantaged areas. Findings from this study suggest the need to address both socioeconomic issues, such as employment and housing quality, as well as structural issues, such as public transport and access to primary care, to reduce the current burden on A&amp;E departments.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2018-022820",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        7
+                    ]
+                ],
+                "date-time": "2019-01-07T05:28:04Z",
+                "timestamp": 1546838884000
+            },
+            "page": "e022820",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 8,
+            "title": "What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England",
+            "prefix": "10.1136",
+            "volume": "9",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jason Cameron",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Fran",
+                    "family": "Walker",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Wojciech",
+                    "family": "Sawicki",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ana",
+                    "family": "Alfirevic",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050713420005000_9.1.e022820.1",
+                    "unstructured": "Digital NHS . Hospital Accident and Emergency Activity 2015-2016. Health and Social Care Information Centre. London: NHS Digital, 2017."
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.2",
+                    "unstructured": "Tian Y . Data briefing: emergency hospital admissions for ambulatory care-sensitive conditions\u00a0King\u2019s Fund report. 2012 https://www.kingsfund.org.uk/sites/default/files/field/field_publication_file/data-briefing-emergency-hospital-admissions-for-ambulatory-care-sensitive-conditions-apr-2012.pdf (Accessed 28 Sep 2017)."
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.3",
+                    "DOI": "10.3399/bjgp15X686893",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.4",
+                    "first-page": "801",
+                    "article-title": "Loneliness as a predictor of hospital emergency department use",
+                    "volume": "48",
+                    "author": "Geller",
+                    "year": "1999",
+                    "journal-title": "J Fam Pract"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.5",
+                    "DOI": "10.1111/j.1532-5415.2010.02960.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "10",
+                    "DOI": "10.1177/2049463717720635",
+                    "article-title": "Better safe than sorry? Frequent attendance in a hospital emergency department: an exploratory study",
+                    "volume": "12",
+                    "author": "Daniels",
+                    "year": "2018",
+                    "journal-title": "Br J Pain"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.7",
+                    "DOI": "10.1177/135581969700200104",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.8",
+                    "DOI": "10.1136/emj.2009.079160",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e67943",
+                    "DOI": "10.1371/journal.pone.0067943",
+                    "article-title": "The combined influence of distance and neighbourhood deprivation on Emergency Department attendance in a large English population: a retrospective database study",
+                    "volume": "8",
+                    "author": "Rudge",
+                    "year": "2013",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.10",
+                    "DOI": "10.1136/jech-2015-205925",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.11",
+                    "DOI": "10.1136/emermed-2015-205339",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.12",
+                    "DOI": "10.3399/bjgp18X694397",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.13",
+                    "unstructured": "Department for Communities and Local Government. The english indices of deprivation 2015: technical report. London: Department for Communities and Local Government, 2015."
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.14",
+                    "unstructured": "McIntyre J , Wickham S , Barr B , et al . Social identityand psychosis: associations and psychological mechanisms: Schizophrenia Bulletin, 2017.",
+                    "DOI": "10.1093/schbul/sbx110",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.15",
+                    "DOI": "10.1007/s11136-011-9903-x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.16",
+                    "DOI": "10.1046/j.1525-1497.2001.016009606.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.17",
+                    "DOI": "10.1001/archinte.166.10.1092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1348/147608308X398337",
+                    "article-title": "The persecution and deservedness scale",
+                    "volume": "82",
+                    "author": "Melo",
+                    "year": "2009",
+                    "journal-title": "Psychol Psychother"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.19",
+                    "unstructured": "StataCorp. Stata Survey Data Reference Manual. College Station, TX: LLC StataCorp, 2015."
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.20",
+                    "unstructured": "Health and Social Care Information Centre. Hospital accident and emergency activity: 2015-16. NHS Digital, England 2017."
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.21",
+                    "DOI": "10.1136/emermed-2014-204581",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.22",
+                    "unstructured": "King\u2019s Fund. Long-term conditions and multi-morbidity. 2018 https://www.kingsfund.org.uk/projects/time-think-differently/trends-disease-and-disability-long-term-conditions-multi-morbidity (Accessed 15th Jan)."
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "594",
+                    "DOI": "10.1186/s12913-016-1852-1",
+                    "article-title": "Individual predictors of frequent emergency department use: a scoping review",
+                    "volume": "16",
+                    "author": "Krieg",
+                    "year": "2016",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "196",
+                    "DOI": "10.1111/dar.12518",
+                    "article-title": "Health service utilisation attributable to methamphetamine use in Australia: Patterns, predictors and national impact",
+                    "volume": "37",
+                    "author": "McKetin",
+                    "year": "2018",
+                    "journal-title": "Drug Alcohol Rev"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.25",
+                    "DOI": "10.1080/02770900600567015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.26",
+                    "DOI": "10.1197/aemj.10.4.320",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.27",
+                    "DOI": "10.1097/01.mlr.0000108747.51198.41",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.28",
+                    "DOI": "10.1093/eurpub/ckl248",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.29",
+                    "unstructured": "Ingram WM , Weston C , Ritchie MD , et al . Depression linked to frequent emergency department use in large 10-year retrospective analysis of an integrated health care system. bioRxiv 2017.",
+                    "DOI": "10.1101/115238",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.30",
+                    "DOI": "10.1136/thx.2006.058362",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.31",
+                    "DOI": "10.1136/jech.2006.048462",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.32",
+                    "DOI": "10.1037/0022-006X.68.3.526",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.33",
+                    "unstructured": "Gilles I , Clemence A , Courvoisier N , et al . social and temporal comparisons protect well-being and health between 45 and 70 years old in four urban communities. Aging Sci 2015;3.",
+                    "DOI": "10.4172/2329-8847.1000133",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.34",
+                    "DOI": "10.3399/bjgp11X606636",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713420005000_9.1.e022820.35",
+                    "DOI": "10.3399/bjgp13X675395",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2018-022820",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T22:24:07Z",
+                "timestamp": 1588890247000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 35,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            15
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2018-022820"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2018-022820",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "accident and emergency",
+                        "deprivation",
+                        "housing quality",
+                        "service access"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30613026",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "01",
+                    "Day": "29"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "09"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2018-022820"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "01",
+                            "Day": "06"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "9",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "01",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England.",
+                    "Pagination": {
+                        "MedlinePgn": "e022820"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The aim of this study was to identify the most important determinants of accident and emergency (A&E) attendance in disadvantaged areas.",
+                            "A total of 3510 residents from 20 disadvantaged neighbourhoods in the North West Coast area in England completed a comprehensive public health survey.",
+                            "Participants were asked to complete general background information, as well as information about their physical health, mental health, lifestyle, social issues, housing and environment, work and finances, and healthcare service usage. Only one resident per household could take part in the survey. Poisson regression analysis was employed to assess the predictors of A&E attendance frequency in the previous 12 months.",
+                            "31.6% of the sample reported having attended A&E in the previous 12 months, ranging from 1 to 95 visits. Controlling for demographic and health factors, not being in employment and living in poor quality housing increased the likelihood of attending an A&E service. Service access was also found to be predictive of A&E attendance insofar as there were an additional 18 fewer A&E attendances per 100 population for each kilometre closer a person lived to a general practitioner (GP) practice, and 3 fewer attendances per 100 population for each kilometre further a person lived from an A&E department.",
+                            "This is one of the first surveys to explore a comprehensive set of socio-economic factors as well as proximity to both GP and A&E services as predictors of A&E attendance in disadvantaged areas. Findings from this study suggest the need to address both socioeconomic issues, such as employment and housing quality, as well as structural issues, such as public transport and access to primary care, to reduce the current burden on A&E departments."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Natural Sciences and Psychology, Liverpool John Moore's University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason Cameron",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Geographic Data Science Lab, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, The University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Geographic Data Science Lab, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Walker",
+                            "ForeName": "Fran",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Royal Liverpool and Broadgreen University Hospitals NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sawicki",
+                            "ForeName": "Wojciech",
+                            "Initials": "W"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, The University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alfirevic",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cross-Sectional Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "General Practice",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Surveys",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Patient Acceptance of Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Primary Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Regression Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Residence Characteristics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Vulnerable Populations",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: We have read and understood BMJ policy on declaration of interests and declare the following: All authors have completed the ICMJE uniform disclosure form."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Arch Intern Med. 2006 May 22;166(10):1092-7",
+                                "ArticleIdList": [
+                                    "16717171"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2007 Sep;61(9):771-7",
+                                "ArticleIdList": [
+                                    "17699530"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2018 Apr 6;44(3):681-690",
+                                "ArticleIdList": [
+                                    "28981888"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2013 Dec;63(617):e813-20",
+                                "ArticleIdList": [
+                                    "24351497"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2016 Oct 20;16(1):594",
+                                "ArticleIdList": [
+                                    "27765045"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Life Res. 2011 Dec;20(10):1727-36",
+                                "ArticleIdList": [
+                                    "21479777"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2004 Feb;42(2):176-82",
+                                "ArticleIdList": [
+                                    "14734955"
+                                ]
+                            },
+                            {
+                                "Citation": "Acad Emerg Med. 2003 Apr;10(4):320-8",
+                                "ArticleIdList": [
+                                    "12670845"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2016 Oct;33(10):702-8",
+                                "ArticleIdList": [
+                                    "27317586"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2013 Jul 16;8(7):e67943",
+                                "ArticleIdList": [
+                                    "23874473"
+                                ]
+                            },
+                            {
+                                "Citation": "J Asthma. 2006 Apr;43(3):219-23",
+                                "ArticleIdList": [
+                                    "16754525"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Psychother. 2009 Sep;82(Pt 3):247-60",
+                                "ArticleIdList": [
+                                    "19426584"
+                                ]
+                            },
+                            {
+                                "Citation": "Drug Alcohol Rev. 2018 Feb;37(2):196-204",
+                                "ArticleIdList": [
+                                    "28294443"
+                                ]
+                            },
+                            {
+                                "Citation": "J Consult Clin Psychol. 2000 Jun;68(3):526-30",
+                                "ArticleIdList": [
+                                    "10883571"
+                                ]
+                            },
+                            {
+                                "Citation": "J Fam Pract. 1999 Oct;48(10):801-4",
+                                "ArticleIdList": [
+                                    "12224678"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Pain. 2018 Feb;12(1):10-19",
+                                "ArticleIdList": [
+                                    "29416860"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2010 Aug;58(8):1538-41",
+                                "ArticleIdList": [
+                                    "20646104"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Public Health. 2007 Aug;17(4):387-93",
+                                "ArticleIdList": [
+                                    "17065176"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2010 Nov;27(11):843-8",
+                                "ArticleIdList": [
+                                    "20472703"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 2007 Oct;62(10):855-60",
+                                "ArticleIdList": [
+                                    "17456503"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2016 Mar;70(3):286-91",
+                                "ArticleIdList": [
+                                    "26458399"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2018 Mar;68(668):e157-e167",
+                                "ArticleIdList": [
+                                    "29335325"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 1997 Jan;2(1):6-13",
+                                "ArticleIdList": [
+                                    "10180657"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gen Intern Med. 2001 Sep;16(9):606-13",
+                                "ArticleIdList": [
+                                    "11556941"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2015 Oct;65(639):e649-54",
+                                "ArticleIdList": [
+                                    "26412841"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2016 Mar;33(3):187-93",
+                                "ArticleIdList": [
+                                    "26698364"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2011 Nov;61(592):e724-32",
+                                "ArticleIdList": [
+                                    "22054336"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "1",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "1",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "1",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "30613026",
+                    "bmjopen-2018-022820",
+                    "10.1136/bmjopen-2018-022820",
+                    "PMC6326270"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30613026)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830613026%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830613026%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059496381"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059496381?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059496381&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059496381&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059496381",
+                        "dc:identifier": "SCOPUS_ID:85059496381",
+                        "eid": "2-s2.0-85059496381",
+                        "dc:title": "What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "9",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-01-01",
+                        "prism:coverDisplayDate": "1 January 2019",
+                        "prism:doi": "10.1136/bmjopen-2018-022820",
+                        "citedby-count": "9",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR Collaboration for Leadership in Applied Health Research and Care",
+                                "affiliation-city": null,
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30613026",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e022820",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "VMEI93WG.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30613026"
+            }
+        },
+        "title": "What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason Cameron",
+                "affiliation": {
+                    "name": "School of Natural Sciences and Psychology, Liverpool John Moore's University, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "Geographic Data Science Lab, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                }
+            },
+            {
+                "clean": "Walker F",
+                "family": "Walker",
+                "given": "Fran",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                }
+            },
+            {
+                "clean": "Sawicki W",
+                "family": "Sawicki",
+                "given": "Wojciech",
+                "affiliation": {
+                    "name": "Royal Liverpool and Broadgreen University Hospitals NHS Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Alfirevic A",
+                "family": "Alfirevic",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care, North West Coast, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Cross-Sectional Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "General Practice",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Surveys",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Acceptance of Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Primary Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Regression Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Residence Characteristics",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Vulnerable Populations",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "9",
+            "issue": "1"
+        },
+        "abstract": "['The aim of this study was to identify the most important determinants of accident and emergency (A&E) attendance in disadvantaged areas.', 'A total of 3510 residents from 20 disadvantaged neighbourhoods in the North West Coast area in England completed a comprehensive public health survey.', 'Participants were asked to complete general background information, as well as information about their physical health, mental health, lifestyle, social issues, housing and environment, work and finances, and healthcare service usage. Only one resident per household could take part in the survey. Poisson regression analysis was employed to assess the predictors of A&E attendance frequency in the previous 12 months.', '31.6% of the sample reported having attended A&E in the previous 12 months, ranging from 1 to 95 visits. Controlling for demographic and health factors, not being in employment and living in poor quality housing increased the likelihood of attending an A&E service. Service access was also found to be predictive of A&E attendance insofar as there were an additional 18 fewer A&E attendances per 100 population for each kilometre closer a person lived to a general practitioner (GP) practice, and 3 fewer attendances per 100 population for each kilometre further a person lived from an A&E department.', 'This is one of the first surveys to explore a comprehensive set of socio-economic factors as well as proximity to both GP and A&E services as predictors of A&E attendance in disadvantaged areas. Findings from this study suggest the need to address both socioeconomic issues, such as employment and housing quality, as well as structural issues, such as public transport and access to primary care, to reduce the current burden on A&E departments.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "9"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

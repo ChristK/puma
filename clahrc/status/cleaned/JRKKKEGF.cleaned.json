@@ -1,0 +1,1794 @@
+{
+    "IDs": {
+        "zotero": "JRKKKEGF",
+        "DOI": "10.1186/s13643-017-0638-9",
+        "DOI_filename": "dcff8bb92c4c37f0f8f07c5089faf07e",
+        "PMID": "29284538",
+        "scopus": "2-s2.0-85039694962",
+        "hash": "c395c4c5f9d44a6df2ce7112b3415316"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JRKKKEGF",
+            "version": 159,
+            "itemType": "journalArticle",
+            "title": "Use of programme theory to understand the differential effects of interventions across socio-economic groups in systematic reviews\u2014a systematic methodology review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Maden"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alex",
+                    "lastName": "Cunliffe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Naoimh",
+                    "lastName": "McMahon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Booth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gina Michelle",
+                    "lastName": "Carey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Suzy",
+                    "lastName": "Paisley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rumona",
+                    "lastName": "Dickson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Systematic Reviews",
+            "volume": "6",
+            "issue": "1",
+            "pages": "266",
+            "date": "12/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Syst Rev",
+            "language": "en",
+            "DOI": "10.1186/s13643-017-0638-9",
+            "ISSN": "2046-4053",
+            "shortTitle": "",
+            "url": "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0638-9",
+            "accessDate": "2020-09-10T17:10:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29284538",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:16Z",
+            "dateModified": "2020-09-15T13:02:34Z",
+            "pmid": "29284538"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2020-08-02T04:44:17Z",
+                "timestamp": 1596343457464
+            },
+            "reference-count": 78,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "funder": [
+                {
+                    "name": "NIHR CLAHRC NWC",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s13643-017-0638-9",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        28
+                    ]
+                ],
+                "date-time": "2017-12-28T23:53:00Z",
+                "timestamp": 1514505180000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Use of programme theory to understand the differential effects of interventions across socio-economic groups in systematic reviews\u2014a systematic methodology review",
+            "prefix": "10.1186",
+            "volume": "6",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4419-6343",
+                    "authenticated-orcid": false,
+                    "given": "Michelle",
+                    "family": "Maden",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alex",
+                    "family": "Cunliffe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Naoimh",
+                    "family": "McMahon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Booth",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gina Michelle",
+                    "family": "Carey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Suzy",
+                    "family": "Paisley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rumona",
+                    "family": "Dickson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        29
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "10",
+                    "key": "638_CR1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e1001333",
+                    "DOI": "10.1371/journal.pmed.1001333",
+                    "volume": "9",
+                    "author": "V Welch",
+                    "year": "2012",
+                    "unstructured": "Welch V, Petticrew M, Tugwell P, Moher D, O'Neill J, Waters E, White H. PRISMA-Equity 2012 Extension: reporting guidelines for systematic reviews with a focus on health equity. PLoS Med. 2012;9(10):e1001333.",
+                    "journal-title": "PLoS Med"
+                },
+                {
+                    "key": "638_CR2",
+                    "author": "J Tripney",
+                    "year": "2015",
+                    "unstructured": "Tripney J, Roulstone A, Hogrebe N, Vigurs C, Schmidt E, Stewart R: Interventions to improve the labour market situation of adults with physical and/or sensory disabilities in low- and middle-income countries: a systematic review. 2015.",
+                    "volume-title": "Interventions to improve the labour market situation of adults with physical and/or sensory disabilities in low- and middle-income countries: a systematic review"
+                },
+                {
+                    "key": "638_CR3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c4739",
+                    "DOI": "10.1136/bmj.c4739",
+                    "volume": "341",
+                    "author": "P Tugwell",
+                    "year": "2010",
+                    "unstructured": "Tugwell P, Petticrew M, Kristjansson E, Welch V, Ueffing E, Waters E, Bonnefoy J, Morgan A, Doohan E, Kelly MP. Assessing equity in systematic reviews: realising the recommendations of the Commission on Social Determinants of Health. BMJ. 2010;341:c4739.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "638_CR4",
+                    "author": "ETP Ueffing",
+                    "year": "2012",
+                    "unstructured": "Ueffing E TP, Welch V, Petticrew M, Kristjansson E for the Campbell and Cochrane Equity Methods Group.: Equity checklist for systematic review authors. 2012:Version 2012-2010-2002.",
+                    "volume-title": "Equity checklist for systematic review authors"
+                },
+                {
+                    "key": "638_CR5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "68",
+                    "DOI": "10.1016/j.jclinepi.2015.09.001",
+                    "volume": "70",
+                    "author": "V Welch",
+                    "year": "2016",
+                    "unstructured": "Welch V, Petticrew M, Petkovic J, Moher D, Waters E, White H, Tugwell P. Extending the PRISMA statement to equity-focused systematic reviews (PRISMA-E 2012): explanation and elaboration. J Clin Epidemiol. 2016;70:68\u201389.",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "638_CR6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "187",
+                    "DOI": "10.1186/1471-2288-12-187",
+                    "volume": "12",
+                    "author": "V Welch",
+                    "year": "2012",
+                    "unstructured": "Welch V, Brand K, Kristjansson E, Smylie J, Wells G, Tugwell P. Systematic reviews need to consider applicability to disadvantaged populations: inter-rater agreement for a health equity plausibility algorithm. BMC Med Res Methodol. 2012;12:187.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "638_CR7",
+                    "author": "M MDR",
+                    "year": "2015",
+                    "unstructured": "MDR M. Health inequalities and evidence synthesis as part of the CLAHRC NWC. In: Position Statement. Liverpool: Evidence Synthesis Theme, CLARHC NWC, University of Liverpool; 2015.",
+                    "volume-title": "Health inequalities and evidence synthesis as part of the CLAHRC NWC. In: Position Statement"
+                },
+                {
+                    "key": "638_CR8",
+                    "unstructured": "Davies KS. Formulating the evidence based practice question: a review of the frameworks. Evid Based Libr Inf Pract. 2011;6(2).",
+                    "DOI": "10.18438/B8WS5N",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1223",
+                    "DOI": "10.1016/j.jclinepi.2013.06.014",
+                    "volume": "66",
+                    "author": "LM Anderson",
+                    "year": "2013",
+                    "unstructured": "Anderson LM, Oliver S, Michie S, Rehfuss E, Noyes J, Shemilt I. Investigating complexity in systematic reviews of interventions using a spectrum of methods. J Clin Epidemiol. 2013;66:1223\u20139.",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "issue": "3",
+                    "key": "638_CR10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "228",
+                    "DOI": "10.1136/bmjqs-2014-003627",
+                    "volume": "24",
+                    "author": "F Davidoff",
+                    "year": "2015",
+                    "unstructured": "Davidoff F, Dixon-Woods M, Leviton L, Michie S. Demystifying theory and its use in improvement. BMJ Qual Saf. 2015;24(3):228\u201338.",
+                    "journal-title": "BMJ Qual Saf"
+                },
+                {
+                    "key": "638_CR11",
+                    "author": "SCRP Funnells",
+                    "year": "2011",
+                    "unstructured": "Funnells SCRP, J. Purposeful program theory: effective use of theories of change and logic models. Jossey-Bass: California; 2011.",
+                    "volume-title": "Purposeful program theory: effective use of theories of change and logic models"
+                },
+                {
+                    "issue": "11",
+                    "key": "638_CR12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0142187",
+                    "DOI": "10.1371/journal.pone.0142187",
+                    "volume": "10",
+                    "author": "D Kneale",
+                    "year": "2015",
+                    "unstructured": "Kneale D, Thomas J, Harris K. Developing and optimising the use of logic models in systematic reviews: exploring practice and good practice in the use of programme theory in reviews. PLoS One. 2015;10(11):e0142187.",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "638_CR13",
+                    "author": "J Popay",
+                    "year": "2006",
+                    "unstructured": "Popay J, Sowden A, Petticrew M, Arai L, Rodgers M, Britten N, Roen K, Duffy S.: Guidance on the conduct of narrative synthesis in systematic reviews. A product from the ESRC methods programme. 2006.",
+                    "volume-title": "Guidance on the conduct of narrative synthesis in systematic reviews. A product from the ESRC methods programme"
+                },
+                {
+                    "key": "638_CR14",
+                    "unstructured": "Noyes JL, Lewin S: Supplemental guidance on selecting a method of qualitative evidence synthesis, and integrating qualitative evidence with Cochrane intervention reviews. In: Supplementary guidance for inclusion of qualitative research in Cochrane systematic reviews of interventions version 1 (updated August 2011). edn. Edited by Noyes J, HannesK, Harden A, Harris J, Lewin S, Lockwood C.: Cochrane Collaboration Qualitative Methods Group; 2011."
+                },
+                {
+                    "key": "638_CR15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "207",
+                    "DOI": "10.1111/1467-8551.00375",
+                    "volume": "14",
+                    "author": "D Tranfield",
+                    "year": "2003",
+                    "unstructured": "Tranfield D, Denyer D, Smart P. Towards a methodology for developing evidence-informed management knowledge by means of systematic review. Br J Manag. 2003;14:207\u201322.",
+                    "journal-title": "Br J Manag"
+                },
+                {
+                    "key": "638_CR16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "78",
+                    "DOI": "10.1016/j.jclinepi.2015.12.009",
+                    "volume": "75",
+                    "author": "J Noyes",
+                    "year": "2016",
+                    "unstructured": "Noyes J, Hendry M, Booth A, Chandler J, Lewin S, Glenton C, Garside R. Current use was established and Cochrane guidance on selection of social theories for systematic reviews of complex interventions was developed. J Clin Epidemiol. 2016;75:78\u201392.",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "638_CR17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "36",
+                    "DOI": "10.1186/s13643-015-0027-1",
+                    "volume": "4",
+                    "author": "M Petticrew",
+                    "year": "2015",
+                    "unstructured": "Petticrew M. Time to rethink the systematic review catechism? Moving from \u2018what works\u2019 to \u2018what happens\u2019. Syst Rev. 2015;4:36.",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "issue": "1",
+                    "key": "638_CR18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "202",
+                    "DOI": "10.1186/s13643-016-0379-1",
+                    "volume": "5",
+                    "author": "M Maden",
+                    "year": "2016",
+                    "unstructured": "Maden M. Consideration of health inequalities in systematic reviews: a mapping review of guidance. Syst Rev. 2016;5(1):202.",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "key": "638_CR19",
+                    "author": "JM Guise",
+                    "year": "2014",
+                    "unstructured": "Guise JM, Chang C, Viswanathan M, Glick S, Treadwell J, Umscheid C, Whitlock E, Fu R, Berliner E, Paynter R, Anderson J, Motu\u2019apuaka M, Trikalinos T. Systematic reviews of complex multicomponent health care interventions. Research white paper. Rockville, MD: Agency for Healthcare Research and Quality; 2014.",
+                    "volume-title": "Systematic reviews of complex multicomponent health care interventions. Research white paper"
+                },
+                {
+                    "key": "638_CR20",
+                    "unstructured": "McLean S, Gee M, Booth A, Salway S, Nancarrow S, Cobb M, Bhanbhro S. Targeting the Use of Reminders and Notifications for Uptake by Populations (TURNUP): a systematic review and evidence synthesis (structured abstract). In: Health technology assessment database: Health Services and Delivery Research; 2014.",
+                    "DOI": "10.3310/hsdr02340",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "2",
+                    "key": "638_CR21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "99",
+                    "DOI": "10.1016/j.puhe.2010.01.002",
+                    "volume": "124",
+                    "author": "S Baxter",
+                    "year": "2010",
+                    "unstructured": "Baxter S, Killoran A, Kelly MP, Goyder E. Synthesizing diverse evidence: the use of primary qualitative data analysis methods and logic models in public health reviews. Public Health. 2010;124(2):99\u2013106.",
+                    "journal-title": "Public Health"
+                },
+                {
+                    "issue": "6",
+                    "key": "638_CR22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "473",
+                    "DOI": "10.1136/jech.2005.037242",
+                    "volume": "61",
+                    "author": "M Whitehead",
+                    "year": "2007",
+                    "unstructured": "Whitehead M. A typology of actions to tackle social inequalities in health. J Epidemiol Community Health. 2007;61(6):473\u20138.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "638_CR23",
+                    "unstructured": "Cochrane methodology reviews [ methodology.cochrane.org ]."
+                },
+                {
+                    "key": "638_CR24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "b2535",
+                    "DOI": "10.1136/bmj.b2535",
+                    "volume": "339",
+                    "author": "D Moher",
+                    "year": "2009",
+                    "unstructured": "Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred Reporting Items for Systematic Reviews and Meta-analyses: the PRISMA statement. BMJ. 2009;339:b2535.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "1",
+                    "key": "638_CR25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "172",
+                    "DOI": "10.1186/s13643-016-0343-0",
+                    "volume": "5",
+                    "author": "SJ Gentles",
+                    "year": "2016",
+                    "unstructured": "Gentles SJ, Charles C, Nicholas DB, Ploeg J, McKibbon KA. Reviewing the research methods literature: principles and strategies illustrated by a systematic overview of sampling in qualitative research. Syst Rev. 2016;5(1):172.",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "issue": "8",
+                    "key": "638_CR26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.3310/hta5080",
+                    "volume": "5",
+                    "author": "RJ Lilford",
+                    "year": "2001",
+                    "unstructured": "Lilford RJ, Richardson A, Stevens A, Fitzpatrick R, Edwards S, Rock F, Hutton JL. Issues in methodological research: perspectives from researchers and commissioners. Health Technol Assess. 2001;5(8):1\u201357.",
+                    "journal-title": "Health Technol Assess"
+                },
+                {
+                    "key": "638_CR27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "388",
+                    "DOI": "10.1080/19439342.2012.709875",
+                    "volume": "4",
+                    "author": "B Snilstveit",
+                    "year": "2012",
+                    "unstructured": "Snilstveit B. Systematic reviews: from \u2018bare bones\u2019 reviews to policy relevance. J Dev Effect. 2012;4:388\u2013408.",
+                    "journal-title": "J Dev Effect"
+                },
+                {
+                    "key": "638_CR28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "4",
+                    "DOI": "10.1016/j.orcp.2014.10.007",
+                    "volume": "8",
+                    "author": "K Backholer",
+                    "year": "2014",
+                    "unstructured": "Backholer K, Sarink D, Beauchamp A, Keating C, Loh V, Peeters A. The effect of a sugar sweetened beverage tax among different socioeconomic groups: a systematic review. Obes Res Clin Pract. 2014;8:4\u20135.",
+                    "journal-title": "Obes Res Clin Pract"
+                },
+                {
+                    "key": "638_CR29",
+                    "unstructured": "Bambra C, Hillier F, Cairns-Nagi J, Kasim A, Moore H, Summerbell C. How effective are interventions at reducing socioeconomic inequalities in obesity among children and adults? Two systematic reviews (structured abstract). In: Health technology assessment database: Public Health Research; 2015.",
+                    "DOI": "10.3310/phr03010",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "12",
+                    "key": "638_CR30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1483",
+                    "DOI": "10.1038/ijo.2014.75",
+                    "volume": "38",
+                    "author": "FC Hillier-Brown",
+                    "year": "2014",
+                    "unstructured": "Hillier-Brown FC, Bambra CL, Cairns JM, Kasim A, Moore HJ, Summerbell CD. A systematic review of the effectiveness of individual, community and societal-level interventions at reducing socio-economic inequalities in obesity among adults. Int J Obes. 2014;38(12):1483\u201390.",
+                    "journal-title": "Int J Obes"
+                },
+                {
+                    "key": "638_CR31",
+                    "unstructured": "Hillier-Brown FC, Bambra CL, Cairns J-M, Kasim A, Moore HJ, Summerbell CD: A systematic review of the effectiveness of individual, community and societal level interventions at reducing socioeconomic inequalities in obesity amongst children. BMC Public Health 2014, 14(1):834-834.",
+                    "DOI": "10.1186/1471-2458-14-834",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "4",
+                    "key": "638_CR32",
+                    "first-page": "659",
+                    "volume": "37",
+                    "author": "J-M Cairns",
+                    "year": "2015",
+                    "unstructured": "Cairns J-M, Bambra C, Hillier-Brown FC, Moore HJ, Summerbell CD. Weighing up the evidence: a systematic review of the effectiveness of workplace interventions to tackle socio-economic inequalities in obesity. J Public Health. 2015;37(4):659\u201370.",
+                    "journal-title": "J Public Health"
+                },
+                {
+                    "key": "638_CR33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "541",
+                    "DOI": "10.1111/obr.12161",
+                    "volume": "15",
+                    "author": "A Beauchamp",
+                    "year": "2014",
+                    "unstructured": "Beauchamp A, Backholer K, Magliano D, Peeters A. The effect of obesity prevention interventions according to socioeconomic position: a systematic review (provisional abstract). Obes Rev. 2014;15:541\u201354.",
+                    "journal-title": "Obes Rev"
+                },
+                {
+                    "issue": "9",
+                    "key": "638_CR34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "806",
+                    "DOI": "10.1111/obr.12297",
+                    "volume": "16",
+                    "author": "T Boelsen-Robinson",
+                    "year": "2015",
+                    "unstructured": "Boelsen-Robinson T, Peeters A, Beauchamp A, Chung A, Gearon E, Backholer K. A systematic review of the effectiveness of whole-of-community interventions by socioeconomic position. Obes Rev. 2015;16(9):806\u201316.",
+                    "journal-title": "Obes Rev"
+                },
+                {
+                    "issue": "2",
+                    "key": "638_CR35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e009828",
+                    "DOI": "10.1136/bmjopen-2015-009828",
+                    "volume": "6",
+                    "author": "TJ Brown",
+                    "year": "2016",
+                    "unstructured": "Brown TJ, Todd A, O'Malley C, Moore HJ, Husband AK, Bambra C, Kasim A, Sniehotta FF, Steed L, Smith S, et al. Community pharmacy-delivered interventions for public health priorities: a systematic review of interventions for alcohol reduction, smoking cessation and weight management, including meta-analysis for smoking cessation. BMJ Open. 2016;6(2):e009828.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "638_CR36",
+                    "unstructured": "Brown TJ, Todd A, O'Malley CL, Moore HJ, Husband AK, Bambra C, Kasim A, Sniehotta FF, Steed L, Summerbell CD. Community pharmacy interventions for public health priorities: a systematic review of community pharmacy-delivered smoking, alcohol and weight management interventions (structured abstract). In: Health technology assessment database: Public Health Research; 2016.",
+                    "DOI": "10.3310/phr04020",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "7",
+                    "DOI": "10.1016/j.drugalcdep.2014.03.001",
+                    "volume": "138",
+                    "author": "T Brown",
+                    "year": "2014",
+                    "unstructured": "Brown T, Platt S, Amos A. Equity impact of population-level interventions and policies to reduce smoking in adults: a systematic review. Drug Alcohol Depend. 2014;138:7\u201316.",
+                    "journal-title": "Drug Alcohol Depend"
+                },
+                {
+                    "issue": "4",
+                    "key": "638_CR38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "551",
+                    "DOI": "10.1093/eurpub/cku065",
+                    "volume": "24",
+                    "author": "T Brown",
+                    "year": "2014",
+                    "unstructured": "Brown T, Platt S, Amos A. Equity impact of European individual-level smoking cessation interventions to reduce smoking in adults: a systematic review. Eur J Pub Health. 2014;24(4):551\u20136.",
+                    "journal-title": "Eur J Pub Health"
+                },
+                {
+                    "issue": "S1",
+                    "key": "638_CR39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e98",
+                    "DOI": "10.1136/tobaccocontrol-2013-051451",
+                    "volume": "23",
+                    "author": "T Brown",
+                    "year": "2014",
+                    "unstructured": "Brown T, Platt S, Amos A. Equity impact of interventions and policies to reduce smoking in youth: systematic review. Tob Control. 2014;23(S1):e98\u2013e105.",
+                    "journal-title": "Tob Control"
+                },
+                {
+                    "issue": "11",
+                    "key": "638_CR40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e006046",
+                    "DOI": "10.1136/bmjopen-2014-006046",
+                    "volume": "4",
+                    "author": "ER Bull",
+                    "year": "2014",
+                    "unstructured": "Bull ER, Dombrowski SU, McCleary N, Johnston M. Are interventions for low-income groups effective in changing healthy eating, physical activity and smoking behaviours? A systematic review and meta-analysis. BMJ Open. 2014;4(11):e006046.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "issue": "3",
+                    "key": "638_CR41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "197",
+                    "DOI": "10.1111/j.1467-789X.2012.01058.x",
+                    "volume": "14",
+                    "author": "V Cleland",
+                    "year": "2013",
+                    "unstructured": "Cleland V, Granados A, Crawford D, Winzenberg T, Ball K. Effectiveness of interventions to promote physical activity among socioeconomically disadvantaged women: a systematic review and meta-analysis. Obes Rev. 2013;14(3):197\u2013212.",
+                    "journal-title": "Obes Rev"
+                },
+                {
+                    "issue": "5",
+                    "key": "638_CR42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "265",
+                    "DOI": "10.1016/j.ypmed.2013.02.023",
+                    "volume": "56",
+                    "author": "ES Everson-Hock",
+                    "year": "2013",
+                    "unstructured": "Everson-Hock ES, Johnson M, Jones R, Woods HB, Goyder E, Payne N, Chilcott J. Community-based dietary and physical activity interventions in low socioeconomic groups in the UK: a mixed methods systematic review. Prev Med. 2013;56(5):265\u201372.",
+                    "journal-title": "Prev Med"
+                },
+                {
+                    "issue": "2",
+                    "key": "638_CR43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e55574",
+                    "DOI": "10.1371/journal.pone.0055574",
+                    "volume": "8",
+                    "author": "MP Gardner",
+                    "year": "2013",
+                    "unstructured": "Gardner MP, Adams A, Jeffreys M. Interventions to increase the uptake of mammography amongst low income women: a systematic review and meta-analysis. PLoS One [Electronic Resource]. 2013;8(2):e55574.",
+                    "journal-title": "PLoS One [Electronic Resource]"
+                },
+                {
+                    "issue": "S1",
+                    "key": "638_CR44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e89",
+                    "DOI": "10.1136/tobaccocontrol-2013-051110",
+                    "volume": "23",
+                    "author": "S Hill",
+                    "year": "2014",
+                    "unstructured": "Hill S, Amos A, Clifford D, Platt S. Impact of tobacco control interventions on socioeconomic inequalities in smoking: review of the evidence. Tob Control. 2014;23(S1):e89\u201397.",
+                    "journal-title": "Tob Control"
+                },
+                {
+                    "key": "638_CR45",
+                    "unstructured": "Hollands GJ, Shemilt I, Marteau TM, Jebb SA, Lewis HB, Wei Y, Higgins JP, Ogilvie D. Portion, package or tableware size for changing selection and consumption of food, alcohol and tobacco. Cochrane Database Syst Rev. 2015;(9):Cd011045.",
+                    "DOI": "10.1002/14651858.CD011045.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "52",
+                    "DOI": "10.1016/j.ypmed.2015.05.005",
+                    "volume": "77",
+                    "author": "M Kader",
+                    "year": "2015",
+                    "unstructured": "Kader M, Sundblom E, Elinder LS. Effectiveness of universal parental support interventions addressing children's dietary habits, physical activity and bodyweight: a systematic review. Prev Med. 2015;77:52\u201367.",
+                    "journal-title": "Prev Med"
+                },
+                {
+                    "issue": "3",
+                    "key": "638_CR47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "761",
+                    "DOI": "10.1002/ebch.1911",
+                    "volume": "8",
+                    "author": "D Kendrick",
+                    "year": "2013",
+                    "unstructured": "Kendrick D, Young B, Mason-Jones AJ, Ilyas N, Achana FA, Cooper NJ, Hubbard SJ, Sutton AJ, Smith S, Wynn P, et al. Home safety education and provision of safety equipment for injury prevention (review). Evid Based Child Health Cochrane Rev J. 2013;8(3):761\u2013939.",
+                    "journal-title": "Evid Based Child Health Cochrane Rev J"
+                },
+                {
+                    "key": "638_CR48",
+                    "unstructured": "Kristjansson E, Francis DK, Liberato S, Benkhalti Jandu M, Welch V, Batal M, Greenhalgh T, Rader T, Noonan E, Shea B et al: Food supplementation for improving the physical and psychosocial health of socio-economically disadvantaged children aged three months to five years. In: Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2015.",
+                    "DOI": "10.1002/14651858.CD009924.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2430",
+                    "DOI": "10.1016/j.ijcard.2013.01.049",
+                    "volume": "167",
+                    "author": "TL Laba",
+                    "year": "2013",
+                    "unstructured": "Laba TL, Bleasel J, Brien JA, Cass A, Howard K, Peiris D, Redfern J, Salam A, Usherwood T, Jan S. Strategies to improve adherence to medications for cardiovascular diseases in socioeconomically disadvantaged populations: a systematic review (provisional abstract). Int J Cardiol. 2013;167:2430\u201340.",
+                    "journal-title": "Int J Cardiol"
+                },
+                {
+                    "key": "638_CR50",
+                    "unstructured": "Laws R, Campbell KJ, van der Pligt P, Russell G, Ball K, Lynch J, Crawford D, Taylor R, Askew D, Denney-Wilson E: The impact of interventions to prevent obesity or improve obesity related behaviours in children (0-5 years) from socioeconomically disadvantaged and/or indigenous families: a systematic review. BMC Public Health 2014, 14(1):779\u2013779",
+                    "DOI": "10.1186/1471-2458-14-779",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "6",
+                    "key": "638_CR51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e57",
+                    "DOI": "10.1016/j.amepre.2012.11.041",
+                    "volume": "44",
+                    "author": "T Magnee",
+                    "year": "2013",
+                    "unstructured": "Magnee T, Burdorf A, Brug J, Kremers SP, Oenema A, van Assema P, Ezendam NP, van Genugten L, Hendriksen IJ, Hopman-Rock M, et al. Equity-specific effects of 26 Dutch obesity-related lifestyle interventions. Am J Prev Med. 2013;44(6):e57\u201366.",
+                    "journal-title": "Am J Prev Med"
+                },
+                {
+                    "key": "638_CR52",
+                    "unstructured": "McGill R, Anwar E, Orton L, Bromley H, Lloyd-Williams F, O'Flaherty M, Taylor-Robinson D, Guzman-Castillo M, Gillespie D, Moreira P et al: Are interventions to promote healthy eating equally effective for all? Systematic review of socioeconomic inequalities in impact. BMC Public Health 2015, 15(1):457-457.",
+                    "DOI": "10.1186/s12889-015-1781-7",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "7",
+                    "key": "638_CR53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0130320",
+                    "DOI": "10.1371/journal.pone.0130320",
+                    "volume": "10",
+                    "author": "A Mizdrak",
+                    "year": "2015",
+                    "unstructured": "Mizdrak A, Scarborough P, Waterlander WE, Rayner M. Differential responses to food price changes by personal characteristic: a systematic review of experimental studies. PLoS ONE [Electronic Resource]. 2015;10(7):e0130320.",
+                    "journal-title": "PLoS ONE [Electronic Resource]"
+                },
+                {
+                    "issue": "1",
+                    "key": "638_CR54",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1186/s12889-015-2244-x",
+                    "volume": "15",
+                    "author": "GF Moore",
+                    "year": "2015",
+                    "unstructured": "Moore GF, Littlecott HJ, Turley R, Waters E, Murphy S. Socioeconomic gradients in the effects of universal school-based health behaviour interventions: a systematic review of intervention studies. BMC Public Health. 2015;15(1):1\u201315.",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "638_CR55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "380",
+                    "DOI": "10.1111/jmwh.12061",
+                    "volume": "59",
+                    "author": "CA Moredich",
+                    "year": "2014",
+                    "unstructured": "Moredich CA, Kessler TA. Physical activity and nutritional weight loss interventions in obese, low-income women: an integrative review (provisional abstract). J Midwifery Womens Health. 2014;59:380\u20137.",
+                    "journal-title": "J Midwifery Womens Health"
+                },
+                {
+                    "key": "638_CR56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "65",
+                    "DOI": "10.1016/j.cpr.2015.03.001",
+                    "volume": "38",
+                    "author": "A Rojas-Garcia",
+                    "year": "2015",
+                    "unstructured": "Rojas-Garcia A, Ruiz-Perez I, Rodriguez-Barranco M, Goncalves Bradley DC, Pastor-Moreno G, Ricci-Cabello I. Healthcare interventions for depression in low socioeconomic status populations: a systematic review and meta-analysis. Clin Psychol Rev. 2015;38:65\u201378.",
+                    "journal-title": "Clin Psychol Rev"
+                },
+                {
+                    "key": "638_CR57",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "59",
+                    "DOI": "10.1016/j.appet.2015.12.022",
+                    "volume": "99",
+                    "author": "D Sarink",
+                    "year": "2016",
+                    "unstructured": "Sarink D, Peeters A, Freak-Poli R, Beauchamp A, Woods J, Ball K, Backholer K. The impact of menu energy labelling across socioeconomic groups: a systematic review. Appetite. 2016;99:59\u201375.",
+                    "journal-title": "Appetite"
+                },
+                {
+                    "key": "638_CR58",
+                    "unstructured": "Ciciriello S, Johnston Renea V, Osborne Richard H, Wicks I, de Kroo T, Clerehan R, O'Neill C, Buchbinder R. Multimedia educational interventions for consumers about prescribed and over-the-counter medications. In: Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2013.",
+                    "DOI": "10.1002/14651858.CD008416.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR59",
+                    "unstructured": "Ejemot-Nwadiaro Regina I, Ehiri John E, Arikpo D, Meremikwu Martin M, Critchley Julia A. Hand washing promotion for preventing diarrhoea. In: Cochrane database of systematic reviews: John Wiley & Sons, Ltd; 2015.",
+                    "DOI": "10.1002/14651858.CD004265.pub3",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "E180",
+                    "DOI": "10.5888/pcd10.130073",
+                    "volume": "10",
+                    "author": "J Gittelsohn",
+                    "year": "2013",
+                    "unstructured": "Gittelsohn J, Lee-Kwan SH, Batorsky B. Community-based interventions in prepared-food sources: a systematic review. Prev Chronic Dis. 2013;10:E180.",
+                    "journal-title": "Prev Chronic Dis"
+                },
+                {
+                    "key": "638_CR61",
+                    "unstructured": "Gurol-Urganci I, de Jongh T, Vodopivec-Jamsek V, Atun R, Car J. Mobile phone messaging reminders for attendance at healthcare appointments. In: Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2013.",
+                    "DOI": "10.1002/14651858.CD007458.pub3",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "3",
+                    "key": "638_CR62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e43",
+                    "DOI": "10.2105/AJPH.2014.302389",
+                    "volume": "105",
+                    "author": "J Hartmann-Boyce",
+                    "year": "2015",
+                    "unstructured": "Hartmann-Boyce J, Jebb SA, Fletcher BR, Aveyard P. Self-help for weight loss in overweight and obese adults: systematic review and meta-analysis. Am J Public Health. 2015;105(3):e43\u201357.",
+                    "journal-title": "Am J Public Health"
+                },
+                {
+                    "key": "638_CR63",
+                    "unstructured": "Kroon F\u00e9line PB, van der Burg Lennart RA, Buchbinder R, Osborne Richard H, Johnston Renea V, Pitt V. Self-management education programmes for osteoarthritis. In: Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2014.",
+                    "DOI": "10.1002/14651858.CD008963.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR64",
+                    "unstructured": "Lutge Elizabeth E, Wiysonge Charles S, Knight Stephen E, Sinclair D, Volmink J. Incentives and enablers to improve adherence in tuberculosis. In: Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2015.",
+                    "DOI": "10.1002/14651858.CD007952.pub3",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR65",
+                    "unstructured": "Pega F, Carter K, Blakely T, Lucas Patricia J. In-work tax credits for families and their impact on health status in adults. In: Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2013.",
+                    "DOI": "10.1002/14651858.CD009963.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "638_CR66",
+                    "unstructured": "Augustincic Polec L, Petkovic J, Welch VA, Ueffing E, Ghogomu ET, Pardo JP, Grabowsky M, Attaran A, Wells GA, Tugwell P: Strategies to increase the ownership and use of insecticide-treated bednets to prevent malaria. In Cochrane Database Syst Rev: John Wiley & Sons, Ltd; 2015",
+                    "DOI": "10.1002/14651858.CD009186.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "10",
+                    "key": "638_CR67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1090",
+                    "DOI": "10.1007/s11606-010-1387-9",
+                    "volume": "25",
+                    "author": "SL Cutrona",
+                    "year": "2010",
+                    "unstructured": "Cutrona SL, Choudhry NK, Stedman M, Servi A, Liberman JN, Brennan T, Fischer MA, Brookhart MA, Shrank WH. Physician effectiveness in interventions to improve cardiovascular medication adherence: a systematic review. J Gen Intern Med. 2010;25(10):1090\u20136.",
+                    "journal-title": "J Gen Intern Med"
+                },
+                {
+                    "key": "638_CR68",
+                    "author": "M White",
+                    "year": "2009",
+                    "unstructured": "White M, Adams J, Heywood P. How and why do interventions that increase health overall widen inequalities within populations? In: Barbones S, editor. Health, Inequality and Public Health. Bristol: Policy Press; 2009.",
+                    "volume-title": "Health, Inequality and Public Health"
+                },
+                {
+                    "issue": "2",
+                    "key": "638_CR69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "190",
+                    "DOI": "10.1136/jech-2012-201257",
+                    "volume": "67",
+                    "author": "T Lorenc",
+                    "year": "2013",
+                    "unstructured": "Lorenc T, Petticrew M, Welch V, Tugwell P. What types of interventions generate inequalities? Evidence from systematic reviews. J Epidemiol Community Health. 2013;67(2):190\u20133.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "issue": "2",
+                    "key": "638_CR70",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "93",
+                    "DOI": "10.1177/135581969600100207",
+                    "volume": "1",
+                    "author": "L Arblaster",
+                    "year": "1996",
+                    "unstructured": "Arblaster L, Lambert M, Entwistle V, Forster M, Fullerton D, Sheldon T, Watt I. A systematic review of the effectiveness of health service interventions aimed at reducing inequalities in health. J Health Serv Res Policy. 1996;1(2):93\u2013103.",
+                    "journal-title": "J Health Serv Res Policy"
+                },
+                {
+                    "issue": "4",
+                    "key": "638_CR71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "291",
+                    "DOI": "10.1136/jech-2013-203400",
+                    "volume": "68",
+                    "author": "M Petticrew",
+                    "year": "2014",
+                    "unstructured": "Petticrew M, Welch V, Tugwell P. \u2018It is surely a great criticism of our profession...\u2019 the next 20 years of equity-focused systematic reviews. J Epidemiol Community Health. 2014;68(4):291\u20132.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "issue": "3",
+                    "key": "638_CR72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e31360",
+                    "DOI": "10.1371/journal.pone.0031360",
+                    "volume": "7",
+                    "author": "V Welch",
+                    "year": "2012",
+                    "unstructured": "Welch V, Petticrew M, Ueffing E, Benkhalti Jandu M, Brand K, Dhaliwal B, Kristjansson E, Smylie J, Wells GA, Tugwell P. Does consideration and assessment of effects on health equity affect the conclusions of systematic reviews? A methodology study. PLoS One. 2012;7(3):e31360.",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "638_CR73",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1016/0749-5978(91)90020-T",
+                    "volume": "50",
+                    "author": "I Azjen",
+                    "year": "1991",
+                    "unstructured": "Azjen I. The theory of planned behavior. Organ Behav Hum Decis Process. 1991;50:179\u2013211.",
+                    "journal-title": "Organ Behav Hum Decis Process"
+                },
+                {
+                    "key": "638_CR74",
+                    "unstructured": "MacLure M. \u2018Clarity bordering on stupidity\u2019: Where\u2019s the quality in systematic review? In: British Educational Research Association annual conference. Manchester; 2004."
+                },
+                {
+                    "key": "638_CR75",
+                    "unstructured": "Cochrane Handbook for Systematic Reviews of Intervetions.: The Cochrane Collaboration; 2011."
+                },
+                {
+                    "key": "638_CR76",
+                    "author": "A Rohwer",
+                    "year": "2016",
+                    "unstructured": "Rohwer A, Booth, A., Pfadenhauer, L., Brereton, L., Gerhardus, A., Mozygemba, K., Oortwijn, W., Tummers, M., Van Der Wilt, G.J., Rehfuess, E.: Guidance on the use of logic models in health technology assessments of complex interventions. 2016.",
+                    "volume-title": "Guidance on the use of logic models in health technology assessments of complex interventions"
+                },
+                {
+                    "key": "638_CR77",
+                    "unstructured": "Dahlgren G, Whitehead, M.: Tackling inequalities in health: what can we learn from what has been tried? In: Working paper prepared for the Kings Fund International Seminar on Tackling Inequalities in Health. Ditchley Park, Oxfordshire; 1993."
+                },
+                {
+                    "key": "638_CR78",
+                    "author": "S Sutton",
+                    "first-page": "94",
+                    "year": "2004",
+                    "unstructured": "Sutton S: Determinants of health related behaviours: theoretical and methodological issues. In: The SAGE handbook of Health Psychology. Edited by Sutton S, Baum, A., Johnston, M. London: SAGE Publications Ltd; 2004: 94-126.",
+                    "volume-title": "The SAGE handbook of Health Psychology"
+                }
+            ],
+            "container-title": "Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s13643-017-0638-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        8
+                    ]
+                ],
+                "date-time": "2019-10-08T20:34:09Z",
+                "timestamp": 1570566849000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 78,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "638"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s13643-017-0638-9",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2046-4053"
+            ],
+            "subject": [
+                "Medicine (miscellaneous)"
+            ],
+            "container-title-short": "Syst Rev",
+            "article-number": "266"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Equity",
+                        "Methodology",
+                        "Programme theory",
+                        "Systematic review",
+                        "Theory"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29284538",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "11",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "01",
+                    "Day": "18"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1186/s13643-017-0638-9"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "12",
+                            "Day": "29"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2046-4053",
+                        "JournalIssue": {
+                            "Volume": "6",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "12",
+                                "Day": "29"
+                            }
+                        },
+                        "Title": "Systematic reviews",
+                        "ISOAbbreviation": "Syst Rev"
+                    },
+                    "ArticleTitle": "Use of programme theory to understand the differential effects of interventions across socio-economic groups in systematic reviews-a systematic methodology review.",
+                    "Pagination": {
+                        "MedlinePgn": "266"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Systematic review guidance recommends the use of programme theory to inform considerations of if and how healthcare interventions may work differently across socio-economic status (SES) groups. This study aimed to address the lack of detail on how reviewers operationalise this in practice.",
+                            "A methodological systematic review was undertaken to assess if, how and the extent to which systematic reviewers operationalise the guidance on the use of programme theory in considerations of socio-economic inequalities in health. Multiple databases were searched from January 2013 to May 2016. Studies were included if they were systematic reviews assessing the effectiveness of an intervention and included data on SES. Two reviewers independently screened all studies, undertook quality assessment and extracted data. A narrative approach to synthesis was adopted.",
+                            "A total of 37 systematic reviews were included, 10 of which were explicit in the use of terminology for 'programme theory'. Twenty-nine studies used programme theory to inform both their a priori assumptions and explain their review findings. Of these, 22 incorporated considerations of both what and how interventions do/do not work in SES groups to both predict and explain their review findings. Thirteen studies acknowledged 24 unique theoretical references to support their assumptions of what or how interventions may have different effects in SES groups. Most reviewers used supplementary evidence to support their considerations of differential effectiveness. The majority of authors outlined a programme theory in the \"Introduction\" and \"Discussion\" sections of the review to inform their assumptions or provide explanations of what or how interventions may result in differential effects within or across SES groups. About a third of reviews used programme theory to inform the review analysis and/or synthesis. Few authors used programme theory to inform their inclusion criteria, data extraction or quality assessment. Twenty-one studies tested their a priori programme theory.",
+                            "The use of programme theory to inform considerations of if, what and how interventions lead to differential effects on health in different SES groups in the systematic review process is not yet widely adopted, is used implicitly, is often fragmented and is not implemented in a systematic way."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK. Michelle.Maden@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-4419-6343"
+                            ],
+                            "LastName": "Maden",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cunliffe",
+                            "ForeName": "Alex",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McMahon",
+                            "ForeName": "Naoimh",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Evidence Based Information Practice, School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Booth",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, Lancashire, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Carey",
+                            "ForeName": "Gina Michelle",
+                            "Initials": "GM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Innovation and Knowledge Transfer (IKT), ScHARR, University of Sheffield, Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Paisley",
+                            "ForeName": "Suzy",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dickson",
+                            "ForeName": "Rumona",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Block B Waterhouse Building, 1-5 Brownlow St., Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Syst Rev",
+                    "NlmUniqueID": "101580575",
+                    "ISSNLinking": "2046-4053"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Program Evaluation",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Research Design",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Systematic Reviews as Topic",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Health Serv Res Policy. 1996 Apr;1(2):93-103",
+                                "ArticleIdList": [
+                                    "10180855"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Technol Assess. 2001;5(8):1-57",
+                                "ArticleIdList": [
+                                    "11368832"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2007 Jun;61(6):473-8",
+                                "ArticleIdList": [
+                                    "17496254"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2009 Jul 21;339:b2535",
+                                "ArticleIdList": [
+                                    "19622551"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health. 2010 Feb;124(2):99-106",
+                                "ArticleIdList": [
+                                    "20167340"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gen Intern Med. 2010 Oct;25(10):1090-6",
+                                "ArticleIdList": [
+                                    "20464522"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Sep 13;341:c4739",
+                                "ArticleIdList": [
+                                    "20837575"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2012;7(3):e31360",
+                                "ArticleIdList": [
+                                    "22427804"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2013 Feb;67(2):190-3",
+                                "ArticleIdList": [
+                                    "22875078"
+                                ]
+                            },
+                            {
+                                "Citation": "Obes Rev. 2013 Mar;14(3):197-212",
+                                "ArticleIdList": [
+                                    "23107292"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2012;9(10):e1001333",
+                                "ArticleIdList": [
+                                    "23222917"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2012 Dec 19;12:187",
+                                "ArticleIdList": [
+                                    "23253632"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Cardiol. 2013 Sep 10;167(6):2430-40",
+                                "ArticleIdList": [
+                                    "23415168"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2013;8(2):e55574",
+                                "ArticleIdList": [
+                                    "23451028"
+                                ]
+                            },
+                            {
+                                "Citation": "Prev Med. 2013 May;56(5):265-72",
+                                "ArticleIdList": [
+                                    "23454537"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Apr 30;(4):CD008416",
+                                "ArticleIdList": [
+                                    "23633355"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Prev Med. 2013 Jun;44(6):e57-66",
+                                "ArticleIdList": [
+                                    "23683991"
+                                ]
+                            },
+                            {
+                                "Citation": "Evid Based Child Health. 2013 May;8(3):761-939",
+                                "ArticleIdList": [
+                                    "23877910"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Aug 06;(8):CD009963",
+                                "ArticleIdList": [
+                                    "23921458"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1223-9",
+                                "ArticleIdList": [
+                                    "23953087"
+                                ]
+                            },
+                            {
+                                "Citation": "Tob Control. 2014 Nov;23(e2):e89-97",
+                                "ArticleIdList": [
+                                    "24046211"
+                                ]
+                            },
+                            {
+                                "Citation": "Prev Chronic Dis. 2013 Oct 31;10:E180",
+                                "ArticleIdList": [
+                                    "24176084"
+                                ]
+                            },
+                            {
+                                "Citation": "J Midwifery Womens Health. 2014 Jul-Aug;59(4):380-7",
+                                "ArticleIdList": [
+                                    "24256087"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2014 Apr;68(4):291-2",
+                                "ArticleIdList": [
+                                    "24285823"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Jan 15;(1):CD008963",
+                                "ArticleIdList": [
+                                    "24425500"
+                                ]
+                            },
+                            {
+                                "Citation": "Obes Rev. 2014 Jul;15(7):541-54",
+                                "ArticleIdList": [
+                                    "24629126"
+                                ]
+                            },
+                            {
+                                "Citation": "Drug Alcohol Depend. 2014 May 1;138:7-16",
+                                "ArticleIdList": [
+                                    "24674707"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Obes (Lond). 2014 Dec;38(12):1483-90",
+                                "ArticleIdList": [
+                                    "24813369"
+                                ]
+                            },
+                            {
+                                "Citation": "Tob Control. 2014 Nov;23(e2):e98-105",
+                                "ArticleIdList": [
+                                    "24842855"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Public Health. 2014 Aug;24(4):551-6",
+                                "ArticleIdList": [
+                                    "24891458"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2014 Aug 01;14:779",
+                                "ArticleIdList": [
+                                    "25084804"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2014 Aug 11;14:834",
+                                "ArticleIdList": [
+                                    "25113624"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2014 Aug 22;3:93",
+                                "ArticleIdList": [
+                                    "25145710"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2015 Dec;37(4):659-70",
+                                "ArticleIdList": [
+                                    "25316262"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2014 Nov 28;4(11):e006046",
+                                "ArticleIdList": [
+                                    "25432903"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2015 Mar;105(3):e43-57",
+                                "ArticleIdList": [
+                                    "25602873"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2015 Mar;24(3):228-38",
+                                "ArticleIdList": [
+                                    "25616279"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Mar 05;(3):CD009924",
+                                "ArticleIdList": [
+                                    "25739460"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Psychol Rev. 2015 Jun;38:65-78",
+                                "ArticleIdList": [
+                                    "25797906"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Mar 30;(3):CD009186",
+                                "ArticleIdList": [
+                                    "25822171"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2015 Mar 28;4:36",
+                                "ArticleIdList": [
+                                    "25875303"
+                                ]
+                            },
+                            {
+                                "Citation": "Prev Med. 2015 Aug;77:52-67",
+                                "ArticleIdList": [
+                                    "25981555"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2015 Jul 07;10(7):e0130320",
+                                "ArticleIdList": [
+                                    "26151133"
+                                ]
+                            },
+                            {
+                                "Citation": "Obes Rev. 2015 Sep;16(9):806-16",
+                                "ArticleIdList": [
+                                    "26214391"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Sep 03;(9):CD007952",
+                                "ArticleIdList": [
+                                    "26333525"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2016 Feb;70:68-89",
+                                "ArticleIdList": [
+                                    "26348799"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Sep 14;(9):CD011045",
+                                "ArticleIdList": [
+                                    "26368271"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2015 Sep 17;15:907",
+                                "ArticleIdList": [
+                                    "26381233"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2015 Nov 17;10(11):e0142187",
+                                "ArticleIdList": [
+                                    "26575182"
+                                ]
+                            },
+                            {
+                                "Citation": "Appetite. 2016 Apr 1;99:59-75",
+                                "ArticleIdList": [
+                                    "26723238"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2016 Jul;75:78-92",
+                                "ArticleIdList": [
+                                    "26772607"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Feb 29;6(2):e009828",
+                                "ArticleIdList": [
+                                    "26928025"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2016 Oct 11;5(1):172",
+                                "ArticleIdList": [
+                                    "27729071"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2016 Nov 28;5(1):202",
+                                "ArticleIdList": [
+                                    "27894332"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "03",
+                        "Day": "20"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "23"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29284538",
+                    "10.1186/s13643-017-0638-9",
+                    "10.1186/s13643-017-0638-9",
+                    "PMC5747153"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29284538)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829284538%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829284538%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039694962"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039694962?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039694962&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039694962&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039694962",
+                        "dc:identifier": "SCOPUS_ID:85039694962",
+                        "eid": "2-s2.0-85039694962",
+                        "dc:title": "Use of programme theory to understand the differential effects of interventions across socio-economic groups in systematic reviews-a systematic methodology review",
+                        "dc:creator": "Maden M.",
+                        "prism:publicationName": "Systematic Reviews",
+                        "prism:eIssn": "20464053",
+                        "prism:volume": "6",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-12-29",
+                        "prism:coverDisplayDate": "29 December 2017",
+                        "prism:doi": "10.1186/s13643-017-0638-9",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29284538",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "266",
+                        "source-id": "21100237425",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JRKKKEGF.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29284538"
+            }
+        },
+        "title": "Use of programme theory to understand the differential effects of interventions across socio-economic groups in systematic reviews-a systematic methodology review.",
+        "full_author_list": [
+            {
+                "clean": "Maden M",
+                "family": "Maden",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK. Michelle.Maden@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Cunliffe A",
+                "family": "Cunliffe",
+                "given": "Alex",
+                "affiliation": {
+                    "name": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                }
+            },
+            {
+                "clean": "McMahon N",
+                "family": "McMahon",
+                "given": "Naoimh",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Booth A",
+                "family": "Booth",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Evidence Based Information Practice, School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK."
+                }
+            },
+            {
+                "clean": "Carey G",
+                "family": "Carey",
+                "given": "Gina Michelle",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, Lancashire, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Paisley S",
+                "family": "Paisley",
+                "given": "Suzy",
+                "affiliation": {
+                    "name": "Innovation and Knowledge Transfer (IKT), ScHARR, University of Sheffield, Sheffield, UK."
+                }
+            },
+            {
+                "clean": "Dickson R",
+                "family": "Dickson",
+                "given": "Rumona",
+                "affiliation": {
+                    "name": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Block B Waterhouse Building, 1-5 Brownlow St., Liverpool, L69 3GL, UK."
+                }
+            }
+        ],
+        "first_author": "Maden M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Program Evaluation",
+                    "major": "Y"
+                },
+                {
+                    "term": "Research Design",
+                    "major": "Y"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "Y"
+                },
+                {
+                    "term": "Systematic Reviews as Topic",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Syst Rev",
+            "volume": "6",
+            "issue": "1"
+        },
+        "abstract": "['Systematic review guidance recommends the use of programme theory to inform considerations of if and how healthcare interventions may work differently across socio-economic status (SES) groups. This study aimed to address the lack of detail on how reviewers operationalise this in practice.', 'A methodological systematic review was undertaken to assess if, how and the extent to which systematic reviewers operationalise the guidance on the use of programme theory in considerations of socio-economic inequalities in health. Multiple databases were searched from January 2013 to May 2016. Studies were included if they were systematic reviews assessing the effectiveness of an intervention and included data on SES. Two reviewers independently screened all studies, undertook quality assessment and extracted data. A narrative approach to synthesis was adopted.', 'A total of 37 systematic reviews were included, 10 of which were explicit in the use of terminology for \\'programme theory\\'. Twenty-nine studies used programme theory to inform both their a priori assumptions and explain their review findings. Of these, 22 incorporated considerations of both what and how interventions do/do not work in SES groups to both predict and explain their review findings. Thirteen studies acknowledged 24 unique theoretical references to support their assumptions of what or how interventions may have different effects in SES groups. Most reviewers used supplementary evidence to support their considerations of differential effectiveness. The majority of authors outlined a programme theory in the \"Introduction\" and \"Discussion\" sections of the review to inform their assumptions or provide explanations of what or how interventions may result in differential effects within or across SES groups. About a third of reviews used programme theory to inform the review analysis and/or synthesis. Few authors used programme theory to inform their inclusion criteria, data extraction or quality assessment. Twenty-one studies tested their a priori programme theory.', 'The use of programme theory to inform considerations of if, what and how interventions lead to differential effects on health in different SES groups in the systematic review process is not yet widely adopted, is used implicitly, is often fragmented and is not implemented in a systematic way.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "Liverpool Reviews and Implementation Group (LRIG), Department of Health Services Research, University of Liverpool, Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK. Michelle.Maden@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

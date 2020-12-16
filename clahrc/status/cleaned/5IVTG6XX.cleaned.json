@@ -1,0 +1,550 @@
+{
+    "IDs": {
+        "zotero": "5IVTG6XX",
+        "DOI": "10.1136/ebnurs-2018-103029",
+        "DOI_filename": "5d4e9491e2d6a0d1641d8d3d9f1825bc",
+        "PMID": "31138561",
+        "scopus": "2-s2.0-85068011804",
+        "hash": "aa1242de2ae05475b239219e81a923eb"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "5IVTG6XX",
+            "version": 119,
+            "itemType": "journalArticle",
+            "title": "Student nurses\u2019 gender role is a predictor of caring behaviours and critical thinking",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanna",
+                    "lastName": "Harrison"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Evidence Based Nursing",
+            "volume": "22",
+            "issue": "3",
+            "pages": "89-89",
+            "date": "07/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Evid Based Nurs",
+            "language": "en",
+            "DOI": "10.1136/ebnurs-2018-103029",
+            "ISSN": "1367-6539, 1468-9618",
+            "shortTitle": "",
+            "url": "http://ebn.bmj.com/lookup/doi/10.1136/ebnurs-2018-103029",
+            "accessDate": "2020-09-10T17:09:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31138561",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:16Z",
+            "dateModified": "2020-09-11T14:55:00Z",
+            "pmid": "31138561"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T04:17:06Z",
+                "timestamp": 1588911426246
+            },
+            "reference-count": 6,
+            "publisher": "BMJ",
+            "issue": "3",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7
+                    ]
+                ]
+            },
+            "DOI": "10.1136/ebnurs-2018-103029",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        28
+                    ]
+                ],
+                "date-time": "2019-05-28T21:25:27Z",
+                "timestamp": 1559078727000
+            },
+            "page": "89-89",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Student nurses\u2019 gender role is a predictor of caring behaviours and critical thinking",
+            "prefix": "10.1136",
+            "volume": "22",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8963-7240",
+                    "authenticated-orcid": false,
+                    "given": "Joanna",
+                    "family": "Harrison",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        28
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050720534533000_22.3.89.1",
+                    "DOI": "10.1111/j.1365-2648.2007.04509.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050720534533000_22.3.89.2",
+                    "first-page": "7",
+                    "article-title": "Gender analysis of critical thinking disposition instrument among University Putra Malaysia Undergraduate Students",
+                    "volume": "2",
+                    "author": "Ghadi",
+                    "year": "2012",
+                    "journal-title": "Recent Technological Advances in Education"
+                },
+                {
+                    "key": "2020050720534533000_22.3.89.3",
+                    "first-page": "4299",
+                    "article-title": "Gender trait differences and nurse caring",
+                    "volume": "57(7-B)",
+                    "author": "Laurella",
+                    "year": "1997",
+                    "journal-title": "Dissertation Abstr.Int"
+                },
+                {
+                    "key": "2020050720534533000_22.3.89.4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "197",
+                    "DOI": "10.1111/scs.12447",
+                    "article-title": "Caring behaviours directly and indirectly affect nursing students' critical thinking",
+                    "volume": "32",
+                    "author": "Chen",
+                    "year": "2018",
+                    "journal-title": "Scand J Caring Sci"
+                },
+                {
+                    "key": "2020050720534533000_22.3.89.5",
+                    "DOI": "10.1016/j.profnurs.2012.05.006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050720534533000_22.3.89.6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1016/j.ijnurstu.2018.09.005",
+                    "article-title": "The effect of gender role orientation on student nurses' caring behaviour and critical thinking",
+                    "volume": "89",
+                    "author": "Liu",
+                    "year": "2019",
+                    "journal-title": "Int J Nurs Stud"
+                }
+            ],
+            "container-title": "Evidence Based Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/ebnurs-2018-103029",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T03:56:40Z",
+                "timestamp": 1588910200000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        28
+                    ]
+                ]
+            },
+            "references-count": 6,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            6,
+                            20
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1136/ebnurs-2018-103029"
+            ],
+            "URL": "http://dx.doi.org/10.1136/ebnurs-2018-103029",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1367-6539",
+                "1468-9618"
+            ],
+            "subject": [
+                "Fundamentals and skills"
+            ],
+            "container-title-short": "Evid Based Nurs"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM",
+                    "N"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31138561",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/ebnurs-2018-103029"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "05",
+                            "Day": "28"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-9618",
+                        "JournalIssue": {
+                            "Volume": "22",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "07"
+                            }
+                        },
+                        "Title": "Evidence-based nursing",
+                        "ISOAbbreviation": "Evid Based Nurs"
+                    },
+                    "ArticleTitle": "Student nurses' gender role is a predictor of caring behaviours and critical thinking.",
+                    "Pagination": {
+                        "MedlinePgn": "89"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-8963-7240"
+                            ],
+                            "LastName": "Harrison",
+                            "ForeName": "Joanna",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Comment"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Evid Based Nurs",
+                    "NlmUniqueID": "9815947",
+                    "ISSNLinking": "1367-6539"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Int J Nurs Stud. 2019 Jan;89:18-23",
+                        "PMID": "30316956"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Empathy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Gender Identity",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Students, Nursing",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Thinking",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "02",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "6",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31138561",
+                    "ebnurs-2018-103029",
+                    "10.1136/ebnurs-2018-103029"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31138561)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831138561%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831138561%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068011804"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068011804?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068011804&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068011804&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068011804",
+                        "dc:identifier": "SCOPUS_ID:85068011804",
+                        "eid": "2-s2.0-85068011804",
+                        "dc:title": "Student nurses' gender role is a predictor of caring behaviours and critical thinking",
+                        "dc:creator": "Harrison J.",
+                        "prism:publicationName": "Evidence-Based Nursing",
+                        "prism:issn": "13676539",
+                        "prism:eIssn": "14689618",
+                        "prism:volume": "22",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "89",
+                        "prism:coverDate": "2019-07-01",
+                        "prism:coverDisplayDate": "1 July 2019",
+                        "prism:doi": "10.1136/ebnurs-2018-103029",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31138561",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "no",
+                        "subtypeDescription": "Note",
+                        "source-id": "27689",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "5IVTG6XX.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31138561"
+            }
+        },
+        "title": "Student nurses' gender role is a predictor of caring behaviours and critical thinking.",
+        "full_author_list": [
+            {
+                "clean": "Harrison J",
+                "family": "Harrison",
+                "given": "Joanna",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Harrison J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Empathy",
+                    "major": "N"
+                },
+                {
+                    "term": "Gender Identity",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Students, Nursing",
+                    "major": "Y"
+                },
+                {
+                    "term": "Thinking",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Evid Based Nurs",
+            "volume": "22",
+            "issue": "3"
+        },
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

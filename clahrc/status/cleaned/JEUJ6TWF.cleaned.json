@@ -1,0 +1,1642 @@
+{
+    "IDs": {
+        "zotero": "JEUJ6TWF",
+        "DOI": "10.1002/14651858.CD003615.pub4",
+        "DOI_filename": "e94b7f6dd3cd16c6a68e5f11c9e4a118",
+        "PMID": "30350354",
+        "scopus": "2-s2.0-85055572079",
+        "hash": "51ca317f45e810751669aff1b3adbff3"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JEUJ6TWF",
+            "version": 156,
+            "itemType": "journalArticle",
+            "title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy: an individual participant data review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2018-10-23",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD003615.pub4",
+            "ISSN": "14651858",
+            "shortTitle": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD003615.pub4",
+            "accessDate": "2020-09-10T17:09:55Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30350354",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:55Z",
+            "dateModified": "2020-09-15T13:00:08Z",
+            "pmid": "30350354"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        17
+                    ]
+                ],
+                "date-time": "2020-04-17T07:10:51Z",
+                "timestamp": 1587107451240
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2018,
+                                10,
+                                23
+                            ]
+                        ],
+                        "date-time": "2018-10-23T00:00:00Z",
+                        "timestamp": 1540252800000
+                    },
+                    "DOI": "10.1002/14651858.cd003615.pub3",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 67,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd003615.pub4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        23
+                    ]
+                ],
+                "date-time": "2018-10-23T08:41:51Z",
+                "timestamp": 1540284111000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy: an individual participant data review",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool Merseyside UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        23
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "199",
+                    "DOI": "10.1016/0920-1211(92)90099-F",
+                    "article-title": "Cognitive effects of oxcarbazepine and phenytoin monotherapy in newly diagnosed epilepsy: one year follow-up",
+                    "volume": "11",
+                    "author": "Aikia",
+                    "year": "1992",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "195",
+                    "DOI": "10.1016/S0920-1211(97)00024-7",
+                    "article-title": "A double-blind controlled clinical trial of oxcarbazepine versus phenytoin in adults with previously untreated epilepsy",
+                    "volume": "27",
+                    "author": "Bill",
+                    "year": "1997",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "Suppl 9",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0003|cit3",
+                    "first-page": "265",
+                    "article-title": "Oxcarbazepine is at least as effective and well-tolerated as phenytoin with a superior safety profile over long-term treatment in patients with partial seizures",
+                    "volume": "44",
+                    "author": "D'Souza",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "588",
+                    "DOI": "10.1016/j.yebeh.2007.02.011",
+                    "article-title": "How reliable is early treatment response in predicting long-term seizure outcome?",
+                    "volume": "10",
+                    "author": "Schmidt",
+                    "year": "2007",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "Suppl 9",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0005|cit5",
+                    "first-page": "265",
+                    "article-title": "Oxcarbazepine is at least as effective and well-tolerated as phenytoin with a superior safety profile over long-term treatment in patients with partial seizures",
+                    "volume": "44",
+                    "author": "D'Souza",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 8",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0006|cit6",
+                    "first-page": "148",
+                    "article-title": "Better seizure control and tolerability over the long term with oxcarbazepine (Trileptal (R)) monotherapy compared with phenytoin in newly diagnosed children and adolescents with partial and generalised tonic-clonic seizures",
+                    "volume": "44",
+                    "author": "Guerreiro",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "205",
+                    "DOI": "10.1016/S0920-1211(97)00025-9",
+                    "article-title": "A double-blind controlled clinical trial of oxcarbazepine versus phenytoin in children and adolescents with epilepsy",
+                    "volume": "27",
+                    "author": "Guerreiro",
+                    "year": "1997",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "588",
+                    "DOI": "10.1016/j.yebeh.2007.02.011",
+                    "article-title": "How reliable is early treatment response in predicting long-term seizure outcome?",
+                    "volume": "10",
+                    "author": "Schmidt",
+                    "year": "2007",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "Suppl 9",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0009|cit9",
+                    "first-page": "272",
+                    "article-title": "Long-term oxcarbazepine therapy in children is at least as effective as and better tolerated than phenytoin",
+                    "volume": "44",
+                    "author": "Sturm",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1111/j.1600-0404.1995.tb00461.x",
+                    "article-title": "Cognitive function and anticonvulsant therapy: effect of monotherapy in epilepsy",
+                    "volume": "92",
+                    "author": "Sabers",
+                    "year": "1995",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "502",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00748.x",
+                    "article-title": "The incidence of epilepsy and unprovoked seizures in multiethnic, urban health maintenance organizations",
+                    "volume": "40",
+                    "author": "Annegers",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "557",
+                    "DOI": "10.2165/00148581-200305080-00006",
+                    "article-title": "Oxcarbazepine: a review of its use in children with epilepsy",
+                    "volume": "5",
+                    "author": "Bang",
+                    "year": "2003",
+                    "journal-title": "Paediatric Drugs"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2245",
+                    "DOI": "10.1212/WNL.54.12.2245",
+                    "article-title": "Oxcarbazepine monotherapy for partial-onset seizures: a multicenter, double-blind, clinical trial",
+                    "volume": "54",
+                    "author": "Beydoun",
+                    "year": "2000",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "372",
+                    "DOI": "10.1111/j.1528-1157.1992.tb02330.x",
+                    "article-title": "Phenytoin-folate interactions: differing effects of the sodium salt and the free acid of phenytoin",
+                    "volume": "33",
+                    "author": "Carl",
+                    "year": "1992",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "451",
+                    "DOI": "10.1016/S0920-1211(96)01013-3",
+                    "article-title": "A double-blind controlled clinical trial: oxcarbazepine versus sodium valproate in adults with newly diagnosed epilepsy",
+                    "volume": "26",
+                    "author": "Christe",
+                    "year": "1997",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "489",
+                    "DOI": "10.1111/j.1528-1157.1981.tb06159.x",
+                    "article-title": "Proposal for revised clinical and electroencephalographic classification of epileptic seizures",
+                    "volume": "22",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1981",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "389",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05316.x",
+                    "article-title": "Proposal for revised classification of epilepsies and epileptic syndromes",
+                    "volume": "30",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "70",
+                    "DOI": "10.1016/0920-1211(89)90070-3",
+                    "article-title": "A double blind study comparing oxcarbazepine and carbamazepine in patients with newly diagnosed, previously untreated epilepsy",
+                    "volume": "3",
+                    "author": "Dam",
+                    "year": "1989",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "21",
+                    "DOI": "10.1155/1990/917164",
+                    "article-title": "Metabolic characteristics of oxcarbazepine (Trileptal) and their beneficial implications for enzyme induction and drug interactions",
+                    "volume": "3",
+                    "author": "Faigle",
+                    "year": "1990",
+                    "journal-title": "Behaviour Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "257",
+                    "DOI": "10.1016/0890-6238(92)90181-R",
+                    "article-title": "Course of pregnancy and fetal outcome following maternal exposure to carbamazepine and phenytoin: a prospective study",
+                    "volume": "6",
+                    "author": "Gladstone",
+                    "year": "1992",
+                    "journal-title": "Reproductive Toxicology"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "873",
+                    "DOI": "10.2165/00003495-199243060-00007",
+                    "article-title": "Oxcarbazepine. A review of its pharmacology and therapeutic potential in epilepsy, trigeminal neuralgia and affective disorders",
+                    "volume": "43",
+                    "author": "Grant",
+                    "year": "1992",
+                    "journal-title": "Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota 1935 - 1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "557",
+                    "DOI": "10.1136/bmj.327.7414.557",
+                    "article-title": "Measuring inconsistency in meta-analyses",
+                    "volume": "327",
+                    "author": "Higgins",
+                    "year": "2003",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0025|cit25",
+                    "unstructured": "Higgins JPT Green S Cochrane Handbook for Systematic Reviews of Interventions 5.1.0 [updated March 2011] The Cochrane Collaboration, 2011. Available from www.cochrane-handbook.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "326",
+                    "DOI": "10.1212/01.wnl.0000252807.38124.a3",
+                    "article-title": "How common are the \"common\" neurologic disorders?",
+                    "volume": "68",
+                    "author": "Hirtz",
+                    "year": "2007",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "799",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01167.x",
+                    "article-title": "Considerations on designing clinical trials to evaluate the place of new antiepileptic drugs in the treatment of newly diagnosed and chronic patients with epilepsy",
+                    "volume": "39",
+                    "author": "ILAE Commission on Antiepileptic Drugs",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1094",
+                    "DOI": "10.1111/j.1528-1167.2006.00585.x",
+                    "article-title": "ILAE treatment guidelines: evidence based analysis of antiepileptic drug efficacy and effectiveness as initial monotherapy for epileptic seizures and syndromes",
+                    "volume": "47",
+                    "author": "Glauser",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "297",
+                    "DOI": "10.1111/j.1528-1157.1983.tb04893.x",
+                    "article-title": "Natural history of epileptic seizures",
+                    "volume": "24",
+                    "author": "Juul-Jenson",
+                    "year": "1983",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "314",
+                    "DOI": "10.1056/NEJM200002033420503",
+                    "article-title": "Early identification of refractory epilepsy",
+                    "volume": "342",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "issue": "11 Suppl 4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S2",
+                    "DOI": "10.1212/WNL.60.11_suppl_4.S2",
+                    "article-title": "Clinical trials of antiepileptic medications in newly diagnosed patients with epilepsy",
+                    "volume": "60",
+                    "author": "Kwan",
+                    "year": "2003",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0032|cit32",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "833",
+                    "DOI": "10.1002/1531-8249(200012)48:6<833::AID-ANA3>3.0.CO;2-U",
+                    "article-title": "Factors predicting prognosis of epilepsy after presentation with seizures",
+                    "volume": "48",
+                    "author": "MacDonald",
+                    "year": "2000",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0034|cit34",
+                    "author": "Malfosse",
+                    "year": "1994",
+                    "volume-title": "Idiopathic Generalised Epilepsies: Clinical, Experimental and Genetic"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0035|cit35",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "145",
+                    "DOI": "10.1056/NEJM198507183130303",
+                    "article-title": "Comparison of carbamazepine, phenobarbital, phenytoin, and primidone in partial and secondarily generalized tonic-clonic seizures",
+                    "volume": "313",
+                    "author": "Mattson",
+                    "year": "1985",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2008.04.022",
+                    "article-title": "Pregnancy outcomes in women with epilepsy: a systematic review and meta-analysis of published pregnancy registries and cohorts",
+                    "volume": "81",
+                    "author": "Meador",
+                    "year": "2008",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0038|cit38",
+                    "unstructured": "Murray CJL Lopez AD World Health Organization. Global comparative assessments in the health sector: disease burden, expenditures and intervention packages apps.who.int/iris/handle/10665/41177"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0039|cit39",
+                    "author": "Nevitt",
+                    "issue": "12",
+                    "year": "2017",
+                    "article-title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis of individual participant data",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011412.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0040|cit40",
+                    "author": "Nevitt",
+                    "issue": "2",
+                    "year": "2017",
+                    "article-title": "Carbamazepine versus phenytoin monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001911.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0041|cit41",
+                    "author": "Nevitt",
+                    "issue": "6",
+                    "year": "2018",
+                    "article-title": "Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001031.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0042|cit42",
+                    "author": "Nevitt",
+                    "issue": "8",
+                    "year": "2018",
+                    "article-title": "Sodium valproate versus phenytoin monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001769.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0043|cit43",
+                    "author": "Nevitt",
+                    "issue": "10",
+                    "year": "2018",
+                    "article-title": "Carbamazepine versus phenobarbitone monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001904.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0044|cit44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1111/j.1528-1167.2009.02481.x",
+                    "article-title": "Estimation of the burden of active and life-time epilepsy: a meta-analytic approach",
+                    "volume": "51",
+                    "author": "Ngugi",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0045|cit45",
+                    "unstructured": "National Institute for Health and Care Excellence The epilepsies: the diagnosis and management of the epilepsies in adults and children in primary and secondary care www.nice.org.uk/guidance/cg137"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0046|cit46",
+                    "unstructured": "Nolan SJ Sutton L Marson A Tudur Smith C Consistency of outcome and statistical reporting of time-to-event data: the impact on Cochrane Reviews and meta-analyses in epilepsy 21st Cochrane Colloquium: Better Knowledge for Better Health, Quebec City 2013 114 5"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0047|cit47",
+                    "author": "Nolan",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Phenobarbitone versus phenytoin monotherapy for partial onset seizures and generalised onset tonic-clonic seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002217.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0048|cit48",
+                    "author": "Nolan",
+                    "issue": "12",
+                    "year": "2016",
+                    "article-title": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD012065.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1002/(SICI)1096-8628(19970110)68:1<18::AID-AJMG4>3.0.CO;2-U",
+                    "article-title": "Findings in children exposed in utero to phenytoin and carbamazepine monotherapy: independent effects of epilepsy and medications",
+                    "volume": "68",
+                    "author": "Nulman",
+                    "year": "1997",
+                    "journal-title": "American Journal of Medical Genetics"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0050|cit50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "627",
+                    "DOI": "10.1016/S1474-4422(05)70172-1",
+                    "article-title": "Incidence of unprovoked seizures and epilepsy in Iceland and assessment of the epilepsy syndrome classification: a prospective study",
+                    "volume": "4",
+                    "author": "Olafsson",
+                    "year": "2005",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "issue": "24",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0051|cit51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2815",
+                    "DOI": "10.1002/(SICI)1097-0258(19981230)17:24<2815::AID-SIM110>3.0.CO;2-8",
+                    "article-title": "Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints",
+                    "volume": "17",
+                    "author": "Parmar",
+                    "year": "1998",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0052|cit52",
+                    "unstructured": "Pohlmann H Personal communication"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1136/jnnp.61.5.433",
+                    "article-title": "Epidemiology of the epilepsies",
+                    "volume": "61",
+                    "author": "Sander",
+                    "year": "1996",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0054|cit54",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "28",
+                    "DOI": "10.1111/j.0013-9580.2004.455005.x",
+                    "article-title": "The use of anti-epileptic drugs - principles and practice",
+                    "volume": "45",
+                    "author": "Sander",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0055|cit55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "732",
+                    "DOI": "10.1212/WNL.52.4.732",
+                    "article-title": "Oxcarbazepine: double-blind, randomized, placebo-control, monotherapy trial for partial seizures",
+                    "volume": "52",
+                    "author": "Schachter",
+                    "year": "1999",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "512",
+                    "DOI": "10.1111/epi.13709",
+                    "article-title": "ILAE classification of the epilepsies: Position paper of the ILAE Commission for Classification and Terminology",
+                    "volume": "58",
+                    "author": "Scheffer",
+                    "year": "2017",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0057|cit57",
+                    "first-page": "6",
+                    "article-title": "Phenytoin in cutaneous medicine: its uses, mechanisms and side effects",
+                    "volume": "9",
+                    "author": "Scheinfeld",
+                    "year": "2003",
+                    "journal-title": "Dermatology Online Journal"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0058|cit58",
+                    "unstructured": "StataCorp Stata Statistical Software: Release 14 2015"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0059|cit59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "542",
+                    "DOI": "10.1212/WNL.49.2.542",
+                    "article-title": "Risk of serious cutaneous disorders after initiation of use of phenytoin, carbamazepine, or sodium valproate: a record linkage study",
+                    "volume": "49",
+                    "author": "Tennis",
+                    "year": "1997",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0060|cit60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1186/1745-6215-8-34",
+                    "article-title": "Multiple treatment comparisons in epilepsy monotherapy trials",
+                    "volume": "5",
+                    "author": "Tudur Smith",
+                    "year": "2007",
+                    "journal-title": "Trials"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0061|cit61",
+                    "author": "Wallace",
+                    "year": "1997",
+                    "article-title": "Guidelines for the clinical management of adults with poorly controlled epilepsy",
+                    "volume-title": "National Society of Epilepsy guidelines"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0062|cit62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "137",
+                    "DOI": "10.2165/00023210-200115020-00005",
+                    "article-title": "Oxcarbazepine: an update of its efficacy in the management of epilepsy",
+                    "volume": "15",
+                    "author": "Wellington",
+                    "year": "2001",
+                    "journal-title": "CNS Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0063|cit63",
+                    "author": "Wilder",
+                    "first-page": "339",
+                    "year": "1995",
+                    "article-title": "Phenytoin: clinical use",
+                    "volume-title": "Antiepileptic Drugs"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0064|cit64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "205",
+                    "DOI": "10.1046/j.1365-2753.2000.00236.x",
+                    "article-title": "Individual patient data meta-analysis of randomized anti-epileptic drug monotherapy trials",
+                    "volume": "6",
+                    "author": "Williamson",
+                    "year": "2000",
+                    "journal-title": "Journal of Evaluation in Clinical Practice"
+                },
+                {
+                    "issue": "22",
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0065|cit65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3337",
+                    "DOI": "10.1002/sim.1303",
+                    "article-title": "Aggregate data meta-analysis with time-to-event outcomes",
+                    "volume": "21",
+                    "author": "Williamson",
+                    "year": "2002",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0066|cit66",
+                    "author": "Muller",
+                    "issue": "2",
+                    "year": "2006",
+                    "article-title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD003615.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD003615.pub4-BIB0067|cit67",
+                    "author": "Nolan",
+                    "issue": "5",
+                    "year": "2013",
+                    "article-title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD003615.pub3",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        17
+                    ]
+                ],
+                "date-time": "2020-04-17T06:34:22Z",
+                "timestamp": 1587105262000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 67,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD003615.pub4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30350354",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "09"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD003615.pub4"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "10",
+                            "Day": "23"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "10",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "10",
+                                "Day": "23"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Oxcarbazepine versus phenytoin monotherapy for epilepsy: an individual participant data review.",
+                    "Pagination": {
+                        "MedlinePgn": "CD003615"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the Cochrane Review previously published in 2013. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.Worldwide, phenytoin is a commonly used antiepileptic drug. It is important to know how newer drugs, such as oxcarbazepine, compare with commonly used standard treatments.",
+                            "To review the time to treatment failure, remission and first seizure with oxcarbazepine compared to phenytoin, when used as monotherapy in people with focal onset seizures or generalised tonic-clonic seizures (with or without other generalised seizure types).",
+                            "We searched the following databases on 20 August 2018: the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid, 1946 to 20 August 2018), ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We handsearched relevant journals and contacted pharmaceutical companies, original trial investigators and experts in the field.",
+                            "We included randomised controlled trials comparing monotherapy with either oxcarbazepine or phenytoin in children or adults with focal onset seizures or generalised onset tonic-clonic seizures.",
+                            "This was an individual participant data (IPD) review. Our primary outcome was time to treatment failure and our secondary outcomes were time to first seizure post-randomisation, time to six-month and 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI.",
+                            "Individual participant data were available for 480 out of a total of 517 participants (93%), from two out of three included trials. For remission outcomes, a HR of less than one indicated an advantage for phenytoin; and for first seizure and treatment failure outcomes, a HR of less than one indicated an advantage for oxcarbazepine.The results for time to treatment failure for any reason related to treatment showed a potential advantage of oxcarbazepine over phenytoin, but this was not statistically significant (pooled HR adjusted for epilepsy type: 0.78 95% CI 0.53 to 1.14, 476 participants, two trials, moderate-quality evidence). Our analysis showed that treatment failure due to adverse events occurred later on with oxcarbazepine than phenytoin (pooled HR for all participants: 0.22 (95% CI 0.10 to 0.51, 480 participants, two trials, high-quality evidence). Our analysis of time to treatment failure due to lack of efficacy showed no clear difference between the drugs (pooled HR for all participants: 1.17 (95% CI 0.31 to 4.35), 480 participants, two trials, moderate-quality evidence).We found no clear or statistically significant differences between drugs for any of the secondary outcomes of the review: time to first seizure post-randomisation (pooled HR adjusted for epilepsy type: 0.97 95% CI 0.75 to 1.26, 468 participants, two trials, moderate-quality evidence); time to 12-month remission (pooled HR adjusted for epilepsy type 1.04 95% CI 0.77 to 1.41, 468 participants, two trials, moderate-quality evidence) and time to six-month remission (pooled HR adjusted for epilepsy type: 1.06 95% CI 0.82 to 1.36, 468 participants, two trials, moderate-quality evidence).The most common adverse events reported in more than 10% of participants on either drug were somnolence (28% of total participants, with similar rates for both drugs), headache (15% of total participants, with similar rates for both drugs), dizziness (14.5% of total participants, reported by slightly more participants on phenytoin (18%) than oxcarbazepine (11%)) and gum hyperplasia (reported by substantially more participants on phenytoin (18%) than oxcarbazepine (2%)).The results of this review are applicable mainly to individuals with focal onset seizures; 70% of included individuals experienced seizures of this type at baseline. The two studies included in IPD meta-analysis were generally of good methodological quality but the design of the studies may have biased the results for the secondary outcomes (time to first seizure post-randomisation, time to six-month and 12-month remission) as seizure recurrence data were not collected following treatment failure or withdrawal from the study. In addition, misclassification of epilepsy type may have impacted on results, particularly for individuals with generalised onset seizures.",
+                            "High-quality evidence provided by this review indicates that treatment failure due to adverse events occurs significantly later with oxcarbazepine than phenytoin. For individuals with focal onset seizures, moderate-quality evidence suggests that oxcarbazepine may be superior to phenytoin in terms of treatment failure for any reason, seizure recurrence and seizure remission. Therefore, oxcarbazepine may be a preferable alternative treatment than phenytoin, particularly for individuals with focal onset seizures. The evidence in this review which relates to individuals with generalised onset seizures is of low quality and does not inform current treatment policy.We recommend that future trials should be designed to the highest quality possible with regards to choice of population, classification of seizure type, duration of follow-up (including continued follow-up after failure or withdrawal of randomised treatment), choice of outcomes and analysis, and presentation of results."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Nevitt",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "6158TKW0C5",
+                        "NameOfSubstance": "Phenytoin"
+                    },
+                    {
+                        "RegistryNumber": "VZI5B1W380",
+                        "NameOfSubstance": "Oxcarbazepine"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2013 May 31;(5):CD003615",
+                        "PMID": "23728645"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy, Tonic-Clonic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Induction Chemotherapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Oxcarbazepine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Phenytoin",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Proportional Hazards Models",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Treatment Failure",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Neurology. 1999 Mar 10;52(4):732-7",
+                                "ArticleIdList": [
+                                    "10078718"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999 Apr;40(4):502-6",
+                                "ArticleIdList": [
+                                    "10219279"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2000 Feb 3;342(5):314-9",
+                                "ArticleIdList": [
+                                    "10660394"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2000 Jun 27;54(12):2245-51",
+                                "ArticleIdList": [
+                                    "10881247"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001030",
+                                "ArticleIdList": [
+                                    "10908558"
+                                ]
+                            },
+                            {
+                                "Citation": "J Eval Clin Pract. 2000 May;6(2):205-14",
+                                "ArticleIdList": [
+                                    "10970014"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2000 Dec;48(6):833-41",
+                                "ArticleIdList": [
+                                    "11117539"
+                                ]
+                            },
+                            {
+                                "Citation": "CNS Drugs. 2001;15(2):137-63",
+                                "ArticleIdList": [
+                                    "11460891"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2002 Nov 30;21(22):3337-51",
+                                "ArticleIdList": [
+                                    "12407676"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2003 Jun 10;60(11 Suppl 4):S2-12",
+                                "ArticleIdList": [
+                                    "12796516"
+                                ]
+                            },
+                            {
+                                "Citation": "Paediatr Drugs. 2003;5(8):557-73",
+                                "ArticleIdList": [
+                                    "12895138"
+                                ]
+                            },
+                            {
+                                "Citation": "Dermatol Online J. 2003 Aug;9(3):6",
+                                "ArticleIdList": [
+                                    "12952753"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2003 Sep 6;327(7414):557-60",
+                                "ArticleIdList": [
+                                    "12958120"
+                                ]
+                            },
+                            {
+                                "Citation": "Drugs. 1992 Jun;43(6):873-88",
+                                "ArticleIdList": [
+                                    "1379159"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1992 May;11(3):199-203",
+                                "ArticleIdList": [
+                                    "1396535"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004;45 Suppl 6:28-34",
+                                "ArticleIdList": [
+                                    "15315513"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1992 Mar-Apr;33(2):372-5",
+                                "ArticleIdList": [
+                                    "1547769"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Toxicol. 1992;6(3):257-61",
+                                "ArticleIdList": [
+                                    "1591483"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2005 Oct;4(10):627-34",
+                                "ArticleIdList": [
+                                    "16168931"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2006 Apr 19;(2):CD003615",
+                                "ArticleIdList": [
+                                    "16625587"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2006 Jul;47(7):1094-120",
+                                "ArticleIdList": [
+                                    "16886973"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2007 Jan 30;68(5):326-37",
+                                "ArticleIdList": [
+                                    "17261678"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2007 Jun;10(4):588-94",
+                                "ArticleIdList": [
+                                    "17418644"
+                                ]
+                            },
+                            {
+                                "Citation": "Trials. 2007 Nov 05;8:34",
+                                "ArticleIdList": [
+                                    "17983480"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2008 Sep;81(1):1-13",
+                                "ArticleIdList": [
+                                    "18565732"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 May;51(5):883-90",
+                                "ArticleIdList": [
+                                    "20067507"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Jan 31;(1):CD002217",
+                                "ArticleIdList": [
+                                    "23440786"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 May 31;(5):CD003615",
+                                "ArticleIdList": [
+                                    "23728645"
+                                ]
+                            },
+                            {
+                                "Citation": "Behav Neurol. 1990;3(1):21-30",
+                                "ArticleIdList": [
+                                    "24487082"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1989 Jul-Aug;30(4):389-99",
+                                "ArticleIdList": [
+                                    "2502382"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1989 Jan-Feb;3(1):70-6",
+                                "ArticleIdList": [
+                                    "2645120"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Dec 06;12:CD012065",
+                                "ArticleIdList": [
+                                    "27922722"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2017 Feb 27;2:CD001911",
+                                "ArticleIdList": [
+                                    "28240353"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2017 Apr;58(4):512-521",
+                                "ArticleIdList": [
+                                    "28276062"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2017 Dec 15;12:CD011412",
+                                "ArticleIdList": [
+                                    "29243813"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Jun 28;6:CD001031",
+                                "ArticleIdList": [
+                                    "29952431"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Aug 09;8:CD001769",
+                                "ArticleIdList": [
+                                    "30091458"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Oct 24;10:CD001904",
+                                "ArticleIdList": [
+                                    "30353945"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1985 Jul 18;313(3):145-51",
+                                "ArticleIdList": [
+                                    "3925335"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1983 Jun;24(3):297-312",
+                                "ArticleIdList": [
+                                    "6406213"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1981 Aug;22(4):489-501",
+                                "ArticleIdList": [
+                                    "6790275"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1995 Jul;92(1):19-27",
+                                "ArticleIdList": [
+                                    "7572056"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1996 Nov;61(5):433-43",
+                                "ArticleIdList": [
+                                    "8965090"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med Genet. 1997 Jan 10;68(1):18-24",
+                                "ArticleIdList": [
+                                    "8986270"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1997 Mar;26(3):451-60",
+                                "ArticleIdList": [
+                                    "9127726"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1997 Jun;27(3):195-204",
+                                "ArticleIdList": [
+                                    "9237054"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1997 Jun;27(3):205-13",
+                                "ArticleIdList": [
+                                    "9237055"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1997 Aug;49(2):542-6",
+                                "ArticleIdList": [
+                                    "9270593"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1998 Jul;39(7):799-803",
+                                "ArticleIdList": [
+                                    "9670910"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 1998 Dec 30;17(24):2815-34",
+                                "ArticleIdList": [
+                                    "9921604"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "30350354",
+                    "10.1002/14651858.CD003615.pub4",
+                    "PMC6516888"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30350354)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830350354%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830350354%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055572079"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055572079?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055572079&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055572079&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055572079",
+                        "dc:identifier": "SCOPUS_ID:85055572079",
+                        "eid": "2-s2.0-85055572079",
+                        "dc:title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy: An individual participant data review",
+                        "dc:creator": "Nevitt S.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2018",
+                        "prism:issueIdentifier": "10",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-10-23",
+                        "prism:coverDisplayDate": "23 October 2018",
+                        "prism:doi": "10.1002/14651858.CD003615.pub4",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30350354",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD003615",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JEUJ6TWF.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30350354"
+            }
+        },
+        "title": "Oxcarbazepine versus phenytoin monotherapy for epilepsy: an individual participant data review.",
+        "full_author_list": [
+            {
+                "clean": "Nevitt S",
+                "family": "Nevitt",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL."
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Nevitt S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Tonic-Clonic",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Induction Chemotherapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Oxcarbazepine",
+                    "major": "N"
+                },
+                {
+                    "term": "Phenytoin",
+                    "major": "N"
+                },
+                {
+                    "term": "Proportional Hazards Models",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Treatment Failure",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "10",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the Cochrane Review previously published in 2013. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.Worldwide, phenytoin is a commonly used antiepileptic drug. It is important to know how newer drugs, such as oxcarbazepine, compare with commonly used standard treatments.', 'To review the time to treatment failure, remission and first seizure with oxcarbazepine compared to phenytoin, when used as monotherapy in people with focal onset seizures or generalised tonic-clonic seizures (with or without other generalised seizure types).', 'We searched the following databases on 20 August 2018: the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid, 1946 to 20 August 2018), ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We handsearched relevant journals and contacted pharmaceutical companies, original trial investigators and experts in the field.', 'We included randomised controlled trials comparing monotherapy with either oxcarbazepine or phenytoin in children or adults with focal onset seizures or generalised onset tonic-clonic seizures.', 'This was an individual participant data (IPD) review. Our primary outcome was time to treatment failure and our secondary outcomes were time to first seizure post-randomisation, time to six-month and 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI.', 'Individual participant data were available for 480 out of a total of 517 participants (93%), from two out of three included trials. For remission outcomes, a HR of less than one indicated an advantage for phenytoin; and for first seizure and treatment failure outcomes, a HR of less than one indicated an advantage for oxcarbazepine.The results for time to treatment failure for any reason related to treatment showed a potential advantage of oxcarbazepine over phenytoin, but this was not statistically significant (pooled HR adjusted for epilepsy type: 0.78 95% CI 0.53 to 1.14, 476 participants, two trials, moderate-quality evidence). Our analysis showed that treatment failure due to adverse events occurred later on with oxcarbazepine than phenytoin (pooled HR for all participants: 0.22 (95% CI 0.10 to 0.51, 480 participants, two trials, high-quality evidence). Our analysis of time to treatment failure due to lack of efficacy showed no clear difference between the drugs (pooled HR for all participants: 1.17 (95% CI 0.31 to 4.35), 480 participants, two trials, moderate-quality evidence).We found no clear or statistically significant differences between drugs for any of the secondary outcomes of the review: time to first seizure post-randomisation (pooled HR adjusted for epilepsy type: 0.97 95% CI 0.75 to 1.26, 468 participants, two trials, moderate-quality evidence); time to 12-month remission (pooled HR adjusted for epilepsy type 1.04 95% CI 0.77 to 1.41, 468 participants, two trials, moderate-quality evidence) and time to six-month remission (pooled HR adjusted for epilepsy type: 1.06 95% CI 0.82 to 1.36, 468 participants, two trials, moderate-quality evidence).The most common adverse events reported in more than 10% of participants on either drug were somnolence (28% of total participants, with similar rates for both drugs), headache (15% of total participants, with similar rates for both drugs), dizziness (14.5% of total participants, reported by slightly more participants on phenytoin (18%) than oxcarbazepine (11%)) and gum hyperplasia (reported by substantially more participants on phenytoin (18%) than oxcarbazepine (2%)).The results of this review are applicable mainly to individuals with focal onset seizures; 70% of included individuals experienced seizures of this type at baseline. The two studies included in IPD meta-analysis were generally of good methodological quality but the design of the studies may have biased the results for the secondary outcomes (time to first seizure post-randomisation, time to six-month and 12-month remission) as seizure recurrence data were not collected following treatment failure or withdrawal from the study. In addition, misclassification of epilepsy type may have impacted on results, particularly for individuals with generalised onset seizures.', 'High-quality evidence provided by this review indicates that treatment failure due to adverse events occurs significantly later with oxcarbazepine than phenytoin. For individuals with focal onset seizures, moderate-quality evidence suggests that oxcarbazepine may be superior to phenytoin in terms of treatment failure for any reason, seizure recurrence and seizure remission. Therefore, oxcarbazepine may be a preferable alternative treatment than phenytoin, particularly for individuals with focal onset seizures. The evidence in this review which relates to individuals with generalised onset seizures is of low quality and does not inform current treatment policy.We recommend that future trials should be designed to the highest quality possible with regards to choice of population, classification of seizure type, duration of follow-up (including continued follow-up after failure or withdrawal of randomised treatment), choice of outcomes and analysis, and presentation of results.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

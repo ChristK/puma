@@ -1,0 +1,302 @@
+{
+    "IDs": {
+        "zotero": "J7Y8FJB5",
+        "DOI": "10.18438/B8F630",
+        "DOI_filename": "bf5a22a35f9f69bd5689122f32f8c904",
+        "PMID": "",
+        "scopus": "2-s2.0-84988924053",
+        "hash": "00a65e1efcb9444f2bfdfedc069a1ebd"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "J7Y8FJB5",
+            "version": 95,
+            "itemType": "journalArticle",
+            "title": "Evaluating Approaches to Quality Assessment in Library and Information Science LIS Systematic Reviews: A Methodology Review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Maden"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Eleanor",
+                    "lastName": "Kotas"
+                }
+            ],
+            "abstractNote": "Objective \u2013 Systematic reviews are becoming increasingly popular within the Library and Information Science (LIS) domain. This paper has three aims: to review approaches to quality assessment in published LIS systematic reviews in order to assess whether and how LIS reviewers report on quality assessment a priori in systematic reviews, to model the different quality assessment aids used by LIS reviewers, and to explore if and how LIS reviewers report on and incorporate the quality of included studies into the systematic review analysis and conclusions. \n \nMethods \u2013 The authors undertook a methodological study of published LIS systematic reviews using a known cohort of published systematic reviews of LIS-related research. Studies were included if they were reported as a \u201csystematic review\u201d in the title, abstract, or methods section. Meta-analyses that did not incorporate a systematic review and studies in which the systematic review was not a main objective were excluded. Two reviewers independently assessed the studies. Data were extracted on the type of synthesis, whether quality assessment was planned and undertaken, the number of reviewers involved in assessing quality, the types of tools or criteria used to assess the quality of the included studies, how quality assessment was assessed and reported in the systematic review, and whether the quality of the included studies was considered in the analysis and conclusions of the review. In order to determine the quality of the reporting and incorporation of quality assessment in LIS systematic reviews, each study was assessed against criteria relating to quality assessment in the PRISMA reporting guidelines for systematic reviews and meta-analyses (Moher, Liberati, Tetzlaff, Altman, & The PRISMA Group, 2009) and the AMSTAR tool (Shea et al., 2007). \n \nResults \u2013 Forty studies met the inclusion criteria. The results demonstrate great variation on the breadth, depth, and transparency of the quality assessment process in LIS systematic reviews. Nearly one third of the LIS systematic reviews included in this study did not report on quality assessment in the methods, and less than one quarter adequately incorporated quality assessment in the analysis, conclusions, and recommendations. Only nine of the 26 systematic reviews that undertook some form of quality assessment incorporated considerations of how the quality of the included studies impacted on the validity of the review findings in the analysis, conclusion, and recommendations. The large number of different quality assessment tools identified reflects not only the disparate nature of the LIS evidence base (Brettle, 2009) but also a lack of consensus around criteria on which to assess the quality of LIS research. \n \nConclusion \u2013 Greater clarity, definition, and understanding of the methodology and concept of \u201cquality\u201d in the systematic review process are required not only by LIS reviewers but also by editors of journals in accepting such studies for publication. Further research and guidance is needed on identifying the best tools and approaches to incorporate considerations of quality in LIS systematic reviews. LIS reviewers need to improve the robustness and transparency with which quality assessment is undertaken and reported in systematic reviews. Above all, LIS reviewers need to be explicit in coming to a conclusion on how the quality of the included studies may impact on their review findings.",
+            "publicationTitle": "Evidence Based Library and Information Practice",
+            "volume": "11",
+            "issue": "2",
+            "pages": "149",
+            "date": "2016-06-20",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "EBLIP",
+            "language": "",
+            "DOI": "10.18438/B8F630",
+            "ISSN": "1715-720X",
+            "shortTitle": "Evaluating Approaches to Quality Assessment in Library and Information Science LIS Systematic Reviews",
+            "url": "https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/26988",
+            "accessDate": "2020-09-10T17:10:17Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:17Z",
+            "dateModified": "2020-09-10T17:10:17Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        25
+                    ]
+                ],
+                "date-time": "2020-03-25T20:45:10Z",
+                "timestamp": 1585169110333
+            },
+            "reference-count": 0,
+            "publisher": "University of Alberta Libraries",
+            "issue": "2",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "abstract": "<jats:p>Objective \u2013 Systematic reviews are becoming increasingly popular within the Library and Information Science (LIS) domain. This paper has three aims: to review approaches to quality assessment in published LIS systematic reviews in order to assess whether and how LIS reviewers report on quality assessment a priori in systematic reviews, to model the different quality assessment aids used by LIS reviewers, and to explore if and how LIS reviewers report on and incorporate the quality of included studies into the systematic review analysis and conclusions.&#x0D;\n&#x0D;\nMethods \u2013 The authors undertook a methodological study of published LIS systematic reviews using a known cohort of published systematic reviews of LIS-related research. Studies were included if they were reported as a \u201csystematic review\u201d in the title, abstract, or methods section. Meta-analyses that did not incorporate a systematic review and studies in which the systematic review was not a main objective were excluded. Two reviewers independently assessed the studies. Data were extracted on the type of synthesis, whether quality assessment was planned and undertaken, the number of reviewers involved in assessing quality, the types of tools or criteria used to assess the quality of the included studies, how quality assessment was assessed and reported in the systematic review, and whether the quality of the included studies was considered in the analysis and conclusions of the review. In order to determine the quality of the reporting and incorporation of quality assessment in LIS systematic reviews, each study was assessed against criteria relating to quality assessment in the PRISMA reporting guidelines for systematic reviews and meta-analyses (Moher, Liberati, Tetzlaff, Altman, &amp; The PRISMA Group, 2009) and the AMSTAR tool (Shea et al., 2007).&#x0D;\n&#x0D;\nResults \u2013 Forty studies met the inclusion criteria. The results demonstrate great variation on the breadth, depth, and transparency of the quality assessment process in LIS systematic reviews. Nearly one third of the LIS systematic reviews included in this study did not report on quality assessment in the methods, and less than one quarter adequately incorporated quality assessment in the analysis, conclusions, and recommendations. Only nine of the 26 systematic reviews that undertook some form of quality assessment incorporated considerations of how the quality of the included studies impacted on the validity of the review findings in the analysis, conclusion, and recommendations. The large number of different quality assessment tools identified reflects not only the disparate nature of the LIS evidence base (Brettle, 2009) but also a lack of consensus around criteria on which to assess the quality of LIS research.&#x0D;\n&#x0D;\nConclusion \u2013 Greater clarity, definition, and understanding of the methodology and concept of \u201cquality\u201d in the systematic review process are required not only by LIS reviewers but also by editors of journals in accepting such studies for publication. Further research and guidance is needed on identifying the best tools and approaches to incorporate considerations of quality in LIS systematic reviews. LIS reviewers need to improve the robustness and transparency with which quality assessment is undertaken and reported in systematic reviews. Above all, LIS reviewers need to be explicit in coming to a conclusion on how the quality of the included studies may impact on their review findings.</jats:p>",
+            "DOI": "10.18438/b8f630",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        23
+                    ]
+                ],
+                "date-time": "2016-06-23T00:08:56Z",
+                "timestamp": 1466640536000
+            },
+            "page": "149",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Evaluating Approaches to Quality Assessment in Library and Information Science LIS Systematic Reviews: A Methodology Review",
+            "prefix": "10.18438",
+            "volume": "11",
+            "author": [
+                {
+                    "given": "Michelle",
+                    "family": "Maden",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Eleanor",
+                    "family": "Kotas",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "11723",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        20
+                    ]
+                ]
+            },
+            "container-title": "Evidence Based Library and Information Practice",
+            "original-title": [],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        16
+                    ]
+                ],
+                "date-time": "2017-08-16T18:26:13Z",
+                "timestamp": 1502907973000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        6,
+                        20
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2016,
+                            6,
+                            20
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "URL": "http://dx.doi.org/10.18438/B8F630",
+            "relation": {},
+            "ISSN": [
+                "1715-720X"
+            ],
+            "container-title-short": "EBLIP"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.18438/B8F630)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.18438%2FB8F630%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.18438%2FB8F630%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84988924053"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84988924053?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84988924053&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84988924053&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84988924053",
+                        "dc:identifier": "SCOPUS_ID:84988924053",
+                        "eid": "2-s2.0-84988924053",
+                        "dc:title": "Evaluating approaches to quality assessment in library and information science lis systematic reviews: A methodology review",
+                        "dc:creator": "Maden M.",
+                        "prism:publicationName": "Evidence Based Library and Information Practice",
+                        "prism:eIssn": "1715720X",
+                        "prism:volume": "11",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "149-176",
+                        "prism:coverDate": "2016-01-01",
+                        "prism:coverDisplayDate": "2016",
+                        "prism:doi": "10.18438/b8f630",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "21100199774",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "J7Y8FJB5.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Evaluating Approaches to Quality Assessment in Library and Information Science LIS Systematic Reviews: A Methodology Review",
+        "full_author_list": [
+            {
+                "clean": "Maden M",
+                "family": "Maden",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Kotas E",
+                "family": "Kotas",
+                "given": "Eleanor",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Maden M",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Evidence Based Library and Information Practice",
+            "volume": "11",
+            "issue": "2"
+        },
+        "clean_date": {
+            "month": "6",
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

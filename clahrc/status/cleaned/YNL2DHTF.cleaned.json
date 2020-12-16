@@ -1,0 +1,720 @@
+{
+    "IDs": {
+        "zotero": "YNL2DHTF",
+        "DOI": "10.21037/mhealth.2017.07.03",
+        "DOI_filename": "b3666bb8be30b6e2ab1983657a5cc322",
+        "PMID": "28894743",
+        "scopus": "",
+        "hash": "5519dbea7a6b3e81035425b2ea721e27"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "YNL2DHTF",
+            "version": 201,
+            "itemType": "journalArticle",
+            "title": "mHealth based interventions for the assessment and treatment of psychotic disorders: a systematic review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nadeem",
+                    "lastName": "Gire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saeed",
+                    "lastName": "Farooq"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Farooq",
+                    "lastName": "Naeem"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joy",
+                    "lastName": "Duxbury"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mick",
+                    "lastName": "McKeown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pardeep Singh",
+                    "lastName": "Kundi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Imran Bashir",
+                    "lastName": "Chaudhry"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nusrat",
+                    "lastName": "Husain"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "mHealth",
+            "volume": "3",
+            "issue": "",
+            "pages": "33-33",
+            "date": "2017-08-14",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "mHealth",
+            "language": "",
+            "DOI": "10.21037/mhealth.2017.07.03",
+            "ISSN": "23069740",
+            "shortTitle": "mHealth based interventions for the assessment and treatment of psychotic disorders",
+            "url": "http://mhealth.amegroups.com/article/view/16086/16250",
+            "accessDate": "2020-09-10T17:08:37Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28894743",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:37Z",
+            "dateModified": "2020-09-15T14:40:22Z",
+            "pmid": "28894743"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2020-03-29T02:03:08Z",
+                "timestamp": 1585447388551
+            },
+            "reference-count": 0,
+            "publisher": "AME Publishing Company",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.21037/mhealth.2017.07.03",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        14
+                    ]
+                ],
+                "date-time": "2017-08-14T12:11:30Z",
+                "timestamp": 1502712690000
+            },
+            "page": "33-33",
+            "source": "Crossref",
+            "is-referenced-by-count": 10,
+            "title": "mHealth based interventions for the assessment and treatment of psychotic disorders: a systematic review",
+            "prefix": "10.21037",
+            "volume": "3",
+            "author": [
+                {
+                    "given": "Nadeem",
+                    "family": "Gire",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Saeed",
+                    "family": "Farooq",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Farooq",
+                    "family": "Naeem",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Joy",
+                    "family": "Duxbury",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mick",
+                    "family": "McKeown",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Pardeep Singh",
+                    "family": "Kundi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Imran Bashir",
+                    "family": "Chaudhry",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nusrat",
+                    "family": "Husain",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "8611",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        14
+                    ]
+                ]
+            },
+            "container-title": "mHealth",
+            "original-title": [],
+            "link": [
+                {
+                    "URL": "http://mhealth.amegroups.com/article/download/16086/16249",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        14
+                    ]
+                ],
+                "date-time": "2017-08-14T12:11:30Z",
+                "timestamp": 1502712690000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        14
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "URL": "http://dx.doi.org/10.21037/mhealth.2017.07.03",
+            "relation": {},
+            "ISSN": [
+                "2306-9740"
+            ],
+            "container-title-short": "mHealth"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "KeywordList": [
+                    [
+                        "global mental health",
+                        "mHealth",
+                        "mental health gap",
+                        "psychosis"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28894743",
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "11",
+                    "Day": "20"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.21037/mhealth.2017.07.03"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "08",
+                            "Day": "14"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2306-9740",
+                        "JournalIssue": {
+                            "Volume": "3",
+                            "PubDate": {
+                                "Year": "2017"
+                            }
+                        },
+                        "Title": "mHealth",
+                        "ISOAbbreviation": "Mhealth"
+                    },
+                    "ArticleTitle": "mHealth based interventions for the assessment and treatment of psychotic disorders: a systematic review.",
+                    "Pagination": {
+                        "MedlinePgn": "33"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The relative burden of mental health disorders is increasing globally, in terms of prevalence and disability. There is limited data available to guide treatment choices for clinicians in low resourced settings, with mHealth technologies being a potentially beneficial avenue to bridging the large mental health treatment gap globally. The aim of the review was to search the literature systematically for studies of mHealth interventions for psychosis globally, and to examine whether mHealth for psychosis has been investigated. A systematic literature search was completed in Embase, Medline, PsychINFO and Evidence Based Medicine Reviews databases from inception to May 2016. Only studies with a randomised controlled trial design that investigated an mHealth intervention for psychosis were included. A total of 5690 records were identified with 7 studies meeting the inclusion criteria. The majority of included studies, were conducted across Europe and the United Sates with one being conducted in China. The 7 included studies examined different parameters, such as Experiential Sampling Methodology (ESM), medication adherence, cognitive impairment, social functioning and suicidal ideation in veterans with schizophrenia. Considering the increasing access to mobile devices globally, mHealth may potentially increase access to appropriate mental health care. The results of this review show promise in bridging the global mental health treatment gap, by enabling individuals to receive treatment via their mobile phones, particularly for those individuals who live in remote or rural areas, areas of high deprivation and for those from low resourced settings."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Central Lancashire, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gire",
+                            "ForeName": "Nadeem",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Keele University, Keele, Staffordshire ST5 5BG, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Farooq",
+                            "ForeName": "Saeed",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Queens University, Kingston, ON K7L 3N6, Canada."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Naeem",
+                            "ForeName": "Farooq",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Central Lancashire, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Duxbury",
+                            "ForeName": "Joy",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Central Lancashire, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McKeown",
+                            "ForeName": "Mick",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Vancouver General Hospital, Vancouver, BC V5Z 1M9, Canada."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kundi",
+                            "ForeName": "Pardeep Singh",
+                            "Initials": "PS"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Manchester, Manchester, M13 9PL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chaudhry",
+                            "ForeName": "Imran Bashir",
+                            "Initials": "IB"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Manchester, Manchester, M13 9PL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Husain",
+                            "ForeName": "Nusrat",
+                            "Initials": "N"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "China",
+                    "MedlineTA": "Mhealth",
+                    "NlmUniqueID": "101678564",
+                    "ISSNLinking": "2306-9740"
+                },
+                "CoiStatement": "Conflicts of Interest: The authors have no conflicts of interest to declare."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Schizophr Res. 2014 Jun;156(1):96-106",
+                                "ArticleIdList": [
+                                    "24746468"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Psychiatr Scand. 2003 Feb;107(2):124-31",
+                                "ArticleIdList": [
+                                    "12534438"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Psychiatry. 2012 Oct 17;12:172",
+                                "ArticleIdList": [
+                                    "23075387"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Internet Res. 2005 Feb 24;7(1):e1",
+                                "ArticleIdList": [
+                                    "15829471"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Internet Res. 2013 Apr 05;15(4):e60",
+                                "ArticleIdList": [
+                                    "23563184"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nerv Ment Dis. 2010 Oct;198(10):715-21",
+                                "ArticleIdList": [
+                                    "20921861"
+                                ]
+                            },
+                            {
+                                "Citation": "J Mol Neurosci. 2012 Jul;47(3):505-10",
+                                "ArticleIdList": [
+                                    "22477643"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2009 Feb;39(2):179-95",
+                                "ArticleIdList": [
+                                    "18606047"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2013 Jan 18;346:f185",
+                                "ArticleIdList": [
+                                    "23335473"
+                                ]
+                            },
+                            {
+                                "Citation": "SAGE Open Med. 2016 Oct 18;4:2050312116669613",
+                                "ArticleIdList": [
+                                    "27790373"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA Psychiatry. 2015 Apr;72(4):334-41",
+                                "ArticleIdList": [
+                                    "25671328"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Psychiatr Nurs. 2014 Jun;28(3):197-9",
+                                "ArticleIdList": [
+                                    "24856273"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Schizophr Relat Psychoses. 2014 Apr;8(1):21-27A",
+                                "ArticleIdList": [
+                                    "23428781"
+                                ]
+                            },
+                            {
+                                "Citation": "Telemed J E Health. 2012 Oct;18(8):613-20",
+                                "ArticleIdList": [
+                                    "23061642"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2003;29(4):851-8",
+                                "ArticleIdList": [
+                                    "14989419"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gen Psychiatry. 2010 Mar;67(3):241-51",
+                                "ArticleIdList": [
+                                    "20194824"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychiatry Res. 2016 May 30;239:111-6",
+                                "ArticleIdList": [
+                                    "27137970"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Acad Dermatol. 2011 Feb;64(2):302-9",
+                                "ArticleIdList": [
+                                    "21094560"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Res. 2008 Jan;98(1-3):312-7",
+                                "ArticleIdList": [
+                                    "17920245"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2013 Nov 9;382(9904):1575-86",
+                                "ArticleIdList": [
+                                    "23993280"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2009 Sep;39(9):1533-47",
+                                "ArticleIdList": [
+                                    "19215626"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Psychol. 2010 Jun;49(Pt 2):259-74",
+                                "ArticleIdList": [
+                                    "19735607"
+                                ]
+                            },
+                            {
+                                "Citation": "Nature. 2011 Jul 06;475(7354):27-30",
+                                "ArticleIdList": [
+                                    "21734685"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychiatry Res. 2012 Dec 30;200(2-3):89-95",
+                                "ArticleIdList": [
+                                    "22901437"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2012 May;38(3):396-404",
+                                "ArticleIdList": [
+                                    "22302902"
+                                ]
+                            },
+                            {
+                                "Citation": "Trials. 2015 Sep 10;16:404",
+                                "ArticleIdList": [
+                                    "26357943"
+                                ]
+                            },
+                            {
+                                "Citation": "Glob Ment Health (Camb). 2015 Jul 14;2:e12",
+                                "ArticleIdList": [
+                                    "28596860"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2011 Oct 18;343:d5928",
+                                "ArticleIdList": [
+                                    "22008217"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Res. 2015 Oct;168(1-2):514-22",
+                                "ArticleIdList": [
+                                    "26293215"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "05",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "07",
+                        "Day": "11"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "9",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "9",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "9",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "1"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "28894743",
+                    "10.21037/mhealth.2017.07.03",
+                    "mh-03-2017.07.03",
+                    "PMC5583044"
+                ]
+            }
+        },
+        "scopus_data": null
+    },
+    "filename": "YNL2DHTF.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28894743"
+            }
+        },
+        "title": "mHealth based interventions for the assessment and treatment of psychotic disorders: a systematic review.",
+        "full_author_list": [
+            {
+                "clean": "Gire N",
+                "family": "Gire",
+                "given": "Nadeem",
+                "affiliation": {
+                    "name": "The University of Central Lancashire, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Farooq S",
+                "family": "Farooq",
+                "given": "Saeed",
+                "affiliation": {
+                    "name": "Keele University, Keele, Staffordshire ST5 5BG, UK."
+                }
+            },
+            {
+                "clean": "Naeem F",
+                "family": "Naeem",
+                "given": "Farooq",
+                "affiliation": {
+                    "name": "Queens University, Kingston, ON K7L 3N6, Canada."
+                }
+            },
+            {
+                "clean": "Duxbury J",
+                "family": "Duxbury",
+                "given": "Joy",
+                "affiliation": {
+                    "name": "The University of Central Lancashire, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "McKeown M",
+                "family": "McKeown",
+                "given": "Mick",
+                "affiliation": {
+                    "name": "The University of Central Lancashire, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Kundi P",
+                "family": "Kundi",
+                "given": "Pardeep Singh",
+                "affiliation": {
+                    "name": "Vancouver General Hospital, Vancouver, BC V5Z 1M9, Canada."
+                }
+            },
+            {
+                "clean": "Chaudhry I",
+                "family": "Chaudhry",
+                "given": "Imran Bashir",
+                "affiliation": {
+                    "name": "The University of Manchester, Manchester, M13 9PL, UK."
+                }
+            },
+            {
+                "clean": "Husain N",
+                "family": "Husain",
+                "given": "Nusrat",
+                "affiliation": {
+                    "name": "The University of Manchester, Manchester, M13 9PL, UK."
+                }
+            }
+        ],
+        "first_author": "Gire N",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Mhealth",
+            "volume": "3",
+            "issue": ""
+        },
+        "abstract": "['The relative burden of mental health disorders is increasing globally, in terms of prevalence and disability. There is limited data available to guide treatment choices for clinicians in low resourced settings, with mHealth technologies being a potentially beneficial avenue to bridging the large mental health treatment gap globally. The aim of the review was to search the literature systematically for studies of mHealth interventions for psychosis globally, and to examine whether mHealth for psychosis has been investigated. A systematic literature search was completed in Embase, Medline, PsychINFO and Evidence Based Medicine Reviews databases from inception to May 2016. Only studies with a randomised controlled trial design that investigated an mHealth intervention for psychosis were included. A total of 5690 records were identified with 7 studies meeting the inclusion criteria. The majority of included studies, were conducted across Europe and the United Sates with one being conducted in China. The 7 included studies examined different parameters, such as Experiential Sampling Methodology (ESM), medication adherence, cognitive impairment, social functioning and suicidal ideation in veterans with schizophrenia. Considering the increasing access to mobile devices globally, mHealth may potentially increase access to appropriate mental health care. The results of this review show promise in bridging the global mental health treatment gap, by enabling individuals to receive treatment via their mobile phones, particularly for those individuals who live in remote or rural areas, areas of high deprivation and for those from low resourced settings.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {}
+        },
+        "location": {
+            "candidate_institute": "The University of Central Lancashire, Preston, PR1 2HE, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

@@ -1,0 +1,1465 @@
+{
+    "IDs": {
+        "zotero": "4NIKRSTH",
+        "DOI": "10.1136/bmjopen-2018-021761",
+        "DOI_filename": "33a50612c134a11c1b3a815182e60232",
+        "PMID": "30647030",
+        "scopus": "2-s2.0-85060033681",
+        "hash": "1dabbaf9891c2307a2f0b63730a63bb8"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "4NIKRSTH",
+            "version": 116,
+            "itemType": "journalArticle",
+            "title": "Impact of rural Family Physician programme on maternal and child health indicators in Iran: an interrupted time series analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Hossein",
+                    "lastName": "Jabbari Beyrami"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Leila",
+                    "lastName": "Doshmangir"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ayat",
+                    "lastName": "Ahmadi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mohammad",
+                    "lastName": "Asghari Jafarabadi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil",
+                    "lastName": "Khedmati Morasae"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vladimir S",
+                    "lastName": "Gordeev"
+                }
+            ],
+            "abstractNote": "Objectives\n              The establishment of the Family Physician (FP) programme in the rural areas of Iran in 2005 has made health services accessible and affordable. This paper aims to assess the overall trends of maternal and child health (MCH) indicators in a 20-year period and possible effects of the FP programme (intervention) on these indicators in Iran.\n            \n            \n              Design and setting\n              An interrupted time series analysis was conducted on 20 annual MCH-related data points from 1994 to 2013. The intervention time was at the 12th data point in 2005.\n            \n            \n              Outcomes\n              \n                MCH indicators were grouped into three categories:\n                structure\n                (mother\u2019s age, education, occupation and gravidity),\n                process\n                (number of antenatal care visits (ACVs), laboratory tests, ultrasounds and natural vaginal deliveries (NVDs)) and\n                outcomes\n                (maternal mortality ratio (MMR), neonatal mortality rate (NMR), birth weight (BW), history of abortion and/or stillbirth, and haemoglobin level (Hb)).\n              \n            \n            \n              Results\n              The adjusted slope of the ACV trend decreased sharply after the intervention (b=\u22120.36, p<0.01), whereas it increased for the frequency of ultrasounds (b=0.2, p<0.01) and did not change for number of laboratory tests (b=\u22120.09, p=0.95). The intensification of the descending slope observed for NVD (b=\u22121.91, p=0.03) disappeared after the adjustment for structural confounders (b=1.33, p=0.26). There was no significant slope change for MMR (b=1.12, p=0.28) and NMR (b=0.67, p=0.07) after the intervention. The slope for the history of abortion trend was constant before and after the intervention, but it considerably intensified for the history of stillbirths after the intervention (b=1.72, p<0.01). The decreasing trend of BW turned into a constant mode after the intervention (b=33.2, p<0.01), but no change was observed for Hb (b=\u22120.02, p=0.78).\n            \n            \n              Conclusion\n              \n                Although the FP programme had a positive effect on the\n                process\n                and proximal\n                outcome\n                indicators (BW), no dramatic effect on mortality outcome indicators was distinguished. It shows that there should be determinants or mediators of mortality\n                outcomes\n                in this setting, other than accessibility and affordability of MCH services.",
+            "publicationTitle": "BMJ Open",
+            "volume": "9",
+            "issue": "1",
+            "pages": "e021761",
+            "date": "01/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2018-021761",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Impact of rural Family Physician programme on maternal and child health indicators in Iran",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2018-021761",
+            "accessDate": "2020-09-10T17:09:03Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30647030",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2558962/items/U4CSXD22"
+            },
+            "dateAdded": "2020-09-10T17:09:03Z",
+            "dateModified": "2020-09-11T13:20:52Z",
+            "pmid": "30647030"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T13:03:38Z",
+                "timestamp": 1588943018854
+            },
+            "reference-count": 50,
+            "publisher": "BMJ",
+            "issue": "1",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>The establishment of the Family Physician (FP) programme in the rural areas of Iran in 2005 has made health services accessible and affordable. This paper aims to assess the overall trends of maternal and child health (MCH) indicators in a 20-year period and possible effects of the FP programme (intervention) on these indicators in Iran.</jats:p></jats:sec><jats:sec><jats:title>Design and setting</jats:title><jats:p>An interrupted time series analysis was conducted on 20 annual MCH-related data points from 1994 to 2013. The intervention time was at the 12th data point in 2005.</jats:p></jats:sec><jats:sec><jats:title>Outcomes</jats:title><jats:p>MCH indicators were grouped into three categories:<jats:italic>structure</jats:italic>(mother\u2019s age, education, occupation and gravidity),<jats:italic>process</jats:italic>(number of antenatal care visits (ACVs), laboratory tests, ultrasounds and natural vaginal deliveries (NVDs)) and<jats:italic>outcomes</jats:italic>(maternal mortality ratio (MMR), neonatal mortality rate (NMR), birth weight (BW), history of abortion and/or stillbirth, and haemoglobin level (Hb)).</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The adjusted slope of the ACV trend decreased sharply after the intervention (b=\u22120.36, p&lt;0.01), whereas it increased for the frequency of ultrasounds (b=0.2, p&lt;0.01) and did not change for number of laboratory tests (b=\u22120.09, p=0.95). The intensification of the descending slope observed for NVD (b=\u22121.91, p=0.03) disappeared after the adjustment for structural confounders (b=1.33, p=0.26). There was no significant slope change for MMR (b=1.12, p=0.28) and NMR (b=0.67, p=0.07) after the intervention. The slope for the history of abortion trend was constant before and after the intervention, but it considerably intensified for the history of stillbirths after the intervention (b=1.72, p&lt;0.01). The decreasing trend of BW turned into a constant mode after the intervention (b=33.2, p&lt;0.01), but no change was observed for Hb (b=\u22120.02, p=0.78).</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Although the FP programme had a positive effect on the<jats:italic>process</jats:italic>and proximal<jats:italic>outcome</jats:italic>indicators (BW), no dramatic effect on mortality outcome indicators was distinguished. It shows that there should be determinants or mediators of mortality<jats:italic>outcomes</jats:italic>in this setting, other than accessibility and affordability of MCH services.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2018-021761",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        15
+                    ]
+                ],
+                "date-time": "2019-01-15T14:50:17Z",
+                "timestamp": 1547563817000
+            },
+            "page": "e021761",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Impact of rural Family Physician programme on maternal and child health indicators in Iran: an interrupted time series analysis",
+            "prefix": "10.1136",
+            "volume": "9",
+            "author": [
+                {
+                    "given": "Hossein",
+                    "family": "Jabbari Beyrami",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Leila",
+                    "family": "Doshmangir",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ayat",
+                    "family": "Ahmadi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mohammad",
+                    "family": "Asghari Jafarabadi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Esmaeil",
+                    "family": "Khedmati Morasae",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Vladimir S",
+                    "family": "Gordeev",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050713415964000_9.1.e021761.1",
+                    "DOI": "10.1016/S0140-6736(04)16987-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.2",
+                    "unstructured": "World Health Organization. Declaration of Alma-Ata. International Conference on Primary Health Care, Alma-Ata, USSR, 6-12 September 1978. 1978 http://www.who.int/publications/almaata_declaration_en.pdf"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.3",
+                    "DOI": "10.1093/fampra/cmt025",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "256",
+                    "DOI": "10.4103/0019-557X.146284",
+                    "article-title": "Relationship between job satisfaction and performance of primary care physicians after the family physician reform of east Azerbaijan province in Northwest Iran",
+                    "volume": "58",
+                    "author": "Jabbari",
+                    "year": "2014",
+                    "journal-title": "Indian J Public Health"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.5",
+                    "first-page": "574",
+                    "article-title": "Improvement in health indicators of islamic republic of iran in the years 2004 and 2008",
+                    "volume": "13",
+                    "author": "Goudarzi",
+                    "year": "2011",
+                    "journal-title": "Iran Red Crescent Med J"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.6",
+                    "first-page": "1156",
+                    "article-title": "Status of Iran\u2019s Primary Health Care System in Terms of Health Systems Control Knobs: A Review Article",
+                    "volume": "46",
+                    "author": "Tabrizi",
+                    "year": "2017",
+                    "journal-title": "Iran J Public Health"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.7",
+                    "unstructured": "World Health Organization. The world health report 2008: primary health care now more than ever. 2008. Geneva: WHO, 2015."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "942",
+                    "DOI": "10.2471/BLT.12.111708",
+                    "article-title": "The impact of rural health system reform on hospitalization rates in the Islamic Republic of Iran: an interrupted time series",
+                    "volume": "91",
+                    "author": "Rashidian",
+                    "year": "2013",
+                    "journal-title": "Bull World Health Organ"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "585",
+                    "DOI": "10.2471/BLT.08.030808",
+                    "article-title": "Iranian health houses open the door to primary care",
+                    "volume": "86",
+                    "author": "Anon",
+                    "year": "2008",
+                    "journal-title": "Bull World Health Organ"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.10",
+                    "DOI": "10.1093/heapol/czq036",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.11",
+                    "unstructured": "Ministry of Health and Medical Education. Family physician program and rural health insurance plan. Iran Ministry of Health and Medical Education, 2016. Practical Guide."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.12",
+                    "DOI": "10.1016/S0140-6736(08)61408-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "30",
+                    "DOI": "10.15171/jarcm.2015.005",
+                    "article-title": "What is the relationship between family physicians\u2019 job satisfaction associated and their educational performance?",
+                    "volume": "3",
+                    "author": "Jabbari",
+                    "year": "2015",
+                    "journal-title": "Journal of Analytical Research in Clinical Medicine"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "321",
+                    "DOI": "10.15171/jcs.2015.032",
+                    "article-title": "Reproductive health of women in rural areas of East Azerbaijan\u2014Iran, before and after implementation of rural Family Physician program: an ecologic study",
+                    "volume": "4",
+                    "author": "Alizadeh",
+                    "year": "2015",
+                    "journal-title": "J Caring Sci"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.15",
+                    "DOI": "10.1016/j.puhe.2010.02.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.16",
+                    "first-page": "776",
+                    "article-title": "Family physician program in Iran: considerations for adapting the policy in urban settings",
+                    "volume": "17",
+                    "author": "Khayatzadeh-Mahani",
+                    "year": "2014",
+                    "journal-title": "Arch Iran Med"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "260",
+                    "DOI": "10.5539/gjhs.v7n3p260",
+                    "article-title": "Family medicine in Iran: facing the health system challenges",
+                    "volume": "7",
+                    "author": "Esmaeili",
+                    "year": "2014",
+                    "journal-title": "Glob J Health Sci"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "21",
+                    "DOI": "10.1186/s12963-017-0138-0",
+                    "article-title": "Impact of rural family physician program on child mortality rates in Iran: a time-series study",
+                    "volume": "15",
+                    "author": "Naderimagham",
+                    "year": "2017",
+                    "journal-title": "Popul Health Metr"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.19",
+                    "DOI": "10.1057/jphp.2011.7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "195",
+                    "DOI": "10.5455/msm.2014.26.195-197",
+                    "article-title": "Situational analysis of human resources in family physician program: survey from iran",
+                    "volume": "26",
+                    "author": "Kalhor",
+                    "year": "2014",
+                    "journal-title": "Mater Sociomed"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "182",
+                    "DOI": "10.15171/jarcm.2016.032",
+                    "article-title": "Nine years of publications on strengths and weaknesses of Family Physician Program in rural area of Iran: a systematic review",
+                    "volume": "4",
+                    "author": "Azami-Aghdash",
+                    "year": "2016",
+                    "journal-title": "J Anal Res Clin Med"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.22",
+                    "DOI": "10.1016/S0168-8510(03)00025-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.23",
+                    "first-page": "348",
+                    "article-title": "Interrupted time series regression for the evaluation of public health interventions: a tutorial",
+                    "volume": "46",
+                    "author": "Bernal",
+                    "year": "2017",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.24",
+                    "DOI": "10.1016/j.socscimed.2017.01.049",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.25",
+                    "DOI": "10.1016/S0140-6736(11)60177-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.26",
+                    "DOI": "10.1136/jech.2005.038323",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.27",
+                    "DOI": "10.1016/S0140-6736(14)61646-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.28",
+                    "DOI": "10.1016/S0968-8080(12)39611-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.29",
+                    "DOI": "10.1016/S0140-6736(11)60138-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.30",
+                    "DOI": "10.1016/S0140-6736(12)61147-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e305",
+                    "DOI": "10.1016/S2214-109X(16)00068-1",
+                    "article-title": "Universal health coverage in Iran",
+                    "volume": "4",
+                    "author": "Mousavi",
+                    "year": "2016",
+                    "journal-title": "Lancet Glob Health"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.32",
+                    "unstructured": "Mukiapini S . Baseline measures of Primary Health Care Team functioning and overall Primary Health Care performance at Du Noon Community Health Centre: University of Cape Town, 2017.",
+                    "DOI": "10.4102/phcfm.v10i1.1458",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "491",
+                    "DOI": "10.1186/s12913-015-1151-2",
+                    "article-title": "Assessing the performance of maternity care in Europe: a critical exploration of tools and indicators",
+                    "volume": "15",
+                    "author": "Escuriet",
+                    "year": "2015",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1725",
+                    "DOI": "10.1016/S0140-6736(16)31575-6",
+                    "article-title": "Global, regional, national, and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality, 1980\u20132015: a systematic analysis for the Global Burden of Disease Study 2015",
+                    "volume": "388",
+                    "author": "Wang",
+                    "year": "2016",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.35",
+                    "unstructured": "Craven B , Islam S . Ordinary least-squares regression: Sage Publications, 2011."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.36",
+                    "unstructured": "Jabbari BH , Gasemzade H , Bakhshian F , et al . Evaluation of Family Physician Program Based on Family Health Indices, 2012."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.4103/2230-8229.128761",
+                    "article-title": "Effectiveness of presence of physician and midwife in quantity and quality of family planning services in health care centers",
+                    "volume": "21",
+                    "author": "Jabbari",
+                    "year": "2014",
+                    "journal-title": "J Family Community Med"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.38",
+                    "unstructured": "De Maeseneer J , Willems S , De Sutter A , et al . Primary health care as a strategy for achieving equitable care: a literature review commissioned by the Health Systems Knowledge Network, 2007."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "159",
+                    "DOI": "10.1186/1472-6963-11-159",
+                    "article-title": "Cesarean section rate in Iran, multidimensional approaches for behavioral change of providers: a qualitative study",
+                    "volume": "11",
+                    "author": "Yazdizadeh",
+                    "year": "2011",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.40",
+                    "first-page": "626",
+                    "article-title": "Antenatal Micronutrient Supplementation Relationship with Children\u2019s Weight and Height from Birth up to the Age of 18 Months",
+                    "volume": "42",
+                    "author": "Jabbari",
+                    "year": "2013",
+                    "journal-title": "Iran J Public Health"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.41",
+                    "unstructured": "Alizadeh M , Jabbari BH , Moradi S . Analysis of trends in birth outcomes and fertility measurs in the rural population of East Azerbaijan province, Iran: 2001\u20132013, 2015."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.42",
+                    "unstructured": "Saltman R , Bankauskaite V , Vrangbaek K . Primary care in the driver\u2019s seat?: Organizational reform in European primary care: McGraw-Hill Education (UK), 2005."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.43",
+                    "DOI": "10.1186/1471-2296-11-81",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "277",
+                    "DOI": "10.5455/msm.2014.26.277-286",
+                    "article-title": "Public health aspects of the family medicine concepts in South eastern europe",
+                    "volume": "26",
+                    "author": "Masic",
+                    "year": "2014",
+                    "journal-title": "Mater Sociomed"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.45",
+                    "DOI": "10.1186/1471-2393-8-12",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.46",
+                    "first-page": "152",
+                    "article-title": "The relationship between social determinants of health and pregnancy outcomes: a retrospective cohort study in Tabriz",
+                    "volume": "3",
+                    "author": "Alizadeh",
+                    "year": "2014",
+                    "journal-title": "Journal of Clinical Research & Governance"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.47",
+                    "unstructured": "Mc Donagh M , Goodburn E . Maternal health and health sector reform: opportunities and challenges. Safe motherhood strategies: a review of the evidence 2001."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.48",
+                    "unstructured": "Statistical Centre of Iran. Iranian national census of population and housing. 2016. Available in http://irandataportal.syr.edu/census/census-2016."
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.49",
+                    "first-page": "632",
+                    "article-title": "Islamic Republic of Iran\u2019s Multiple Indicator Demographic and Healh Survey",
+                    "volume": "5",
+                    "author": "Rashidian",
+                    "year": "2014",
+                    "journal-title": "Int J Prev Med"
+                },
+                {
+                    "key": "2020050713415964000_9.1.e021761.50",
+                    "unstructured": "Distric Health Profile. Health data center. 2018. Available in: https://eazphcp.tbzmed.ac.ir."
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2018-021761",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2020-05-07T22:16:27Z",
+                "timestamp": 1588889787000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 50,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            15
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2018-021761"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2018-021761",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Iran",
+                        "family physician",
+                        "health reform",
+                        "interrupted time series analysis",
+                        "maternal and child health indicators"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30647030",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "01",
+                    "Day": "15"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "09"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2018-021761"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "01",
+                            "Day": "15"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "9",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "01",
+                                "Day": "15"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Impact of rural Family Physician programme on maternal and child health indicators in Iran: an interrupted time series analysis.",
+                    "Pagination": {
+                        "MedlinePgn": "e021761"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The establishment of the Family Physician (FP) programme in the rural areas of Iran in 2005 has made health services accessible and affordable. This paper aims to assess the overall trends of maternal and child health (MCH) indicators in a 20-year period and possible effects of the FP programme (intervention) on these indicators in Iran.",
+                            "An interrupted time series analysis was conducted on 20 annual MCH-related data points from 1994 to 2013. The intervention time was at the 12th data point in 2005.",
+                            "MCH indicators were grouped into three categories: <i>structure</i> (mother's age, education, occupation and gravidity), <i>process</i> (number of antenatal care visits (ACVs), laboratory tests, ultrasounds and natural vaginal deliveries (NVDs)) and <i>outcomes</i> (maternal mortality ratio (MMR), neonatal mortality rate (NMR), birth weight (BW), history of abortion and/or stillbirth, and haemoglobin level (Hb)).",
+                            "The adjusted slope of the ACV trend decreased sharply after the intervention (b=-0.36, p<0.01), whereas it increased for the frequency of ultrasounds (b=0.2, p<0.01) and did not change for number of laboratory tests (b=-0.09, p=0.95). The intensification of the descending slope observed for NVD (b=-1.91, p=0.03) disappeared after the adjustment for structural confounders (b=1.33, p=0.26). There was no significant slope change for MMR (b=1.12, p=0.28) and NMR (b=0.67, p=0.07) after the intervention. The slope for the history of abortion trend was constant before and after the intervention, but it considerably intensified for the history of stillbirths after the intervention (b=1.72, p<0.01). The decreasing trend of BW turned into a constant mode after the intervention (b=33.2, p<0.01), but no change was observed for Hb (b=-0.02, p=0.78).",
+                            "Although the FP programme had a positive effect on the <i>process</i> and proximal <i>outcome</i> indicators (BW), no dramatic effect on mortality outcome indicators was distinguished. It shows that there should be determinants or mediators of mortality <i>outcomes</i> in this setting, other than accessibility and affordability of MCH services."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Community Medicine, School of Medicine, Iranian Center of Excellence in Health Management, Tabriz University of Medical Sciences, Tabriz, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jabbari Beyrami",
+                            "ForeName": "Hossein",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Services Management Research Center, Iranian Center of Excellence in Health Management, School of Management and Medical Informatics, Tabriz University of Medical Sciences, Tabriz, Iran."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social Determinants of Health Research Center, Tabriz University of Medical Sciences, Tabriz, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Doshmangir",
+                            "ForeName": "Leila",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Knowledge Utilization Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ahmadi",
+                            "ForeName": "Ayat",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Road Traffic Injury Research Center, Tabriz University of Medical Sciences, Tabriz, Iran."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Statistics and Epidemiology, Faculty of Health, Tabriz University of Medical Sciences, Tabriz, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Asghari Jafarabadi",
+                            "ForeName": "Mohammad",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health and Society, Health Services Research Department, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Khedmati Morasae",
+                            "ForeName": "Esmaeil",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gordeev",
+                            "ForeName": "Vladimir S",
+                            "Initials": "VS"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Evaluation Study",
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Child Mortality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child, Preschool",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Family Practice",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Government Programs",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Infant Mortality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant, Newborn",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Interrupted Time Series Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Iran",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Maternal Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Maternal Mortality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Maternal-Child Health Services",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "supply & distribution"
+                        ],
+                        "DescriptorName": "Physicians, Family",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Pregnancy Outcome",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Primary Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Program Evaluation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Rural Health Services",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Rural Population",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Workforce",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Iran Red Crescent Med J. 2011 Aug;13(8):574-7",
+                                "ArticleIdList": [
+                                    "22737528"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 2017 Feb 1;46(1):348-355",
+                                "ArticleIdList": [
+                                    "27283160"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2004 Sep 4-10;364(9437):900-6",
+                                "ArticleIdList": [
+                                    "15351199"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2012 Sep 8;380(9845):933-43",
+                                "ArticleIdList": [
+                                    "22959390"
+                                ]
+                            },
+                            {
+                                "Citation": "Mater Sociomed. 2014 Aug;26(4):277-86",
+                                "ArticleIdList": [
+                                    "25395894"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy Plan. 2011 Mar;26(2):163-73",
+                                "ArticleIdList": [
+                                    "20732859"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2015 Nov 02;15:491",
+                                "ArticleIdList": [
+                                    "26525577"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2011 Jul 05;11:159",
+                                "ArticleIdList": [
+                                    "21729279"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2011 May 28;377(9780):1863-76",
+                                "ArticleIdList": [
+                                    "21561656"
+                                ]
+                            },
+                            {
+                                "Citation": "Indian J Public Health. 2014 Oct-Dec;58(4):256-60",
+                                "ArticleIdList": [
+                                    "25491517"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health. 2010 Mar;124(3):153-8",
+                                "ArticleIdList": [
+                                    "20226486"
+                                ]
+                            },
+                            {
+                                "Citation": "J Family Community Med. 2014 Jan;21(1):1-5",
+                                "ArticleIdList": [
+                                    "24695960"
+                                ]
+                            },
+                            {
+                                "Citation": "Mater Sociomed. 2014 Jun;26(3):195-7",
+                                "ArticleIdList": [
+                                    "25126016"
+                                ]
+                            },
+                            {
+                                "Citation": "Bull World Health Organ. 2013 Dec 1;91(12):942-9",
+                                "ArticleIdList": [
+                                    "24347733"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Fam Pract. 2010 Oct 27;11:81",
+                                "ArticleIdList": [
+                                    "20979612"
+                                ]
+                            },
+                            {
+                                "Citation": "Reprod Health Matters. 2012 Jun;20(39):50-61",
+                                "ArticleIdList": [
+                                    "22789082"
+                                ]
+                            },
+                            {
+                                "Citation": "Afr J Prim Health Care Fam Med. 2018 Sep 05;10(1):e1-e11",
+                                "ArticleIdList": [
+                                    "30198287"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Iran Med. 2014 Nov;17(11):776-8",
+                                "ArticleIdList": [
+                                    "25365620"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2011 Apr 23;377(9775):1421-8",
+                                "ArticleIdList": [
+                                    "21515164"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Prev Med. 2014 May;5(5):632-42",
+                                "ArticleIdList": [
+                                    "24932396"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 2003 Oct;66(1):51-9",
+                                "ArticleIdList": [
+                                    "14499165"
+                                ]
+                            },
+                            {
+                                "Citation": "Fam Pract. 2013 Oct;30(5):551-9",
+                                "ArticleIdList": [
+                                    "23788202"
+                                ]
+                            },
+                            {
+                                "Citation": "Iran J Public Health. 2013 Jun 01;42(6):626-34",
+                                "ArticleIdList": [
+                                    "23967431"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2015 Mar 28;385(9974):1230-47",
+                                "ArticleIdList": [
+                                    "25458725"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Glob Health. 2016 May;4(5):e305-6",
+                                "ArticleIdList": [
+                                    "27102193"
+                                ]
+                            },
+                            {
+                                "Citation": "Iran J Public Health. 2017 Sep;46(9):1156-1166",
+                                "ArticleIdList": [
+                                    "29026780"
+                                ]
+                            },
+                            {
+                                "Citation": "J Caring Sci. 2015 Dec 01;4(4):321-30",
+                                "ArticleIdList": [
+                                    "26744731"
+                                ]
+                            },
+                            {
+                                "Citation": "Bull World Health Organ. 2008 Aug;86(8):585-6",
+                                "ArticleIdList": [
+                                    "18797612"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health Policy. 2011 May;32(2):263-76",
+                                "ArticleIdList": [
+                                    "21368846"
+                                ]
+                            },
+                            {
+                                "Citation": "Glob J Health Sci. 2014 Nov 30;7(3):260-6",
+                                "ArticleIdList": [
+                                    "25948450"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Pregnancy Childbirth. 2008 Apr 19;8:12",
+                                "ArticleIdList": [
+                                    "18423041"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2017 Mar;177:1-8",
+                                "ArticleIdList": [
+                                    "28152420"
+                                ]
+                            },
+                            {
+                                "Citation": "Popul Health Metr. 2017 Jun 2;15(1):21",
+                                "ArticleIdList": [
+                                    "28576122"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2016 Oct 8;388(10053):1725-1774",
+                                "ArticleIdList": [
+                                    "27733285"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2008 Sep 13;372(9642):990-1000",
+                                "ArticleIdList": [
+                                    "18790321"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2006 Jan;60(1):13-9",
+                                "ArticleIdList": [
+                                    "16361449"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "1",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "1",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "1",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "30647030",
+                    "bmjopen-2018-021761",
+                    "10.1136/bmjopen-2018-021761",
+                    "PMC6340439"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30647030)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830647030%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830647030%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060033681"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060033681?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060033681&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060033681&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060033681",
+                        "dc:identifier": "SCOPUS_ID:85060033681",
+                        "eid": "2-s2.0-85060033681",
+                        "dc:title": "Impact of rural Family Physician programme on maternal and child health indicators in Iran: An interrupted time series analysis",
+                        "dc:creator": "Jabbari Beyrami H.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "9",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-01-01",
+                        "prism:coverDisplayDate": "1 January 2019",
+                        "prism:doi": "10.1136/bmjopen-2018-021761",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Tabriz University of Medical Sciences",
+                                "affiliation-city": "Tabriz",
+                                "affiliation-country": "Iran"
+                            }
+                        ],
+                        "pubmed-id": "30647030",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e021761",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "4NIKRSTH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30647030"
+            }
+        },
+        "title": "Impact of rural Family Physician programme on maternal and child health indicators in Iran: an interrupted time series analysis.",
+        "full_author_list": [
+            {
+                "clean": "Jabbari Beyrami H",
+                "family": "Jabbari Beyrami",
+                "given": "Hossein",
+                "affiliation": {
+                    "name": "Department of Community Medicine, School of Medicine, Iranian Center of Excellence in Health Management, Tabriz University of Medical Sciences, Tabriz, Iran."
+                }
+            },
+            {
+                "clean": "Doshmangir L",
+                "family": "Doshmangir",
+                "given": "Leila",
+                "affiliation": {
+                    "name": "Health Services Management Research Center, Iranian Center of Excellence in Health Management, School of Management and Medical Informatics, Tabriz University of Medical Sciences, Tabriz, Iran."
+                }
+            },
+            {
+                "clean": "Ahmadi A",
+                "family": "Ahmadi",
+                "given": "Ayat",
+                "affiliation": {
+                    "name": "Knowledge Utilization Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Asghari Jafarabadi M",
+                "family": "Asghari Jafarabadi",
+                "given": "Mohammad",
+                "affiliation": {
+                    "name": "Road Traffic Injury Research Center, Tabriz University of Medical Sciences, Tabriz, Iran."
+                }
+            },
+            {
+                "clean": "Khedmati Morasae E",
+                "family": "Khedmati Morasae",
+                "given": "Esmaeil",
+                "affiliation": {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health and Society, Health Services Research Department, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gordeev V",
+                "family": "Gordeev",
+                "given": "Vladimir S",
+                "affiliation": {
+                    "name": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+                }
+            }
+        ],
+        "first_author": "Jabbari Beyrami H",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Child Health",
+                    "major": "N"
+                },
+                {
+                    "term": "Child Mortality",
+                    "major": "N"
+                },
+                {
+                    "term": "Child, Preschool",
+                    "major": "N"
+                },
+                {
+                    "term": "Family Practice",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Government Programs",
+                    "major": "Y"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant Mortality",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant, Newborn",
+                    "major": "N"
+                },
+                {
+                    "term": "Interrupted Time Series Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Iran",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Maternal Health",
+                    "major": "N"
+                },
+                {
+                    "term": "Maternal Mortality",
+                    "major": "N"
+                },
+                {
+                    "term": "Maternal-Child Health Services",
+                    "major": "Y"
+                },
+                {
+                    "term": "Physicians, Family",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy Outcome",
+                    "major": "N"
+                },
+                {
+                    "term": "Primary Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Program Evaluation",
+                    "major": "N"
+                },
+                {
+                    "term": "Rural Health Services",
+                    "major": "Y"
+                },
+                {
+                    "term": "Rural Population",
+                    "major": "N"
+                },
+                {
+                    "term": "Workforce",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "9",
+            "issue": "1"
+        },
+        "abstract": "['The establishment of the Family Physician (FP) programme in the rural areas of Iran in 2005 has made health services accessible and affordable. This paper aims to assess the overall trends of maternal and child health (MCH) indicators in a 20-year period and possible effects of the FP programme (intervention) on these indicators in Iran.', 'An interrupted time series analysis was conducted on 20 annual MCH-related data points from 1994 to 2013. The intervention time was at the 12th data point in 2005.', \"MCH indicators were grouped into three categories: <i>structure</i> (mother's age, education, occupation and gravidity), <i>process</i> (number of antenatal care visits (ACVs), laboratory tests, ultrasounds and natural vaginal deliveries (NVDs)) and <i>outcomes</i> (maternal mortality ratio (MMR), neonatal mortality rate (NMR), birth weight (BW), history of abortion and/or stillbirth, and haemoglobin level (Hb)).\", 'The adjusted slope of the ACV trend decreased sharply after the intervention (b=-0.36, p<0.01), whereas it increased for the frequency of ultrasounds (b=0.2, p<0.01) and did not change for number of laboratory tests (b=-0.09, p=0.95). The intensification of the descending slope observed for NVD (b=-1.91, p=0.03) disappeared after the adjustment for structural confounders (b=1.33, p=0.26). There was no significant slope change for MMR (b=1.12, p=0.28) and NMR (b=0.67, p=0.07) after the intervention. The slope for the history of abortion trend was constant before and after the intervention, but it considerably intensified for the history of stillbirths after the intervention (b=1.72, p<0.01). The decreasing trend of BW turned into a constant mode after the intervention (b=33.2, p<0.01), but no change was observed for Hb (b=-0.02, p=0.78).', 'Although the FP programme had a positive effect on the <i>process</i> and proximal <i>outcome</i> indicators (BW), no dramatic effect on mortality outcome indicators was distinguished. It shows that there should be determinants or mediators of mortality <i>outcomes</i> in this setting, other than accessibility and affordability of MCH services.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Community Medicine, School of Medicine, Iranian Center of Excellence in Health Management, Tabriz University of Medical Sciences, Tabriz, Iran."
+        }
+    }
+}

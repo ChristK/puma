@@ -1,0 +1,792 @@
+{
+    "IDs": {
+        "zotero": "FHIQ2M98",
+        "DOI": "10.1080/09638237.2017.1294736",
+        "DOI_filename": "570cef7c490b885a5c6d1b0036b9ead3",
+        "PMID": "28635435",
+        "scopus": "2-s2.0-85014442973",
+        "hash": "7ef4872a91cbba0de441ce33cec88ce5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "FHIQ2M98",
+            "version": 145,
+            "itemType": "journalArticle",
+            "title": "GPs\u2019 views and perspectives on patient non-adherence to treatment in primary care prior to suicide",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Pooja",
+                    "lastName": "Saini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Khatidja",
+                    "lastName": "Chantler"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Navneet",
+                    "lastName": "Kapur"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Mental Health",
+            "volume": "27",
+            "issue": "2",
+            "pages": "112-119",
+            "date": "2018-03-04",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Journal of Mental Health",
+            "language": "en",
+            "DOI": "10.1080/09638237.2017.1294736",
+            "ISSN": "0963-8237, 1360-0567",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09638237.2017.1294736",
+            "accessDate": "2020-09-10T17:09:22Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28635435",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:22Z",
+            "dateModified": "2020-09-15T12:17:53Z",
+            "pmid": "28635435"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        2
+                    ]
+                ],
+                "date-time": "2020-09-02T18:24:03Z",
+                "timestamp": 1599071043328
+            },
+            "reference-count": 36,
+            "publisher": "Informa UK Limited",
+            "issue": "2",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        4
+                    ]
+                ]
+            },
+            "DOI": "10.1080/09638237.2017.1294736",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        20
+                    ]
+                ],
+                "date-time": "2017-07-20T13:13:55Z",
+                "timestamp": 1500556435000
+            },
+            "page": "112-119",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "GPs\u2019 views and perspectives on patient non-adherence to treatment in primary care prior to suicide",
+            "prefix": "10.1080",
+            "volume": "27",
+            "author": [
+                {
+                    "given": "Pooja",
+                    "family": "Saini",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research, NIHR CLAHRC NWC, University of Liverpool, Liverpool, UK,"
+                        }
+                    ]
+                },
+                {
+                    "given": "Khatidja",
+                    "family": "Chantler",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Social Work, University of Central Lancashire, Preston, UK, and"
+                        }
+                    ]
+                },
+                {
+                    "given": "Navneet",
+                    "family": "Kapur",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Centre for Mental Health and Risk, University of Manchester, Manchester, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        3
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "author": "\u00c5kerblad AC",
+                    "volume": "2",
+                    "first-page": "379",
+                    "year": "2008",
+                    "journal-title": "Pat Prefer Adher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1111/j.1365-2850.2011.01809.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "author": "Amador X.",
+                    "year": "2010",
+                    "volume-title": "I am not sick. I don\u2019t need help"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1080/14681994.2011.567259",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "author": "Bentall RP.",
+                    "year": "2009",
+                    "volume-title": "Doctoring the mind. Why psychiatric treatments fail"
+                },
+                {
+                    "key": "CIT0006",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1002/14651858.CD007131.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "unstructured": "Department of Health (DH). (2012). Preventing suicide in England: A cross-government outcomes strategy to save live. Available from: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/216928/Preventing-Suicide-in-England-A-cross-government-outcomes-strategy-to-save-lives.pdf [last assessed 16 Dec 2015]"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1136/bmj.f7140",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.2147/PPA.S44894",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.4088/JCP.9096su1cc.04",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1177/070674370905400802",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1007/s11606-011-1704-y",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.2147/PROM.S42735",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1192/bjp.187.1.9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "DOI": "10.1002/j.2051-5545.2011.tb00014.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1177/2045125312474019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1016/j.psychres.2011.04.016",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.3109/09638237.2015.1124394",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1093/fampra/cmh409",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1080/10826080802297005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "DOI": "10.1080/00952990701764623",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1007/s10198-005-0300-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "unstructured": "National Confidential Inquiry into Suicide and Homicide by People with Mental Illness (NCISH). (2014a). Suicide in Primary Care in England: 2002\u20132011. Manchester: University of Manchester"
+                },
+                {
+                    "key": "CIT0031",
+                    "unstructured": "National Confidential Inquiry into Suicide and Homicide by People with Mental Illness (NCISH). (2014b). Annual Report 2014. Available from: http://www.bbmh.manchester.ac.uk/cmhr/centreforsuicideprevention/nci/reports/Annualreport2014.pdf [last accessed 16 Dec 2015]"
+                },
+                {
+                    "key": "CIT0032",
+                    "unstructured": "National Institute for Health and Clinical Excellence (NICE). (2004). Depression: Management of Depression in Primary and Secondary Care \u2013 NICE Guidelines CG23. NHS, UK"
+                },
+                {
+                    "key": "CIT0033",
+                    "DOI": "10.1016/j.psychres.2009.05.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0034",
+                    "DOI": "10.3399/bjgp09X472881",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0035",
+                    "unstructured": "Rickleman BL. (2004) Anasognosia in individuals with schizophrenia: Toward recovery of insight. Iss Ment Health Nurs, 25, 227\u2013242",
+                    "DOI": "10.1080/01612840490274741",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "CIT0036",
+                    "DOI": "10.1186/1756-0500-3-246",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0037",
+                    "author": "Saini P",
+                    "volume": "18",
+                    "first-page": "1",
+                    "year": "2014",
+                    "journal-title": "Crisis"
+                },
+                {
+                    "key": "CIT0038",
+                    "DOI": "10.1111/hsc.12198",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0039",
+                    "DOI": "10.1016/j.genhosppsych.2004.06.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0040",
+                    "DOI": "10.1016/S0010-440X(98)90031-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0042",
+                    "author": "Tacchi MJ",
+                    "year": "2005",
+                    "volume-title": "Improving adherence in schizophrenia and bipolar disorders"
+                },
+                {
+                    "key": "CIT0043",
+                    "unstructured": "WHO. (2003). Adherence to long-term therapies: Evidence for action. Geneva: World Health Organization. Available from: http://whqlibdoc.who.int/publications/2003/9241545992.pdf [last accessed 16 Dec 2015]"
+                }
+            ],
+            "container-title": "Journal of Mental Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09638237.2017.1294736",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        22
+                    ]
+                ],
+                "date-time": "2018-02-22T12:37:11Z",
+                "timestamp": 1519303031000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 36,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            3,
+                            2
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            3,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1080/09638237.2017.1294736"
+            ],
+            "URL": "http://dx.doi.org/10.1080/09638237.2017.1294736",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0963-8237",
+                "1360-0567"
+            ],
+            "container-title-short": "Journal of Mental Health",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmh20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ijmh20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Suicide",
+                        "mental health",
+                        "non-adherence",
+                        "primary care",
+                        "secondary care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28635435",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "08",
+                    "Day": "15"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "08",
+                    "Day": "15"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1080/09638237.2017.1294736"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "03",
+                            "Day": "01"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1360-0567",
+                        "JournalIssue": {
+                            "Volume": "27",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "Apr"
+                            }
+                        },
+                        "Title": "Journal of mental health (Abingdon, England)",
+                        "ISOAbbreviation": "J Ment Health"
+                    },
+                    "ArticleTitle": "GPs' views and perspectives on patient non-adherence to treatment in primary care prior to suicide.",
+                    "Pagination": {
+                        "MedlinePgn": "112-119"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Individuals who do not adhere to their treatment regimens may be at greater risk of suicide but these issues are relatively unexplored in primary care services.",
+                            "To explore GPs' views and perspectives on the reasons why patients who were in contact with mental health services in the year prior to suicide was non-adherent to treatment prior to their death.",
+                            "In total, 198 semi-structured face-to-face interviews with GPs of people who had died by suicide. Interviews were transcribed verbatim and analyzed using a thematic approach.",
+                            "The following themes were conceptualized from GP interviews: (i) \"Lack of insight or denial?\" relates to what GPs perceived as their patients lack of insight into their psychiatric illness; (ii) \"Lack of treatment choices\" discusses GPs' understanding of patient treatment choices; (iii) \"Services for comorbidity and dual diagnosis\" refers to treatment availability for suicidal patients with two or more mental health diagnoses.",
+                            "For suicide prevention, it is crucial for health professionals to assess patients and manage the possible causes of non-adherence. Policies for increasing treatment adherence, improving services for dual diagnosis, or providing alternative treatments to meet individual patient needs may help to achieve the best health outcomes and could potentially prevent suicide."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "a Department of Health Services Research , NIHR CLAHRC NWC, University of Liverpool , Liverpool , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Saini",
+                            "ForeName": "Pooja",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "b School of Social Work, University of Central Lancashire , Preston , UK , and."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chantler",
+                            "ForeName": "Khatidja",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "c Centre for Mental Health and Risk, University of Manchester , Manchester , UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kapur",
+                            "ForeName": "Navneet",
+                            "Initials": "N"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Ment Health",
+                    "NlmUniqueID": "9212352",
+                    "ISSNLinking": "0963-8237"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Attitude of Health Personnel",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "General Practitioners",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Medication Adherence",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Suicide",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28635435",
+                    "10.1080/09638237.2017.1294736"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28635435)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828635435%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828635435%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014442973"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014442973?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85014442973&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85014442973&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85014442973",
+                        "dc:identifier": "SCOPUS_ID:85014442973",
+                        "eid": "2-s2.0-85014442973",
+                        "dc:title": "GPs\u2019 views and perspectives on patient non-adherence to treatment in primary care prior to suicide",
+                        "dc:creator": "Saini P.",
+                        "prism:publicationName": "Journal of Mental Health",
+                        "prism:issn": "09638237",
+                        "prism:eIssn": "13600567",
+                        "prism:volume": "27",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "112-119",
+                        "prism:coverDate": "2018-03-04",
+                        "prism:coverDisplayDate": "4 March 2018",
+                        "prism:doi": "10.1080/09638237.2017.1294736",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28635435",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16727",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "FHIQ2M98.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28635435"
+            }
+        },
+        "title": "GPs' views and perspectives on patient non-adherence to treatment in primary care prior to suicide.",
+        "full_author_list": [
+            {
+                "clean": "Saini P",
+                "family": "Saini",
+                "given": "Pooja",
+                "affiliation": {
+                    "name": "a Department of Health Services Research , NIHR CLAHRC NWC, University of Liverpool , Liverpool , UK."
+                }
+            },
+            {
+                "clean": "Chantler K",
+                "family": "Chantler",
+                "given": "Khatidja",
+                "affiliation": {
+                    "name": "b School of Social Work, University of Central Lancashire , Preston , UK , and."
+                }
+            },
+            {
+                "clean": "Kapur N",
+                "family": "Kapur",
+                "given": "Navneet",
+                "affiliation": {
+                    "name": "c Centre for Mental Health and Risk, University of Manchester , Manchester , UK."
+                }
+            }
+        ],
+        "first_author": "Saini P",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Attitude of Health Personnel",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "General Practitioners",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Medication Adherence",
+                    "major": "Y"
+                },
+                {
+                    "term": "Suicide",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Ment Health",
+            "volume": "27",
+            "issue": "2"
+        },
+        "abstract": "['Individuals who do not adhere to their treatment regimens may be at greater risk of suicide but these issues are relatively unexplored in primary care services.', \"To explore GPs' views and perspectives on the reasons why patients who were in contact with mental health services in the year prior to suicide was non-adherent to treatment prior to their death.\", 'In total, 198 semi-structured face-to-face interviews with GPs of people who had died by suicide. Interviews were transcribed verbatim and analyzed using a thematic approach.', 'The following themes were conceptualized from GP interviews: (i) \"Lack of insight or denial?\" relates to what GPs perceived as their patients lack of insight into their psychiatric illness; (ii) \"Lack of treatment choices\" discusses GPs\\' understanding of patient treatment choices; (iii) \"Services for comorbidity and dual diagnosis\" refers to treatment availability for suicidal patients with two or more mental health diagnoses.', 'For suicide prevention, it is crucial for health professionals to assess patients and manage the possible causes of non-adherence. Policies for increasing treatment adherence, improving services for dual diagnosis, or providing alternative treatments to meet individual patient needs may help to achieve the best health outcomes and could potentially prevent suicide.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "a Department of Health Services Research , NIHR CLAHRC NWC, University of Liverpool , Liverpool , UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

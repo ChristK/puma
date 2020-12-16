@@ -1,0 +1,846 @@
+{
+    "IDs": {
+        "zotero": "5Q2HZWDM",
+        "DOI": "10.1016/j.clon.2017.11.015",
+        "DOI_filename": "d8ce4b0dfb09fef4bec92b3dffbe6d51",
+        "PMID": "29248311",
+        "scopus": "2-s2.0-85039051273",
+        "hash": "cd03695d8518fae67ec5666014d6018b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "5Q2HZWDM",
+            "version": 120,
+            "itemType": "journalArticle",
+            "title": "A Cost-Effectiveness Analysis of Contact X-ray Brachytherapy for the Treatment of Patients with Rectal Cancer Following a Partial Response to Chemoradiotherapy",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Rao"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "F.M.",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.P.",
+                    "lastName": "Martin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.S.",
+                    "lastName": "Dhadda"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Stewart"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.",
+                    "lastName": "Gollins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Collins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T.",
+                    "lastName": "Athanasiou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.",
+                    "lastName": "Sun Myint"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Clinical Oncology",
+            "volume": "30",
+            "issue": "3",
+            "pages": "166-177",
+            "date": "03/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Clinical Oncology",
+            "language": "en",
+            "DOI": "10.1016/j.clon.2017.11.015",
+            "ISSN": "09366555",
+            "shortTitle": "",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0936655517304922",
+            "accessDate": "2020-09-10T17:10:30Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29248311",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:30Z",
+            "dateModified": "2020-09-11T14:55:32Z",
+            "pmid": "29248311"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2020-03-29T15:39:39Z",
+                "timestamp": 1585496379164
+            },
+            "reference-count": 44,
+            "publisher": "Elsevier BV",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                3,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-03-01T00:00:00Z",
+                        "timestamp": 1519862400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicaloncologyonline.net",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.clon.2017.11.015",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        14
+                    ]
+                ],
+                "date-time": "2017-12-14T04:44:19Z",
+                "timestamp": 1513226659000
+            },
+            "page": "166-177",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "A Cost-Effectiveness Analysis of Contact X-ray Brachytherapy for the Treatment of Patients with Rectal Cancer Following a Partial Response to Chemoradiotherapy",
+            "prefix": "10.1016",
+            "volume": "30",
+            "author": [
+                {
+                    "given": "C.",
+                    "family": "Rao",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "F.M.",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "A.P.",
+                    "family": "Martin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "A.S.",
+                    "family": "Dhadda",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "A.",
+                    "family": "Stewart",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "S.",
+                    "family": "Gollins",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "B.",
+                    "family": "Collins",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "T.",
+                    "family": "Athanasiou",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "A.",
+                    "family": "Sun Myint",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Clinical Oncology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0936655517304922?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0936655517304922?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        25
+                    ]
+                ],
+                "date-time": "2018-08-25T08:08:21Z",
+                "timestamp": 1535184501000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 44,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "S0936655517304922"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.clon.2017.11.015",
+            "relation": {},
+            "ISSN": [
+                "0936-6555"
+            ],
+            "container-title-short": "Clinical Oncology",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "A Cost-Effectiveness Analysis of Contact X-ray Brachytherapy for the Treatment of Patients with Rectal Cancer Following a Partial Response to Chemoradiotherapy",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Clinical Oncology",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.clon.2017.11.015",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2017 The Royal College of Radiologists. Published by Elsevier Ltd. All rights reserved.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Complete clinical response",
+                        "contact brachytherapy",
+                        "cost-effectiveness",
+                        "organ preservation",
+                        "rectal cancer",
+                        "watch and wait"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29248311",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "04",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "04",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0936-6555(17)30492-2",
+                        "10.1016/j.clon.2017.11.015"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "12",
+                            "Day": "14"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1433-2981",
+                        "JournalIssue": {
+                            "Volume": "30",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "03"
+                            }
+                        },
+                        "Title": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+                        "ISOAbbreviation": "Clin Oncol (R Coll Radiol)"
+                    },
+                    "ArticleTitle": "A Cost-Effectiveness Analysis of Contact X-ray Brachytherapy for the Treatment of Patients with Rectal Cancer Following a Partial Response to Chemoradiotherapy.",
+                    "Pagination": {
+                        "MedlinePgn": "166-177"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Following chemoradiotherapy in patients with rectal cancer, the addition of contact X-ray brachytherapy (CXB) in partial responders might increase the proportion of patients with a clinical complete response (cCR) and who are thus suitable for watch and wait management. However, the long-term cost-effectiveness of this approach has not been evaluated.",
+                            "Decision analytical modelling and a Markov simulation were used to compare long-term costs, quality-adjusted life years (QALYs) and cost-effectiveness from a third-party payer (National Health Service) perspective for treatment strategies after chemoradiotherapy; watch and wait with CXB when a cCR was not initially achieved after external beam radiotherapy (EBRT) (WW<sub>CXB</sub>), watch and wait with EBRT alone (WW<sub>EBRT</sub>) and radical surgery for all patients. The effect of uncertainty in model parameters and patient demographics was investigated.",
+                            "WW<sub>CXB</sub> had a higher QALY payoff than both radical surgery and WW<sub>EBRT</sub> and was less costly in most scenarios and demographic cohorts. In all plausible scenarios, WW<sub>CXB</sub> was the most cost-effective, at a threshold of \u00a320\u00a0000/QALY. This finding was insensitive to uncertainty associated with model parameters.",
+                            "WW<sub>CXB</sub> is likely to be cost-effective compared with both WW<sub>EBRT</sub> alone and radical surgery. These findings support the use of CXB boost as an adjunct to a watch and wait strategy."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2017 The Royal College of Radiologists. Published by Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Queen Elizabeth Hospital, Woolwich, London, UK. Electronic address: christopher.rao@nhs.net."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rao",
+                            "ForeName": "C",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Royal Liverpool and Broadgreen University Hospitals NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Smith",
+                            "ForeName": "F M",
+                            "Initials": "FM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Martin",
+                            "ForeName": "A P",
+                            "Initials": "AP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Queen's Centre for Oncology & Haematology, Castle Hill Hospital, Hull, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dhadda",
+                            "ForeName": "A S",
+                            "Initials": "AS"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "St Luke's Cancer Centre, Royal Surrey County Hospital, Guildford, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Stewart",
+                            "ForeName": "A",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North Wales Cancer Treatment Centre, Glan Clwyd Hospital, Rhyl, Denbighshire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gollins",
+                            "ForeName": "S",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Collins",
+                            "ForeName": "B",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Athanasiou",
+                            "ForeName": "T",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Clatterbridge Cancer Centre, Bebington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sun Myint",
+                            "ForeName": "A",
+                            "Initials": "A"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Clin Oncol (R Coll Radiol)",
+                    "NlmUniqueID": "9002902",
+                    "ISSNLinking": "0936-6555"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "economics"
+                        ],
+                        "DescriptorName": "Brachytherapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Chemoradiotherapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cost-Benefit Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality-Adjusted Life Years",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "economics",
+                            "radiotherapy"
+                        ],
+                        "DescriptorName": "Rectal Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics"
+                        ],
+                        "DescriptorName": "Watchful Waiting",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "04",
+                        "Day": "14"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "10",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "10",
+                        "Day": "26"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29248311",
+                    "S0936-6555(17)30492-2",
+                    "10.1016/j.clon.2017.11.015"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29248311)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829248311%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829248311%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039051273"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039051273?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039051273&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039051273&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0936655517304922"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039051273",
+                        "dc:identifier": "SCOPUS_ID:85039051273",
+                        "eid": "2-s2.0-85039051273",
+                        "dc:title": "A Cost-Effectiveness Analysis of Contact X-ray Brachytherapy for the Treatment of Patients with Rectal Cancer Following a Partial Response to Chemoradiotherapy",
+                        "dc:creator": "Rao C.",
+                        "prism:publicationName": "Clinical Oncology",
+                        "prism:issn": "09366555",
+                        "prism:eIssn": "14332981",
+                        "prism:volume": "30",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "166-177",
+                        "prism:coverDate": "2018-03-01",
+                        "prism:coverDisplayDate": "March 2018",
+                        "prism:doi": "10.1016/j.clon.2017.11.015",
+                        "pii": "S0936655517304922",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Queen Elizabeth Hospital",
+                                "affiliation-city": "London",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29248311",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "29271",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "5Q2HZWDM.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29248311"
+            }
+        },
+        "title": "A Cost-Effectiveness Analysis of Contact X-ray Brachytherapy for the Treatment of Patients with Rectal Cancer Following a Partial Response to Chemoradiotherapy.",
+        "full_author_list": [
+            {
+                "clean": "Rao C",
+                "family": "Rao",
+                "given": "C",
+                "affiliation": {
+                    "name": "Queen Elizabeth Hospital, Woolwich, London, UK. Electronic address: christopher.rao@nhs.net."
+                }
+            },
+            {
+                "clean": "Smith F",
+                "family": "Smith",
+                "given": "F M",
+                "affiliation": {
+                    "name": "The Royal Liverpool and Broadgreen University Hospitals NHS Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Martin A",
+                "family": "Martin",
+                "given": "A P",
+                "affiliation": {
+                    "name": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Dhadda A",
+                "family": "Dhadda",
+                "given": "A S",
+                "affiliation": {
+                    "name": "Queen's Centre for Oncology & Haematology, Castle Hill Hospital, Hull, UK."
+                }
+            },
+            {
+                "clean": "Stewart A",
+                "family": "Stewart",
+                "given": "A",
+                "affiliation": {
+                    "name": "St Luke's Cancer Centre, Royal Surrey County Hospital, Guildford, UK."
+                }
+            },
+            {
+                "clean": "Gollins S",
+                "family": "Gollins",
+                "given": "S",
+                "affiliation": {
+                    "name": "North Wales Cancer Treatment Centre, Glan Clwyd Hospital, Rhyl, Denbighshire, UK."
+                }
+            },
+            {
+                "clean": "Collins B",
+                "family": "Collins",
+                "given": "B",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Athanasiou T",
+                "family": "Athanasiou",
+                "given": "T",
+                "affiliation": {
+                    "name": "Department of Surgery and Cancer, Imperial College London, London, UK."
+                }
+            },
+            {
+                "clean": "Sun Myint A",
+                "family": "Sun Myint",
+                "given": "A",
+                "affiliation": {
+                    "name": "The Clatterbridge Cancer Centre, Bebington, UK."
+                }
+            }
+        ],
+        "first_author": "Rao C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Brachytherapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Chemoradiotherapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Cost-Benefit Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality-Adjusted Life Years",
+                    "major": "N"
+                },
+                {
+                    "term": "Rectal Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Watchful Waiting",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Clin Oncol (R Coll Radiol)",
+            "volume": "30",
+            "issue": "3"
+        },
+        "abstract": "['Following chemoradiotherapy in patients with rectal cancer, the addition of contact X-ray brachytherapy (CXB) in partial responders might increase the proportion of patients with a clinical complete response (cCR) and who are thus suitable for watch and wait management. However, the long-term cost-effectiveness of this approach has not been evaluated.', 'Decision analytical modelling and a Markov simulation were used to compare long-term costs, quality-adjusted life years (QALYs) and cost-effectiveness from a third-party payer (National Health Service) perspective for treatment strategies after chemoradiotherapy; watch and wait with CXB when a cCR was not initially achieved after external beam radiotherapy (EBRT) (WW<sub>CXB</sub>), watch and wait with EBRT alone (WW<sub>EBRT</sub>) and radical surgery for all patients. The effect of uncertainty in model parameters and patient demographics was investigated.', 'WW<sub>CXB</sub> had a higher QALY payoff than both radical surgery and WW<sub>EBRT</sub> and was less costly in most scenarios and demographic cohorts. In all plausible scenarios, WW<sub>CXB</sub> was the most cost-effective, at a threshold of \u00a320\\xa0000/QALY. This finding was insensitive to uncertainty associated with model parameters.', 'WW<sub>CXB</sub> is likely to be cost-effective compared with both WW<sub>EBRT</sub> alone and radical surgery. These findings support the use of CXB boost as an adjunct to a watch and wait strategy.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Queen Elizabeth Hospital, Woolwich, London, UK. Electronic address: christopher.rao@nhs.net."
+        }
+    }
+}

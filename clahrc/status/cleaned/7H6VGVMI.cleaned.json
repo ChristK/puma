@@ -1,0 +1,1537 @@
+{
+    "IDs": {
+        "zotero": "7H6VGVMI",
+        "DOI": "10.1111/spc3.12273",
+        "DOI_filename": "89d237ab2066a1847f1da21690119a0b",
+        "PMID": "",
+        "scopus": "2-s2.0-84994106777",
+        "hash": "8361f263702a21c3f70237b8839cd478"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "7H6VGVMI",
+            "version": 86,
+            "itemType": "journalArticle",
+            "title": "Social identity and psychosis: Explaining elevated rates of psychosis in migrant populations: Social identity and psychosis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anam",
+                    "lastName": "Elahi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard P.",
+                    "lastName": "Bentall"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Social and Personality Psychology Compass",
+            "volume": "10",
+            "issue": "11",
+            "pages": "619-633",
+            "date": "11/2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Social and Personality Psychology Compass",
+            "language": "en",
+            "DOI": "10.1111/spc3.12273",
+            "ISSN": "17519004",
+            "shortTitle": "Social identity and psychosis",
+            "url": "http://doi.wiley.com/10.1111/spc3.12273",
+            "accessDate": "2020-09-10T17:08:40Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:40Z",
+            "dateModified": "2020-09-10T17:08:40Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        3
+                    ]
+                ],
+                "date-time": "2020-08-03T16:13:13Z",
+                "timestamp": 1596471193753
+            },
+            "reference-count": 106,
+            "publisher": "Wiley",
+            "issue": "11",
+            "license": [
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2015,
+                                9,
+                                1
+                            ]
+                        ],
+                        "date-time": "2015-09-01T00:00:00Z",
+                        "timestamp": 1441065600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        11
+                    ]
+                ]
+            },
+            "DOI": "10.1111/spc3.12273",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        3
+                    ]
+                ],
+                "date-time": "2016-11-03T01:22:03Z",
+                "timestamp": 1478136123000
+            },
+            "page": "619-633",
+            "source": "Crossref",
+            "is-referenced-by-count": 11,
+            "title": "Social identity and psychosis: Explaining elevated rates of psychosis in migrant populations",
+            "prefix": "10.1111",
+            "volume": "10",
+            "author": [
+                {
+                    "given": "Jason C.",
+                    "family": "McIntyre",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anam",
+                    "family": "Elahi",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard P.",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        2
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1111/spc3.12273-BIB0001|spc312273-cit-0002",
+                    "author": "Anglin",
+                    "year": "2016",
+                    "article-title": "Ethnic identity, racial discrimination and attenuated psychotic symptoms in an urban population of emerging adults",
+                    "journal-title": "Early intervention in psychiatry",
+                    "DOI": "10.1111/eip.12314",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0002|spc312273-cit-0003",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "139",
+                    "DOI": "10.1111/j.1467-9280.2009.02266.x",
+                    "article-title": "Liberating effects of losing executive control",
+                    "volume": "20",
+                    "author": "Apfelbaum",
+                    "year": "2009",
+                    "journal-title": "Psychological Science"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0003|spc312273-cit-0004",
+                    "first-page": "805",
+                    "article-title": "Minority report: Social identity, cognitions of rejection and intergroup anxiety predicting prejudice from one racially marginalized group towards another",
+                    "volume": "40",
+                    "author": "Barlow",
+                    "year": "2010",
+                    "journal-title": "European Journal of Social Psychology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0004|spc312273-cit-0005",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "740",
+                    "DOI": "10.1093/schbul/sbt065",
+                    "article-title": "Life events and psychosis: A review and meta-analysis",
+                    "volume": "39",
+                    "author": "Beards",
+                    "year": "2013",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0005|spc312273-cit-0006",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "43",
+                    "DOI": "10.1007/BF00578068",
+                    "article-title": "Psychiatric disorders in selected immigrant groups in Camberwell",
+                    "volume": "16",
+                    "author": "Bebbington",
+                    "year": "1981",
+                    "journal-title": "Social Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/spc3.12273-BIB0006|spc312273-cit-0007",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "419",
+                    "DOI": "10.1192/bjp.bp.112.119032",
+                    "article-title": "The structure of paranoia in the general population",
+                    "volume": "202",
+                    "author": "Bebbington",
+                    "year": "2013",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0007|spc312273-cit-0008",
+                    "author": "Bentall",
+                    "year": "2004",
+                    "volume-title": "Madness explained: Psychosis and human nature"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1111/spc3.12273-BIB0008|spc312273-cit-0009",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1143",
+                    "DOI": "10.1016/S0272-7358(01)00106-4",
+                    "article-title": "Persecutory delusions: A review and theoretical integration",
+                    "volume": "21",
+                    "author": "Bentall",
+                    "year": "2001",
+                    "journal-title": "Clinical Psychology Review"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0105|spc312273-cit-0106",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "375",
+                    "DOI": "10.1097/NMD.0b013e31817108db",
+                    "article-title": "Paranoid delusions in schizophrenia spectrum disorders and depression: The transdiagnostic role of expectations of negative events and negative self-esteem",
+                    "volume": "196",
+                    "author": "Bentall",
+                    "year": "2008",
+                    "journal-title": "The Journal of nervous and mental disease"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1111/spc3.12273-BIB0009|spc312273-cit-0010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1011",
+                    "DOI": "10.1007/s00127-014-0914-0",
+                    "article-title": "From adversity to psychosis: Pathways and mechanisms from specific adversities to specific symptoms",
+                    "volume": "49",
+                    "author": "Bentall",
+                    "year": "2014",
+                    "journal-title": "Social Psychiatry and Psychiatric Epidemiology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0010|spc312273-cit-0011",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "734",
+                    "DOI": "10.1093/schbul/sbs049",
+                    "article-title": "Do specific early-life adversities lead to specific symptoms of psychosis? A study from the 2007 the Adult Psychiatric Morbidity Survey",
+                    "volume": "38",
+                    "author": "Bentall",
+                    "year": "2012",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0011|spc312273-cit-0012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "12",
+                    "DOI": "10.1037/h0086823",
+                    "article-title": "Intercultural relations in plural societies",
+                    "volume": "40",
+                    "author": "Berry",
+                    "year": "1999",
+                    "journal-title": "Canadian Psychology/Psychologie Canadienne"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0012|spc312273-cit-0013",
+                    "author": "Berry",
+                    "volume": "12",
+                    "first-page": "207",
+                    "year": "1998",
+                    "volume-title": "Health and cross-cultural psychology: Towards application"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0013|spc312273-cit-0014",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "491",
+                    "DOI": "10.2307/2546607",
+                    "article-title": "Comparative studies of acculturative stress",
+                    "volume": "21",
+                    "author": "Berry",
+                    "year": "1987",
+                    "journal-title": "International Migration Review"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0014|spc312273-cit-0015",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "129",
+                    "DOI": "10.1093/bmb/ldh007",
+                    "article-title": "Migration, distress and cultural identity",
+                    "volume": "69",
+                    "author": "Bhugra",
+                    "year": "2004",
+                    "journal-title": "British Medical Bulletin"
+                },
+                {
+                    "issue": "04",
+                    "key": "10.1111/spc3.12273-BIB0015|spc312273-cit-0016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "791",
+                    "DOI": "10.1017/S0033291797005369",
+                    "article-title": "Incidence and outcome of schizophrenia in whites, African-Caribbeans and Asians in London",
+                    "volume": "27",
+                    "author": "Bhugra",
+                    "year": "1997",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0016|spc312273-cit-0017",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "31",
+                    "DOI": "10.1016/j.schres.2012.12.013",
+                    "article-title": "Theory of mind impairments in first-episode psychosis, individuals at ultra-high risk for psychosis and in first-degree relatives of schizophrenia: Systematic review and meta-analysis",
+                    "volume": "144",
+                    "author": "Bora",
+                    "year": "2013",
+                    "journal-title": "Schizophrenia Research"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0017|spc312273-cit-0018",
+                    "author": "Bowlby",
+                    "year": "1969",
+                    "volume-title": "Attachment and loss: Attachment (vol. 1)"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0018|spc312273-cit-0019",
+                    "author": "Bowlby",
+                    "year": "1973",
+                    "volume-title": "Attachment and loss: Separation: Anxiety and anger (Vol. 2)"
+                },
+                {
+                    "issue": "7325",
+                    "key": "10.1111/spc3.12273-BIB0019|spc312273-cit-0020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1323",
+                    "DOI": "10.1136/bmj.323.7325.1336",
+                    "article-title": "Incidence of schizophrenia in ethnic minorities in London: Ecological study into interactions with environment",
+                    "volume": "323",
+                    "author": "Boydell",
+                    "year": "2001",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0020|spc312273-cit-0021",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "135",
+                    "DOI": "10.1037/0022-3514.77.1.135",
+                    "article-title": "Perceiving pervasive discrimination among African Americans: Implications for group identification and well-being",
+                    "volume": "77",
+                    "author": "Branscombe",
+                    "year": "1999",
+                    "journal-title": "Journal of personality and social psychology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0021|spc312273-cit-0022",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "12",
+                    "DOI": "10.1176/appi.ajp.162.1.12",
+                    "article-title": "Schizophrenia and migration: A meta-analysis and review",
+                    "volume": "162",
+                    "author": "Cantor-Graae",
+                    "year": "2014",
+                    "journal-title": "American Journal of Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0022|spc312273-cit-0023",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "213",
+                    "DOI": "10.1016/j.psychres.2015.03.030",
+                    "article-title": "Self esteem and self agency in first episode psychosis: Ethnic variation and relationship with clinical presentation",
+                    "volume": "227",
+                    "author": "Ciufolini",
+                    "year": "2015",
+                    "journal-title": "Psychiatry Research"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0023|spc312273-cit-0024",
+                    "author": "Claridge",
+                    "first-page": "157",
+                    "year": "1990",
+                    "article-title": "Can a disease model of schizophrenia survive",
+                    "journal-title": "Reconstructing Schizophrenia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0024|spc312273-cit-0025",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "214",
+                    "DOI": "10.1037/0278-6133.17.3.214",
+                    "article-title": "Types of stressors that increase susceptibility to the common cold in healthy adults",
+                    "volume": "17",
+                    "author": "Cohen",
+                    "year": "1998",
+                    "journal-title": "Health Psychology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0025|spc312273-cit-0026",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "320",
+                    "DOI": "10.1037/0022-3514.72.2.320",
+                    "article-title": "Social identity and physical health: Accelerated HIV progression in rejection-sensitive gay men",
+                    "volume": "72",
+                    "author": "Cole",
+                    "year": "1997",
+                    "journal-title": "Journal of personality and social psychology"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1111/spc3.12273-BIB0026|spc312273-cit-0027",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "875",
+                    "DOI": "10.1521/jscp.2006.25.8.875",
+                    "article-title": "The self-stigma of mental illness: Implications for self-esteem and self-efficacy",
+                    "volume": "25",
+                    "author": "Corrigan",
+                    "year": "2006",
+                    "journal-title": "Journal of Social and Clinical Psychology"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0027|spc312273-cit-0028",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1016/j.socscimed.2013.09.013",
+                    "article-title": "Social group memberships protect against future depression, alleviate depression symptoms and prevent depression relapse",
+                    "volume": "98",
+                    "author": "Cruwys",
+                    "year": "2013",
+                    "journal-title": "Social Science & Medicine"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0028|spc312273-cit-0029",
+                    "doi-asserted-by": "publisher",
+                    "DOI": "10.1177/1948550614543309",
+                    "article-title": "Social identity reduces depression by fostering positive attributions",
+                    "volume": "6",
+                    "author": "Cruwys",
+                    "year": "2014",
+                    "journal-title": "Social Psychological and Personality Science"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1111/spc3.12273-BIB0029|spc312273-cit-0030",
+                    "first-page": "1328",
+                    "article-title": "Behavioral and intellectual markers for schizophrenia in apparently healthy male adolescents",
+                    "volume": "156",
+                    "author": "Davidson",
+                    "year": "2014",
+                    "journal-title": "American Journal of Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0030|spc312273-cit-0031",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "236",
+                    "DOI": "10.1111/bjso.12081",
+                    "article-title": "Breaking good: Breaking ties with social groups may be good for recovery from substance misuse",
+                    "volume": "54",
+                    "author": "Dingle",
+                    "year": "2014",
+                    "journal-title": "British Journal of Social Psychology"
+                },
+                {
+                    "issue": "439",
+                    "key": "10.1111/spc3.12273-BIB0031|spc312273-cit-0032",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "326",
+                    "DOI": "10.1192/bjp.105.439.326",
+                    "article-title": "The incidence of mental disease among refugees in Norway",
+                    "volume": "105",
+                    "author": "Eitinger",
+                    "year": "1959",
+                    "journal-title": "Journal of Mental Science"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1111/spc3.12273-BIB0032|spc312273-cit-0033",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1541",
+                    "DOI": "10.1017/S0033291706008774",
+                    "article-title": "Incidence of schizophrenia and other psychoses in ethnic minority groups: Results from the MRC AESOP Study",
+                    "volume": "36",
+                    "author": "Fearon",
+                    "year": "2006",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0033|spc312273-cit-0034",
+                    "first-page": "527",
+                    "article-title": "Social identity: Clarifying its dimensions across cultures",
+                    "volume": "21",
+                    "author": "Feitosa",
+                    "year": "2012",
+                    "journal-title": "Psihologijske Teme"
+                },
+                {
+                    "issue": "06",
+                    "key": "10.1111/spc3.12273-BIB0034|spc312273-cit-0035",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "749",
+                    "DOI": "10.1017/S0033291706007355",
+                    "article-title": "The Brief Core Schema Scales (BCSS): Psychometric properties and associations with paranoia and grandiosity in non-clinical and psychosis samples",
+                    "volume": "36",
+                    "author": "Fowler",
+                    "year": "2006",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0035|spc312273-cit-0036",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1063",
+                    "DOI": "10.1093/schbul/sbr019",
+                    "article-title": "Negative cognition, depressed mood, and paranoia: A longitudinal pathway analysis using structural equation modeling",
+                    "volume": "38",
+                    "author": "Fowler",
+                    "year": "2012",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0036|spc312273-cit-0037",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "427",
+                    "DOI": "10.1192/bjp.186.5.427",
+                    "article-title": "Psychological investigation of the structure of paranoia in a non-clinical population",
+                    "volume": "186",
+                    "author": "Freeman",
+                    "year": "2005",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1111/spc3.12273-BIB0037|spc312273-cit-0038",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1147",
+                    "DOI": "10.1016/j.brat.2005.09.002",
+                    "article-title": "Delusions and decision-making style: Use of the Need for Closure Scale",
+                    "volume": "44",
+                    "author": "Freeman",
+                    "year": "2006",
+                    "journal-title": "Behavior Research and Therapy"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0038|spc312273-cit-0039",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "331",
+                    "DOI": "10.1348/014466502760387461",
+                    "article-title": "A cognitive model of persecutory delusions",
+                    "volume": "41",
+                    "author": "Freeman",
+                    "year": "2002",
+                    "journal-title": "British Journal of Clinical Psychology"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0039|spc312273-cit-0040",
+                    "unstructured": "Greenaway , K. H. Haslam , S. A. Cruwys , T. Branscombe , N. R. Ysseldyk , R. Heldreth , C. 2015 From \u201cwe\u201d to \u201cme\u201d: Group identification enhances perceived personal control with consequences for health and well-being",
+                    "DOI": "10.1037/pspi0000019",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0040|spc312273-cit-0041",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1177/002076400004600105",
+                    "article-title": "The ethnic density effect: Results from a national community survey of England and Wales",
+                    "volume": "46",
+                    "author": "Halpern",
+                    "year": "2000",
+                    "journal-title": "International Journal of Social Psychiatry"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0041|spc312273-cit-0042",
+                    "author": "Haslam",
+                    "volume": "194",
+                    "first-page": "188",
+                    "year": "2016",
+                    "volume-title": "Groups for health: Therapist manual. Centre for Health Outcomes, Innovation and Clinical Education"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0042|spc312273-cit-0043",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "188",
+                    "DOI": "10.1016/j.jad.2016.01.010",
+                    "article-title": "Groups 4 Health: Evidence that a social-identity intervention that builds and strengthens social group membership improves mental health",
+                    "volume": "194",
+                    "author": "Haslam",
+                    "year": "2016",
+                    "journal-title": "Journal of Affective Disorders"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0043|spc312273-cit-0044",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1111/j.1464-0597.2008.00379.x",
+                    "article-title": "Social identity, health and well-being: An emerging agenda for applied psychology",
+                    "volume": "58",
+                    "author": "Haslam",
+                    "year": "2009",
+                    "journal-title": "Applied Psychology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0044|spc312273-cit-0045",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "355",
+                    "DOI": "10.1348/014466605X37468",
+                    "article-title": "Taking the strain: Social identity, social support, and the experience of stress",
+                    "volume": "44",
+                    "author": "Haslam",
+                    "year": "2005",
+                    "journal-title": "British Journal of Social Psychology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0045|spc312273-cit-0046",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "206",
+                    "DOI": "10.1192/bjp.137.3.206",
+                    "article-title": "Mental illness among Polish and Russian refugees in Bradford",
+                    "volume": "137",
+                    "author": "Hitch",
+                    "year": "1980",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0046|spc312273-cit-0047",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "223",
+                    "DOI": "10.1080/14792772043000040",
+                    "article-title": "Subjective uncertainty reduction through self-categorization: A motivational theory of social identity processes",
+                    "volume": "11",
+                    "author": "Hogg",
+                    "year": "2000",
+                    "journal-title": "European Review of Social Psychology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0047|spc312273-cit-0048",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "204",
+                    "DOI": "10.1111/j.1751-9004.2007.00066.x",
+                    "article-title": "Social identity theory and self-categorization theory: A historical review",
+                    "volume": "2",
+                    "author": "Hornsey",
+                    "year": "2008",
+                    "journal-title": "Social and Personality Psychology Compass"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0048|spc312273-cit-0049",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1207/S15327957PSPR0402_03",
+                    "article-title": "Assimilation and diversity: An integrative model of subgroup relations",
+                    "volume": "4",
+                    "author": "Hornsey",
+                    "year": "2000",
+                    "journal-title": "Personality and Social Psychology Review"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/spc3.12273-BIB0049|spc312273-cit-0050",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "281",
+                    "DOI": "10.1007/BF00795908",
+                    "article-title": "The incidence of mania in two areas in the United Kingdom",
+                    "volume": "28",
+                    "author": "Hunt",
+                    "year": "1993",
+                    "journal-title": "Social Psychiatry and Psychiatric Epidemiology"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0050|spc312273-cit-0051",
+                    "author": "Iyer",
+                    "first-page": "187",
+                    "year": "2008",
+                    "volume-title": "Self-continuity:Individual and collective perspectives"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0051|spc312273-cit-0052",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "707",
+                    "DOI": "10.1348/014466608X397628",
+                    "article-title": "The more (and the more compatible) the merrier: Multiple group memberships and identity compatibility as predictors of adjustment after life transitions",
+                    "volume": "48",
+                    "author": "Iyer",
+                    "year": "2009",
+                    "journal-title": "British Journal of Social Psychology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0052|spc312273-cit-0053",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0124609",
+                    "DOI": "10.1371/journal.pone.0124609",
+                    "article-title": "Having a lot of a good thing: Multiple important group memberships as a source of self-esteem",
+                    "volume": "10",
+                    "author": "Jetten",
+                    "year": "2014",
+                    "journal-title": "PloS One"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0053|spc312273-cit-0054",
+                    "author": "Jetten",
+                    "year": "2012",
+                    "volume-title": "The social cure: Identity, health and well-being"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0106|spc312273-cit-0107",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0124609",
+                    "DOI": "10.1371/journal.pone.0124609",
+                    "article-title": "Having a lot of a good thing: Multiple important group memberships as a source of self-esteem",
+                    "volume": "10",
+                    "author": "Jetten",
+                    "year": "2015",
+                    "journal-title": "PloS one"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0054|spc312273-cit-0055",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "191",
+                    "DOI": "10.1111/j.2044-8341.1989.tb02826.x",
+                    "article-title": "Persecutory delusions and attributional style",
+                    "volume": "62",
+                    "author": "Kaney",
+                    "year": "1989",
+                    "journal-title": "British Journal of Medical Psychology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0055|spc312273-cit-0056",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "261",
+                    "DOI": "10.1016/0191-8869(95)00186-7",
+                    "article-title": "A new measure of causal locus: The internal, personal and situational attributions questionnaire",
+                    "volume": "20",
+                    "author": "Kinderman",
+                    "year": "1996",
+                    "journal-title": "Personality and Individual Differences"
+                },
+                {
+                    "issue": "6962",
+                    "key": "10.1111/spc3.12273-BIB0056|spc312273-cit-0057",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1115",
+                    "DOI": "10.1136/bmj.309.6962.1115",
+                    "article-title": "Incidence of psychotic illness in London: Comparison of ethnic groups",
+                    "volume": "309",
+                    "author": "King",
+                    "year": "1994",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0057|spc312273-cit-0058",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1192/bjp.bp.107.041566",
+                    "article-title": "Psychoses, ethnicity and socio-economic status",
+                    "volume": "193",
+                    "author": "Kirkbride",
+                    "year": "2008",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0058|spc312273-cit-0059",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "83",
+                    "DOI": "10.1016/j.psychres.2015.04.018",
+                    "article-title": "Associations between attachment and psychopathology dimensions in a large sample of patients with psychosis",
+                    "volume": "228",
+                    "author": "Korver-Nieberg",
+                    "year": "2015",
+                    "journal-title": "Psychiatry Research"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0059|spc312273-cit-0060",
+                    "author": "Koser",
+                    "year": "2007",
+                    "volume-title": "International migration: A very short introduction",
+                    "DOI": "10.1093/actrade/9780198753773.001.0001",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0060|spc312273-cit-0061",
+                    "author": "Kramer",
+                    "first-page": "145",
+                    "year": "1999",
+                    "article-title": "Social uncertainty and the problem of trust in social groups: The social self in doubt",
+                    "journal-title": "The Psychology of The Social Self"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0061|spc312273-cit-0062",
+                    "first-page": "297",
+                    "article-title": "Cognitive evaluation of action in chronic schizophrenia-Locus of control beliefs in an inpatient group",
+                    "volume": "39",
+                    "author": "Lasar",
+                    "year": "1997",
+                    "journal-title": "Psychologische Beitrage"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0062|spc312273-cit-0063",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "277",
+                    "DOI": "10.1080/01490409809512287",
+                    "article-title": "Motivations for ongoing participation in a fitness activity",
+                    "volume": "20",
+                    "author": "Laverie",
+                    "year": "1998",
+                    "journal-title": "Leisure Sciences"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0063|spc312273-cit-0064",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "428",
+                    "DOI": "10.1192/bjp.129.5.428",
+                    "article-title": "A cross-national epidemiological study of mania",
+                    "volume": "129",
+                    "author": "Leff",
+                    "year": "1976",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0064|spc312273-cit-0065",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "126",
+                    "DOI": "10.1192/bjp.186.2.126",
+                    "article-title": "Incidence of bipolar affective disorder in three UK cities",
+                    "volume": "186",
+                    "author": "Lloyd",
+                    "year": "2005",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/spc3.12273-BIB0065|spc312273-cit-0066",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "716",
+                    "DOI": "10.1002/ejsp.2121",
+                    "article-title": "Property and prejudice: How racial attitudes and social-evaluative concerns shape property appraisals",
+                    "volume": "45",
+                    "author": "McIntyre",
+                    "year": "2015",
+                    "journal-title": "European Journal of Social Psychology"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0066|spc312273-cit-0067",
+                    "unstructured": "Morgan , C. Charalambides , M. Hutchinson , G. Murray , R. M. 2010 Migration, ethnicity, and psychosis: Toward a sociodevelopmental model Schizophrenia Bulletin",
+                    "DOI": "10.1093/schbul/sbq051",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/spc3.12273-BIB0067|spc312273-cit-0068",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "495",
+                    "DOI": "10.1080/13546800701566686",
+                    "article-title": "Persecutory delusions and the conditioned avoidance paradigm: Towards an integration of the psychology and biology of paranoia",
+                    "volume": "12",
+                    "author": "Moutoussis",
+                    "year": "2007",
+                    "journal-title": "Cognitive Neuropsychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0068|spc312273-cit-0069",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "271",
+                    "DOI": "10.1016/0140-1971(92)90030-9",
+                    "article-title": "Ethnic identity and self-esteem: An exploratory longitudinal study",
+                    "volume": "15",
+                    "author": "Phinney",
+                    "year": "1992",
+                    "journal-title": "Journal of adolescence"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0069|spc312273-cit-0070",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1212",
+                    "DOI": "10.1016/j.paid.2007.11.016",
+                    "article-title": "Insecure attachment predicts proneness to paranoia but not hallucinations",
+                    "volume": "44",
+                    "author": "Pickering",
+                    "year": "2008",
+                    "journal-title": "Personality and Individual Differences"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0070|spc312273-cit-0071",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1859",
+                    "DOI": "10.1162/qjec.2010.125.4.1859",
+                    "article-title": "Racial discrimination among NBA referees",
+                    "volume": "125",
+                    "author": "Price",
+                    "year": "2010",
+                    "journal-title": "The Quarterly Journal of Economics"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0071|spc312273-cit-0072",
+                    "first-page": "09",
+                    "article-title": "Does unconscious racial bias affect trial judges?",
+                    "volume": "84",
+                    "author": "Rachlinski",
+                    "year": "2009",
+                    "journal-title": "Notre Dame Law Review"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0072|spc312273-cit-0073",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "539",
+                    "DOI": "10.1037/0022-3514.49.2.539",
+                    "article-title": "Personal efficacy, external locus of control, and perceived contingency of parental reinforcement among depressed, paranoid, and normal subjects",
+                    "volume": "49",
+                    "author": "Rosenbaum",
+                    "year": "1985",
+                    "journal-title": "Journal of Personality And Social Psychology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0073|spc312273-cit-0074",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "472",
+                    "DOI": "10.1177/1745691610373075",
+                    "article-title": "Acculturation when individuals and groups of different cultural backgrounds meet",
+                    "volume": "5",
+                    "author": "Sam",
+                    "year": "2010",
+                    "journal-title": "Perspectives on Psychological Science"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0074|spc312273-cit-0075",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "117",
+                    "DOI": "10.7870/cjcmh-1993-0022",
+                    "article-title": "Acculturation and mental health among Greek-Canadians in Toronto",
+                    "volume": "12",
+                    "author": "Sands",
+                    "year": "1993",
+                    "journal-title": "Canadian Journal of Community Mental Health"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0075|spc312273-cit-0076",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1348/014466610X517414",
+                    "article-title": "In-group identification mediates the effects of subjective in-group status on mental health",
+                    "volume": "49",
+                    "author": "Sani",
+                    "year": "2010",
+                    "journal-title": "British Journal of Social Psychology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0076|spc312273-cit-0077",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1002/ejsp.131",
+                    "article-title": "Constructing a minority group identity out of shared rejection: The case of international students",
+                    "volume": "33",
+                    "author": "Schmitt",
+                    "year": "2003",
+                    "journal-title": "European Journal of Social Psychology"
+                },
+                {
+                    "issue": "40",
+                    "key": "10.1111/spc3.12273-BIB0077|spc312273-cit-0078",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "s60",
+                    "DOI": "10.1192/bjp.178.40.s60",
+                    "article-title": "Understanding the excess of psychosis among the African-Caribbean population in England review of current hypotheses",
+                    "volume": "178",
+                    "author": "Sharpley",
+                    "year": "2001",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/spc3.12273-BIB0078|spc312273-cit-0079",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "397",
+                    "DOI": "10.1111/j.0956-7976.2005.01547.x",
+                    "article-title": "Ironic effects of racial bias during interracial interactions",
+                    "volume": "16",
+                    "author": "Shelton",
+                    "year": "2005",
+                    "journal-title": "Psychological Science"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/spc3.12273-BIB0079|spc312273-cit-0080",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "202",
+                    "DOI": "10.1016/j.psychres.2014.03.019",
+                    "article-title": "Associations between specific psychotic symptoms and specific childhood adversities are mediated by attachment styles: An analysis of the National Comorbidity Survey",
+                    "volume": "217",
+                    "author": "Sitko",
+                    "year": "2014",
+                    "journal-title": "Psychiatry Research"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0080|spc312273-cit-0081",
+                    "author": "Tajfel",
+                    "year": "1972",
+                    "volume-title": "17-40"
+                },
+                {
+                    "issue": "47",
+                    "key": "10.1111/spc3.12273-BIB0081|spc312273-cit-0082",
+                    "first-page": "74",
+                    "article-title": "An integrative theory of intergroup conflict",
+                    "volume": "33",
+                    "author": "Tajfel",
+                    "year": "1979",
+                    "journal-title": "The Social Psychology Of Intergroup Relations"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0082|spc312273-cit-0083",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "149",
+                    "DOI": "10.1002/ejsp.2420010202",
+                    "article-title": "Social categorization and intergroup behaviour",
+                    "volume": "1",
+                    "author": "Tajfel",
+                    "year": "1971",
+                    "journal-title": "European Journal of Social Psychology"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1111/spc3.12273-BIB0083|spc312273-cit-0084",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "s131",
+                    "DOI": "10.1093/schbul/sbt179",
+                    "article-title": "Bipolar and schizophrenia network for intermediate phenotypes: Outcomes across the psychosis continuum",
+                    "volume": "40",
+                    "author": "Tamminga",
+                    "year": "2014",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0084|spc312273-cit-0085",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "59",
+                    "DOI": "10.1159/000029025",
+                    "article-title": "Transcultural study of schizophrenic delusions",
+                    "volume": "31",
+                    "author": "Tateyama",
+                    "year": "1998",
+                    "journal-title": "Psychopathology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0085|spc312273-cit-0086",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1037/0021-843X.117.1.143",
+                    "article-title": "Fluctuations in self-esteem and paranoia in the context of daily life",
+                    "volume": "117",
+                    "author": "Thewissen",
+                    "year": "2008",
+                    "journal-title": "Journal of Abnormal Psychology"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0086|spc312273-cit-0087",
+                    "author": "Thoits",
+                    "first-page": "174",
+                    "year": "1983",
+                    "article-title": "Multiple identities and psychological well-being: A reformulation and test of the social isolation hypothesis",
+                    "journal-title": "American Sociological Review",
+                    "DOI": "10.2307/2095103",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0087|spc312273-cit-0088",
+                    "author": "Turner",
+                    "year": "1987",
+                    "volume-title": "Rediscovering the social group: A self-categorization theory"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0088|spc312273-cit-0089",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "454",
+                    "DOI": "10.1177/0146167294205002",
+                    "article-title": "Self and collective: Cognition and social context",
+                    "volume": "20",
+                    "author": "Turner",
+                    "year": "1994",
+                    "journal-title": "Personality and Social Psychology Bulletin"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0089|spc312273-cit-0090",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "139",
+                    "DOI": "10.1016/j.adolescence.2003.11.006",
+                    "article-title": "Ethnic identity and self-esteem: Examining the role of social context",
+                    "volume": "27",
+                    "author": "Uma\u00f1a-Taylor",
+                    "year": "2004",
+                    "journal-title": "Journal of Adolescence"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0090|spc312273-cit-0091",
+                    "first-page": "A1874",
+                    "article-title": "Psychosis: From diagnosis to syndrome",
+                    "volume": "154",
+                    "author": "Van Os",
+                    "year": "2009",
+                    "journal-title": "Nederlands Tijdschrift Voor Geneeskunde"
+                },
+                {
+                    "issue": "01",
+                    "key": "10.1111/spc3.12273-BIB0091|spc312273-cit-0092",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "203",
+                    "DOI": "10.1017/S0033291700033845",
+                    "article-title": "Psychotic illness in ethnic minorities: Clarification from the 1991 census",
+                    "volume": "26",
+                    "author": "Van Os",
+                    "year": "1996",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0092|spc312273-cit-0093",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "11",
+                    "DOI": "10.1016/S0920-9964(99)00224-8",
+                    "article-title": "Strauss (1969) revisited: A psychosis continuum in the general population?",
+                    "volume": "45",
+                    "author": "Van Os",
+                    "year": "2000",
+                    "journal-title": "Schizophrenia Research"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0093|spc312273-cit-0094",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "661",
+                    "DOI": "10.1093/schbul/sbs050",
+                    "article-title": "Childhood adversities increase the risk of psychosis: A meta-analysis of patient-control, prospective- and cross-sectional cohort studies",
+                    "volume": "38",
+                    "author": "Varese",
+                    "year": "2012",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/spc3.12273-BIB0094|spc312273-cit-0095",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "487",
+                    "DOI": "10.1016/j.psychres.2015.09.042",
+                    "article-title": "How stigma impacts on people with psychosis: The mediating effect of self-esteem and hopelessness on subjective recovery and psychotic experiences",
+                    "volume": "230",
+                    "author": "Vass",
+                    "year": "2015",
+                    "journal-title": "Psychiatry Research"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0095|spc312273-cit-0096",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "761",
+                    "DOI": "10.1093/ije/dym085",
+                    "article-title": "Discrimination and the incidence of psychotic disorders among ethnic minorities in the Netherlands",
+                    "volume": "36",
+                    "author": "Veling",
+                    "year": "2007",
+                    "journal-title": "International Journal of Epidemiology"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0104|spc312273-cit-0105",
+                    "author": "Veling",
+                    "year": "2008",
+                    "article-title": "Ethnic density of neighborhoods and incidence of psychotic disorders among immigrants",
+                    "journal-title": "American Journal of Psychiatry",
+                    "DOI": "10.1176/appi.ajp.2007.07030423",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0096|spc312273-cit-0097",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "60",
+                    "DOI": "10.1080/02678370600655553",
+                    "article-title": "Work motivation, organisational identification, and well-being in call centre work",
+                    "volume": "20",
+                    "author": "Wegge",
+                    "year": "2006",
+                    "journal-title": "Work & Stress"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/spc3.12273-BIB0097|spc312273-cit-0098",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "320",
+                    "DOI": "10.1192/bjp.bp.106.031328",
+                    "article-title": "Social and cognitive functioning, urbanicity and risk for schizophrenia",
+                    "volume": "191",
+                    "author": "Weiser",
+                    "year": "2007",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0098|spc312273-cit-0099",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "47",
+                    "DOI": "10.1111/j.1600-0447.1989.tb01299.x",
+                    "article-title": "Paranoid symptoms and disorders among 100 among refugees: A longitudinal study",
+                    "volume": "80",
+                    "author": "Westermeyer",
+                    "year": "1989",
+                    "journal-title": "Acta Psychiatrica Scandinavica"
+                },
+                {
+                    "issue": "07",
+                    "key": "10.1111/spc3.12273-BIB0099|spc312273-cit-0100",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1495",
+                    "DOI": "10.1017/S0033291714002633",
+                    "article-title": "Insecure attachment is associated with paranoia but not hallucinations in psychotic patients: The mediating role of negative self-esteem",
+                    "volume": "45",
+                    "author": "Wickham",
+                    "year": "2015",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1111/spc3.12273-BIB0100|spc312273-cit-0101",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1240",
+                    "DOI": "10.1176/appi.ajp.2010.09010114",
+                    "article-title": "Social risk or genetic liability for psychosis? A study of children born in Sweden and reared by adoptive parents",
+                    "volume": "167",
+                    "author": "Wicks",
+                    "year": "2014",
+                    "journal-title": "American Journal of Psychiatry"
+                },
+                {
+                    "key": "10.1111/spc3.12273-BIB0101|spc312273-cit-0102",
+                    "author": "Wrench",
+                    "year": "1993",
+                    "volume-title": "Racism and migration in Western Europe"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/spc3.12273-BIB0102|spc312273-cit-0103",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "34",
+                    "DOI": "10.1037/1099-9809.9.1.34",
+                    "article-title": "Age, acculturation, cultural adjustment, and mental health symptoms of Chinese, Korean, and Japanese immigrant youths",
+                    "volume": "9",
+                    "author": "Yeh",
+                    "year": "2003",
+                    "journal-title": "Cultural Diversity and Ethnic Minority Psychology"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1111/spc3.12273-BIB0103|spc312273-cit-0104",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "914",
+                    "DOI": "10.1001/archgenpsychiatry.2010.101",
+                    "article-title": "Individuals, schools, and neighborhood: A multilevel longitudinal study of variation in incidence of psychotic disorders",
+                    "volume": "67",
+                    "author": "Zammit",
+                    "year": "2010",
+                    "journal-title": "Archives of General Psychiatry"
+                }
+            ],
+            "container-title": "Social and Personality Psychology Compass",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fspc3.12273",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        15
+                    ]
+                ],
+                "date-time": "2019-09-15T07:07:48Z",
+                "timestamp": 1568531268000
+            },
+            "score": 1.0,
+            "subtitle": [
+                "Social identity and psychosis"
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        11
+                    ]
+                ]
+            },
+            "references-count": 106,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            11
+                        ]
+                    ]
+                },
+                "issue": "11"
+            },
+            "URL": "http://dx.doi.org/10.1111/spc3.12273",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1751-9004"
+            ],
+            "subject": [
+                "Social Psychology"
+            ],
+            "container-title-short": "Social and Personality Psychology Compass"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1111/spc3.12273)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1111%2Fspc3.12273%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1111%2Fspc3.12273%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994106777"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994106777?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994106777&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994106777&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994106777",
+                        "dc:identifier": "SCOPUS_ID:84994106777",
+                        "eid": "2-s2.0-84994106777",
+                        "dc:title": "Social identity and psychosis: Explaining elevated rates of psychosis in migrant populations",
+                        "dc:creator": "McIntyre J.",
+                        "prism:publicationName": "Social and Personality Psychology Compass",
+                        "prism:eIssn": "17519004",
+                        "prism:volume": "10",
+                        "prism:issueIdentifier": "11",
+                        "prism:pageRange": "619-633",
+                        "prism:coverDate": "2016-11-01",
+                        "prism:coverDisplayDate": "1 November 2016",
+                        "prism:doi": "10.1111/spc3.12273",
+                        "citedby-count": "10",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19900192137",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "7H6VGVMI.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Social identity and psychosis: Explaining elevated rates of psychosis in migrant populations",
+        "full_author_list": [
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C.",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Elahi A",
+                "family": "Elahi",
+                "given": "Anam",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "Richard P.",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                }
+            }
+        ],
+        "first_author": "McIntyre J",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Social and Personality Psychology Compass",
+            "volume": "10",
+            "issue": "11"
+        },
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "10"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

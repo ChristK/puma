@@ -1,0 +1,1016 @@
+{
+    "IDs": {
+        "zotero": "NZ5LZ8VQ",
+        "DOI": "10.1136/heartjnl-2019-315047",
+        "DOI_filename": "fb1e987dc1d57dd2ddac62ebdf51d462",
+        "PMID": "31439659",
+        "scopus": "2-s2.0-85071631687",
+        "hash": "e8f8e1f1d820768677f4fb8f0c1439ca"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "NZ5LZ8VQ",
+            "version": 172,
+            "itemType": "journalArticle",
+            "title": "Impact of a community-based cardiovascular disease service intervention in a highly deprived area",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tanith C",
+                    "lastName": "Rose"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pooja",
+                    "lastName": "Saini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bashir",
+                    "lastName": "Matata"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Zoe",
+                    "lastName": "McIntosh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Terence",
+                    "lastName": "Comerford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Keith",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Allan",
+                    "lastName": "Pemberton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lesley M",
+                    "lastName": "Harper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthew",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Objective\n              To examine the effects on emergency hospital admissions, length of stay and emergency re-admissions of providing a consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service, based in a highly deprived area in the North West of England.\n            \n            \n              Methods\n              A longitudinal matched controlled study using difference-in-differences analysis compared the change in outcomes in the intervention population, to the change in outcomes in a matched comparison population that had not received the intervention, 5 years before and after implementation. The outcomes were emergency hospitalisations, length of inpatient stay and re-admission rates for cardiovascular disease (CVD).\n            \n            \n              Results\n              Findings show that the intervention was associated with 66 fewer emergency CVD admissions per 100 000 population per year (95% CI 22.13 to 108.98) in the post-intervention period, relative to the control group. No significant measurable effects on length of stay or emergency re-admission rates were observed.\n            \n            \n              Conclusion\n              This consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service was associated with a lower rate of emergency hospital admissions in a highly disadvantaged population. Similar approaches could be an effective component of strategies to reduce unplanned hospital admissions.",
+            "publicationTitle": "Heart",
+            "volume": "106",
+            "issue": "5",
+            "pages": "374-379",
+            "date": "03/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Heart",
+            "language": "en",
+            "DOI": "10.1136/heartjnl-2019-315047",
+            "ISSN": "1355-6037, 1468-201X",
+            "shortTitle": "",
+            "url": "http://heart.bmj.com/lookup/doi/10.1136/heartjnl-2019-315047",
+            "accessDate": "2020-09-10T17:10:24Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31439659",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:24Z",
+            "dateModified": "2020-09-15T14:17:34Z",
+            "pmid": "31439659"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        2
+                    ]
+                ],
+                "date-time": "2020-07-02T17:40:14Z",
+                "timestamp": 1593711614842
+            },
+            "reference-count": 26,
+            "publisher": "BMJ",
+            "issue": "5",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                8,
+                                22
+                            ]
+                        ],
+                        "date-time": "2019-08-22T00:00:00Z",
+                        "timestamp": 1566432000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "National Institue for Health Research, Collaborati"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>To examine the effects on emergency hospital admissions, length of stay and emergency re-admissions of providing a consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service, based in a highly deprived area in the North West of England.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>A longitudinal matched controlled study using difference-in-differences analysis compared the change in outcomes in the intervention population, to the change in outcomes in a matched comparison population that had not received the intervention, 5 years before and after implementation. The outcomes were emergency hospitalisations, length of inpatient stay and re-admission rates for cardiovascular disease (CVD).</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Findings show that the intervention was associated with 66 fewer emergency CVD admissions per 100 000 population per year (95% CI 22.13 to 108.98) in the post-intervention period, relative to the control group. No significant measurable effects on length of stay or emergency re-admission rates were observed.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>This consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service was associated with a lower rate of emergency hospital admissions in a highly disadvantaged population. Similar approaches could be an effective component of strategies to reduce unplanned hospital admissions.</jats:p></jats:sec>",
+            "DOI": "10.1136/heartjnl-2019-315047",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        22
+                    ]
+                ],
+                "date-time": "2019-08-22T21:25:37Z",
+                "timestamp": 1566509137000
+            },
+            "page": "374-379",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Impact of a community-based cardiovascular disease service intervention in a highly deprived area",
+            "prefix": "10.1136",
+            "volume": "106",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7691-1167",
+                    "authenticated-orcid": false,
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5338-0359",
+                    "authenticated-orcid": false,
+                    "given": "Tanith C",
+                    "family": "Rose",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Pooja",
+                    "family": "Saini",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Bashir",
+                    "family": "Matata",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Zoe",
+                    "family": "McIntosh",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Terence",
+                    "family": "Comerford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Keith",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Allan",
+                    "family": "Pemberton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lesley M",
+                    "family": "Harper",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Matthew",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4208-9475",
+                    "authenticated-orcid": false,
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        22
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020070210244365000_106.5.374.1",
+                    "unstructured": "Townsend N , Bhatnagar P , Wilkins E , et al . Cardiovascular disease statistics, 2015. London: British Heart Foundation, 2015."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.2",
+                    "unstructured": "Public Health England . Action plan for cardiovascular disease prevention, 2017-2018. London, 2017."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.3",
+                    "unstructured": "NHS England . Next steps of the NHS five year forward view. London: NHS England, 2017."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.4",
+                    "unstructured": "NHS England . The long term plan. England: NHS England, 2019."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.5",
+                    "DOI": "10.1093/qjmed/hcl013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.6",
+                    "unstructured": "Sekhri N , Timmis A , Hemingway H , et al . Is access to specialist assessment of chest pain equitable by age, gender, ethnicity and socioeconomic status? An enhanced ecological analysis. BMJ Open 2012;2:e001025.doi:10.1136/bmjopen-2012-001025",
+                    "DOI": "10.1136/bmjopen-2012-001025",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.7",
+                    "unstructured": "Pattenden J , Coulton S , Spilsbury K , et al . The development and impact of the British heart Foundation and the big lottery fund heart failure specialist nurse service in England: final report April 2008. York: The University of York, 2008."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.8",
+                    "unstructured": "Langhorne P , Baylan S . Early supported discharge services for people with acute stroke. Cochrane Database Syst Rev 2017;7:CD000443.doi:10.1002/14651858.CD000443.pub4",
+                    "DOI": "10.1002/14651858.CD000443.pub4",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.9",
+                    "unstructured": "Robertson R , Sonola L , Honeyman M , et al . Specialists in out-of-hospital settings: findings from six case studies. London: The King's Fund, 2014."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.10",
+                    "unstructured": "Damery S , Flanagan S , Combes G . Does integrated care reduce hospital activity for patients with chronic diseases? An umbrella review of systematic reviews. BMJ Open 2016;6:e011952.doi:10.1136/bmjopen-2016-011952",
+                    "DOI": "10.1136/bmjopen-2016-011952",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.11",
+                    "unstructured": "Department for Communities and Local Government . The English indices of deprivation 2015: statistical release, 2015."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.12",
+                    "unstructured": "British Heart Foundation . Cardiovascular Disease Statistics 2018, Chapter 1 - Mortality London: British Heart Foundation, 2018. Available: https://www.bhf.org.uk/-/media/files/research/heart-statistics/cvd-statistics-2018---chapter-1 [Accessed 19 Mar 2018]."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.13",
+                    "unstructured": "Office for National Statistics . Lower layer super output area population estimates (supporting information), 2018. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.14",
+                    "DOI": "10.1093/biomet/70.1.41",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.15",
+                    "DOI": "10.1080/00273171.2011.568786",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.16",
+                    "DOI": "10.1001/jama.2014.16153",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.17",
+                    "unstructured": "Johnson D . Community cardiovascular service including community rehabilitation for cardiac and stroke patients: service specification. Liverpool, UK: Liverpool Heart and Chest NHS Foundation Trust, 2014."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.18",
+                    "unstructured": "NHS Knowsley Practice Based Commissioners . Clinical service redesign: Knowsley community cardiovascular service. Knowsley Council, 2011."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.19",
+                    "unstructured": "Knowsley Clinical Commissioning Group . Commissioning intelligence report, 2012."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.20",
+                    "unstructured": "Curtis LA , Burns A . Unit costs of health and social care 2018. Kent, UK: University of Kent, 2018."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.21",
+                    "unstructured": "MacIntosh Z , Gossage E , Comerford T , et al . A service evaluation into the effectiveness of Knowsley cardiovascular service. Liverpool, UK: Liverpool Heart and Chest Hospital NHS Foundation Trust, 2018."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.22",
+                    "unstructured": "Angrist JD , Pischke JS . Mostly harmless econometrics: an empiricist\u2019s companion. Princeton: Princeton University Press, 2009."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.23",
+                    "unstructured": "Das M , Panter L , Wynn GJ , et al . Primary care atrial fibrillation service: outcomes from consultant-led anticoagulation assessment clinics in the primary care setting in the UK. BMJ Open 2015;5:e009267.doi:10.1136/bmjopen-2015-009267",
+                    "DOI": "10.1136/bmjopen-2015-009267",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.24",
+                    "unstructured": "Cleland J , Dargie H , Hardman S , et al . National heart failure audit 2011/12. Annual report. NICOR, 2012."
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "381",
+                    "DOI": "10.1080/14719037.2016.1177107",
+                    "article-title": "Co-location as a catalyst for service innovation: a study of Scottish health and social care",
+                    "volume": "19",
+                    "author": "Memon",
+                    "year": "2017",
+                    "journal-title": "Public Management Review"
+                },
+                {
+                    "key": "2020070210244365000_106.5.374.26",
+                    "unstructured": "Ahmad N , Lawrie M , Patel R , et al . Integrated care pilots evaluation: final report. British Heart Foundation, 2015."
+                }
+            ],
+            "container-title": "Heart",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/heartjnl-2019-315047",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        2
+                    ]
+                ],
+                "date-time": "2020-07-02T17:25:31Z",
+                "timestamp": 1593710731000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        22
+                    ]
+                ]
+            },
+            "references-count": 26,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            2,
+                            13
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "10.1136/heartjnl-2019-315047"
+            ],
+            "URL": "http://dx.doi.org/10.1136/heartjnl-2019-315047",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1355-6037",
+                "1468-201X"
+            ],
+            "subject": [
+                "Cardiology and Cardiovascular Medicine"
+            ],
+            "container-title-short": "Heart"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "cardiac rehabilitation",
+                        "chronic coronary disease",
+                        "healthcare delivery",
+                        "heart failure",
+                        "quality and outcomes of care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31439659",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "04"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/heartjnl-2019-315047"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "08",
+                            "Day": "22"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-201X",
+                        "JournalIssue": {
+                            "Volume": "106",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Mar"
+                            }
+                        },
+                        "Title": "Heart (British Cardiac Society)",
+                        "ISOAbbreviation": "Heart"
+                    },
+                    "ArticleTitle": "Impact of a community-based cardiovascular disease service intervention in a highly deprived area.",
+                    "Pagination": {
+                        "MedlinePgn": "374-379"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To examine the effects on emergency hospital admissions, length of stay and emergency re-admissions of providing a consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service, based in a highly deprived area in the North West of England.",
+                            "A longitudinal matched controlled study using difference-in-differences analysis compared the change in outcomes in the intervention population, to the change in outcomes in a matched comparison population that had not received the intervention, 5 years before and after implementation. The outcomes were emergency hospitalisations, length of inpatient stay and re-admission rates for cardiovascular disease (CVD).",
+                            "Findings show that the intervention was associated with 66 fewer emergency CVD admissions per 100 000 population per year (95% CI 22.13 to 108.98) in the post-intervention period, relative to the control group. No significant measurable effects on length of stay or emergency re-admission rates were observed.",
+                            "This consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service was associated with a lower rate of emergency hospital admissions in a highly disadvantaged population. Similar approaches could be an effective component of strategies to reduce unplanned hospital admissions."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK j.downing@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-7691-1167"
+                            ],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-5338-0359"
+                            ],
+                            "LastName": "Rose",
+                            "ForeName": "Tanith C",
+                            "Initials": "TC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Saini",
+                            "ForeName": "Pooja",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Department, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Matata",
+                            "ForeName": "Bashir",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Knowsley Community Services, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntosh",
+                            "ForeName": "Zoe",
+                            "Initials": "Z"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Comerford",
+                            "ForeName": "Terence",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Department, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Keith",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR CLAHRC NWC, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pemberton",
+                            "ForeName": "Allan",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Service Research, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harper",
+                            "ForeName": "Lesley M",
+                            "Initials": "LM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Department, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Matthew",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Geography and Planning, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-4208-9475"
+                            ],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Heart",
+                    "NlmUniqueID": "9602087",
+                    "ISSNLinking": "1355-6037"
+                },
+                "CoiStatement": "Competing interests: BM and ZM are employed by Liverpool Heart and Chest NHS Foundation Trust, the provider of KCVDS, and were involved in providing information about the nature of the intervention and providing contextual information upon request when interpreting the results. AP is an elected governor and KW is employed as a patient ambassador at Liverpool Heart and Chest NHS Foundation Trust. Both were involved as public advisors."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "JAMA. 2014 Dec 10;312(22):2401-2",
+                                "ArticleIdList": [
+                                    "25490331"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2012 Jun 14;2(3):",
+                                "ArticleIdList": [
+                                    "22700834"
+                                ]
+                            },
+                            {
+                                "Citation": "QJM. 2006 Mar;99(3):135-41",
+                                "ArticleIdList": [
+                                    "16478795"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2015 Dec 09;5(12):e009267",
+                                "ArticleIdList": [
+                                    "26656021"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Nov 21;6(11):e011952",
+                                "ArticleIdList": [
+                                    "27872113"
+                                ]
+                            },
+                            {
+                                "Citation": "Multivariate Behav Res. 2011 May;46(3):399-424",
+                                "ArticleIdList": [
+                                    "21818162"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2017 Jul 13;7:CD000443",
+                                "ArticleIdList": [
+                                    "28703869"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "03",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "07",
+                        "Day": "25"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "07",
+                        "Day": "31"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31439659",
+                    "heartjnl-2019-315047",
+                    "10.1136/heartjnl-2019-315047",
+                    "PMC7035686"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31439659)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831439659%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831439659%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071631687"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071631687?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071631687&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071631687&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071631687",
+                        "dc:identifier": "SCOPUS_ID:85071631687",
+                        "eid": "2-s2.0-85071631687",
+                        "dc:title": "Impact of a community-based cardiovascular disease service intervention in a highly deprived area",
+                        "dc:creator": "Downing J.",
+                        "prism:publicationName": "Heart",
+                        "prism:issn": "13556037",
+                        "prism:eIssn": "1468201X",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-01-01",
+                        "prism:coverDisplayDate": "2019",
+                        "prism:doi": "10.1136/heartjnl-2019-315047",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31439659",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "23217",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "NZ5LZ8VQ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31439659"
+            }
+        },
+        "title": "Impact of a community-based cardiovascular disease service intervention in a highly deprived area.",
+        "full_author_list": [
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK j.downing@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Rose T",
+                "family": "Rose",
+                "given": "Tanith C",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Saini P",
+                "family": "Saini",
+                "given": "Pooja",
+                "affiliation": {
+                    "name": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Matata B",
+                "family": "Matata",
+                "given": "Bashir",
+                "affiliation": {
+                    "name": "Research Department, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "McIntosh Z",
+                "family": "McIntosh",
+                "given": "Zoe",
+                "affiliation": {
+                    "name": "Knowsley Community Services, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Comerford T",
+                "family": "Comerford",
+                "given": "Terence",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilson K",
+                "family": "Wilson",
+                "given": "Keith",
+                "affiliation": {
+                    "name": "Research Department, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pemberton A",
+                "family": "Pemberton",
+                "given": "Allan",
+                "affiliation": {
+                    "name": "NIHR CLAHRC NWC, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harper L",
+                "family": "Harper",
+                "given": "Lesley M",
+                "affiliation": {
+                    "name": "Department of Health Service Research, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shaw M",
+                "family": "Shaw",
+                "given": "Matthew",
+                "affiliation": {
+                    "name": "Research Department, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "Department of Geography and Planning, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Downing J",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Heart",
+            "volume": "106",
+            "issue": "5"
+        },
+        "abstract": "['To examine the effects on emergency hospital admissions, length of stay and emergency re-admissions of providing a consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service, based in a highly deprived area in the North West of England.', 'A longitudinal matched controlled study using difference-in-differences analysis compared the change in outcomes in the intervention population, to the change in outcomes in a matched comparison population that had not received the intervention, 5 years before and after implementation. The outcomes were emergency hospitalisations, length of inpatient stay and re-admission rates for cardiovascular disease (CVD).', 'Findings show that the intervention was associated with 66 fewer emergency CVD admissions per 100 000 population per year (95% CI 22.13 to 108.98) in the post-intervention period, relative to the control group. No significant measurable effects on length of stay or emergency re-admission rates were observed.', 'This consultant-led, community-based cardiovascular diagnostic, treatment and rehabilitation service was associated with a lower rate of emergency hospital admissions in a highly disadvantaged population. Similar approaches could be an effective component of strategies to reduce unplanned hospital admissions.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK j.downing@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

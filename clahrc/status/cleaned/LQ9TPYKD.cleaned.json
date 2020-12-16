@@ -1,0 +1,1115 @@
+{
+    "IDs": {
+        "zotero": "LQ9TPYKD",
+        "DOI": "10.1136/jech-2018-211141",
+        "DOI_filename": "84cede70960dd135bd0eb6424150b4e9",
+        "PMID": "30470698",
+        "scopus": "2-s2.0-85059827894",
+        "hash": "9f356e75c255ae5f0299ff0254619a2a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "LQ9TPYKD",
+            "version": 169,
+            "itemType": "journalArticle",
+            "title": "Evaluating effects of recent changes in NHS resource allocation policy on inequalities in amenable mortality in England, 2007\u20132014: time-series analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jonny",
+                    "lastName": "Currie"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maria",
+                    "lastName": "Guzman Castillo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Victor",
+                    "lastName": "Adekanmbi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Martin",
+                    "lastName": "O\u2019Flaherty"
+                }
+            ],
+            "abstractNote": "Background\n              Health investment in England post-2010 has increased at lower rates than previously, with proportionally less being allocated to deprived areas. This study seeks to explore the impact of this on inequalities in amenable mortality between local areas.\n            \n            \n              Methods\n              We undertook a time-series analysis across 324 lower-tier local authorities in England, evaluating the impact of changes in funding allocations to health commissioners from 2007 to 2014 on spatial inequalities in age-standardised under-75 mortality rates for conditions amenable to healthcare for men and women, adjusting for trends in household income, unemployment and time-trends.\n            \n            \n              Results\n              More deprived areas received proportionally more funding between 2007 and 2014, though the reorganisation of commissioning in 2012 stalled this. Funding increases to more deprived local areas accounted for a statistically significant reduction in inequalities in male amenable mortality between local areas of 13 deaths per 100\u2009000 (95% CI 2.5 to 25.9). Funding changes were associated with a reduction in inequalities in female amenable mortality of 7.0 per 100,000, though this finding did not reach significance (p=0.09).\n            \n            \n              Conclusion\n              Current National Health Service (NHS) resource allocation policy in England appears to be contributing to a convergence in health outcomes between affluent and deprived areas. However, careful surveillance is needed to evaluate whether diminished allocations to more deprived areas in recent years and reduced NHS investment as a whole is impacting adversely on inequalities between groups.",
+            "publicationTitle": "Journal of Epidemiology and Community Health",
+            "volume": "73",
+            "issue": "2",
+            "pages": "162-167",
+            "date": "02/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Epidemiol Community Health",
+            "language": "en",
+            "DOI": "10.1136/jech-2018-211141",
+            "ISSN": "0143-005X, 1470-2738",
+            "shortTitle": "Evaluating effects of recent changes in NHS resource allocation policy on inequalities in amenable mortality in England, 2007\u20132014",
+            "url": "http://jech.bmj.com/lookup/doi/10.1136/jech-2018-211141",
+            "accessDate": "2020-09-10T17:08:50Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30470698",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:50Z",
+            "dateModified": "2020-09-15T13:11:59Z",
+            "pmid": "30470698"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T06:10:39Z",
+                "timestamp": 1588918239659
+            },
+            "reference-count": 47,
+            "publisher": "BMJ",
+            "issue": "2",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Background</jats:title><jats:p>Health investment in England post-2010 has increased at lower rates than previously, with proportionally less being allocated to deprived areas. This study seeks to explore the impact of this on inequalities in amenable mortality between local areas.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>We undertook a time-series analysis across 324 lower-tier local authorities in England, evaluating the impact of changes in funding allocations to health commissioners from 2007 to 2014 on spatial inequalities in age-standardised under-75 mortality rates for conditions amenable to healthcare for men and women, adjusting for trends in household income, unemployment and time-trends.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>More deprived areas received proportionally more funding between 2007 and 2014, though the reorganisation of commissioning in 2012 stalled this. Funding increases to more deprived local areas accounted for a statistically significant reduction in inequalities in male amenable mortality between local areas of 13 deaths per 100\u2009000 (95% CI 2.5 to 25.9). Funding changes were associated with a reduction in inequalities in female amenable mortality of 7.0 per 100,000, though this finding did not reach significance (p=0.09).</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Current National Health Service (NHS) resource allocation policy in England appears to be contributing to a convergence in health outcomes between affluent and deprived areas. However, careful surveillance is needed to evaluate whether diminished allocations to more deprived areas in recent years and reduced NHS investment as a whole is impacting adversely on inequalities between groups.</jats:p></jats:sec>",
+            "DOI": "10.1136/jech-2018-211141",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        23
+                    ]
+                ],
+                "date-time": "2018-11-23T19:55:11Z",
+                "timestamp": 1543002911000
+            },
+            "page": "162-167",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Evaluating effects of recent changes in NHS resource allocation policy on inequalities in amenable mortality in England, 2007\u20132014: time-series analysis",
+            "prefix": "10.1136",
+            "volume": "73",
+            "author": [
+                {
+                    "given": "Jonny",
+                    "family": "Currie",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Maria",
+                    "family": "Guzman Castillo",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-7394-1640",
+                    "authenticated-orcid": false,
+                    "given": "Victor",
+                    "family": "Adekanmbi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Martin",
+                    "family": "O\u2019Flaherty",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        23
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020050722092363000_73.2.162.1",
+                    "unstructured": "Robertson R , Wenzel L , Thompson J , et al . Understanding NHS financial pressures. How are they affecting patient care? London: The Kings Fund, 2017."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.2",
+                    "unstructured": "Roberts A , Marshall L , Charlesworth A . A decade of austerity? The funding pressures facing the NHS from 2010/11 to 2021/22. London: The Nuffield Trust, 2012."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.3",
+                    "unstructured": "Harker R . NHS Funding and Expenditure. Briefing Paper. Number SN0724. London: House of Commons Library, 2017."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.4",
+                    "unstructured": "Stoye G . UK health spending. IFS Briefing Note BN201. London: IFS, 2017.",
+                    "DOI": "10.1920/BN.IFS.2017.BN0201",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.5",
+                    "unstructured": "NHSE. Five Year forward view. 2014. https://www.england.nhs.uk/wp-content/uploads/2014/10/5yfv-web.pdf (Accessed 9 Mar 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.6",
+                    "unstructured": "Barr B , Taylor-Robinson D , Scott-Samuel A , et al . Suicides associated with the 2008-10 economic recession in England: time trend analysis. BMJ 2012;345:e5142.doi:10.1136/bmj.e5142",
+                    "DOI": "10.1136/bmj.e5142",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.7",
+                    "DOI": "10.1177/0141076816632215",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.8",
+                    "DOI": "10.1016/j.socscimed.2015.11.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.9",
+                    "unstructured": "Watkins J , Wulaningsih W , Da Zhou C , et al . Effects of health and social care spending constraints on mortality in England: a time trend analysis. BMJ Open 2017;7:e017722.doi:10.1136/bmjopen-2017-017722",
+                    "DOI": "10.1136/bmjopen-2017-017722",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.10",
+                    "unstructured": "Newton J , Baker A , Fitzpatrick J , et al . What\u2019s happening with mortality rates in England?\u00a0Public Health England. 2017. https://publichealthmatters.blog.gov.uk/2017/07/20/whats-happening-with-mortality-rates-in-england (Accessed 7 Sept 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.11",
+                    "unstructured": "Raleigh V . Why have improvements in mortality slowed down?\u00a0The King\u2019s Fund. 2017. https://www.kingsfund.org.uk/blog/2017/11/improvements-mortality-slowed-down (Accessed 7 Sept 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.12",
+                    "unstructured": "UCL Institute of Health Equity. Marmot indicators 2017 \u2013 Institute of Health equity briefing. 2017. http://www.instituteofhealthequity.org/resources-reports/marmot-indicators-2017-institute-of-health-equity-briefing (Accessed 7 Sept 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.13",
+                    "unstructured": "Institute and Faculty of Actuaries. CMI Working Papers 90, 91 and 93. https://www.actuaries.org.uk/learn-and-develop/continuous-mortality-investigation/cmi-working-papers/mortality-projections/cmi-working-papers-90-91-and-93 (Accessed 7 Sept 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.14",
+                    "unstructured": "ONS. Changing trends in mortality in England and Wales: 1990 to 2017 (Experimental Statistics). 2018. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/changingtrendsinmortalityinenglandandwales1990to2017/experimentalstatistics (Accessed 7 Sept 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.15",
+                    "unstructured": "ONS. Changing trends in mortality: an international comparison: 2000 to 2016. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/changingtrendsinmortalityaninternationalcomparison/2000to2016 (Accessed 15 Oct 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.16",
+                    "DOI": "10.1016/S0140-6736(10)62055-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "865",
+                    "DOI": "10.1186/s12889-016-3505-z",
+                    "article-title": "Did the English strategy reduce inequalities in health? A difference-in-difference analysis comparing England with three other European countries",
+                    "volume": "16",
+                    "author": "Hu",
+                    "year": "2016",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.18",
+                    "DOI": "10.1016/j.socscimed.2010.07.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.19",
+                    "DOI": "10.1136/bmj.j3310",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.20",
+                    "DOI": "10.1377/hlthaff.2016.1674",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.21",
+                    "unstructured": "Nolte E , Mckee M . Does health care save lives? Avoidable mortality revisited. London: The Nuffield Trust, 2004."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.22",
+                    "unstructured": "ONS. Avoidable mortality in England and Wales QMI. 2016. https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/methodologies/avoidablemortalityinenglandandwalesqmi (Accessed 7 Sept 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.23",
+                    "DOI": "10.1136/bmj.g3231",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.24",
+                    "DOI": "10.1136/jech-2015-206742",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.25",
+                    "unstructured": "NHS England. Fundamental Review of Allocations Policy. Annex C. Technical Guide. London: NHS England, 2013. (Accessed 9 Mar 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.26",
+                    "unstructured": "National Audit Office.. Funding healthcare: Making allocations to local areas. 2014. https://www.nao.org.uk/wp-content/uploads/2014/09/Funding-healthcare-making-allocations-to-local-areas.pdf (Accessed 9 Mar 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.27",
+                    "unstructured": "NHS Digital Indicator Portal. Data and information. 2018 https://indicators.hscic.gov.uk/webview (Accessed 27 Feb 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.28",
+                    "unstructured": "ONS. Population estimates for UK, England and Wales, Scotland and Northern Ireland. 2017. https://www.gov.uk/government/collections/gdp-deflators-at-market-prices-and-money-gdp (Accessed 28 Feb 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.29",
+                    "unstructured": "ONS. Regional gross disposable household income (GDHI) by local authority in the UK. https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome/datasets/regionalgrossdisposablehouseholdincomegdhibylocalauthorityintheuk (Accessed 28 Feb 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.30",
+                    "unstructured": "ONS. NOMIS \u2013 official labour market statistics. https://www.nomisweb.co.uk (Accessed 28 Feb 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.31",
+                    "unstructured": "Department of Communities and Local Government. Indices of deprivation 2000. 2000. http://webarchive.nationalarchives.gov.uk/20100407204456/http://www.communities.gov.uk/archived/general-content/communities/indicesofdeprivation/indicesofdeprivation (Accessed 28 Feb 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.32",
+                    "unstructured": "King NB , Harper S , Young ME . Use of relative and absolute effect measures in reporting health inequalities: structured review. BMJ 2012;345:e5774.doi:10.1136/bmj.e5774",
+                    "DOI": "10.1136/bmj.e5774",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.33",
+                    "unstructured": "Kunst AE , Bos V , Mackenbach J . Monitoring socio-economic inequalities in health in the European Union: guidelines and illustrations: Erasmus University, 2001."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.34",
+                    "unstructured": "Croissant Y , Millo G . Panel Data Econometrics in R: the plm package. https://cran.r-project.org/web/packages/plm/vignettes/plm.pdf (Accessed 28 Feb 2018).",
+                    "DOI": "10.1002/9781119504641",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.35",
+                    "unstructured": "R Core Team. R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing, 2017."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.36",
+                    "unstructured": "Lu X , Su L . Determining Individual or Time Effects in Panel Data Models. Research Collection School of Econometrics. 2017:1\u201358."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.37",
+                    "DOI": "10.1162/003465398557825",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.38",
+                    "DOI": "10.2105/AJPH.2012.301143",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.1186/1472-6963-13-3",
+                    "article-title": "Socioeconomic differences in mortality amenable to health care among Finnish adults 1992-2003: 12 year follow up using individual level linked population register data",
+                    "volume": "13",
+                    "author": "McCallum",
+                    "year": "2013",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.40",
+                    "first-page": "w14478",
+                    "article-title": "Trends and socioeconomic inequalities in amenable mortality in Switzerland with international comparisons",
+                    "volume": "147",
+                    "author": "Feller",
+                    "year": "2017",
+                    "journal-title": "Swiss Med Wkly"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.41",
+                    "DOI": "10.1377/hlthaff.27.1.58",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.42",
+                    "DOI": "10.1136/jech.2006.047092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.43",
+                    "unstructured": "HM Government. Health and social care act. 2012. http://www.legislation.gov.uk/ukpga/2012/7/contents/enacted (Accessed 9 Mar 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.44",
+                    "unstructured": "Department of Health. Tackling health inequalities: 10 years on. London: Department of Health, 2009."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.45",
+                    "DOI": "10.1136/bmj.314.7086.1037",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.46",
+                    "unstructured": "NICE. Health inequalities and population health. Local government briefing. 2012. http://nice.org.uk/guidance/lgb4 (Accessed 9 Mar 2018)."
+                },
+                {
+                    "key": "2020050722092363000_73.2.162.47",
+                    "unstructured": "Frontier Economics Ltd. Estimating the costs of health inequalities. A report prepared for the Marmot Review. http://www.instituteofhealthequity.org/file-manager/FSHLrelateddocs/overall-costs-fshl.pdf (Accessed 9 Mar 2018)."
+                }
+            ],
+            "container-title": "Journal of Epidemiology and Community Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/jech-2018-211141",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        8
+                    ]
+                ],
+                "date-time": "2020-05-08T05:32:26Z",
+                "timestamp": 1588915946000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 47,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            1,
+                            10
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1136/jech-2018-211141"
+            ],
+            "URL": "http://dx.doi.org/10.1136/jech-2018-211141",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0143-005X",
+                "1470-2738"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Epidemiology"
+            ],
+            "container-title-short": "J Epidemiol Community Health"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "inequalities",
+                        "policy",
+                        "public health",
+                        "time-series"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30470698",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/jech-2018-211141"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "11",
+                            "Day": "23"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1470-2738",
+                        "JournalIssue": {
+                            "Volume": "73",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "02"
+                            }
+                        },
+                        "Title": "Journal of epidemiology and community health",
+                        "ISOAbbreviation": "J Epidemiol Community Health"
+                    },
+                    "ArticleTitle": "Evaluating effects of recent changes in NHS resource allocation policy on inequalities in amenable mortality in England, 2007-2014: time-series analysis.",
+                    "Pagination": {
+                        "MedlinePgn": "162-167"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Health investment in England post-2010 has increased at lower rates than previously, with proportionally less being allocated to deprived areas. This study seeks to explore the impact of this on inequalities in amenable mortality between local areas.",
+                            "We undertook a time-series analysis across 324 lower-tier local authorities in England, evaluating the impact of changes in funding allocations to health commissioners from 2007 to 2014 on spatial inequalities in age-standardised under-75 mortality rates for conditions amenable to healthcare for men and women, adjusting for trends in household income, unemployment and time-trends.",
+                            "More deprived areas received proportionally more funding between 2007 and 2014, though the reorganisation of commissioning in 2012 stalled this. Funding increases to more deprived local areas accounted for a statistically significant reduction in inequalities in male amenable mortality between local areas of 13 deaths per 100\u2009000 (95% CI 2.5 to 25.9). Funding changes were associated with a reduction in inequalities in female amenable mortality of 7.0 per 100,000, though this finding did not reach significance (p=0.09).",
+                            "Current National Health Service (NHS) resource allocation policy in England appears to be contributing to a convergence in health outcomes between affluent and deprived areas. However, careful surveillance is needed to evaluate whether diminished allocations to more deprived areas in recent years and reduced NHS investment as a whole is impacting adversely on inequalities between groups."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health Wales, Cardiff, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Currie",
+                            "ForeName": "Jonny",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Guzman Castillo",
+                            "ForeName": "Maria",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Population Medicine, School of Medicine, Cardiff University, Neuadd Meirionnydd, University Hospital of Wales, Cardiff, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-7394-1640"
+                            ],
+                            "LastName": "Adekanmbi",
+                            "ForeName": "Victor",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "O'Flaherty",
+                            "ForeName": "Martin",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Epidemiol Community Health",
+                    "NlmUniqueID": "7909766",
+                    "ISSNLinking": "0143-005X"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "trends"
+                        ],
+                        "DescriptorName": "Health Policy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "trends"
+                        ],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Mortality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Poverty Areas",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics"
+                        ],
+                        "DescriptorName": "Primary Health Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Resource Allocation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "State Medicine",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: VA is supported by the National Centre for Population Health & Wellbeing Research (NCPHWR)."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Soc Sci Med. 2010 Oct;71(7):1249-1253",
+                                "ArticleIdList": [
+                                    "20736133"
+                                ]
+                            },
+                            {
+                                "Citation": "Swiss Med Wkly. 2017 Aug 14;147:w14478",
+                                "ArticleIdList": [
+                                    "28804861"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2016 Jul;70(7):637-43",
+                                "ArticleIdList": [
+                                    "26787198"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2017 Jul 26;358:j3310",
+                                "ArticleIdList": [
+                                    "28747304"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2007 Apr;61(4):287-96",
+                                "ArticleIdList": [
+                                    "17372287"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2012 Aug 13;345:e5142",
+                                "ArticleIdList": [
+                                    "22893569"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2013 Mar;103(3):e100-6",
+                                "ArticleIdList": [
+                                    "23327277"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2013 Jan 03;13:3",
+                                "ArticleIdList": [
+                                    "23286878"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2015 Dec;147:324-31",
+                                "ArticleIdList": [
+                                    "26623942"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2012 Sep 03;345:e5774",
+                                "ArticleIdList": [
+                                    "22945952"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 May 27;348:g3231",
+                                "ArticleIdList": [
+                                    "24865459"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2016 Aug 24;16(1):865",
+                                "ArticleIdList": [
+                                    "27558269"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2016 Mar;109(3):109-16",
+                                "ArticleIdList": [
+                                    "26980412"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2011 Jun 11;377(9782):1986-8",
+                                "ArticleIdList": [
+                                    "21074842"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Aff (Millwood). 2008 Jan-Feb;27(1):58-71",
+                                "ArticleIdList": [
+                                    "18180480"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1997 Apr 5;314(7086):1037-40",
+                                "ArticleIdList": [
+                                    "9112854"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Aff (Millwood). 2017 Jun 1;36(6):1110-1118",
+                                "ArticleIdList": [
+                                    "28583971"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2017 Nov 15;7(11):e017722",
+                                "ArticleIdList": [
+                                    "29141897"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "06",
+                        "Day": "05"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30470698",
+                    "jech-2018-211141",
+                    "10.1136/jech-2018-211141",
+                    "PMC6352397"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30470698)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830470698%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830470698%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059827894"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059827894?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059827894&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059827894&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059827894",
+                        "dc:identifier": "SCOPUS_ID:85059827894",
+                        "eid": "2-s2.0-85059827894",
+                        "dc:title": "Evaluating effects of recent changes in NHS resource allocation policy on inequalities in amenable mortality in England, 2007-2014: Time-series analysis",
+                        "dc:creator": "Currie J.",
+                        "prism:publicationName": "Journal of Epidemiology and Community Health",
+                        "prism:issn": "0143005X",
+                        "prism:eIssn": "14702738",
+                        "prism:volume": "73",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "162-167",
+                        "prism:coverDate": "2019-02-01",
+                        "prism:coverDisplayDate": "1 February 2019",
+                        "prism:doi": "10.1136/jech-2018-211141",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Public Health Wales",
+                                "affiliation-city": "Cardiff",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30470698",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "15896",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "LQ9TPYKD.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30470698"
+            }
+        },
+        "title": "Evaluating effects of recent changes in NHS resource allocation policy on inequalities in amenable mortality in England, 2007-2014: time-series analysis.",
+        "full_author_list": [
+            {
+                "clean": "Currie J",
+                "family": "Currie",
+                "given": "Jonny",
+                "affiliation": {
+                    "name": "Public Health Wales, Cardiff, UK."
+                }
+            },
+            {
+                "clean": "Guzman Castillo M",
+                "family": "Guzman Castillo",
+                "given": "Maria",
+                "affiliation": {
+                    "name": "Department of Public Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Adekanmbi V",
+                "family": "Adekanmbi",
+                "given": "Victor",
+                "affiliation": {
+                    "name": "Division of Population Medicine, School of Medicine, Cardiff University, Neuadd Meirionnydd, University Hospital of Wales, Cardiff, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Public Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "O'Flaherty M",
+                "family": "O'Flaherty",
+                "given": "Martin",
+                "affiliation": {
+                    "name": "Department of Public Health, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Currie J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Policy",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Mortality",
+                    "major": "N"
+                },
+                {
+                    "term": "Poverty Areas",
+                    "major": "Y"
+                },
+                {
+                    "term": "Primary Health Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Resource Allocation",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "Y"
+                },
+                {
+                    "term": "State Medicine",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Epidemiol Community Health",
+            "volume": "73",
+            "issue": "2"
+        },
+        "abstract": "['Health investment in England post-2010 has increased at lower rates than previously, with proportionally less being allocated to deprived areas. This study seeks to explore the impact of this on inequalities in amenable mortality between local areas.', 'We undertook a time-series analysis across 324 lower-tier local authorities in England, evaluating the impact of changes in funding allocations to health commissioners from 2007 to 2014 on spatial inequalities in age-standardised under-75 mortality rates for conditions amenable to healthcare for men and women, adjusting for trends in household income, unemployment and time-trends.', 'More deprived areas received proportionally more funding between 2007 and 2014, though the reorganisation of commissioning in 2012 stalled this. Funding increases to more deprived local areas accounted for a statistically significant reduction in inequalities in male amenable mortality between local areas of 13 deaths per 100\\u2009000 (95% CI 2.5 to 25.9). Funding changes were associated with a reduction in inequalities in female amenable mortality of 7.0 per 100,000, though this finding did not reach significance (p=0.09).', 'Current National Health Service (NHS) resource allocation policy in England appears to be contributing to a convergence in health outcomes between affluent and deprived areas. However, careful surveillance is needed to evaluate whether diminished allocations to more deprived areas in recent years and reduced NHS investment as a whole is impacting adversely on inequalities between groups.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Public Health Wales, Cardiff, UK."
+        }
+    }
+}

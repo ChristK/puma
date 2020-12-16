@@ -1,0 +1,917 @@
+{
+    "IDs": {
+        "zotero": "U48NH49I",
+        "DOI": "10.1002/pmh.1439",
+        "DOI_filename": "e35b08ed803ea0554bbc9f2d1aa3d364",
+        "PMID": "30806042",
+        "scopus": "2-s2.0-85062341534",
+        "hash": "f0ca7488720b008b898b5fafd45c337d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "U48NH49I",
+            "version": 185,
+            "itemType": "journalArticle",
+            "title": "A preliminary service evaluation of a personality disorder case management service",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Simon",
+                    "lastName": "Graham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathia",
+                    "lastName": "Sullivan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura",
+                    "lastName": "Briggs"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Goodall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosella",
+                    "lastName": "Iraci Capucinello"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Personality and Mental Health",
+            "volume": "13",
+            "issue": "2",
+            "pages": "65-74",
+            "date": "05/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Personality and Mental Health",
+            "language": "en",
+            "DOI": "10.1002/pmh.1439",
+            "ISSN": "1932-8621, 1932-863X",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pmh.1439",
+            "accessDate": "2020-09-10T17:09:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30806042",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:13Z",
+            "dateModified": "2020-09-15T14:29:46Z",
+            "pmid": "30806042"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        20
+                    ]
+                ],
+                "date-time": "2020-08-20T23:04:30Z",
+                "timestamp": 1597964670712
+            },
+            "reference-count": 31,
+            "publisher": "Wiley",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                2,
+                                25
+                            ]
+                        ],
+                        "date-time": "2019-02-25T00:00:00Z",
+                        "timestamp": 1551052800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                2,
+                                25
+                            ]
+                        ],
+                        "date-time": "2019-02-25T00:00:00Z",
+                        "timestamp": 1551052800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        5
+                    ]
+                ]
+            },
+            "DOI": "10.1002/pmh.1439",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        26
+                    ]
+                ],
+                "date-time": "2019-02-26T07:24:05Z",
+                "timestamp": 1551165845000
+            },
+            "page": "65-74",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "A preliminary service evaluation of a personality disorder case management service",
+            "prefix": "10.1002",
+            "volume": "13",
+            "author": [
+                {
+                    "given": "Simon",
+                    "family": "Graham",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Mersey Care NHS Foundation Trust Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Kathia",
+                    "family": "Sullivan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Mersey Care NHS Foundation Trust Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Laura",
+                    "family": "Briggs",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of MedicineUniversity of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Goodall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health ScienceUniversity of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rosella",
+                    "family": "Iraci Capucinello",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health ResearchLancaster University Lancaster UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        25
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_11_2_1",
+                    "DOI": "10.1176/appi.ps.53.6.738",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_3_1",
+                    "DOI": "10.1521/pedi.2013.27.2.222",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_4_1",
+                    "DOI": "10.1046/j.1440-0979.2002.00246.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_5_1",
+                    "DOI": "10.1176/appi.ajp.161.8.1463",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_6_1",
+                    "DOI": "10.1002/cpp.2109",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_7_1",
+                    "DOI": "10.1176/ajp.156.10.1563",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_8_1",
+                    "DOI": "10.1176/appi.ajp.2007.07040636",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_9_1",
+                    "DOI": "10.1001/archpsyc.63.7.757",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_10_1",
+                    "DOI": "10.1176/appi.ajp.2007.07071079",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_11_1",
+                    "DOI": "10.1111/jpm.12315",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_12_1",
+                    "DOI": "10.1002/pmh.1326",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_13_1",
+                    "DOI": "10.1108/JFP-04-2013-0027",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_14_1",
+                    "DOI": "10.1002/cbm.2041",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_15_1",
+                    "DOI": "10.1080/1068316X.2013.758976",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_16_1",
+                    "DOI": "10.1108/13619322200700036",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_17_1",
+                    "unstructured": "CrawfordM.Learning the lessons: a multi\u2010method evaluation of dedicated community\u2010based services for people with personality disorder. Report for the National Co\u2010ordinating Centre for NHS Service Delivery and Organisation R&D (NCCSDO). Queens Printer and Controller of HMSO 2007.",
+                    "DOI": "10.1108/13619322200700039",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "e_1_2_11_18_1",
+                    "unstructured": "KaneE.What difference does it make? A tale of two cities. Presentation to the Annual Conference of the British and Irish Group for the Study of Personality Disorder Manchester March2012."
+                },
+                {
+                    "key": "e_1_2_11_19_1",
+                    "author": "Castillo H",
+                    "year": "2015",
+                    "volume-title": "The Reality of Recovery in Personality Disorder"
+                },
+                {
+                    "key": "e_1_2_11_20_1",
+                    "DOI": "10.1177/002076409704300305",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_21_1",
+                    "DOI": "10.1080/01612840.2016.1191565",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_22_1",
+                    "DOI": "10.1192/pb.bp.116.055251",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_23_1",
+                    "unstructured": "TullochAD SoperB G\u00f6rzigA PettitS KoeserL PollingCet al.Management by geographical area or management specialised by disorder? A mixed\u2010methods evaluation of the effects of an organisational intervention on secondary mental health care for common mental disorder. National Institute for Health Research (NIHR) Journals Library March2016. (http://www.ncbi.nlm.nih.gov/books/NBK349063)",
+                    "DOI": "10.3310/hsdr04090",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "e_1_2_11_24_1",
+                    "DOI": "10.1093/med:psych/9780199644209.001.0001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_25_1",
+                    "author": "Gunderson JG",
+                    "year": "2014",
+                    "volume-title": "Handbook of Good Psychiatric Management of Borderline Personality Disorder"
+                },
+                {
+                    "key": "e_1_2_11_26_1",
+                    "unstructured": "National Institute for Health and Care Excellence Borderline personality disorder: treatment and management(clinical guidance CG78). NICE 2009."
+                },
+                {
+                    "key": "e_1_2_11_27_1",
+                    "DOI": "10.11613/BM.2014.022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_28_1",
+                    "DOI": "10.1136/bmj.g5074",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_29_1",
+                    "unstructured": "MillsAJ DureposG WiebeE.Encyclopaedia of case study design chapter 4 before and after case study design. Sage 2010."
+                },
+                {
+                    "key": "e_1_2_11_30_1",
+                    "unstructured": "NHS England Implementing the five year forward view for mental health. NHS England 2016."
+                },
+                {
+                    "key": "e_1_2_11_31_1",
+                    "unstructured": "NHS Improvement National cost collection guidance 2018 2018."
+                },
+                {
+                    "key": "e_1_2_11_32_1",
+                    "DOI": "10.1002/pmh.1329",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Personality and Mental Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpmh.1439",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pmh.1439",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/pmh.1439",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pmh.1439",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        11,
+                        18
+                    ]
+                ],
+                "date-time": "2019-11-18T20:40:47Z",
+                "timestamp": 1574109647000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        25
+                    ]
+                ]
+            },
+            "references-count": 31,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            4,
+                            16
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1002/pmh.1439"
+            ],
+            "URL": "http://dx.doi.org/10.1002/pmh.1439",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1932-8621",
+                "1932-863X"
+            ],
+            "subject": [
+                "Health Policy",
+                "Phychiatric Mental Health",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Personality and Mental Health"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30806042",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "05",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "10"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/pmh.1439"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "02",
+                            "Day": "25"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1932-863X",
+                        "JournalIssue": {
+                            "Volume": "13",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "05"
+                            }
+                        },
+                        "Title": "Personality and mental health",
+                        "ISOAbbreviation": "Personal Ment Health"
+                    },
+                    "ArticleTitle": "A preliminary service evaluation of a personality disorder case management service.",
+                    "Pagination": {
+                        "MedlinePgn": "65-74"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The aim of this study is to assess the impact of establishing a specialized community personality disorder team on out of area placements, local hospital admissions and out of hours crisis contacts for service users with borderline personality disorder.",
+                            "This is a before-after interim evaluation of a new service. We tested, through a paired t-test, whether the intervention generated statistically significant differences over a range of measures of service usage, including out of area placements, local hospital admissions and out of hours crisis contacts. Data from 12\u00a0months after the intervention started were compared with the previous 12\u00a0months of routine care, to determine the effect on crisis contacts, days in hospital and those returning from/or sent out of area for care. Finally, we have assessed the likelihood to generate cost savings.",
+                            "All service users in out of area placements were repatriated to live in the community locally (100%), and there was a statistically significant decrease in inpatient admissions (80%). This was counterbalanced by a smaller but statistically significant increase in out of hours community crisis contacts (30%), although these reduced over time.",
+                            "Reorganizing local care pathways can lead to less out of area placements and less hospital admissions. \u00a9 2019 John Wiley & Sons, Ltd."
+                        ],
+                        "CopyrightInformation": "\u00a9 2019 John Wiley & Sons, Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Mersey Care NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Graham",
+                            "ForeName": "Simon",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Mersey Care NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sullivan",
+                            "ForeName": "Kathia",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Briggs",
+                            "ForeName": "Laura",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Science, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Goodall",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Iraci Capucinello",
+                            "ForeName": "Rosella",
+                            "Initials": "R"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Evaluation Study",
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Personal Ment Health",
+                    "NlmUniqueID": "101473502",
+                    "ISSNLinking": "1932-8621"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Borderline Personality Disorder",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Case Management",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Mental Health Services",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Outcome and Process Assessment, Health Care",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "02",
+                        "Day": "25"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "08"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "01",
+                        "Day": "28"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "5",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30806042",
+                    "10.1002/pmh.1439"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30806042)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830806042%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830806042%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062341534"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062341534?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062341534&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062341534&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062341534",
+                        "dc:identifier": "SCOPUS_ID:85062341534",
+                        "eid": "2-s2.0-85062341534",
+                        "dc:title": "A preliminary service evaluation of a personality disorder case management service",
+                        "dc:creator": "Graham S.",
+                        "prism:publicationName": "Personality and Mental Health",
+                        "prism:issn": "19328621",
+                        "prism:eIssn": "1932863X",
+                        "prism:volume": "13",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "65-74",
+                        "prism:coverDate": "2019-05-01",
+                        "prism:coverDisplayDate": "May 2019",
+                        "prism:doi": "10.1002/pmh.1439",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Mersey Care NHS Foundation Trust",
+                                "affiliation-city": "Prescot",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30806042",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16400154776",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "U48NH49I.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30806042"
+            }
+        },
+        "title": "A preliminary service evaluation of a personality disorder case management service.",
+        "full_author_list": [
+            {
+                "clean": "Graham S",
+                "family": "Graham",
+                "given": "Simon",
+                "affiliation": {
+                    "name": "Mersey Care NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Sullivan K",
+                "family": "Sullivan",
+                "given": "Kathia",
+                "affiliation": {
+                    "name": "Mersey Care NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Briggs L",
+                "family": "Briggs",
+                "given": "Laura",
+                "affiliation": {
+                    "name": "Department of Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Goodall M",
+                "family": "Goodall",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Health Science, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Iraci Capucinello R",
+                "family": "Iraci Capucinello",
+                "given": "Rosella",
+                "affiliation": {
+                    "name": "Division of Health Research, Lancaster University, Lancaster, UK."
+                }
+            }
+        ],
+        "first_author": "Graham S",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Borderline Personality Disorder",
+                    "major": "N"
+                },
+                {
+                    "term": "Case Management",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health Services",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Outcome and Process Assessment, Health Care",
+                    "major": "Y"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Personal Ment Health",
+            "volume": "13",
+            "issue": "2"
+        },
+        "abstract": "['The aim of this study is to assess the impact of establishing a specialized community personality disorder team on out of area placements, local hospital admissions and out of hours crisis contacts for service users with borderline personality disorder.', 'This is a before-after interim evaluation of a new service. We tested, through a paired t-test, whether the intervention generated statistically significant differences over a range of measures of service usage, including out of area placements, local hospital admissions and out of hours crisis contacts. Data from 12\\xa0months after the intervention started were compared with the previous 12\\xa0months of routine care, to determine the effect on crisis contacts, days in hospital and those returning from/or sent out of area for care. Finally, we have assessed the likelihood to generate cost savings.', 'All service users in out of area placements were repatriated to live in the community locally (100%), and there was a statistically significant decrease in inpatient admissions (80%). This was counterbalanced by a smaller but statistically significant increase in out of hours community crisis contacts (30%), although these reduced over time.', 'Reorganizing local care pathways can lead to less out of area placements and less hospital admissions. \u00a9 2019 John Wiley & Sons, Ltd.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Mersey Care NHS Foundation Trust, Liverpool, UK.",
+            "clean_institute": "Mersey Care NHS Foundation Trust",
+            "latitude": "53.3957",
+            "longitude": "-2.9694",
+            "country": "United Kingdom",
+            "postal_town": "England"
+        }
+    }
+}

@@ -1,0 +1,686 @@
+{
+    "IDs": {
+        "zotero": "KAU5IXWB",
+        "DOI": "10.1016/j.addbeh.2018.11.048",
+        "DOI_filename": "9e6326702346f14544875f28942da264",
+        "PMID": "30529994",
+        "scopus": "2-s2.0-85057617343",
+        "hash": "9e6c0237884e1679b27ca692f044fa45"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "KAU5IXWB",
+            "version": 163,
+            "itemType": "journalArticle",
+            "title": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm: An umbrella review",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Naoimh",
+                    "lastName": "McMahon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katie",
+                    "lastName": "Thomson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Eileen",
+                    "lastName": "Kaner"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clare",
+                    "lastName": "Bambra"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Addictive Behaviors",
+            "volume": "90",
+            "issue": "",
+            "pages": "380-388",
+            "date": "03/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Addictive Behaviors",
+            "language": "en",
+            "DOI": "10.1016/j.addbeh.2018.11.048",
+            "ISSN": "03064603",
+            "shortTitle": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0306460318311444",
+            "accessDate": "2020-09-10T17:10:19Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30529994",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:19Z",
+            "dateModified": "2020-09-15T13:05:33Z",
+            "pmid": "30529994"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        31
+                    ]
+                ],
+                "date-time": "2020-07-31T00:23:42Z",
+                "timestamp": 1596155022581
+            },
+            "reference-count": 55,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                3,
+                                1
+                            ]
+                        ],
+                        "date-time": "2019-03-01T00:00:00Z",
+                        "timestamp": 1551398400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                12,
+                                3
+                            ]
+                        ],
+                        "date-time": "2018-12-03T00:00:00Z",
+                        "timestamp": 1543795200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research CLAHRC North West Coast Doctoral Studentship",
+                    "award": []
+                },
+                {
+                    "name": "National Institute for Health Research Short Placement Award for Research Collaboration",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.addbeh.2018.11.048",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        2
+                    ]
+                ],
+                "date-time": "2018-12-02T14:19:30Z",
+                "timestamp": 1543760370000
+            },
+            "page": "380-388",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 13,
+            "title": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm: An umbrella review",
+            "prefix": "10.1016",
+            "volume": "90",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6319-2263",
+                    "authenticated-orcid": false,
+                    "given": "Naoimh",
+                    "family": "McMahon",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-9614-728X",
+                    "authenticated-orcid": false,
+                    "given": "Katie",
+                    "family": "Thomson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Eileen",
+                    "family": "Kaner",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Clare",
+                    "family": "Bambra",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Addictive Behaviors",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0306460318311444?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0306460318311444?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        8
+                    ]
+                ],
+                "date-time": "2019-04-08T22:40:11Z",
+                "timestamp": 1554763211000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 55,
+            "alternative-id": [
+                "S0306460318311444"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.addbeh.2018.11.048",
+            "relation": {},
+            "ISSN": [
+                "0306-4603"
+            ],
+            "subject": [
+                "Toxicology",
+                "Medicine (miscellaneous)",
+                "Clinical Psychology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Addictive Behaviors",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm: An umbrella review",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Addictive Behaviors",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.addbeh.2018.11.048",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2018 The Authors. Published by Elsevier Ltd.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Equity",
+                        "Gambling",
+                        "Gambling related harm",
+                        "Harm reduction"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30529994",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "01"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "01"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0306-4603(18)31144-4",
+                        "10.1016/j.addbeh.2018.11.048"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "12",
+                            "Day": "02"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1873-6327",
+                        "JournalIssue": {
+                            "Volume": "90",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "03"
+                            }
+                        },
+                        "Title": "Addictive behaviors",
+                        "ISOAbbreviation": "Addict Behav"
+                    },
+                    "ArticleTitle": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm: An umbrella review.",
+                    "Pagination": {
+                        "MedlinePgn": "380-388"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Harms related to gambling have been found not only to affect problem gamblers, but also to occur amongst low- and moderate-risk gamblers. This has resulted in calls for a public health approach to address a possible 'prevention paradox' in gambling related harm. The aim of this study was to evaluate the systematic review evidence base on the effects of prevention and harm reduction interventions on gambling behaviours, and gambling related harm. We also aimed to examine differential effects of interventions across socio-demographic groups.",
+                            "Systematic methods were used to locate and evaluate published systematic reviews of prevention and harm reduction interventions. We designed the review using the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) Equity extension Guidelines. Four databases were searched from their start date until May 2018. The quality of the included articles was determined using A MeaSurement Tool to Assess systematic Reviews (AMSTAR 2).",
+                            "Ten systematic reviews were identified reporting 55 unique relevant primary studies. Much of the review evidence-base related to pre-commitment and limit setting (24%), self-exclusion (20%), youth prevention programmes (20%), and machine messages/feedback (20%). The effectiveness of harm reduction interventions are limited by the extent to which users adhere to voluntary systems. Less than half of studies examining youth prevention programmes demonstrated positive effects on behaviour. No review extracted data or reported on the differential effects of intervention strategies across sociodemographic groups. The quality of the included reviews (and their primary studies) were generally poor and clear gaps in the evidence base have been highlighted.",
+                            "The evidence base is dominated by evaluations of individual-level harm reduction interventions, with a paucity of research on supply reduction interventions. Review conclusions are limited by the quality and robustness of the primary research. Future research should consider the equity effects of intervention strategies."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018 The Authors. Published by Elsevier Ltd.. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston PR1 2HE, UK. Electronic address: nmcmahon@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McMahon",
+                            "ForeName": "Naoimh",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health and Society, Newcastle University, Richardson Road, Newcastle upon Tyne NE2 4AX, UK; Fuse - UKCRC Centre for Translational Research in Public Health, Newcastle upon Tyne, UK. Electronic address: katie.thomson@newcastle.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Thomson",
+                            "ForeName": "Katie",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health and Society, Newcastle University, Richardson Road, Newcastle upon Tyne NE2 4AX, UK; Fuse - UKCRC Centre for Translational Research in Public Health, Newcastle upon Tyne, UK. Electronic address: eileen.kaner@newcastle.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kaner",
+                            "ForeName": "Eileen",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health and Society, Newcastle University, Richardson Road, Newcastle upon Tyne NE2 4AX, UK; Fuse - UKCRC Centre for Translational Research in Public Health, Newcastle upon Tyne, UK. Electronic address: clare.bambra@newcastle.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bambra",
+                            "ForeName": "Clare",
+                            "Initials": "C"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/K02325X/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "Acronym": "BHF_",
+                            "Agency": "British Heart Foundation",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "Acronym": "CRUK_",
+                            "Agency": "Cancer Research UK",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Addict Behav",
+                    "NlmUniqueID": "7603486",
+                    "ISSNLinking": "0306-4603"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Behavior, Addictive",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Gambling",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Harm Reduction",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "03"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "30"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30529994",
+                    "S0306-4603(18)31144-4",
+                    "10.1016/j.addbeh.2018.11.048"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30529994)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830529994%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830529994%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057617343"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057617343?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057617343&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057617343&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0306460318311444"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057617343",
+                        "dc:identifier": "SCOPUS_ID:85057617343",
+                        "eid": "2-s2.0-85057617343",
+                        "dc:title": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm: An umbrella review",
+                        "dc:creator": "McMahon N.",
+                        "prism:publicationName": "Addictive Behaviors",
+                        "prism:issn": "03064603",
+                        "prism:eIssn": "18736327",
+                        "prism:volume": "90",
+                        "prism:pageRange": "380-388",
+                        "prism:coverDate": "2019-03-01",
+                        "prism:coverDisplayDate": "March 2019",
+                        "prism:doi": "10.1016/j.addbeh.2018.11.048",
+                        "pii": "S0306460318311444",
+                        "citedby-count": "17",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30529994",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "24763",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "KAU5IXWB.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30529994"
+            }
+        },
+        "title": "Effects of prevention and harm reduction interventions on gambling behaviours and gambling related harm: An umbrella review.",
+        "full_author_list": [
+            {
+                "clean": "McMahon N",
+                "family": "McMahon",
+                "given": "Naoimh",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston PR1 2HE, UK. Electronic address: nmcmahon@uclan.ac.uk."
+                }
+            },
+            {
+                "clean": "Thomson K",
+                "family": "Thomson",
+                "given": "Katie",
+                "affiliation": {
+                    "name": "Institute of Health and Society, Newcastle University, Richardson Road, Newcastle upon Tyne NE2 4AX, UK; Fuse - UKCRC Centre for Translational Research in Public Health, Newcastle upon Tyne, UK. Electronic address: katie.thomson@newcastle.ac.uk."
+                }
+            },
+            {
+                "clean": "Kaner E",
+                "family": "Kaner",
+                "given": "Eileen",
+                "affiliation": {
+                    "name": "Institute of Health and Society, Newcastle University, Richardson Road, Newcastle upon Tyne NE2 4AX, UK; Fuse - UKCRC Centre for Translational Research in Public Health, Newcastle upon Tyne, UK. Electronic address: eileen.kaner@newcastle.ac.uk."
+                }
+            },
+            {
+                "clean": "Bambra C",
+                "family": "Bambra",
+                "given": "Clare",
+                "affiliation": {
+                    "name": "Institute of Health and Society, Newcastle University, Richardson Road, Newcastle upon Tyne NE2 4AX, UK; Fuse - UKCRC Centre for Translational Research in Public Health, Newcastle upon Tyne, UK. Electronic address: clare.bambra@newcastle.ac.uk."
+                }
+            }
+        ],
+        "first_author": "McMahon N",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Behavior, Addictive",
+                    "major": "N"
+                },
+                {
+                    "term": "Gambling",
+                    "major": "N"
+                },
+                {
+                    "term": "Harm Reduction",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Addict Behav",
+            "volume": "90",
+            "issue": ""
+        },
+        "abstract": "[\"Harms related to gambling have been found not only to affect problem gamblers, but also to occur amongst low- and moderate-risk gamblers. This has resulted in calls for a public health approach to address a possible 'prevention paradox' in gambling related harm. The aim of this study was to evaluate the systematic review evidence base on the effects of prevention and harm reduction interventions on gambling behaviours, and gambling related harm. We also aimed to examine differential effects of interventions across socio-demographic groups.\", 'Systematic methods were used to locate and evaluate published systematic reviews of prevention and harm reduction interventions. We designed the review using the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) Equity extension Guidelines. Four databases were searched from their start date until May 2018. The quality of the included articles was determined using A MeaSurement Tool to Assess systematic Reviews (AMSTAR 2).', 'Ten systematic reviews were identified reporting 55 unique relevant primary studies. Much of the review evidence-base related to pre-commitment and limit setting (24%), self-exclusion (20%), youth prevention programmes (20%), and machine messages/feedback (20%). The effectiveness of harm reduction interventions are limited by the extent to which users adhere to voluntary systems. Less than half of studies examining youth prevention programmes demonstrated positive effects on behaviour. No review extracted data or reported on the differential effects of intervention strategies across sociodemographic groups. The quality of the included reviews (and their primary studies) were generally poor and clear gaps in the evidence base have been highlighted.', 'The evidence base is dominated by evaluations of individual-level harm reduction interventions, with a paucity of research on supply reduction interventions. Review conclusions are limited by the quality and robustness of the primary research. Future research should consider the equity effects of intervention strategies.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "17"
+            }
+        },
+        "location": {
+            "candidate_institute": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston PR1 2HE, UK. Electronic address: nmcmahon@uclan.ac.uk.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

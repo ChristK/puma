@@ -1,0 +1,815 @@
+{
+    "IDs": {
+        "zotero": "KYGW3S5R",
+        "DOI": "10.1055/s-0037-1603758",
+        "DOI_filename": "b81d6f29aaefb4d63eb8803d23c574fc",
+        "PMID": "28759911",
+        "scopus": "2-s2.0-85026648501",
+        "hash": "50e2921f8f997d84436f490b25cf641b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "KYGW3S5R",
+            "version": 165,
+            "itemType": "journalArticle",
+            "title": "Systematic Review and Meta-Analysis of Psychosocial Risk Factors for Stroke",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Lightbody"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Clegg"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kulsum",
+                    "lastName": "Patel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Julie",
+                    "lastName": "Lucas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hannah",
+                    "lastName": "Storey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maree",
+                    "lastName": "Hackett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dame",
+                    "lastName": "Watkins"
+                }
+            ],
+            "abstractNote": "Abstract\n            Several studies have assessed the link between psychosocial risk factors and stroke; however, the results were inconsistent. We have conducted a systemic review and meta-analysis of cohort or case-control studies to ascertain the association between psychosocial risk factors (psychological, vocational, behavioral, interpersonal, and neuropsychological) and the risk of stroke. Systematic searches were undertaken in MEDLINE, EMBASE, CINAHL, PsycINFO, and the Cochrane Database of Systematic Reviews between 2000 and January 2017. Two reviewers independently screened titles, abstracts, and full texts. One reviewer assessed quality and extracted data, which was checked by a second reviewer. For studies that reported risk estimates, a meta-analysis was performed. We identified 41 cohort studies and 5 case-control studies. No neuropsychological papers were found. Overall, pooled adjusted estimates showed that all other psychosocial risk factors were independent risk factors for stroke. Psychological factors increased the risk of stroke by 39% (hazard ratio [HR], 1.39; 95% confidence interval [CI], 1.27\u20131.51), vocational by 35% (HR, 1.35; 95% CI, 1.20\u20131.51), and interpersonal by 16% (HR, 1.16; 95% CI, 1.03\u20131.31), and the effects of behavioral factors were equivocal (HR, 0.94; 95% CI, 0.20\u20134.31). The meta-analyses were affected by heterogeneity. Psychosocial risk factors are associated with an increased risk of stroke.",
+            "publicationTitle": "Seminars in Neurology",
+            "volume": "37",
+            "issue": "03",
+            "pages": "294-306",
+            "date": "06/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Semin Neurol",
+            "language": "en",
+            "DOI": "10.1055/s-0037-1603758",
+            "ISSN": "0271-8235, 1098-9021",
+            "shortTitle": "",
+            "url": "http://www.thieme-connect.de/DOI/DOI?10.1055/s-0037-1603758",
+            "accessDate": "2020-09-10T17:10:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28759911",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:13Z",
+            "dateModified": "2020-09-15T13:08:35Z",
+            "pmid": "28759911"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2020-08-02T17:41:49Z",
+                "timestamp": 1596390109144
+            },
+            "reference-count": 0,
+            "publisher": "Georg Thieme Verlag KG",
+            "issue": "03",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        6
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:p>Several studies have assessed the link between psychosocial risk factors and stroke; however, the results were inconsistent. We have conducted a systemic review and meta-analysis of cohort or case-control studies to ascertain the association between psychosocial risk factors (psychological, vocational, behavioral, interpersonal, and neuropsychological) and the risk of stroke. Systematic searches were undertaken in MEDLINE, EMBASE, CINAHL, PsycINFO, and the Cochrane Database of Systematic Reviews between 2000 and January 2017. Two reviewers independently screened titles, abstracts, and full texts. One reviewer assessed quality and extracted data, which was checked by a second reviewer. For studies that reported risk estimates, a meta-analysis was performed. We identified 41 cohort studies and 5 case-control studies. No neuropsychological papers were found. Overall, pooled adjusted estimates showed that all other psychosocial risk factors were independent risk factors for stroke. Psychological factors increased the risk of stroke by 39% (hazard ratio [HR], 1.39; 95% confidence interval [CI], 1.27\u20131.51), vocational by 35% (HR, 1.35; 95% CI, 1.20\u20131.51), and interpersonal by 16% (HR, 1.16; 95% CI, 1.03\u20131.31), and the effects of behavioral factors were equivocal (HR, 0.94; 95% CI, 0.20\u20134.31). The meta-analyses were affected by heterogeneity. Psychosocial risk factors are associated with an increased risk of stroke.</jats:p>",
+            "DOI": "10.1055/s-0037-1603758",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        31
+                    ]
+                ],
+                "date-time": "2017-07-31T22:31:06Z",
+                "timestamp": 1501540266000
+            },
+            "page": "294-306",
+            "source": "Crossref",
+            "is-referenced-by-count": 9,
+            "title": "Systematic Review and Meta-Analysis of Psychosocial Risk Factors for Stroke",
+            "prefix": "10.1055",
+            "volume": "37",
+            "author": [
+                {
+                    "given": "Andrew",
+                    "family": "Clegg",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Health Sciences, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        }
+                    ]
+                },
+                {
+                    "given": "Kulsum",
+                    "family": "Patel",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        }
+                    ]
+                },
+                {
+                    "given": "Julie",
+                    "family": "Lucas",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Research Support Team, Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        }
+                    ]
+                },
+                {
+                    "given": "Hannah",
+                    "family": "Storey",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Research Support Team, Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        }
+                    ]
+                },
+                {
+                    "given": "Maree",
+                    "family": "Hackett",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        },
+                        {
+                            "name": "Neurological and Mental Health Division, The George Institute for Global Health, University of New South Wales, Sydney, Australia"
+                        }
+                    ]
+                },
+                {
+                    "given": "Dame",
+                    "family": "Watkins",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        }
+                    ]
+                },
+                {
+                    "given": "C.",
+                    "family": "Lightbody",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom"
+                        }
+                    ]
+                }
+            ],
+            "member": "194",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        31
+                    ]
+                ]
+            },
+            "container-title": "Seminars in Neurology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0037-1603758.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        19
+                    ]
+                ],
+                "date-time": "2017-12-19T08:58:52Z",
+                "timestamp": 1513673932000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            31
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            6
+                        ]
+                    ]
+                },
+                "issue": "03"
+            },
+            "URL": "http://dx.doi.org/10.1055/s-0037-1603758",
+            "relation": {},
+            "ISSN": [
+                "0271-8235",
+                "1098-9021"
+            ],
+            "subject": [
+                "Neurology",
+                "Clinical Neurology"
+            ],
+            "container-title-short": "Semin Neurol"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28759911",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "10",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1055/s-0037-1603758"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "07",
+                            "Day": "31"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1098-9021",
+                        "JournalIssue": {
+                            "Volume": "37",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "06"
+                            }
+                        },
+                        "Title": "Seminars in neurology",
+                        "ISOAbbreviation": "Semin Neurol"
+                    },
+                    "ArticleTitle": "Systematic Review and Meta-Analysis of Psychosocial Risk Factors for Stroke.",
+                    "Pagination": {
+                        "MedlinePgn": "294-306"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lightbody",
+                            "ForeName": "C Elizabeth",
+                            "Initials": "CE"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Patel",
+                            "ForeName": "Kulsum",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Support Team, Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lucas",
+                            "ForeName": "Julie Cook",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Support Team, Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Storey",
+                            "ForeName": "Hannah",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Neurological and Mental Health Division, The George Institute for Global Health, University of New South Wales, Sydney, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hackett",
+                            "ForeName": "Maree L",
+                            "Initials": "ML"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Watkins",
+                            "ForeName": "Dame Caroline L",
+                            "Initials": "DCL"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Semin Neurol",
+                    "NlmUniqueID": "8111343",
+                    "ISSNLinking": "0271-8235"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Interpersonal Relations",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Mental Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Personal Satisfaction",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Support",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Stress, Psychological",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "etiology"
+                        ],
+                        "DescriptorName": "Stroke",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Disclosure The authors report no conflicts of interest in this work."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "8",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "8",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28759911",
+                    "10.1055/s-0037-1603758"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28759911)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828759911%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828759911%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026648501"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026648501?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026648501&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026648501&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026648501",
+                        "dc:identifier": "SCOPUS_ID:85026648501",
+                        "eid": "2-s2.0-85026648501",
+                        "dc:title": "Systematic Review and Meta-Analysis of Psychosocial Risk Factors for Stroke",
+                        "dc:creator": "Lightbody C.E.",
+                        "prism:publicationName": "Seminars in Neurology",
+                        "prism:issn": "02718235",
+                        "prism:eIssn": "10989021",
+                        "prism:volume": "37",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "294-306",
+                        "prism:coverDate": "2017-06-01",
+                        "prism:coverDisplayDate": "1 June 2017",
+                        "prism:doi": "10.1055/s-0037-1603758",
+                        "citedby-count": "7",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28759911",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "19384",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "KYGW3S5R.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28759911"
+            }
+        },
+        "title": "Systematic Review and Meta-Analysis of Psychosocial Risk Factors for Stroke.",
+        "full_author_list": [
+            {
+                "clean": "Lightbody C",
+                "family": "Lightbody",
+                "given": "C Elizabeth",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "School of Health Sciences, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Patel K",
+                "family": "Patel",
+                "given": "Kulsum",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Lucas J",
+                "family": "Lucas",
+                "given": "Julie Cook",
+                "affiliation": {
+                    "name": "Research Support Team, Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Storey H",
+                "family": "Storey",
+                "given": "Hannah",
+                "affiliation": {
+                    "name": "Research Support Team, Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Hackett M",
+                "family": "Hackett",
+                "given": "Maree L",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Watkins D",
+                "family": "Watkins",
+                "given": "Dame Caroline L",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Brook Building, Preston, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Lightbody C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Interpersonal Relations",
+                    "major": "Y"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Personal Satisfaction",
+                    "major": "Y"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Support",
+                    "major": "Y"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "Y"
+                },
+                {
+                    "term": "Stress, Psychological",
+                    "major": "N"
+                },
+                {
+                    "term": "Stroke",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Semin Neurol",
+            "volume": "37",
+            "issue": "3"
+        },
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "7"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Nursing, University of Central Lancashire, Brook Building, Preston, United Kingdom.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

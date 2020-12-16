@@ -1,0 +1,1588 @@
+{
+    "IDs": {
+        "zotero": "GSFG4DN8",
+        "DOI": "10.1002/cpt.1231",
+        "DOI_filename": "1e04dda6151426665c6f0cda3ef6880a",
+        "PMID": "30204252",
+        "scopus": "2-s2.0-85055473732",
+        "hash": "232bf51c31a6cd2dcabff8776ba1f85b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "GSFG4DN8",
+            "version": 147,
+            "itemType": "journalArticle",
+            "title": "Patient-Focused Drug Development Methods for Benefit-Risk Assessments: A Case Study Using a Discrete Choice Experiment for Antiepileptic Drugs",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Emily A.F.",
+                    "lastName": "Holmes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Plumpton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gus A.",
+                    "lastName": "Baker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ann",
+                    "lastName": "Jacoby"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Adele",
+                    "lastName": "Ring"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Williamson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dyfrig A.",
+                    "lastName": "Hughes"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Clinical Pharmacology & Therapeutics",
+            "volume": "105",
+            "issue": "3",
+            "pages": "672-683",
+            "date": "03/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Clin. Pharmacol. Ther.",
+            "language": "en",
+            "DOI": "10.1002/cpt.1231",
+            "ISSN": "00099236",
+            "shortTitle": "Patient-Focused Drug Development Methods for Benefit-Risk Assessments",
+            "url": "http://doi.wiley.com/10.1002/cpt.1231",
+            "accessDate": "2020-09-10T17:09:42Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30204252",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:42Z",
+            "dateModified": "2020-09-15T12:19:39Z",
+            "pmid": "30204252"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        24
+                    ]
+                ],
+                "date-time": "2020-03-24T02:20:56Z",
+                "timestamp": 1585016456205
+            },
+            "reference-count": 44,
+            "publisher": "Wiley",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                10,
+                                25
+                            ]
+                        ],
+                        "date-time": "2018-10-25T00:00:00Z",
+                        "timestamp": 1540425600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                10,
+                                25
+                            ]
+                        ],
+                        "date-time": "2018-10-25T00:00:00Z",
+                        "timestamp": 1540425600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "PB-PG-0909-20161"
+                    ]
+                },
+                {
+                    "name": "Medical Research Council North West Hub for Trials Methodology Research",
+                    "award": [
+                        "MR/K025635/1"
+                    ]
+                },
+                {
+                    "name": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "award": []
+                },
+                {
+                    "name": "Health and Care Research Wales Senior Research Leader",
+                    "award": [
+                        "SRL/15/029"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1002/cpt.1231",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        11
+                    ]
+                ],
+                "date-time": "2018-09-11T16:53:56Z",
+                "timestamp": 1536684836000
+            },
+            "page": "672-683",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Patient-Focused Drug Development Methods for Benefit-Risk Assessments: A Case Study Using a Discrete Choice Experiment for Antiepileptic Drugs",
+            "prefix": "10.1002",
+            "volume": "105",
+            "author": [
+                {
+                    "given": "Emily A.F.",
+                    "family": "Holmes",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Centre for Health Economics and Medicines Evaluation; Bangor University; Bangor UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Plumpton",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Centre for Health Economics and Medicines Evaluation; Bangor University; Bangor UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Gus A.",
+                    "family": "Baker",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ann",
+                    "family": "Jacoby",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Public Health and Policy; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Adele",
+                    "family": "Ring",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Paula",
+                    "family": "Williamson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Medical Research Council North West Hub for Trials Methodology Research; Department of Biostatistics; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; University of Liverpool; Liverpool UK"
+                        },
+                        {
+                            "name": "Walton Centre National Health Service Foundation Trust; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Dyfrig A.",
+                    "family": "Hughes",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Centre for Health Economics and Medicines Evaluation; Bangor University; Bangor UK"
+                        },
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        25
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/cpt.1231-BIB0001|cpt1231-cit-0001",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "734",
+                    "DOI": "10.1016/j.jval.2016.04.006",
+                    "article-title": "Patient-focused benefit-risk analysis to inform regulatory decisions: the European Union perspective",
+                    "volume": "19",
+                    "author": "M\u00fchlbacher",
+                    "year": "2016",
+                    "journal-title": "Value Health"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0002|cpt1231-cit-0002",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "741",
+                    "DOI": "10.1016/j.jval.2016.04.008",
+                    "article-title": "Patient preferences in regulatory benefit-risk assessments: a US perspective",
+                    "volume": "19",
+                    "author": "Johnson",
+                    "year": "2016",
+                    "journal-title": "Value Health"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0003|cpt1231-cit-0003",
+                    "first-page": "21613",
+                    "article-title": "Prescription drug user fee act patient-focused drug development: announcement of disease areas for meetings conducted in fiscal years 2013-2015",
+                    "volume": "78",
+                    "author": "Federal Drug Administration",
+                    "year": "2013",
+                    "journal-title": "Fed. Regist"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0004|cpt1231-cit-0004",
+                    "author": "European Medicines Agency",
+                    "year": "2017",
+                    "volume-title": "Outcome Report on Pilot to Involve Patients in Benefit/Risk Discussions at CHMP Meetings (EMA/191955/2017)"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0005|cpt1231-cit-0005",
+                    "unstructured": "Federal Drug Administration Center for Devices and Radiological Health Patient preference information: voluntary submission, review in premarket approval applications, humanitarian device exemption applications, and de novo requests, and inclusion in decision summaries and device labeling guidance for industry, Food and Drug Administration staff, and other stakeholders https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm446680.pdf"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0006|cpt1231-cit-0006",
+                    "unstructured": "Federal Drug Administration Plan for issuance of patient-focused drug development guidance: under 21st century cures act title III section 3002 https://www.fda.gov/downloads/ForIndustry/UserFees/PrescriptionDrugUserFee/UCM563618.pdf"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0007|cpt1231-cit-0007",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2984",
+                    "DOI": "10.1007/s00464-014-4044-2",
+                    "article-title": "Incorporating patient-preference evidence into regulatory decision making",
+                    "volume": "29",
+                    "author": "Ho",
+                    "year": "2015",
+                    "journal-title": "Surg. Endosc."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0008|cpt1231-cit-0008",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "667",
+                    "DOI": "10.1002/pds.3636",
+                    "article-title": "Balancing benefit and risk of medicines: a systematic review and classification of available methodologies",
+                    "volume": "23",
+                    "author": "Mt-Isa",
+                    "year": "2014",
+                    "journal-title": "Pharmacoepidemiol. Drug Saf."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0009|cpt1231-cit-0009",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "661",
+                    "DOI": "10.2165/00019053-200826080-00004",
+                    "article-title": "Conducting discrete choice experiments to inform healthcare decision making",
+                    "volume": "26",
+                    "author": "Lancsar",
+                    "year": "2008",
+                    "journal-title": "Pharmacoeconomics"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0010|cpt1231-cit-0010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "145",
+                    "DOI": "10.1002/hec.1697",
+                    "article-title": "Discrete choice experiments in health economics: a review of the literature",
+                    "volume": "21",
+                    "author": "Bekker-Grob",
+                    "year": "2012",
+                    "journal-title": "Health Econ."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0011|cpt1231-cit-0011",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "883",
+                    "DOI": "10.1007/s40273-014-0170-x",
+                    "article-title": "Discrete choice experiments in health economics: a\u00a0review of the literature",
+                    "volume": "32",
+                    "author": "Clark",
+                    "year": "2014",
+                    "journal-title": "Pharmacoeconomics"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0012|cpt1231-cit-0012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "554",
+                    "DOI": "10.1007/s00415-009-0084-2",
+                    "article-title": "Multiple sclerosis patients-benefit-risk preferences: serious adverse event risks versus treatment efficacy",
+                    "volume": "256",
+                    "author": "Johnson",
+                    "year": "2009",
+                    "journal-title": "J. Neurol."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0013|cpt1231-cit-0013",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "769",
+                    "DOI": "10.1053/j.gastro.2007.04.075",
+                    "article-title": "Crohn's disease patients\u2019 risk-benefit preferences: serious adverse event risks versus treatment efficacy",
+                    "volume": "133",
+                    "author": "Johnson",
+                    "year": "2007",
+                    "journal-title": "Gastroenterology"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0014|cpt1231-cit-0014",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "730",
+                    "DOI": "10.1002/hec.1739",
+                    "article-title": "Using qualitative methods for attribute development for discrete choice experiments: issues and recommendations",
+                    "volume": "21",
+                    "author": "Coast",
+                    "year": "2012",
+                    "journal-title": "Health Econ."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0015|cpt1231-cit-0015",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "446",
+                    "DOI": "10.1016/S1474-4422(11)70047-3",
+                    "article-title": "The pharmacological treatment of epilepsy in adults",
+                    "volume": "10",
+                    "author": "Perucca",
+                    "year": "2011",
+                    "journal-title": "Lancet Neurol."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0016|cpt1231-cit-0016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0017|cpt1231-cit-0017",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1016",
+                    "DOI": "10.1016/S0140-6736(07)60461-9",
+                    "article-title": "The SANAD study of effectiveness of valproate, lamotrigine, or topiramate for generalised and unclassifiable epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0018|cpt1231-cit-0018",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "51",
+                    "DOI": "10.1046/j.1528-1157.44.s7.2.x",
+                    "article-title": "What we don't learn from clinical trials in epilepsy",
+                    "volume": "44",
+                    "author": "Gilliam",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/cpt.1231-BIB0019|cpt1231-cit-0019",
+                    "first-page": "CD010224",
+                    "article-title": "Monotherapy treatment of epilepsy in pregnancy: congenital malformation outcomes in the child",
+                    "author": "Weston",
+                    "year": "2016",
+                    "journal-title": "Cochrane Database Syst. Rev."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0020|cpt1231-cit-0020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "624",
+                    "DOI": "10.1016/j.clinthera.2014.04.011",
+                    "article-title": "A community-engaged approach to quantifying caregiver preferences for the benefits and risks of emerging therapies for Duchenne muscular dystrophy",
+                    "volume": "36",
+                    "author": "Peay",
+                    "year": "2014",
+                    "journal-title": "Clin. Ther."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0021|cpt1231-cit-0021",
+                    "unstructured": "Federal Drug Administration Benefit-risk assessment in drug regulatory decision-making: draft PDUFA VI implementation plan (FY 2018-2022) https://www.fda.gov/downloads/ForIndustry/UserFees/PrescriptionDrugUserFee/UCM602885.pdf"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0022|cpt1231-cit-0022",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "869",
+                    "DOI": "10.1016/j.jval.2016.04.009",
+                    "article-title": "Increasing patient involvement in drug development",
+                    "volume": "19",
+                    "author": "Lowe",
+                    "year": "2016",
+                    "journal-title": "Value Health"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0023|cpt1231-cit-0023",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "907",
+                    "DOI": "10.1038/nrd4129",
+                    "article-title": "The risks of risk aversion in drug regulation",
+                    "volume": "12",
+                    "author": "Eichler",
+                    "year": "2013",
+                    "journal-title": "Nat. Rev. Drug Discov."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0024|cpt1231-cit-0024",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "48",
+                    "DOI": "10.1016/j.seizure.2016.09.005",
+                    "article-title": "Juvenile myoclonic epilepsy: challenges on its 60th anniversary",
+                    "volume": "44",
+                    "author": "Yacubian",
+                    "year": "2017",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0025|cpt1231-cit-0025",
+                    "unstructured": "Federal Drug Administration Depakene (valproic acid) capsules and oral solution https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/018081s046_18082s031lbl.pdf"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0026|cpt1231-cit-0026",
+                    "unstructured": "Medicines and Healthcare Products Regulatory Agency (MHRA) Valproate banned without the pregnancy prevention programme https://www.gov.uk/government/news/valproate-banned-without-the-pregnancy-prevention-programme"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0027|cpt1231-cit-0027",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "k1596",
+                    "DOI": "10.1136/bmj.k1596",
+                    "article-title": "Weighing the risks of valproate in women who could become pregnant",
+                    "volume": "361",
+                    "author": "Angus-Leppan",
+                    "year": "2018",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0028|cpt1231-cit-0028",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1167",
+                    "DOI": "10.2165/00019053-200523110-00008",
+                    "article-title": "The impacts of drug adverse effects compared with seizure control for people with epilepsy",
+                    "volume": "23",
+                    "author": "Lloyd",
+                    "year": "2005",
+                    "journal-title": "Pharmacoeconomics"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0029|cpt1231-cit-0029",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "474",
+                    "DOI": "10.1016/j.yebeh.2012.05.020",
+                    "article-title": "Patients\u2019 preferences for treatment outcomes of add-on antiepileptic drugs: a conjoint analysis",
+                    "volume": "24",
+                    "author": "Manjunath",
+                    "year": "2012",
+                    "journal-title": "Epilepsy Behav."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0030|cpt1231-cit-0030",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1149",
+                    "DOI": "10.1111/bcp.12715",
+                    "article-title": "Pharmacogenetic testing prior to treatment with carbamazepine: patients\u2019 and physicians\u2019 preferences for testing and service delivery",
+                    "volume": "80",
+                    "author": "Powell",
+                    "year": "2015",
+                    "journal-title": "Br. J. Clin. Pharmacol."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0031|cpt1231-cit-0031",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1016/j.yebeh.2018.01.025",
+                    "article-title": "Patient versus neurologist preferences: a discrete choice experiment for antiepileptic drug therapies",
+                    "volume": "80",
+                    "author": "Ettinger",
+                    "year": "2018",
+                    "journal-title": "Epilepsy Behav."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0032|cpt1231-cit-0032",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "403",
+                    "DOI": "10.1016/j.jval.2010.11.013",
+                    "article-title": "Conjoint analysis applications in health-a checklist: a report of the ISPOR Good Research Practices for Conjoint Analysis Task Force",
+                    "volume": "14",
+                    "author": "Bridges",
+                    "year": "2011",
+                    "journal-title": "Value Health"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0033|cpt1231-cit-0033",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "259",
+                    "DOI": "10.1007/s40273-016-0467-z",
+                    "article-title": "Weighing clinical evidence using patient preferences: an application of probabilistic multi-criteria decision analysis",
+                    "volume": "35",
+                    "author": "Broekhuizen",
+                    "year": "2017",
+                    "journal-title": "Pharmacoeconomics"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0034|cpt1231-cit-0034",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "123",
+                    "DOI": "10.1038/sj.clpt.6100240",
+                    "article-title": "Current assessment of risk-benefit by regulators: is it time to introduce decision analyses?",
+                    "volume": "82",
+                    "author": "Hughes",
+                    "year": "2007",
+                    "journal-title": "Clin. Pharmacol. Ther."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0035|cpt1231-cit-0035",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "319",
+                    "DOI": "10.1007/s40258-013-0028-y",
+                    "article-title": "Quantifying benefit-risk preferences for medical interventions: an overview of a growing empirical literature",
+                    "volume": "11",
+                    "author": "Brett Hauber",
+                    "year": "2013",
+                    "journal-title": "Appl. Health Econ. Health Policy"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0036|cpt1231-cit-0036",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "523",
+                    "DOI": "10.1007/s40271-017-0250-z",
+                    "article-title": "Giving patients a meaningful voice in United States regulatory decision making: the role for health preference research",
+                    "volume": "10",
+                    "author": "Johnson",
+                    "year": "2017",
+                    "journal-title": "Patient"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0037|cpt1231-cit-0037",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "298",
+                    "DOI": "10.1177/0272989X16683934",
+                    "article-title": "The role of qualitative research methods in discrete choice experiments: a systematic review and survey of authors",
+                    "volume": "37",
+                    "author": "Vass",
+                    "year": "2017",
+                    "journal-title": "Med. Decis. Making"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0038|cpt1231-cit-0038",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "36",
+                    "DOI": "10.1016/j.yebeh.2012.02.025",
+                    "article-title": "The development of a QALY measure for epilepsy: NEWQOL-6D",
+                    "volume": "24",
+                    "author": "Mulhern",
+                    "year": "2012",
+                    "journal-title": "Epilepsy Behav."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0039|cpt1231-cit-0039",
+                    "first-page": "S59",
+                    "article-title": "The Liverpool adverse drug events profile",
+                    "volume": "36",
+                    "author": "Baker",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0040|cpt1231-cit-0040",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "83",
+                    "DOI": "10.1016/0920-1211(93)90042-6",
+                    "article-title": "Measuring the impact of epilepsy: the development of a novel scale",
+                    "volume": "16",
+                    "author": "Jacoby",
+                    "year": "1993",
+                    "journal-title": "Epilepsy Res."
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0041|cpt1231-cit-0041",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "201",
+                    "DOI": "10.1016/S1059-1311(98)80036-8",
+                    "article-title": "Liverpool seizure severity scale revisited",
+                    "volume": "30",
+                    "author": "Baker",
+                    "year": "1998",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0042|cpt1231-cit-0042",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "697",
+                    "DOI": "10.1007/s40273-017-0506-4",
+                    "article-title": "Discrete choice experiments: a guide to model specification, estimation and software",
+                    "volume": "35",
+                    "author": "Lancsar",
+                    "year": "2017",
+                    "journal-title": "Pharmacoeconomics"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0043|cpt1231-cit-0043",
+                    "author": "Orme",
+                    "year": "2010",
+                    "volume-title": "Getting Started With Conjoint Analysis: Strategies for Product Design and Pricing Research"
+                },
+                {
+                    "key": "10.1002/cpt.1231-BIB0044|cpt1231-cit-0044",
+                    "author": "Ryan",
+                    "first-page": "73",
+                    "year": "2007",
+                    "volume-title": "Using Discrete Choice Experiments to Value Health and Health Care"
+                }
+            ],
+            "container-title": "Clinical Pharmacology & Therapeutics",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcpt.1231",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/cpt.1231/fullpdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        1
+                    ]
+                ],
+                "date-time": "2019-03-01T12:53:23Z",
+                "timestamp": 1551444803000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        25
+                    ]
+                ]
+            },
+            "references-count": 44,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "URL": "http://dx.doi.org/10.1002/cpt.1231",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0009-9236"
+            ],
+            "subject": [
+                "Pharmacology (medical)",
+                "Pharmacology"
+            ],
+            "container-title-short": "Clin. Pharmacol. Ther."
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30204252",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "19"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "09"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/cpt.1231"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "10",
+                            "Day": "25"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-6535",
+                        "JournalIssue": {
+                            "Volume": "105",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "03"
+                            }
+                        },
+                        "Title": "Clinical pharmacology and therapeutics",
+                        "ISOAbbreviation": "Clin. Pharmacol. Ther."
+                    },
+                    "ArticleTitle": "Patient-Focused Drug Development Methods for Benefit-Risk Assessments: A Case Study Using a Discrete Choice Experiment for Antiepileptic Drugs.",
+                    "Pagination": {
+                        "MedlinePgn": "672-683"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Regulatory decisions may be enhanced by incorporating patient preferences for drug benefit and harms. This study demonstrates a method of weighting clinical evidence by patients' benefit-risk preferences. Preference weights, derived from discrete choice experiments, were applied to clinical trial data to estimate the expected utility of alternative drugs. In a case study, the rank ordering of antiepileptic drugs (AEDs), as indicated from clinical studies,\u00a0was compared with ordering based on weighting clinical evidence by patients' preferences. A statistically significant change in rank ordering of AEDs was observed for women of childbearing potential who were prescribed monotherapy for generalized or unclassified epilepsy. Rank ordering inferred from trial data, valproate\u00a0>\u00a0topiramate\u00a0>\u00a0lamotrigine, was reversed. Modeling the expected utility of drugs might address the need to use more systematic, methodologically sound approaches to collect patient input that can further inform regulatory decision making."
+                        ],
+                        "CopyrightInformation": "\u00a9 2018 The Authors Clinical Pharmacology & Therapeutics published by Wiley Periodicals, Inc. on behalf of American Society for Clinical Pharmacology and Therapeutics."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Holmes",
+                            "ForeName": "Emily A F",
+                            "Initials": "EAF"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Plumpton",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Baker",
+                            "ForeName": "Gus A",
+                            "Initials": "GA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jacoby",
+                            "ForeName": "Ann",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ring",
+                            "ForeName": "Adele",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Medical Research Council North West Hub for Trials Methodology Research, Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Williamson",
+                            "ForeName": "Paula",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Walton Centre National Health Service Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hughes",
+                            "ForeName": "Dyfrig A",
+                            "Initials": "DA"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L004933/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/L004933/2",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "PB-PG-0909-20161",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/K025635/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Clin Pharmacol Ther",
+                    "NlmUniqueID": "0372741",
+                    "ISSNLinking": "0009-9236"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "administration & dosage"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Drug Development",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Focus Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Patient-Centered Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Risk Assessment",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Value Health. 2016 Sep - Oct;19(6):869-878",
+                                "ArticleIdList": [
+                                    "27712716"
+                                ]
+                            },
+                            {
+                                "Citation": "Value Health. 2011 Jun;14(4):403-13",
+                                "ArticleIdList": [
+                                    "21669364"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Nov 07;11:CD010224",
+                                "ArticleIdList": [
+                                    "27819746"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2008;26(8):661-77",
+                                "ArticleIdList": [
+                                    "18620460"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol. 2009 Apr;256(4):554-62",
+                                "ArticleIdList": [
+                                    "19444531"
+                                ]
+                            },
+                            {
+                                "Citation": "Gastroenterology. 2007 Sep;133(3):769-79",
+                                "ArticleIdList": [
+                                    "17628557"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2011 May;10(5):446-56",
+                                "ArticleIdList": [
+                                    "21511198"
+                                ]
+                            },
+                            {
+                                "Citation": "Appl Health Econ Health Policy. 2013 Aug;11(4):319-29",
+                                "ArticleIdList": [
+                                    "23637054"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Pharmacol. 2015 Nov;80(5):1149-59",
+                                "ArticleIdList": [
+                                    "26138622"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Econ. 2012 Jun;21(6):730-41",
+                                "ArticleIdList": [
+                                    "21557381"
+                                ]
+                            },
+                            {
+                                "Citation": "Surg Endosc. 2015 Oct;29(10):2984-93",
+                                "ArticleIdList": [
+                                    "25552232"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2018 Apr 18;361:k1596",
+                                "ArticleIdList": [
+                                    "29669717"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1016-26",
+                                "ArticleIdList": [
+                                    "17382828"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2017 Jan;44:48-52",
+                                "ArticleIdList": [
+                                    "27665373"
+                                ]
+                            },
+                            {
+                                "Citation": "Value Health. 2016 Sep - Oct;19(6):734-740",
+                                "ArticleIdList": [
+                                    "27712699"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Pharmacol Ther. 2007 Aug;82(2):123-7",
+                                "ArticleIdList": [
+                                    "17632534"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1993 Sep;16(1):83-8",
+                                "ArticleIdList": [
+                                    "8243442"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2017 Jul;35(7):697-716",
+                                "ArticleIdList": [
+                                    "28374325"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2014 Sep;32(9):883-902",
+                                "ArticleIdList": [
+                                    "25005924"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2005;23(11):1167-81",
+                                "ArticleIdList": [
+                                    "16277551"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2012 Aug;24(4):474-9",
+                                "ArticleIdList": [
+                                    "22770879"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2017 Mar;35(3):259-269",
+                                "ArticleIdList": [
+                                    "27832461"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2012 May;24(1):36-43",
+                                "ArticleIdList": [
+                                    "22503427"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2018 Mar;80:247-253",
+                                "ArticleIdList": [
+                                    "29433949"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Econ. 2012 Feb;21(2):145-72",
+                                "ArticleIdList": [
+                                    "22223558"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2003;44 Suppl 7:51-4",
+                                "ArticleIdList": [
+                                    "12919340"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoepidemiol Drug Saf. 2014 Jul;23(7):667-78",
+                                "ArticleIdList": [
+                                    "24821575"
+                                ]
+                            },
+                            {
+                                "Citation": "Value Health. 2016 Sep - Oct;19(6):741-745",
+                                "ArticleIdList": [
+                                    "27712700"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Ther. 2014 May;36(5):624-37",
+                                "ArticleIdList": [
+                                    "24852596"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Decis Making. 2017 Apr;37(3):298-313",
+                                "ArticleIdList": [
+                                    "28061040"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 1998 Jun;7(3):201-5",
+                                "ArticleIdList": [
+                                    "9700832"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient. 2017 Aug;10(4):523-526",
+                                "ArticleIdList": [
+                                    "28597374"
+                                ]
+                            },
+                            {
+                                "Citation": "Nat Rev Drug Discov. 2013 Dec;12(12):907-16",
+                                "ArticleIdList": [
+                                    "24232377"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "05",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "08",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30204252",
+                    "10.1002/cpt.1231",
+                    "PMC6491963"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30204252)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830204252%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830204252%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055473732"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055473732?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055473732&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055473732&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055473732",
+                        "dc:identifier": "SCOPUS_ID:85055473732",
+                        "eid": "2-s2.0-85055473732",
+                        "dc:title": "Patient-Focused Drug Development Methods for Benefit\u2013Risk Assessments: A Case Study Using a Discrete Choice Experiment for Antiepileptic Drugs",
+                        "dc:creator": "Holmes E.A.F.",
+                        "prism:publicationName": "Clinical Pharmacology and Therapeutics",
+                        "prism:issn": "00099236",
+                        "prism:eIssn": "15326535",
+                        "prism:volume": "105",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "672-683",
+                        "prism:coverDate": "2019-03-01",
+                        "prism:coverDisplayDate": "March 2019",
+                        "prism:doi": "10.1002/cpt.1231",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Bangor University",
+                                "affiliation-city": "Bangor",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30204252",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20626",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "GSFG4DN8.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30204252"
+            }
+        },
+        "title": "Patient-Focused Drug Development Methods for Benefit-Risk Assessments: A Case Study Using a Discrete Choice Experiment for Antiepileptic Drugs.",
+        "full_author_list": [
+            {
+                "clean": "Holmes E",
+                "family": "Holmes",
+                "given": "Emily A F",
+                "affiliation": {
+                    "name": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK."
+                }
+            },
+            {
+                "clean": "Plumpton C",
+                "family": "Plumpton",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK."
+                }
+            },
+            {
+                "clean": "Baker G",
+                "family": "Baker",
+                "given": "Gus A",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Jacoby A",
+                "family": "Jacoby",
+                "given": "Ann",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ring A",
+                "family": "Ring",
+                "given": "Adele",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Williamson P",
+                "family": "Williamson",
+                "given": "Paula",
+                "affiliation": {
+                    "name": "Medical Research Council North West Hub for Trials Methodology Research, Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hughes D",
+                "family": "Hughes",
+                "given": "Dyfrig A",
+                "affiliation": {
+                    "name": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK."
+                }
+            }
+        ],
+        "first_author": "Holmes E",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Development",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Focus Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient-Centered Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Assessment",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Clin. Pharmacol. Ther.",
+            "volume": "105",
+            "issue": "3"
+        },
+        "abstract": "[\"Regulatory decisions may be enhanced by incorporating patient preferences for drug benefit and harms. This study demonstrates a method of weighting clinical evidence by patients' benefit-risk preferences. Preference weights, derived from discrete choice experiments, were applied to clinical trial data to estimate the expected utility of alternative drugs. In a case study, the rank ordering of antiepileptic drugs (AEDs), as indicated from clinical studies,\\xa0was compared with ordering based on weighting clinical evidence by patients' preferences. A statistically significant change in rank ordering of AEDs was observed for women of childbearing potential who were prescribed monotherapy for generalized or unclassified epilepsy. Rank ordering inferred from trial data, valproate\\xa0>\\xa0topiramate\\xa0>\\xa0lamotrigine, was reversed. Modeling the expected utility of drugs might address the need to use more systematic, methodologically sound approaches to collect patient input that can further inform regulatory decision making.\"]",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Centre for Health Economics and Medicines Evaluation, Bangor University, Bangor, UK.",
+            "clean_institute": "Bangor University",
+            "latitude": "53.2289",
+            "longitude": "-4.1301",
+            "country": "United Kingdom",
+            "postal_town": "Gwynedd"
+        }
+    }
+}

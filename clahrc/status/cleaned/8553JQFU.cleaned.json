@@ -1,0 +1,1115 @@
+{
+    "IDs": {
+        "zotero": "8553JQFU",
+        "DOI": "10.1111/jocn.14346",
+        "DOI_filename": "367520192e24124e94bc53ef4fa8f93d",
+        "PMID": "29517816",
+        "scopus": "2-s2.0-85047800242",
+        "hash": "5f9883a609a5eba64e64e52bcf9ad397"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "8553JQFU",
+            "version": 127,
+            "itemType": "journalArticle",
+            "title": "Stroke survivors\u2019 and carers\u2019 experiences of a systematic voiding programme to treat urinary incontinence after stroke",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine ME",
+                    "lastName": "Gibson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lois H",
+                    "lastName": "Thomas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanna J",
+                    "lastName": "Harrison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Caroline L",
+                    "lastName": "Watkins"
+                },
+                {
+                    "creatorType": "author",
+                    "name": "the ICONS Project Team and the ICONS Patient, Public and Carer Involvement Groups"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Clinical Nursing",
+            "volume": "27",
+            "issue": "9-10",
+            "pages": "2041-2051",
+            "date": "05/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Clin Nurs",
+            "language": "en",
+            "DOI": "10.1111/jocn.14346",
+            "ISSN": "09621067",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1111/jocn.14346",
+            "accessDate": "2020-09-10T17:10:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29517816",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:10Z",
+            "dateModified": "2020-09-11T15:01:21Z",
+            "pmid": "29517816"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        30
+                    ]
+                ],
+                "date-time": "2020-03-30T01:40:25Z",
+                "timestamp": 1585532425538
+            },
+            "reference-count": 31,
+            "publisher": "Wiley",
+            "issue": "9-10",
+            "license": [
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                5,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-05-01T00:00:00Z",
+                        "timestamp": 1525132800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                5,
+                                27
+                            ]
+                        ],
+                        "date-time": "2018-05-27T00:00:00Z",
+                        "timestamp": 1527379200000
+                    },
+                    "delay-in-days": 26,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "Programme Grant for Applied Health Research",
+                    "award": [
+                        "RP-PG-0707-10059"
+                    ]
+                },
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        5
+                    ]
+                ]
+            },
+            "DOI": "10.1111/jocn.14346",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        8
+                    ]
+                ],
+                "date-time": "2018-03-08T13:36:36Z",
+                "timestamp": 1520516196000
+            },
+            "page": "2041-2051",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Stroke survivors\u2019 and carers\u2019 experiences of a systematic voiding programme to treat urinary incontinence after stroke",
+            "prefix": "10.1111",
+            "volume": "27",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-3051-1237",
+                    "authenticated-orcid": false,
+                    "given": "Josephine ME",
+                    "family": "Gibson",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing; University of Central Lancashire; Preston UK"
+                        },
+                        {
+                            "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast; Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lois H",
+                    "family": "Thomas",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Health Sciences; University of Central Lancashire; Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Joanna J",
+                    "family": "Harrison",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing; University of Central Lancashire; Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Caroline L",
+                    "family": "Watkins",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing; University of Central Lancashire; Preston UK"
+                        },
+                        {
+                            "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast; Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "name": "the ICONS Project Team and the ICONS Patient, Public and Carer Involvement Groups",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        27
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1111/jocn.14346-BIB0001|jocn14346-cit-0001",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "167",
+                    "DOI": "10.1002/nau.10052",
+                    "article-title": "The standardisation of terminology of lower urinary tract function: Report from the Standardisation Sub-Committee of the International Continence Society",
+                    "volume": "21",
+                    "author": "Abrams",
+                    "year": "2002",
+                    "journal-title": "Neurourology and Urodynamics"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/jocn.14346-BIB0002|jocn14346-cit-0002",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "42",
+                    "DOI": "10.1097/JNN.0000000000000336",
+                    "article-title": "Experiences related to urinary incontinence of stroke patients: A qualitative descriptive study",
+                    "volume": "50",
+                    "author": "Arkan",
+                    "year": "2018",
+                    "journal-title": "Journal of Neuroscience Nursing"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1111/jocn.14346-BIB0003|jocn14346-cit-0003",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "481",
+                    "DOI": "10.1177/0269215515589331",
+                    "article-title": "Caring for continence in stroke care settings: A qualitative study of patients\u2019 and staff perspectives on the implementation of a new continence care intervention",
+                    "volume": "30",
+                    "author": "Brady",
+                    "year": "2016",
+                    "journal-title": "Clinical Rehabilitation"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/jocn.14346-BIB0004|jocn14346-cit-0004",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "article-title": "Using thematic analysis in psychology",
+                    "volume": "3",
+                    "author": "Braun",
+                    "year": "2006",
+                    "journal-title": "Qualitative Research in Psychology"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0005|jocn14346-cit-0005",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "524",
+                    "DOI": "10.1161/01.STR.29.2.524",
+                    "article-title": "Stroke and incontinence",
+                    "volume": "29",
+                    "author": "Brittain",
+                    "year": "1998",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/jocn.14346-BIB0006|jocn14346-cit-0006",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "509",
+                    "DOI": "10.1093/ageing/28.6.509",
+                    "article-title": "Prevalence and management of urinary incontinence in stroke survivors",
+                    "volume": "28",
+                    "author": "Brittain",
+                    "year": "1999",
+                    "journal-title": "Age and Ageing"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/jocn.14346-BIB0007|jocn14346-cit-0007",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1274",
+                    "DOI": "10.1016/j.socscimed.2007.04.002",
+                    "article-title": "The social consequences of living with and dealing with incontinence - a carers\u2019 perspective",
+                    "volume": "65",
+                    "author": "Brittain",
+                    "year": "2007",
+                    "journal-title": "Social Science and Medicine"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0008|jocn14346-cit-0008",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "50",
+                    "DOI": "10.1186/1748-5908-4-50",
+                    "article-title": "Fostering implementation of health services research findings into practice: A consolidated framework for advancing implementation science",
+                    "volume": "4",
+                    "author": "Damschroder",
+                    "year": "2009",
+                    "journal-title": "Implementation Science"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0009|jocn14346-cit-0009",
+                    "author": "Dutta",
+                    "first-page": "026921551774871",
+                    "year": "2017",
+                    "article-title": "Using population-based routinely collected data from the Sentinel Stroke National Audit Programme to investigate factors associated with discharge to care home after rehabilitation",
+                    "journal-title": "Clinical Rehabilitation"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/jocn.14346-BIB0010|jocn14346-cit-0010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "21",
+                    "DOI": "10.1111/jan.13083",
+                    "article-title": "Client and clinical staff perceptions of barriers to and enablers of the uptake and delivery of behavioural interventions for urinary incontinence: Qualitative evidence synthesis",
+                    "volume": "73",
+                    "author": "French",
+                    "year": "2017",
+                    "journal-title": "Journal of Advanced Nursing"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0011|jocn14346-cit-0011",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "15",
+                    "DOI": "10.1186/1745-6215-14-15",
+                    "article-title": "Process evaluations for cluster-randomised trials of complex interventions: A proposed framework for design and reporting",
+                    "volume": "14",
+                    "author": "Grant",
+                    "year": "2013",
+                    "journal-title": "Trials"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0012|jocn14346-cit-0012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1548",
+                    "DOI": "10.1111/ene.13077",
+                    "article-title": "D\u00e4llenbach P (2016) Urinary incontinence as a predictor of death after new-onset stroke: A meta-analysis",
+                    "volume": "23",
+                    "author": "John",
+                    "year": "2016",
+                    "journal-title": "European Journal of Neurology"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0013|jocn14346-cit-0013",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "371",
+                    "DOI": "10.1111/scs.12471",
+                    "article-title": "Can) Not talk about it - Urinary incontinence from the point of view of stroke survivors: A qualitative study",
+                    "volume": "32",
+                    "author": "Kohler",
+                    "year": "2017",
+                    "journal-title": "Scandinavian Journal of Caring Sciences"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1111/jocn.14346-BIB0014|jocn14346-cit-0014",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "322",
+                    "DOI": "10.1002/nau.10114",
+                    "article-title": "Impact of urinary incontinence after stroke: Results from a prospective population-based stroke register",
+                    "volume": "22",
+                    "author": "Kolominsky-Rabas",
+                    "year": "2003",
+                    "journal-title": "Neurourology and Urodynamics"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1111/jocn.14346-BIB0015|jocn14346-cit-0015",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1291",
+                    "DOI": "10.1177/1049732303257224",
+                    "article-title": "Living with bodily strangeness: Women's experiences of their changing and unpredictable body following a stroke",
+                    "volume": "13",
+                    "author": "Kvigne",
+                    "year": "2003",
+                    "journal-title": "Qualitative Health Research"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1111/jocn.14346-BIB0016|jocn14346-cit-0016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "887",
+                    "DOI": "10.1080/00207454.2016.1277344",
+                    "article-title": "Depression after stroke at 12-month follow-up: A multicenter study",
+                    "volume": "127",
+                    "author": "Limampai",
+                    "year": "2017",
+                    "journal-title": "International Journal of Neuroscience"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/jocn.14346-BIB0017|jocn14346-cit-0017",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "359",
+                    "DOI": "10.1097/00005392-200102000-00003",
+                    "article-title": "Voiding and sexual dysfunction after cerebrovascular accidents",
+                    "volume": "165",
+                    "author": "Marinkovic",
+                    "year": "2001",
+                    "journal-title": "Journal of Urology"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1111/jocn.14346-BIB0018|jocn14346-cit-0018",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1128",
+                    "DOI": "10.1111/ijcp.12183",
+                    "article-title": "Post-stroke urinary incontinence",
+                    "volume": "67",
+                    "author": "Mehdi",
+                    "year": "2013",
+                    "journal-title": "International Journal of Clinical Practice"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0019|jocn14346-cit-0019",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "119",
+                    "DOI": "10.1191/0269215503cr585oa",
+                    "article-title": "Prognostic factors for ambulation and activities of daily living in the subacute phase after stroke. A systematic review of the literature",
+                    "volume": "17",
+                    "author": "Meijer",
+                    "year": "2003",
+                    "journal-title": "Clinical Rehabilitation"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0020|jocn14346-cit-0020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "58",
+                    "DOI": "10.1161/01.STR.28.1.58",
+                    "article-title": "Prevalence and risk factors of incontinence after stroke. The Copenhagen stroke study",
+                    "volume": "28",
+                    "author": "Nakayama",
+                    "year": "1997",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0021|jocn14346-cit-0021",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "122",
+                    "DOI": "10.1161/01.STR.32.1.122",
+                    "article-title": "Natural history and effects on 2-year outcomes of urinary incontinence after stroke",
+                    "volume": "32",
+                    "author": "Patel",
+                    "year": "2001",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0022|jocn14346-cit-0022",
+                    "first-page": "39",
+                    "article-title": "Patient experiences of bladder problems following stroke",
+                    "volume": "36",
+                    "author": "Pilcher",
+                    "year": "2012",
+                    "journal-title": "Nursing Standard"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/jocn.14346-BIB0023|jocn14346-cit-0023",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "152",
+                    "DOI": "10.1111/j.1747-4949.2009.00287.x",
+                    "article-title": "Caring for stroke survivors: Baseline and 1-year determinants of caregiver burden",
+                    "volume": "4",
+                    "author": "Rigby",
+                    "year": "2009",
+                    "journal-title": "International Journal of Stroke"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1111/jocn.14346-BIB0024|jocn14346-cit-0024",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2831",
+                    "DOI": "10.1111/jan.13048",
+                    "article-title": "Top 10 research priorities relating to stroke nursing: A rigorous approach to establish a national nurse-led research agenda",
+                    "volume": "72",
+                    "author": "Rowat",
+                    "year": "2016",
+                    "journal-title": "Journal of Advanced Nursing"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1111/jocn.14346-BIB0025|jocn14346-cit-0025",
+                    "first-page": "Art. No.: CD004",
+                    "article-title": "Treatment of urinary incontinence after stroke in adults",
+                    "author": "Thomas",
+                    "year": "2008",
+                    "journal-title": "Cochrane Database of Systematic Reviews"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0026|jocn14346-cit-0026",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "509",
+                    "DOI": "10.1186/1745-6215-15-509",
+                    "article-title": "Identifying continence options after stroke (ICONS): A cluster randomised controlled feasibility trial",
+                    "volume": "15",
+                    "author": "Thomas",
+                    "year": "2014",
+                    "journal-title": "Trials"
+                },
+                {
+                    "key": "10.1111/jocn.14346-BIB0027|jocn14346-cit-0027",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1460",
+                    "DOI": "10.1177/1557988315610816",
+                    "article-title": "Is pelvic floor muscle training effective for men with poststroke lower urinary tract symptoms? A single-blinded randomized, controlled trial",
+                    "volume": "11",
+                    "author": "Tibaek",
+                    "year": "2015",
+                    "journal-title": "American Journal of Men's Health"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1111/jocn.14346-BIB0028|jocn14346-cit-0028",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0129540",
+                    "DOI": "10.1371/journal.pone.0129540",
+                    "article-title": "A qualitative study of family caregiver experiences of managing incontinence in stroke survivors",
+                    "volume": "10",
+                    "author": "Tseng",
+                    "year": "2015",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/jocn.14346-BIB0029|jocn14346-cit-0029",
+                    "first-page": "8265",
+                    "article-title": "A review of post-stroke urinary incontinence",
+                    "volume": "23",
+                    "author": "Tuong",
+                    "year": "2016",
+                    "journal-title": "The Canadian Journal of Urology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1111/jocn.14346-BIB0030|jocn14346-cit-0030",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "124",
+                    "DOI": "10.1177/0008417414527257",
+                    "article-title": "The experience of urinary incontinence in stroke survivors: A follow-up qualitative study",
+                    "volume": "81",
+                    "author": "White",
+                    "year": "2014",
+                    "journal-title": "Canadian Journal of Occupational Therapy"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1111/jocn.14346-BIB0031|jocn14346-cit-0031",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "371",
+                    "DOI": "10.1093/ageing/afs009",
+                    "article-title": "Urinary symptoms and natural history of urinary continence after first-ever stroke-a longitudinal population-based study",
+                    "volume": "41",
+                    "author": "Williams",
+                    "year": "2012",
+                    "journal-title": "Age and Ageing"
+                }
+            ],
+            "container-title": "Journal of Clinical Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjocn.14346",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/jocn.14346/fullpdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        1
+                    ]
+                ],
+                "date-time": "2019-05-01T01:48:24Z",
+                "timestamp": 1556675304000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 31,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "9-10"
+            },
+            "URL": "http://dx.doi.org/10.1111/jocn.14346",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0962-1067"
+            ],
+            "container-title-short": "J Clin Nurs"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "N"
+                ],
+                "KeywordList": [
+                    [
+                        "adult nursing",
+                        "incontinence",
+                        "patients\u2019 experience",
+                        "qualitative study",
+                        "stroke"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29517816",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "10",
+                    "Day": "03"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "03",
+                    "Day": "18"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1111/jocn.14346"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1365-2702",
+                        "JournalIssue": {
+                            "Volume": "27",
+                            "Issue": "9-10",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "May"
+                            }
+                        },
+                        "Title": "Journal of clinical nursing",
+                        "ISOAbbreviation": "J Clin Nurs"
+                    },
+                    "ArticleTitle": "Stroke survivors' and carers' experiences of a systematic voiding programme to treat urinary incontinence after stroke.",
+                    "Pagination": {
+                        "MedlinePgn": "2041-2051"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To explore the views and experiences of stroke survivors and carers about a systematic voiding programme for poststroke incontinence.",
+                            "Urinary incontinence after stroke is common and associated with poorer functional outcome. Structured assessment and management are potentially effective interventions, but it is important that there is a good understanding of stroke survivors' and carers' views of their acceptability and implementation.",
+                            "A qualitative study within a feasibility trial.",
+                            "Sixteen participants (12 stroke survivors and four carers) were interviewed using a structured schedule shortly before discharge from one of six inpatient stroke units across six hospitals. Interviews were audio-recorded and transcribed verbatim, and thematic analysis was conducted.",
+                            "Participants included seven male and five female stroke survivors (mean age 76\u00a0years) and four female carers (two wives and two daughters). Themes relating to the preliminary (assessment) phase of the programme were as follows: physical impact, psychological impact, beliefs about incontinence, and the assessment process itself. Main themes relating to the implementation of the programme included the following: timed voiding decisions, adapting the programme or the timed voiding schedule, and urinary incontinence management techniques. Participants felt that the programme helped them to re-establish a regular pattern of micturition and to regain autonomy.",
+                            "The effectiveness of a systematic voiding programme may partly lie in its educational component, challenging patients' and carers' assumptions that poststroke incontinence is inevitable. Individual adaptation of the programme and the ability to incorporate it alongside other aspects of care are likely to be key factors influencing implementation.",
+                            "Urinary incontinence is common after stroke. To maximise benefits from a systematic voiding programme, nurses should support stroke survivors to overturn erroneous beliefs, to participate in tailoring of the programme, and in self-management where appropriate."
+                        ],
+                        "CopyrightInformation": "\u00a9 2018 John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Preston, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-3051-1237"
+                            ],
+                            "LastName": "Gibson",
+                            "ForeName": "Josephine Me",
+                            "Initials": "JM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Thomas",
+                            "ForeName": "Lois H",
+                            "Initials": "LH"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harrison",
+                            "ForeName": "Joanna J",
+                            "Initials": "JJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Preston, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Watkins",
+                            "ForeName": "Caroline L",
+                            "Initials": "CL"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "CollectiveName": "ICONS Project Team and the ICONS Patient, Public and Carer Involvement Groups"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Clin Nurs",
+                    "NlmUniqueID": "9207302",
+                    "ISSNLinking": "0962-1067"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Caregivers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Rehabilitation Nursing",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Stroke",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Stroke Rehabilitation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Survivors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "etiology",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Urinary Incontinence",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "02",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "4",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29517816",
+                    "10.1111/jocn.14346"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29517816)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829517816%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829517816%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047800242"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047800242?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047800242&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047800242&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047800242",
+                        "dc:identifier": "SCOPUS_ID:85047800242",
+                        "eid": "2-s2.0-85047800242",
+                        "dc:title": "Stroke survivors\u2019 and carers\u2019 experiences of a systematic voiding programme to treat urinary incontinence after stroke",
+                        "dc:creator": "Gibson J.M.E.",
+                        "prism:publicationName": "Journal of Clinical Nursing",
+                        "prism:issn": "09621067",
+                        "prism:eIssn": "13652702",
+                        "prism:volume": "27",
+                        "prism:issueIdentifier": "9-10",
+                        "prism:pageRange": "2041-2051",
+                        "prism:coverDate": "2018-05-01",
+                        "prism:coverDisplayDate": "May 2018",
+                        "prism:doi": "10.1111/jocn.14346",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "National Institute for Health Research",
+                                "affiliation-city": "Birmingham",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29517816",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "28191",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "8553JQFU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29517816"
+            }
+        },
+        "title": "Stroke survivors' and carers' experiences of a systematic voiding programme to treat urinary incontinence after stroke.",
+        "full_author_list": [
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine Me",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Thomas L",
+                "family": "Thomas",
+                "given": "Lois H",
+                "affiliation": {
+                    "name": "School of Health Sciences, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Harrison J",
+                "family": "Harrison",
+                "given": "Joanna J",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Watkins C",
+                "family": "Watkins",
+                "given": "Caroline L",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Gibson J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Caregivers",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Rehabilitation Nursing",
+                    "major": "N"
+                },
+                {
+                    "term": "Stroke",
+                    "major": "N"
+                },
+                {
+                    "term": "Stroke Rehabilitation",
+                    "major": "N"
+                },
+                {
+                    "term": "Survivors",
+                    "major": "N"
+                },
+                {
+                    "term": "Urinary Incontinence",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Clin Nurs",
+            "volume": "27",
+            "issue": "9-10"
+        },
+        "abstract": "['To explore the views and experiences of stroke survivors and carers about a systematic voiding programme for poststroke incontinence.', \"Urinary incontinence after stroke is common and associated with poorer functional outcome. Structured assessment and management are potentially effective interventions, but it is important that there is a good understanding of stroke survivors' and carers' views of their acceptability and implementation.\", 'A qualitative study within a feasibility trial.', 'Sixteen participants (12 stroke survivors and four carers) were interviewed using a structured schedule shortly before discharge from one of six inpatient stroke units across six hospitals. Interviews were audio-recorded and transcribed verbatim, and thematic analysis was conducted.', 'Participants included seven male and five female stroke survivors (mean age 76\\xa0years) and four female carers (two wives and two daughters). Themes relating to the preliminary (assessment) phase of the programme were as follows: physical impact, psychological impact, beliefs about incontinence, and the assessment process itself. Main themes relating to the implementation of the programme included the following: timed voiding decisions, adapting the programme or the timed voiding schedule, and urinary incontinence management techniques. Participants felt that the programme helped them to re-establish a regular pattern of micturition and to regain autonomy.', \"The effectiveness of a systematic voiding programme may partly lie in its educational component, challenging patients' and carers' assumptions that poststroke incontinence is inevitable. Individual adaptation of the programme and the ability to incorporate it alongside other aspects of care are likely to be key factors influencing implementation.\", 'Urinary incontinence is common after stroke. To maximise benefits from a systematic voiding programme, nurses should support stroke survivors to overturn erroneous beliefs, to participate in tailoring of the programme, and in self-management where appropriate.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Nursing, University of Central Lancashire, Preston, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "latitude": "53.7641378",
+            "longitude": "-2.7092453",
+            "country": "United Kingdom",
+            "postal_town": "Preston"
+        }
+    }
+}

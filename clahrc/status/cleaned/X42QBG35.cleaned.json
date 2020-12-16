@@ -1,0 +1,1073 @@
+{
+    "IDs": {
+        "zotero": "X42QBG35",
+        "DOI": "10.1177/1367493517753330",
+        "DOI_filename": "d3e129720113689babe72cd81e06afa5",
+        "PMID": "29355024",
+        "scopus": "2-s2.0-85052221796",
+        "hash": "03595c3751d4c837da2ce81df242c1f8"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "X42QBG35",
+            "version": 198,
+            "itemType": "journalArticle",
+            "title": "The transition of adolescents with juvenile idiopathic arthritis or epilepsy from paediatric health-care services to adult health-care services: A scoping review of the literature and a synthesis of the evidence",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Lauren",
+                    "lastName": "Burke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jamie",
+                    "lastName": "Kirkham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Janine",
+                    "lastName": "Arnott"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Victoria",
+                    "lastName": "Gray"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthew",
+                    "lastName": "Peak"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael W",
+                    "lastName": "Beresford"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Child Health Care",
+            "volume": "22",
+            "issue": "3",
+            "pages": "332-358",
+            "date": "09/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Child Health Care",
+            "language": "en",
+            "DOI": "10.1177/1367493517753330",
+            "ISSN": "1367-4935, 1741-2889",
+            "shortTitle": "The transition of adolescents with juvenile idiopathic arthritis or epilepsy from paediatric health-care services to adult health-care services",
+            "url": "http://journals.sagepub.com/doi/10.1177/1367493517753330",
+            "accessDate": "2020-09-10T17:09:34Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29355024",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:34Z",
+            "dateModified": "2020-09-15T14:38:46Z",
+            "pmid": "29355024"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        4
+                    ]
+                ],
+                "date-time": "2020-09-04T10:24:56Z",
+                "timestamp": 1599215096185
+            },
+            "reference-count": 62,
+            "publisher": "SAGE Publications",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                1,
+                                21
+                            ]
+                        ],
+                        "date-time": "2018-01-21T00:00:00Z",
+                        "timestamp": 1516492800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "NIHR CLAHRC North West",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "journals.sagepub.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "DOI": "10.1177/1367493517753330",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        22
+                    ]
+                ],
+                "date-time": "2018-01-22T14:54:59Z",
+                "timestamp": 1516632899000
+            },
+            "page": "332-358",
+            "update-policy": "http://dx.doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 10,
+            "title": "The transition of adolescents with juvenile idiopathic arthritis or epilepsy from paediatric health-care services to adult health-care services: A scoping review of the literature and a synthesis of the evidence",
+            "prefix": "10.1177",
+            "volume": "22",
+            "author": [
+                {
+                    "given": "Lauren",
+                    "family": "Burke",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jamie",
+                    "family": "Kirkham",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Janine",
+                    "family": "Arnott",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing, University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Victoria",
+                    "family": "Gray",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Alder Hey Children\u2019s NHS Foundation Trust, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Matthew",
+                    "family": "Peak",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Alder Hey Children\u2019s NHS Foundation Trust, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Michael W",
+                    "family": "Beresford",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Alder Hey Children\u2019s NHS Foundation Trust, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "179",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "bibr1-1367493517753330",
+                    "DOI": "10.1016/j.pec.2016.02.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr2-1367493517753330",
+                    "DOI": "10.1007/s00467-006-0404-z",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr4-1367493517753330",
+                    "DOI": "10.1177/002221949602900204",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr5-1367493517753330",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "bibr6-1367493517753330",
+                    "first-page": "437",
+                    "volume": "69",
+                    "author": "Camfield P",
+                    "year": "2011",
+                    "journal-title": "Journal of the American Neurological Association and the Child Neurology Society"
+                },
+                {
+                    "key": "bibr7-1367493517753330",
+                    "author": "Campbell F",
+                    "volume": "4",
+                    "year": "2016",
+                    "journal-title": "Cochrane Database of Systematic Reviews"
+                },
+                {
+                    "key": "bibr9-1367493517753330",
+                    "DOI": "10.3899/jrheum.130615",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr10-1367493517753330",
+                    "DOI": "10.1177/001316446002000104",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr11-1367493517753330",
+                    "DOI": "10.1007/s11482-012-9209-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr12-1367493517753330",
+                    "DOI": "10.1136/adc.2010.202473",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr13-1367493517753330",
+                    "DOI": "10.1007/s10067-015-2950-x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr16-1367493517753330",
+                    "unstructured": "Department of Health & Department for Children Schools and Families (2008) Transition: moving on well. Available at: https://www.bacdis.org.uk/policy/documents/transition_moving-on-well.pdf (Accessed 13 June 2008)."
+                },
+                {
+                    "key": "bibr160-1367493517753330",
+                    "author": "Department of Health &amp; Department for Education and Skills",
+                    "year": "2004",
+                    "volume-title": "National Service Framework for Children, Young People and Maternity Services"
+                },
+                {
+                    "key": "bibr18-1367493517753330",
+                    "DOI": "10.1016/S1054-139X(98)00081-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr19-1367493517753330",
+                    "DOI": "10.1016/j.pedn.2015.06.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr20-1367493517753330",
+                    "DOI": "10.1016/j.ejpn.2016.01.003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr21-1367493517753330",
+                    "DOI": "10.1186/1546-0096-8-2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr22-1367493517753330",
+                    "DOI": "10.1016/j.pec.2016.08.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr23-1367493517753330",
+                    "DOI": "10.1007/s10067-012-2135-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr24-1367493517753330",
+                    "DOI": "10.1093/rheumatology/kev284",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr25-1367493517753330",
+                    "DOI": "10.1186/s40064-015-0888-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr26-1367493517753330",
+                    "DOI": "10.1016/j.seizure.2013.02.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr27-1367493517753330",
+                    "DOI": "10.1097/JNN.0b013e3181e26be6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr28-1367493517753330",
+                    "DOI": "10.1111/j.1445-5994.2007.01440.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr29-1367493517753330",
+                    "DOI": "10.1016/j.yebeh.2013.07.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr30-1367493517753330",
+                    "DOI": "10.1186/1546-0096-9-35",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr31-1367493517753330",
+                    "DOI": "10.1186/1471-2431-13-169",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr32-1367493517753330",
+                    "DOI": "10.1542/peds.2008-1298",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr33-1367493517753330",
+                    "DOI": "10.1111/j.1399-3046.2010.01343.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr35-1367493517753330",
+                    "DOI": "10.1177/1367493506060203",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr36-1367493517753330",
+                    "DOI": "10.1093/rheumatology/keh163",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "bibr37-1367493517753330",
+                    "first-page": "161",
+                    "volume": "47",
+                    "author": "McDonagh JE",
+                    "year": "2006",
+                    "journal-title": "Journal of Rheumatology"
+                },
+                {
+                    "key": "bibr38-1367493517753330",
+                    "DOI": "10.1542/peds.2007-2217",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr39-1367493517753330",
+                    "DOI": "10.1111/j.1365-2702.2008.02767.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr40-1367493517753330",
+                    "DOI": "10.1136/archdischild-2014-307423",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "bibr43-1367493517753330",
+                    "first-page": "43",
+                    "volume": "32",
+                    "author": "Olsson CA",
+                    "year": "2003",
+                    "journal-title": "Annals of the Academy of Medicine Singapore"
+                },
+                {
+                    "key": "bibr44-1367493517753330",
+                    "DOI": "10.1177/0883073812439249",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr73-1367493517753330",
+                    "DOI": "10.1001/jama.297.24.2755",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr45-1367493517753330",
+                    "DOI": "10.1377/hlthaff.2014.0832",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr46-1367493517753330",
+                    "DOI": "10.1037/fsh0000039",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr47-1367493517753330",
+                    "DOI": "10.1136/ard.2004.032292",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr48-1367493517753330",
+                    "DOI": "10.1016/S1054-139X(03)00208-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr50-1367493517753330",
+                    "DOI": "10.1007/s00431-010-1364-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr51-1367493517753330",
+                    "DOI": "10.1016/j.pedhc.2012.03.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr52-1367493517753330",
+                    "DOI": "10.1093/rheumatology/keh175",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr53-1367493517753330",
+                    "DOI": "10.1093/rheumatology/keh018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr54-1367493517753330",
+                    "DOI": "10.1093/rheumatology/keh216",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr55-1367493517753330",
+                    "DOI": "10.1111/j.1365-2214.2006.00698.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr56-1367493517753330",
+                    "DOI": "10.1111/cch.12110",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr57-1367493517753330",
+                    "DOI": "10.1192/bjp.bp.109.075135",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "bibr58-1367493517753330",
+                    "first-page": "69",
+                    "volume": "39",
+                    "author": "Sonneveld HM",
+                    "year": "2012",
+                    "journal-title": "Journal of Child: Care, Health and Development"
+                },
+                {
+                    "key": "bibr59-1367493517753330",
+                    "DOI": "10.1515/ijamh-2013-0512",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr60-1367493517753330",
+                    "DOI": "10.1186/s12969-015-0016-x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr61-1367493517753330",
+                    "DOI": "10.1016/j.jadohealth.2015.02.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr62-1367493517753330",
+                    "DOI": "10.1016/j.jadohealth.2009.05.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr63-1367493517753330",
+                    "DOI": "10.1111/j.1365-2214.2008.00844.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr64-1367493517753330",
+                    "author": "Tysbina I",
+                    "volume": "12",
+                    "first-page": "51",
+                    "year": "2012",
+                    "journal-title": "Journal of BMC Pediatrics"
+                },
+                {
+                    "key": "bibr65-1367493517753330",
+                    "DOI": "10.1111/j.1365-2214.2011.01261.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr66-1367493517753330",
+                    "DOI": "10.1136/adc.2006.103721",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr67-1367493517753330",
+                    "DOI": "10.1016/j.socscimed.2007.07.020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr68-1367493517753330",
+                    "DOI": "10.1111/petr.12760",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "bibr69-1367493517753330",
+                    "DOI": "10.1186/1471-2431-14-4",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Journal of Child Health Care",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/1367493517753330",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/1367493517753330",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://journals.sagepub.com/doi/pdf/10.1177/1367493517753330",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        22
+                    ]
+                ],
+                "date-time": "2018-08-22T01:56:06Z",
+                "timestamp": 1534902966000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        1,
+                        21
+                    ]
+                ]
+            },
+            "references-count": 62,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            1,
+                            23
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            9
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1177/1367493517753330"
+            ],
+            "URL": "http://dx.doi.org/10.1177/1367493517753330",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1367-4935",
+                "1741-2889"
+            ],
+            "container-title-short": "J Child Health Care"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "N"
+                ],
+                "KeywordList": [
+                    [
+                        "Adolescence",
+                        "epilepsy",
+                        "juvenile idiopathic arthritis",
+                        "transition",
+                        "transitional care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29355024",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "12"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "13"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1177/1367493517753330"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "01",
+                            "Day": "21"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1741-2889",
+                        "JournalIssue": {
+                            "Volume": "22",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "09"
+                            }
+                        },
+                        "Title": "Journal of child health care : for professionals working with children in the hospital and community",
+                        "ISOAbbreviation": "J Child Health Care"
+                    },
+                    "ArticleTitle": "The transition of adolescents with juvenile idiopathic arthritis or epilepsy from paediatric health-care services to adult health-care services: A scoping review of the literature and a synthesis of the evidence.",
+                    "Pagination": {
+                        "MedlinePgn": "332-358"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Young people with long-term health conditions (LTCs) can face challenges when making the transition to adult health services. This paper sought to identify studies that assess and explore transitional care for young people with LTCs. Two conditions were used as exemplars: juvenile idiopathic arthritis (JIA) and epilepsy. A scoping review of the literature was conducted by using search terms to search for papers in English between 2001 and 2016 concerning transitional care on four databases. Qualitative papers were reviewed and synthesized using thematic analysis. Quantitative papers using health outcomes were also synthesized. Twenty-eight papers were selected for review. Despite the wealth of literature concerning aspects of transitional care that are key to a successful transition for young people with JIA or epilepsy, there is a paucity of outcomes that define 'successful' transition and consequently a lack of reliable research evaluating the effectiveness of transitional care interventions to support young people moving to adult health services."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "1 Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Burke",
+                            "ForeName": "Lauren",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "1 Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kirkham",
+                            "ForeName": "Jamie",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "2 School of Nursing, University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Arnott",
+                            "ForeName": "Janine",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "3 Alder Hey Children's NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gray",
+                            "ForeName": "Victoria",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "3 Alder Hey Children's NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Peak",
+                            "ForeName": "Matthew",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "3 Alder Hey Children's NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Beresford",
+                            "ForeName": "Michael W",
+                            "Initials": "MW"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Child Health Care",
+                    "NlmUniqueID": "9806360",
+                    "ISSNLinking": "1367-4935"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent Health Services",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Age Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Arthritis, Juvenile",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Chronic Disease",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Transition to Adult Care",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "6",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29355024",
+                    "10.1177/1367493517753330"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29355024)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829355024%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829355024%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052221796"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052221796?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052221796&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052221796&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052221796",
+                        "dc:identifier": "SCOPUS_ID:85052221796",
+                        "eid": "2-s2.0-85052221796",
+                        "dc:title": "The transition of adolescents with juvenile idiopathic arthritis or epilepsy from paediatric health-care services to adult health-care services: A scoping review of the literature and a synthesis of the evidence",
+                        "dc:creator": "Burke L.",
+                        "prism:publicationName": "Journal of Child Health Care",
+                        "prism:issn": "13674935",
+                        "prism:eIssn": "17412889",
+                        "prism:volume": "22",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "332-358",
+                        "prism:coverDate": "2018-09-01",
+                        "prism:coverDisplayDate": "1 September 2018",
+                        "prism:doi": "10.1177/1367493517753330",
+                        "citedby-count": "9",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29355024",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "15097",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "X42QBG35.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29355024"
+            }
+        },
+        "title": "The transition of adolescents with juvenile idiopathic arthritis or epilepsy from paediatric health-care services to adult health-care services: A scoping review of the literature and a synthesis of the evidence.",
+        "full_author_list": [
+            {
+                "clean": "Burke L",
+                "family": "Burke",
+                "given": "Lauren",
+                "affiliation": {
+                    "name": "1 Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Kirkham J",
+                "family": "Kirkham",
+                "given": "Jamie",
+                "affiliation": {
+                    "name": "1 Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Arnott J",
+                "family": "Arnott",
+                "given": "Janine",
+                "affiliation": {
+                    "name": "2 School of Nursing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Gray V",
+                "family": "Gray",
+                "given": "Victoria",
+                "affiliation": {
+                    "name": "3 Alder Hey Children's NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Peak M",
+                "family": "Peak",
+                "given": "Matthew",
+                "affiliation": {
+                    "name": "3 Alder Hey Children's NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Beresford M",
+                "family": "Beresford",
+                "given": "Michael W",
+                "affiliation": {
+                    "name": "3 Alder Hey Children's NHS Foundation Trust, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Burke L",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adolescent Health Services",
+                    "major": "N"
+                },
+                {
+                    "term": "Age Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Arthritis, Juvenile",
+                    "major": "N"
+                },
+                {
+                    "term": "Chronic Disease",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Transition to Adult Care",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "J Child Health Care",
+            "volume": "22",
+            "issue": "3"
+        },
+        "abstract": "[\"Young people with long-term health conditions (LTCs) can face challenges when making the transition to adult health services. This paper sought to identify studies that assess and explore transitional care for young people with LTCs. Two conditions were used as exemplars: juvenile idiopathic arthritis (JIA) and epilepsy. A scoping review of the literature was conducted by using search terms to search for papers in English between 2001 and 2016 concerning transitional care on four databases. Qualitative papers were reviewed and synthesized using thematic analysis. Quantitative papers using health outcomes were also synthesized. Twenty-eight papers were selected for review. Despite the wealth of literature concerning aspects of transitional care that are key to a successful transition for young people with JIA or epilepsy, there is a paucity of outcomes that define 'successful' transition and consequently a lack of reliable research evaluating the effectiveness of transitional care interventions to support young people moving to adult health services.\"]",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "9"
+            }
+        },
+        "location": {
+            "candidate_institute": "1 Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

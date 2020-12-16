@@ -1,0 +1,718 @@
+{
+    "IDs": {
+        "zotero": "EF22KYA6",
+        "DOI": "10.1016/j.psychres.2018.05.023",
+        "DOI_filename": "77639c190210a09e0e22c5423f2496cb",
+        "PMID": "29886276",
+        "scopus": "2-s2.0-85048196811",
+        "hash": "34952d8a9da78d25c7b79288cf4cbb0b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "EF22KYA6",
+            "version": 143,
+            "itemType": "journalArticle",
+            "title": "Childhood maltreatment and problematic social media use: The role of attachment and depression",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanne D.",
+                    "lastName": "Worsley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard P.",
+                    "lastName": "Bentall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Psychiatry Research",
+            "volume": "267",
+            "issue": "",
+            "pages": "88-93",
+            "date": "09/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Psychiatry Research",
+            "language": "en",
+            "DOI": "10.1016/j.psychres.2018.05.023",
+            "ISSN": "01651781",
+            "shortTitle": "Childhood maltreatment and problematic social media use",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0165178117318668",
+            "accessDate": "2020-09-10T17:08:44Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29886276",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:44Z",
+            "dateModified": "2020-09-15T12:16:28Z",
+            "pmid": "29886276"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        4
+                    ]
+                ],
+                "date-time": "2020-09-04T04:04:50Z",
+                "timestamp": 1599192290003
+            },
+            "reference-count": 32,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                9,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-09-01T00:00:00Z",
+                        "timestamp": 1535760000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "clinicalkey.fr",
+                    "clinicalkey.com.au",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.psychres.2018.05.023",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        25
+                    ]
+                ],
+                "date-time": "2018-05-25T02:28:02Z",
+                "timestamp": 1527215282000
+            },
+            "page": "88-93",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 19,
+            "title": "Childhood maltreatment and problematic social media use: The role of attachment and depression",
+            "prefix": "10.1016",
+            "volume": "267",
+            "author": [
+                {
+                    "given": "Joanne D.",
+                    "family": "Worsley",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jason C.",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Richard P.",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Psychiatry Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0165178117318668?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0165178117318668?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        10
+                    ]
+                ],
+                "date-time": "2019-06-10T21:15:10Z",
+                "timestamp": 1560201310000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "references-count": 32,
+            "alternative-id": [
+                "S0165178117318668"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.psychres.2018.05.023",
+            "relation": {},
+            "ISSN": [
+                "0165-1781"
+            ],
+            "subject": [
+                "Biological Psychiatry",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Psychiatry Research",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Childhood maltreatment and problematic social media use: The role of attachment and depression",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Psychiatry Research",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.psychres.2018.05.023",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2018 Elsevier B.V. All rights reserved.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Attachment anxiety",
+                        "Attachment avoidance",
+                        "Childhood maltreatment",
+                        "Depressive symptoms",
+                        "Social media"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29886276",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "21"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "21"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0165-1781(17)31866-8",
+                        "10.1016/j.psychres.2018.05.023"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "05",
+                            "Day": "25"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1872-7123",
+                        "JournalIssue": {
+                            "Volume": "267",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "09"
+                            }
+                        },
+                        "Title": "Psychiatry research",
+                        "ISOAbbreviation": "Psychiatry Res"
+                    },
+                    "ArticleTitle": "Childhood maltreatment and problematic social media use: The role of attachment and depression.",
+                    "Pagination": {
+                        "MedlinePgn": "88-93"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Childhood maltreatment is associated with many maladaptive outcomes. This study sought to examine the association between childhood maltreatment and problematic social media use using a cross-sectional sample of young adults aged 17-25 years (n\u202f=\u202f1029). Specifically, we studied whether the relationship is mediated through (i) attachment anxiety, (ii) attachment avoidance, or (iii) both attachment dimensions operating in series with depressive symptoms. Results revealed that a history of childhood maltreatment was significantly associated with more problematic social media use. Both anxious and avoidant attachment dimensions independently mediated the relationship between childhood maltreatment and problematic use of social media, but in opposing directions. Avoidant attachment was associated with less problematic social media use, whilst anxious attachment was associated with more problematic social media use. Avoidant attachment and depressive symptoms in series accounted for part of the relationship between childhood maltreatment and problematic social media use. Anxious attachment and depressive symptoms in series fully mediated the relationship between childhood maltreatment and problematic social media use. The results suggest that childhood maltreatment may influence social media use directly, but also indirectly. People experiencing depressive symptoms may overuse social media in an attempt to alleviate their distress. However, causality cannot be established with the current design."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018. Published by Elsevier B.V."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychological Sciences, Eleanor Rathbone Building, University of Liverpool, Liverpool L69 7ZA, UK. Electronic address: Joanne.Worsley@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Worsley",
+                            "ForeName": "Joanne D",
+                            "Initials": "JD"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Services Research, Waterhouse Building, University of Liverpool, Liverpool L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychology, University of Sheffield, Sheffield, S1 2LT, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bentall",
+                            "ForeName": "Richard P",
+                            "Initials": "RP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychological Sciences, Waterhouse Building, University of Liverpool, Liverpool L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Ireland",
+                    "MedlineTA": "Psychiatry Res",
+                    "NlmUniqueID": "7911385",
+                    "ISSNLinking": "0165-1781"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "trends"
+                        ],
+                        "DescriptorName": "Child Abuse",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cross-Sectional Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Depression",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Object Attachment",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Social Media",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Surveys and Questionnaires",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "10",
+                        "Day": "09"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "05",
+                        "Day": "09"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "05",
+                        "Day": "09"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29886276",
+                    "S0165-1781(17)31866-8",
+                    "10.1016/j.psychres.2018.05.023"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29886276)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829886276%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829886276%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048196811"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048196811?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048196811&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048196811&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0165178117318668"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048196811",
+                        "dc:identifier": "SCOPUS_ID:85048196811",
+                        "eid": "2-s2.0-85048196811",
+                        "dc:title": "Childhood maltreatment and problematic social media use: The role of attachment and depression",
+                        "dc:creator": "Worsley J.",
+                        "prism:publicationName": "Psychiatry Research",
+                        "prism:issn": "01651781",
+                        "prism:eIssn": "18727123",
+                        "prism:volume": "267",
+                        "prism:pageRange": "88-93",
+                        "prism:coverDate": "2018-09-01",
+                        "prism:coverDisplayDate": "September 2018",
+                        "prism:doi": "10.1016/j.psychres.2018.05.023",
+                        "pii": "S0165178117318668",
+                        "citedby-count": "18",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29886276",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "18729",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "EF22KYA6.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29886276"
+            }
+        },
+        "title": "Childhood maltreatment and problematic social media use: The role of attachment and depression.",
+        "full_author_list": [
+            {
+                "clean": "Worsley J",
+                "family": "Worsley",
+                "given": "Joanne D",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, Eleanor Rathbone Building, University of Liverpool, Liverpool L69 7ZA, UK. Electronic address: Joanne.Worsley@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C",
+                "affiliation": {
+                    "name": "Health Services Research, Waterhouse Building, University of Liverpool, Liverpool L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "Richard P",
+                "affiliation": {
+                    "name": "Department of Psychology, University of Sheffield, Sheffield, S1 2LT, UK."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Department of Psychological Sciences, Waterhouse Building, University of Liverpool, Liverpool L69 3GL, UK."
+                }
+            }
+        ],
+        "first_author": "Worsley J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Child Abuse",
+                    "major": "N"
+                },
+                {
+                    "term": "Cross-Sectional Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Depression",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Object Attachment",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Media",
+                    "major": "N"
+                },
+                {
+                    "term": "Surveys and Questionnaires",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Psychiatry Res",
+            "volume": "267",
+            "issue": ""
+        },
+        "abstract": "['Childhood maltreatment is associated with many maladaptive outcomes. This study sought to examine the association between childhood maltreatment and problematic social media use using a cross-sectional sample of young adults aged 17-25 years (n\\u202f=\\u202f1029). Specifically, we studied whether the relationship is mediated through (i) attachment anxiety, (ii) attachment avoidance, or (iii) both attachment dimensions operating in series with depressive symptoms. Results revealed that a history of childhood maltreatment was significantly associated with more problematic social media use. Both anxious and avoidant attachment dimensions independently mediated the relationship between childhood maltreatment and problematic use of social media, but in opposing directions. Avoidant attachment was associated with less problematic social media use, whilst anxious attachment was associated with more problematic social media use. Avoidant attachment and depressive symptoms in series accounted for part of the relationship between childhood maltreatment and problematic social media use. Anxious attachment and depressive symptoms in series fully mediated the relationship between childhood maltreatment and problematic social media use. The results suggest that childhood maltreatment may influence social media use directly, but also indirectly. People experiencing depressive symptoms may overuse social media in an attempt to alleviate their distress. However, causality cannot be established with the current design.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "18"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Psychological Sciences, Eleanor Rathbone Building, University of Liverpool, Liverpool L69 7ZA, UK. Electronic address: Joanne.Worsley@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

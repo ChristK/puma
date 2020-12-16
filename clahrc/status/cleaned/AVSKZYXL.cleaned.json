@@ -1,0 +1,636 @@
+{
+    "IDs": {
+        "zotero": "AVSKZYXL",
+        "DOI": "10.1097/ACI.0000000000000459",
+        "DOI_filename": "1a811bad4e0eebba13b9971c81bfe98d",
+        "PMID": "29889140",
+        "scopus": "2-s2.0-85050083919",
+        "hash": "864e805d2da954f9af5c11ea8cec7155"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "AVSKZYXL",
+            "version": 135,
+            "itemType": "journalArticle",
+            "title": "Genetic and nongenetic factors that may predispose individuals to allergic drug reactions:",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Gibson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Monday",
+                    "lastName": "Ogese"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Current Opinion in Allergy and Clinical Immunology",
+            "volume": "18",
+            "issue": "4",
+            "pages": "325-332",
+            "date": "08/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Current Opinion in Allergy and Clinical Immunology",
+            "language": "en",
+            "DOI": "10.1097/ACI.0000000000000459",
+            "ISSN": "1528-4050",
+            "shortTitle": "Genetic and nongenetic factors that may predispose individuals to allergic drug reactions",
+            "url": "http://journals.lww.com/00130832-201808000-00008",
+            "accessDate": "2020-09-10T17:10:25Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29889140",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:25Z",
+            "dateModified": "2020-09-11T15:06:07Z",
+            "pmid": "29889140"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        27
+                    ]
+                ],
+                "date-time": "2020-06-27T04:42:51Z",
+                "timestamp": 1593232971312
+            },
+            "reference-count": 102,
+            "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+            "issue": "4",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8
+                    ]
+                ]
+            },
+            "DOI": "10.1097/aci.0000000000000459",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        7
+                    ]
+                ],
+                "date-time": "2018-06-07T22:37:45Z",
+                "timestamp": 1528411065000
+            },
+            "page": "325-332",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Genetic and nongenetic factors that may predispose individuals to allergic drug reactions",
+            "prefix": "10.1097",
+            "volume": "18",
+            "author": [
+                {
+                    "given": "Andrew",
+                    "family": "Gibson",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Monday",
+                    "family": "Ogese",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "276",
+            "container-title": "Current Opinion in Allergy and Clinical Immunology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://journals.lww.com/co-allergy/Fulltext/10.1097/ACI.0000000000000459",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        27
+                    ]
+                ],
+                "date-time": "2020-06-27T04:08:16Z",
+                "timestamp": 1593230896000
+            },
+            "score": 1.0,
+            "subtitle": [
+                ""
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        8
+                    ]
+                ]
+            },
+            "references-count": 102,
+            "journal-issue": {
+                "issue": "4"
+            },
+            "URL": "http://dx.doi.org/10.1097/ACI.0000000000000459",
+            "relation": {},
+            "ISSN": [
+                "1528-4050"
+            ],
+            "subject": [
+                "Immunology",
+                "Immunology and Allergy"
+            ],
+            "container-title-short": "Current Opinion in Allergy and Clinical Immunology"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29889140",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "04",
+                    "Day": "05"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "04",
+                    "Day": "05"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1097/ACI.0000000000000459"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1473-6322",
+                        "JournalIssue": {
+                            "Volume": "18",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "08"
+                            }
+                        },
+                        "Title": "Current opinion in allergy and clinical immunology",
+                        "ISOAbbreviation": "Curr Opin Allergy Clin Immunol"
+                    },
+                    "ArticleTitle": "Genetic and nongenetic factors that may predispose individuals to allergic drug reactions.",
+                    "Pagination": {
+                        "MedlinePgn": "325-332"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Defining predisposition to allergic drug reactions has largely focussed on HLA associations, but other genetic and nongenetic factors are also likely to be involved.",
+                            "Polymorphic genetic variants in cytokine genes, including IL-10, and co-signalling pathways, including CTLA4, have been associated with allergic drug reactions, but the effect size is lower than with HLA alleles and most associations have not been replicated. Although TCR specificity seems to be important for CBZ-induced SJS/TEN in South East Asian patients, a distinct repertoire may not play a role in reactions to other drugs. New mass spectrometric techniques allowing for the identification of naturally eluted peptides from drug-exposed HLA alleles will allow for the antigenic source of T-cell activation to be defined and may shed light on the influence of disease. Indeed, preliminary data highlight the propensity of drug-responsive T cells to cross-react with T cells primed to viral antigens. Furthermore, the environment can epigenetically influence regulatory gene expression, suggesting that an individual's family exposure history may alter immune thresholds and tip the balance toward activation.",
+                            "It is likely that predisposition to allergic drug reactions is multifaceted in most cases. This will require the study of large numbers of patients to detect genetic factors that have a lower effect size than HLA alleles. This should be accompanied by detailed clinical phenotyping of patients and the assessment of the immunological phenotype with respect to the presence and type of drug antigen-responsive T cells."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gibson",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Pathology Sciences, Drug Safety and Metabolism, IMED Biotech Unit, AstraZeneca, Cambridge Science Park, Milton Road, Cambridge, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ogese",
+                            "ForeName": "Monday",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L006758/1",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Curr Opin Allergy Clin Immunol",
+                    "NlmUniqueID": "100936359",
+                    "ISSNLinking": "1473-6322"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "CTLA-4 Antigen"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "CTLA4 protein, human"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "HLA-B Antigens"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "IL10 protein, human"
+                    },
+                    {
+                        "RegistryNumber": "130068-27-8",
+                        "NameOfSubstance": "Interleukin-10"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Alleles",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "genetics",
+                            "immunology"
+                        ],
+                        "DescriptorName": "CTLA-4 Antigen",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "genetics",
+                            "immunology"
+                        ],
+                        "DescriptorName": "Drug Hypersensitivity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "genetics",
+                            "immunology"
+                        ],
+                        "DescriptorName": "Epigenesis, Genetic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "genetics",
+                            "immunology"
+                        ],
+                        "DescriptorName": "Gene Expression Regulation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Genetic Predisposition to Disease",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Genotype",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "immunology"
+                        ],
+                        "DescriptorName": "HLA-B Antigens",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "genetics",
+                            "immunology"
+                        ],
+                        "DescriptorName": "Interleukin-10",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Polymorphism, Single Nucleotide",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "immunology"
+                        ],
+                        "DescriptorName": "T-Lymphocytes",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "4",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "6",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29889140",
+                    "10.1097/ACI.0000000000000459"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29889140)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829889140%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829889140%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050083919"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050083919?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050083919&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050083919&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050083919",
+                        "dc:identifier": "SCOPUS_ID:85050083919",
+                        "eid": "2-s2.0-85050083919",
+                        "dc:title": "Genetic and nongenetic factors that may predispose individuals to allergic drug reactions",
+                        "dc:creator": "Gibson A.",
+                        "prism:publicationName": "Current Opinion in Allergy and Clinical Immunology",
+                        "prism:issn": "15284050",
+                        "prism:eIssn": "14736322",
+                        "prism:volume": "18",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "325-332",
+                        "prism:coverDate": "2018-08-01",
+                        "prism:coverDisplayDate": "1 August 2018",
+                        "prism:doi": "10.1097/ACI.0000000000000459",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29889140",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "20761",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "AVSKZYXL.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29889140"
+            }
+        },
+        "title": "Genetic and nongenetic factors that may predispose individuals to allergic drug reactions.",
+        "full_author_list": [
+            {
+                "clean": "Gibson A",
+                "family": "Gibson",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool."
+                }
+            },
+            {
+                "clean": "Ogese M",
+                "family": "Ogese",
+                "given": "Monday",
+                "affiliation": {
+                    "name": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool."
+                }
+            }
+        ],
+        "first_author": "Gibson A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Alleles",
+                    "major": "Y"
+                },
+                {
+                    "term": "CTLA-4 Antigen",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Hypersensitivity",
+                    "major": "N"
+                },
+                {
+                    "term": "Epigenesis, Genetic",
+                    "major": "N"
+                },
+                {
+                    "term": "Gene Expression Regulation",
+                    "major": "N"
+                },
+                {
+                    "term": "Genetic Predisposition to Disease",
+                    "major": "Y"
+                },
+                {
+                    "term": "Genotype",
+                    "major": "N"
+                },
+                {
+                    "term": "HLA-B Antigens",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Interleukin-10",
+                    "major": "N"
+                },
+                {
+                    "term": "Polymorphism, Single Nucleotide",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "T-Lymphocytes",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Curr Opin Allergy Clin Immunol",
+            "volume": "18",
+            "issue": "4"
+        },
+        "abstract": "['Defining predisposition to allergic drug reactions has largely focussed on HLA associations, but other genetic and nongenetic factors are also likely to be involved.', \"Polymorphic genetic variants in cytokine genes, including IL-10, and co-signalling pathways, including CTLA4, have been associated with allergic drug reactions, but the effect size is lower than with HLA alleles and most associations have not been replicated. Although TCR specificity seems to be important for CBZ-induced SJS/TEN in South East Asian patients, a distinct repertoire may not play a role in reactions to other drugs. New mass spectrometric techniques allowing for the identification of naturally eluted peptides from drug-exposed HLA alleles will allow for the antigenic source of T-cell activation to be defined and may shed light on the influence of disease. Indeed, preliminary data highlight the propensity of drug-responsive T cells to cross-react with T cells primed to viral antigens. Furthermore, the environment can epigenetically influence regulatory gene expression, suggesting that an individual's family exposure history may alter immune thresholds and tip the balance toward activation.\", 'It is likely that predisposition to allergic drug reactions is multifaceted in most cases. This will require the study of large numbers of patients to detect genetic factors that have a lower effect size than HLA alleles. This should be accompanied by detailed clinical phenotyping of patients and the assessment of the immunological phenotype with respect to the presence and type of drug antigen-responsive T cells.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Pharmacology, Medical Research Council Centre for Drug Safety Science, University of Liverpool, Liverpool.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

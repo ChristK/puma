@@ -1,0 +1,711 @@
+{
+    "IDs": {
+        "zotero": "IDG49A9H",
+        "DOI": "10.1016/j.puhe.2018.10.004",
+        "DOI_filename": "eb0ac4113f37fc72894a2dd61a28852b",
+        "PMID": "30481724",
+        "scopus": "2-s2.0-85057023400",
+        "hash": "535f19b3c8596e9e04b942770dd19d15"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "IDG49A9H",
+            "version": 154,
+            "itemType": "journalArticle",
+            "title": "What has Iran achieved in under-five mortality in terms of equity and efficiency in the past decades?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "M.A.",
+                    "lastName": "Rarani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Y.",
+                    "lastName": "Shadi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "V.",
+                    "lastName": "Rashedi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "E.K.",
+                    "lastName": "Morasae"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Public Health",
+            "volume": "166",
+            "issue": "",
+            "pages": "128-139",
+            "date": "01/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Public Health",
+            "language": "en",
+            "DOI": "10.1016/j.puhe.2018.10.004",
+            "ISSN": "00333506",
+            "shortTitle": "",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S003335061830324X",
+            "accessDate": "2020-09-10T17:09:21Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30481724",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:21Z",
+            "dateModified": "2020-09-15T12:58:35Z",
+            "pmid": "30481724"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        24
+                    ]
+                ],
+                "date-time": "2020-03-24T14:17:20Z",
+                "timestamp": 1585059440165
+            },
+            "reference-count": 49,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                1,
+                                1
+                            ]
+                        ],
+                        "date-time": "2019-01-01T00:00:00Z",
+                        "timestamp": 1546300800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.puhe.2018.10.004",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        24
+                    ]
+                ],
+                "date-time": "2018-11-24T17:11:26Z",
+                "timestamp": 1543079486000
+            },
+            "page": "128-139",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "What has Iran achieved in under-five mortality in terms of equity and efficiency in the past decades?",
+            "prefix": "10.1016",
+            "volume": "166",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4809-2237",
+                    "authenticated-orcid": false,
+                    "given": "M.A.",
+                    "family": "Rarani",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Y.",
+                    "family": "Shadi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "V.",
+                    "family": "Rashedi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "E.K.",
+                    "family": "Morasae",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S003335061830324X?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S003335061830324X?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        23
+                    ]
+                ],
+                "date-time": "2018-12-23T13:11:37Z",
+                "timestamp": 1545570697000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 49,
+            "alternative-id": [
+                "S003335061830324X"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.puhe.2018.10.004",
+            "relation": {},
+            "ISSN": [
+                "0033-3506"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "General Medicine"
+            ],
+            "container-title-short": "Public Health",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "What has Iran achieved in under-five mortality in terms of equity and efficiency in the past decades?",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Public Health",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.puhe.2018.10.004",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2018 The Royal Society for Public Health. Published by Elsevier Ltd. All rights reserved.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Achievement index",
+                        "Inequalities",
+                        "Iran",
+                        "Under-five mortality"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30481724",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "26"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S0033-3506(18)30324-X",
+                        "10.1016/j.puhe.2018.10.004"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "11",
+                            "Day": "24"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1476-5616",
+                        "JournalIssue": {
+                            "Volume": "166",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "Public health",
+                        "ISOAbbreviation": "Public Health"
+                    },
+                    "ArticleTitle": "What has Iran achieved in under-five mortality in terms of equity and efficiency in the past decades?",
+                    "Pagination": {
+                        "MedlinePgn": "128-139"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Iran has made remarkable progress in reducing child mortality over the past few decades. However, this promising profile is mainly average driven, and inequalities are not counted in judgments about the progress. In the present study, we used an achievement index approach to combine average and inequalities to provide a better picture of Iran's achievement in under-five mortality over the last two decades.",
+                            "The study had a cross-sectional design.",
+                            "Data gathered in the two recent national demographic health surveys (DHSs) in 2000 and 2010 were used to conduct the analyses. Accordingly, 45,646 live births covered by DHS 2000 and 10,604 live births covered by DHS 2010 were investigated. An achievement index was constructed by incorporating some extensions to the concentration index, namely by incorporation of the average into the index.",
+                            "The standard concentration index showed that under-five mortality was unequally distributed, hurting the poor, across all provinces and Iran overall in 2000 (concentration index\u00a0=\u00a0-0.1311 [standard error {SE}\u00a0=\u00a00.0139]) and 2010 (-0.1367 [SE\u00a0=\u00a00.0381]). The achievement index revealed that Iran has had achievements in under-five mortality (relative change in the mean has decreased from 29.5% to 25.8%), but the achievement was mostly due to reductions in the average mortality and not in its unequal distribution. The same result applied to a considerable number of provinces, and only a few have made achievements in both inequality and average.",
+                            "Considering the lack of progress in the reduction of inequalities in under-five mortality over the past decades, equity-oriented policies should be of prime importance for Iran's healthcare system."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018 The Royal Society for Public Health. Published by Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Management and Economics Research Centre, Isfahan University of Medical Sciences, Isfahan, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rarani",
+                            "ForeName": "M A",
+                            "Initials": "MA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Public Health, Zanjan University of Medical Sciences and Health Services, Zanjan, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shadi",
+                            "ForeName": "Y",
+                            "Initials": "Y"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Behavioural Sciences and Mental Health (Tehran Institute of Psychiatry), Iran University of Medical Sciences, Tehran, Iran; Iranian Research Centre on Aging, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rashedi",
+                            "ForeName": "V",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health and Society, Health Services Research Department, University of Liverpool, UK. Electronic address: E.Khedmati-Morasae@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Morasae",
+                            "ForeName": "E K",
+                            "Initials": "EK"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Netherlands",
+                    "MedlineTA": "Public Health",
+                    "NlmUniqueID": "0376507",
+                    "ISSNLinking": "0033-3506"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Achievement",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Child Mortality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child, Preschool",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cross-Sectional Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Equity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Surveys",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "trends"
+                        ],
+                        "DescriptorName": "Infant Mortality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant, Newborn",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Iran",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "04",
+                        "Day": "30"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "09",
+                        "Day": "26"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "03"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30481724",
+                    "S0033-3506(18)30324-X",
+                    "10.1016/j.puhe.2018.10.004"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30481724)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830481724%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830481724%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057023400"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057023400?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057023400&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057023400&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S003335061830324X"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057023400",
+                        "dc:identifier": "SCOPUS_ID:85057023400",
+                        "eid": "2-s2.0-85057023400",
+                        "dc:title": "What has Iran achieved in under-five mortality in terms of equity and efficiency in the past decades?",
+                        "dc:creator": "Rarani M.A.",
+                        "prism:publicationName": "Public Health",
+                        "prism:issn": "00333506",
+                        "prism:eIssn": "14765616",
+                        "prism:volume": "166",
+                        "prism:pageRange": "128-139",
+                        "prism:coverDate": "2019-01-01",
+                        "prism:coverDisplayDate": "January 2019",
+                        "prism:doi": "10.1016/j.puhe.2018.10.004",
+                        "pii": "S003335061830324X",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Health Management and Economics RC, Isfahan UMS",
+                                "affiliation-city": "Isfahan",
+                                "affiliation-country": "Iran"
+                            }
+                        ],
+                        "pubmed-id": "30481724",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "17697",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "IDG49A9H.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30481724"
+            }
+        },
+        "title": "What has Iran achieved in under-five mortality in terms of equity and efficiency in the past decades?",
+        "full_author_list": [
+            {
+                "clean": "Rarani M",
+                "family": "Rarani",
+                "given": "M A",
+                "affiliation": {
+                    "name": "Health Management and Economics Research Centre, Isfahan University of Medical Sciences, Isfahan, Iran."
+                }
+            },
+            {
+                "clean": "Shadi Y",
+                "family": "Shadi",
+                "given": "Y",
+                "affiliation": {
+                    "name": "School of Public Health, Zanjan University of Medical Sciences and Health Services, Zanjan, Iran."
+                }
+            },
+            {
+                "clean": "Rashedi V",
+                "family": "Rashedi",
+                "given": "V",
+                "affiliation": {
+                    "name": "School of Behavioural Sciences and Mental Health (Tehran Institute of Psychiatry), Iran University of Medical Sciences, Tehran, Iran; Iranian Research Centre on Aging, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+                }
+            },
+            {
+                "clean": "Morasae E",
+                "family": "Morasae",
+                "given": "E K",
+                "affiliation": {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), Institute of Psychology, Health and Society, Health Services Research Department, University of Liverpool, UK. Electronic address: E.Khedmati-Morasae@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Rarani M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Achievement",
+                    "major": "N"
+                },
+                {
+                    "term": "Child Mortality",
+                    "major": "N"
+                },
+                {
+                    "term": "Child, Preschool",
+                    "major": "N"
+                },
+                {
+                    "term": "Cross-Sectional Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Equity",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Surveys",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant Mortality",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant, Newborn",
+                    "major": "N"
+                },
+                {
+                    "term": "Iran",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Public Health",
+            "volume": "166",
+            "issue": ""
+        },
+        "abstract": "[\"Iran has made remarkable progress in reducing child mortality over the past few decades. However, this promising profile is mainly average driven, and inequalities are not counted in judgments about the progress. In the present study, we used an achievement index approach to combine average and inequalities to provide a better picture of Iran's achievement in under-five mortality over the last two decades.\", 'The study had a cross-sectional design.', 'Data gathered in the two recent national demographic health surveys (DHSs) in 2000 and 2010 were used to conduct the analyses. Accordingly, 45,646 live births covered by DHS 2000 and 10,604 live births covered by DHS 2010 were investigated. An achievement index was constructed by incorporating some extensions to the concentration index, namely by incorporation of the average into the index.', 'The standard concentration index showed that under-five mortality was unequally distributed, hurting the poor, across all provinces and Iran overall in 2000 (concentration index\\xa0=\\xa0-0.1311 [standard error {SE}\\xa0=\\xa00.0139]) and 2010 (-0.1367 [SE\\xa0=\\xa00.0381]). The achievement index revealed that Iran has had achievements in under-five mortality (relative change in the mean has decreased from 29.5% to 25.8%), but the achievement was mostly due to reductions in the average mortality and not in its unequal distribution. The same result applied to a considerable number of provinces, and only a few have made achievements in both inequality and average.', \"Considering the lack of progress in the reduction of inequalities in under-five mortality over the past decades, equity-oriented policies should be of prime importance for Iran's healthcare system.\"]",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Health Management and Economics Research Centre, Isfahan University of Medical Sciences, Isfahan, Iran.",
+            "clean_institute": "Isfahan University of Medical Sciences",
+            "latitude": "32.614111",
+            "longitude": "51.66175",
+            "country": "Iran",
+            "postal_town": "Isfahan"
+        }
+    }
+}

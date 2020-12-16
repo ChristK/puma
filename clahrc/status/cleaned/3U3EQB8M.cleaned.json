@@ -1,0 +1,1446 @@
+{
+    "IDs": {
+        "zotero": "3U3EQB8M",
+        "DOI": "10.1002/14651858.CD011772.pub2",
+        "DOI_filename": "74562b2b46435978fc9fcb69fc018f0a",
+        "PMID": "29691835",
+        "scopus": "2-s2.0-85045893949",
+        "hash": "8069e24f3e7567f515f184f49bf4997b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "3U3EQB8M",
+            "version": 113,
+            "itemType": "journalArticle",
+            "title": "Rufinamide add-on therapy for refractory epilepsy",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mariangela",
+                    "lastName": "Panebianco"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hemanshu",
+                    "lastName": "Prabhakar"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2018-04-25",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD011772.pub2",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD011772.pub2",
+            "accessDate": "2020-09-10T17:09:57Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29691835",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:57Z",
+            "dateModified": "2020-09-11T13:19:09Z",
+            "pmid": "29691835"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        5
+                    ]
+                ],
+                "date-time": "2020-06-05T20:23:51Z",
+                "timestamp": 1591388631991
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2018,
+                                4,
+                                25
+                            ]
+                        ],
+                        "date-time": "2018-04-25T00:00:00Z",
+                        "timestamp": 1524614400000
+                    },
+                    "DOI": "10.1002/14651858.cd011772",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 65,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd011772.pub2",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        25
+                    ]
+                ],
+                "date-time": "2018-04-25T05:21:43Z",
+                "timestamp": 1524633703000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Rufinamide add-on therapy for refractory epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Mariangela",
+                    "family": "Panebianco",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Hemanshu",
+                    "family": "Prabhakar",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "All India Institute of Medical Sciences; Department of Neuroanaesthesiology and Critical Care; Ansari Nagar New Delhi India 110029"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Liverpool UK L9 7LJ"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        25
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0001|cit1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "234",
+                    "DOI": "10.1111/j.1528-1167.2010.02729.x",
+                    "article-title": "A randomized, double-blind, placebo-controlled, parallel-group study of rufinamide as adjunctive therapy for refractory partial-onset seizures",
+                    "volume": "52",
+                    "author": "Biton",
+                    "year": "2011",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0002|cit2",
+                    "unstructured": "NCT00334958 Rufinamide Given as Adjunctive Therapy in Patients With Refractory Partial Seizures https://ClinicalTrials.gov/show/NCT00334958 2006"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1153",
+                    "DOI": "10.1111/j.1528-1167.2006.00589.x",
+                    "article-title": "The effect of the new antiepileptic drug rufinamide on cognitive functions",
+                    "volume": "47",
+                    "author": "Aldenkamp",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0004|cit4",
+                    "first-page": "171, Abstract n",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy in adult patients with inadequately controlled partial seizures",
+                    "volume": "46 Suppl 8",
+                    "author": "Brodie",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0005|cit5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1899",
+                    "DOI": "10.1111/j.1528-1167.2009.02160.x",
+                    "article-title": "Rufinamide for the adjunctive treatment of partial seizures in adults and adolescents: a randomized placebo-controlled trial",
+                    "volume": "50",
+                    "author": "Brodie",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0006|cit6",
+                    "first-page": "140, Abstract n",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy in adult patients with inadequately controlled partial seizures",
+                    "volume": "47 Suppl 3",
+                    "author": "Rosenfeld",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0007|cit7",
+                    "first-page": "255, Abstract n",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy in adult patients with therapy-resistant partial-onset seizures",
+                    "volume": "41 Suppl 7",
+                    "author": "Vazquez",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0008|cit8",
+                    "first-page": "83-4, Abstract",
+                    "article-title": "Dose-range relationships of rufinamide in patients with inadequately controlled partial seizures",
+                    "volume": "46 Suppl 8",
+                    "author": "Elger",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0009|cit9",
+                    "first-page": "140, Abstract n",
+                    "article-title": "Dose-range relationships of rufinamide in patients with inadequately controlled partial seizures",
+                    "volume": "47 Suppl 3",
+                    "author": "Elger",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2-3",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0010|cit10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "255",
+                    "DOI": "10.1016/j.eplepsyres.2009.12.003",
+                    "article-title": "A 24-week multicenter, randomized, double-blind, parallel-group, dose ranging study of rufinamide in adults and adolescents with inadequately controlled partial seizures",
+                    "volume": "88",
+                    "author": "Elger",
+                    "year": "2010",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0011|cit11",
+                    "first-page": "39",
+                    "article-title": "A multicenter double-blind randomized placebo-controlled 5-arm, parallel-group trial of rufinamide in patients with therapy-resistant partial seizures",
+                    "volume": "41 Suppl Floren",
+                    "author": "Stefan",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0012|cit12",
+                    "first-page": "194",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy for inadequately controlled partial seizures in pediatric patients",
+                    "volume": "46 Suppl 8",
+                    "author": "Glauser",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0013|cit13",
+                    "first-page": "156, Abstract n",
+                    "article-title": "Effects of rufinamide on the frequency of different seizure types in patients with Lennox-Gastaut syndrome: a long-term study",
+                    "volume": "48 Suppl 7",
+                    "author": "Glauser",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "21",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0014|cit14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1950",
+                    "DOI": "10.1212/01.wnl.0000303813.95800.0d",
+                    "article-title": "Rufinamide for generalized seizures associated with Lennox-Gastaut Syndrome",
+                    "volume": "70",
+                    "author": "Glauser",
+                    "year": "2008",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0015|cit15",
+                    "first-page": "S92, Abstract n",
+                    "article-title": "Short-term and long-term efficacy and safety of rufinamide as adjunctive therapy in patients with inadequately controlled Lennox-Gastaut syndrome",
+                    "volume": "58 Suppl 9",
+                    "author": "Glauser",
+                    "year": "2005",
+                    "journal-title": "Annals of neurology"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1826, Abstract",
+                    "DOI": "10.1212/WNL.64.10.1826",
+                    "article-title": "Efficacy and safety of rufinamide adjunctive therapy in patients with Lennox-Gastaut syndrome (LGS): a multicenter, randomized, double-blind, placebo-controlled, parallel trial",
+                    "volume": "64",
+                    "author": "Glauser",
+                    "year": "2005",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0017|cit17",
+                    "first-page": "261, Abstract n",
+                    "article-title": "Early and sustained response to rufinamide as adjunctive therapy for seizures associated with Lennox-Gastaut syndrome",
+                    "volume": "50 Suppl 11",
+                    "author": "Glauser",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0018|cit18",
+                    "first-page": "139, Abstract n",
+                    "article-title": "Short-term and long-term efficacy and safety of rufinamide as adjunctive therapy in patients with inadequately controlled Lennox-Gastaut syndrome",
+                    "volume": "47 Suppl 3",
+                    "author": "Kluger",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0019|cit19",
+                    "first-page": "359, Abstract n",
+                    "article-title": "Long-term safety of rufinamide in patients with Lennox-Gastaut syndrome",
+                    "volume": "48 Suppl 6",
+                    "author": "Krauss",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "35",
+                    "DOI": "10.1007/s40120-016-0041-9",
+                    "article-title": "Treatment of Adults with Lennox-Gastaut Syndrome: Further Analysis of Efficacy and Safety/Tolerability of Rufinamide",
+                    "volume": "5",
+                    "author": "McMurray",
+                    "year": "2016",
+                    "journal-title": "Neurology & Therapy"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0021|cit21",
+                    "unstructured": "NCT01146951 A Placebo-Controlled, Double-Blind Comparative Study of E2080 in Lennox-Gastaut Syndrome Patients (Study E2080-J081-304) https://ClinicalTrials.gov/show/NCT01146951 2010"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2016.01.002",
+                    "article-title": "Long-term safety and seizure outcome in Japanese patients with Lennox-Gastaut syndrome receiving adjunctive rufinamide therapy: An open-label study following a randomized clinical trial",
+                    "volume": "121",
+                    "author": "Ohtsuka",
+                    "year": "2016",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0023|cit23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1627",
+                    "DOI": "10.1016/j.eplepsyres.2014.08.019",
+                    "article-title": "Rufinamide as an adjunctive therapy for Lennox-Gastaut syndrome: a randomized double-blind placebo-controlled trial in Japan",
+                    "volume": "108",
+                    "author": "Ohtsuka",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "185",
+                    "DOI": "10.2165/11313640-000000000-00000",
+                    "article-title": "The cost effectiveness of rufinamide in the treatment of Lennox-Gastaut syndrome in the UK",
+                    "volume": "28",
+                    "author": "Benedict",
+                    "year": "2010",
+                    "journal-title": "Pharmacoeconomics"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0025|cit25",
+                    "first-page": "206",
+                    "article-title": "Efficacy and safety of adjunctive rufinamide in patients with inadequately controlled primary generalized tonic-clonic seizures",
+                    "volume": "46",
+                    "author": "Biton",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0026|cit26",
+                    "first-page": "209",
+                    "article-title": "Pharmacokinetic and pharmacodynamic parameters of adjunctive rufinamide in patients with Lennox-Gastaut syndrome",
+                    "volume": "46 Suppl 8",
+                    "author": "Critchley",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "288",
+                    "DOI": "10.1016/j.seizure.2012.02.006",
+                    "article-title": "Rufinamide as an adjuvant treatment in children with Lennox-Gastaut syndrome",
+                    "volume": "21",
+                    "author": "Kim",
+                    "year": "2012",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.2147/nedt.2007.3.1.3",
+                    "article-title": "Role of rufinamide in the management of Lennox-Gastaut syndrome (childhood epileptic encephalopathy)",
+                    "volume": "3",
+                    "author": "Kluger",
+                    "year": "2007",
+                    "journal-title": "Neuropsychiatric Disease & Treatment"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1834",
+                    "DOI": "10.1111/epi.13557",
+                    "article-title": "Response to second treatment after initial failed treatment in a multicenter prospective infantile spasms cohort",
+                    "volume": "57",
+                    "author": "Knupp",
+                    "year": "2016",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0030|cit30",
+                    "first-page": "177",
+                    "article-title": "Efficacy and safety of rufinamide monotherapy for treatment of patients with refractory partial seizures",
+                    "volume": "46 Suppl 8",
+                    "author": "Lesser",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0031|cit31",
+                    "first-page": "278",
+                    "article-title": "Efficacy of rufinamide in epileptic encephalopathies secondary to complex brain malformations",
+                    "volume": "145",
+                    "author": "Madeddu",
+                    "year": "2013",
+                    "journal-title": "Bollettino - Lega Italiana Contro l'Epilessia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "115",
+                    "DOI": "10.1016/S0920-1211(00)00185-6",
+                    "article-title": "Rufinamide: a double-blind, placebo-controlled proof of principle trial in patients with epilepsy",
+                    "volume": "43",
+                    "author": "Palhagen",
+                    "year": "2001",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0033|cit33",
+                    "first-page": "149",
+                    "article-title": "Population pharmacokinetics and drug-drug interactions of rufinamide in a multicenter, double-blind, randomized, placebo-controlled, 5-arm parallel trial in patients with partial seizures on up to three concomitant antiepileptic drugs",
+                    "volume": "41 Suppl",
+                    "author": "Racine",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0034|cit34",
+                    "first-page": "218",
+                    "article-title": "Efficacy and safety of high-versus low-dose rufinamide monotherapy in patients with inadequately controlled partial seizures",
+                    "volume": "46 Suppl 8",
+                    "author": "Todorov",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "541",
+                    "DOI": "10.1007/s13318-015-0291-4",
+                    "article-title": "Pharmacokinetics and tolerability of rufinamide following single and multiple oral doses and effect of food on pharmacokinetics in healthy Chinese subjects",
+                    "volume": "41",
+                    "author": "Xu",
+                    "year": "2016",
+                    "journal-title": "European Journal of Drug Metabolism and Pharmacokinetics"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "393",
+                    "DOI": "10.1016/j.ejpn.2015.12.015",
+                    "article-title": "Safety and pharmacokinetic profile of rufinamide in pediatric patients aged less than 4 years with Lennox-Gastaut syndrome: an interim analysis from a multicenter, randomized, active-controlled, open-label study",
+                    "volume": "20",
+                    "author": "Arzimanoglou",
+                    "year": "2016",
+                    "journal-title": "European Journal of Paediatric Neurology: EJPN"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1153",
+                    "DOI": "10.1111/j.1528-1167.2006.00589.x",
+                    "article-title": "The effect of the new antiepileptic drug rufinamide on cognitive functions",
+                    "volume": "47",
+                    "author": "Aldenkamp",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0038|cit38",
+                    "first-page": "171",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy in adult patients with inadequately controlled partial seizures",
+                    "volume": "46 Suppl 8",
+                    "author": "Brodie",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "399",
+                    "DOI": "10.2147/NDT.S13910",
+                    "article-title": "Update on rufinamide in childhood epilepsy",
+                    "volume": "7",
+                    "author": "Coppola",
+                    "year": "2011",
+                    "journal-title": "Neuropsychiatric Disease and Treatment"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0040|cit40",
+                    "first-page": "83",
+                    "article-title": "Dose-range relationships of rufinamide in patients with inadequately controlled partial seizures",
+                    "volume": "46 Suppl 8",
+                    "author": "Elger",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0041|cit41",
+                    "first-page": "140",
+                    "article-title": "Dose-range relationships of rufinamide in patients with inadequately controlled partial seizures",
+                    "volume": "47 Suppl 3",
+                    "author": "Elger",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0042|cit42",
+                    "first-page": "156",
+                    "article-title": "Effects of rufinamide on the frequency of different seizure types in patients with Lennox-Gastaut syndrome: a long-term study",
+                    "volume": "48 Suppl 7",
+                    "author": "Glauser",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0043|cit43",
+                    "first-page": "261",
+                    "article-title": "Early and sustained response to rufinamide as adjunctive therapy for seizures associated with Lennox-Gastaut syndrome",
+                    "volume": "50 Suppl 11",
+                    "author": "Glauser",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0044|cit44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1791",
+                    "DOI": "10.1586/ern.09.114",
+                    "article-title": "Management of the patient with medically refractory epilepsy",
+                    "volume": "9",
+                    "author": "Granata",
+                    "year": "2009",
+                    "journal-title": "Expert Review of Neurotherapeutics"
+                },
+                {
+                    "issue": "7650",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "924",
+                    "DOI": "10.1136/bmj.39489.470347.AD",
+                    "article-title": "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+                    "volume": "336",
+                    "author": "Guyatt",
+                    "year": "2008",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0046|cit46",
+                    "unstructured": "Higgins JPT Green S editor(s) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0047|cit47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "189",
+                    "DOI": "10.1177/1756285613481083",
+                    "article-title": "Efficacy and safety of rufinamide in pediatric epilepsy",
+                    "volume": "6",
+                    "author": "Hsieh",
+                    "year": "2013",
+                    "journal-title": "Therapeutic Advances in Neurological Disorders"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0048|cit48",
+                    "first-page": "592",
+                    "article-title": "Guidelines for epidemiologic studies on epilepsy",
+                    "volume": "34",
+                    "author": "ILAE Commission on Epidemiology and Prognosis",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0050|cit50",
+                    "first-page": "139",
+                    "article-title": "Short-term and long-term efficacy and safety of rufinamide as adjunctive therapy in patients with inadequately controlled Lennox-Gastaut syndrome",
+                    "volume": "47 Suppl 3",
+                    "author": "Kluger",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0051|cit51",
+                    "first-page": "359",
+                    "article-title": "Long-term safety of rufinamide in patients with Lennox-Gastaut syndrome",
+                    "volume": "48 Suppl 6",
+                    "author": "Krauss",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0052|cit52",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "35",
+                    "DOI": "10.1007/s40120-016-0041-9",
+                    "article-title": "Treatment of adults with Lennox-Gastaut syndrome: further analysis of efficacy and safety/tolerability of rufinamide",
+                    "volume": "5",
+                    "author": "McMurray",
+                    "year": "2016",
+                    "journal-title": "Neurology and Therapy"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0054|cit54",
+                    "unstructured": "Bibbiani F Rufinamide given as adjunctive therapy in patients with refractory partial seizures clinicaltrials.gov/show/NCT00334958"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0055|cit55",
+                    "unstructured": "Takano H A placebo-controlled, double-blind comparative study of E2080 in Lennox-Gastaut syndrome patients clinicaltrials.gov/show/NCT01146951"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.eplepsyres.2016.01.002",
+                    "article-title": "Long-term safety and seizure outcome in Japanese patients with Lennox-Gastaut syndrome receiving adjunctive rufinamide therapy: an open-label study following a randomized clinical trial",
+                    "volume": "121",
+                    "author": "Ohtsuka",
+                    "year": "2016",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0057|cit57",
+                    "author": "Panebianco",
+                    "issue": "4",
+                    "year": "2015",
+                    "article-title": "Vagus nerve stimulation for partial seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002896.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0058|cit58",
+                    "first-page": "140",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy in adult patients with inadequately controlled partial seizures",
+                    "volume": "47 Suppl 3",
+                    "author": "Rosenfeld",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0059|cit59",
+                    "first-page": "39",
+                    "article-title": "A multicenter double-blind randomized placebo-controlled 5-arms, parallel-group trial of rufinamide in patients with therapy-resistant partial seizures",
+                    "volume": "41",
+                    "author": "Stefan",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0060|cit60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1119",
+                    "DOI": "10.1016/S0895-4356(00)00242-0",
+                    "article-title": "Publication and related bias in meta-analysis: power of statistical tests and prevalence in literature",
+                    "volume": "53",
+                    "author": "Sterne",
+                    "year": "2000",
+                    "journal-title": "Journal of Clinical Epidemiology"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0061|cit61",
+                    "first-page": "211",
+                    "article-title": "Rufinamide as adjunctive treatment for adults with Lennox-Gastaut syndrome: subgroup analysis from a phase III trial",
+                    "volume": "56",
+                    "author": "Striano",
+                    "year": "2015",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0062|cit62",
+                    "first-page": "255",
+                    "article-title": "Efficacy and safety of rufinamide as adjunctive therapy in adult patients with therapy-resistant partial-onset seizures",
+                    "volume": "41",
+                    "author": "Vazquez",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0063|cit63",
+                    "first-page": "1158",
+                    "article-title": "Safety and tolerability of rufinamide in children with epilepsy: a pooled analysis of seven clinical trials",
+                    "volume": "50",
+                    "author": "Wheless",
+                    "year": "2009",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0064|cit64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1111/j.1535-7511.2009.01336.x",
+                    "article-title": "Rufinamide: a novel broad-spectrum antiepileptic drug",
+                    "volume": "10",
+                    "author": "Wheless",
+                    "year": "2010",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "key": "10.1002/14651858.CD011772.pub2-BIB0065|cit65",
+                    "author": "Panebianco",
+                    "issue": "6",
+                    "year": "2015",
+                    "article-title": "Rufinamide add-on therapy for refractory epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011772",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD011772.pub2",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        7
+                    ]
+                ],
+                "date-time": "2018-08-07T02:21:27Z",
+                "timestamp": 1533608487000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        25
+                    ]
+                ]
+            },
+            "references-count": 65,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD011772.pub2",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29691835",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "05",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "04",
+                    "Day": "16"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD011772.pub2"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "04",
+                            "Day": "25"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "4",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "04",
+                                "Day": "25"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Rufinamide add-on therapy for refractory epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD011772"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Epilepsy is a central nervous system disorder (neurological disorder). Epileptic seizures are the result of excessive and abnormal cortical nerve cell electrical activity in the brain. Despite the development of more than 10 new antiepileptic drugs (AEDs) since the early 2000s, approximately a third of people with epilepsy remain resistant to pharmacotherapy, often requiring treatment with a combination of AEDs. In this review, we summarised the current evidence regarding rufinamide, a novel anticonvulsant medication, which, as a triazole derivative, is structurally unrelated to any other currently used anticonvulsant medication, when used as an add-on treatment for refractory epilepsy. In January 2009, rufinamide was approved by the US Food and Drug Administration for treatment of children four years of age and older with Lennox-Gastaut syndrome. It is also approved as an add-on treatment for adults and adolescents with focal seizures.",
+                            "To evaluate the efficacy and tolerability of rufinamide when used as an add-on treatment in people with refractory epilepsy.",
+                            "On 2 October 2017, we searched the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO), MEDLINE (Ovid, 1946), ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We also contacted the manufacturers of rufinamide and authors in the field to identify any relevant unpublished studies.",
+                            "Randomised, double-blind, placebo-controlled, add-on trials of rufinamide, recruiting people (of any age or gender) with refractory epilepsy.",
+                            "Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: 50% or greater reduction in seizure frequency (primary outcomes); seizure freedom; treatment withdrawal; and adverse effects (secondary outcomes). Primary analyses were intention-to-treat (ITT) and we presented summary risk ratios (RR) with 95% confidence intervals (CI). We evaluated dose response in regression models. We carried out a risk of bias assessment for each included study using the Cochrane 'Risk of bias' tool and assessed the overall quality of evidence using the GRADE approach, which we presented in a 'Summary of findings' table.",
+                            "The review included six trials, representing 1759 participants. Four trials (1563 participants) included people with uncontrolled focal seizures. Two trials (196 participants) included established Lennox-Gastaut syndrome. Overall, the age of the adults ranged from 18 to 80 years and the age of the infants ranged from four to 16 years. Baseline phase ranged from 28 to 56 days and double-blind phases from 84 to 96 days. Five of the six included trials described adequate methods of concealment of randomisation and only three described adequate blinding. All analyses were by ITT. Overall, five studies were at low risk of bias, and one had unclear risk of bias due to lack of reported information around study design. All trials were sponsored by the manufacturer of rufinamide, and therefore, were at high risk of funding bias.The overall RR for 50% or greater reduction in seizure frequency was 1.79 (95% CI 1.44 to 2.22; 6 RCTs; moderate-quality evidence) indicating that rufinamide (plus conventional AED) was significantly more effective than placebo (plus conventional AED) in reducing seizure frequency by at least 50%, when added to conventionally used AEDs in people with refractory focal epilepsy. The overall RR for treatment withdrawal (for any reason and due to AED) was 1.83 (95% CI 1.45 to 2.31; 6 RCTs; moderate-quality evidence) showing that rufinamide was significantly more likely to be withdrawn than placebo. In respect of adverse effects, most were significantly more likely to occur in the rufinamide-treated group. The adverse events significantly associated with rufinamide were: headache, dizziness, somnolence, vomiting, nausea, fatigue and diplopia. The RRs of these adverse effects were: headache 1.36 (95% Cl 1.08 to 1.69; 3 RCTs; high-quality evidence); dizziness 2.52 (95% Cl 1.90 to 3.34; 3 RCTs; moderate-quality evidence); somnolence 1.94 (95% Cl 1.44 to 2.61; 6 RCTs; moderate-quality evidence); vomiting 2.95 (95% Cl 1.80 to 4.82; 4 RCTs; low-quality evidence); nausea 1.87 (95% Cl 1.33 to 2.64; 3 RCTs; moderate-quality evidence); fatigue 1.46 (95% Cl 1.08 to 1.97; 3 RCTs; moderate-quality evidence); and diplopia 4.60 (95% Cl 2.53 to 8.38; 3 RCTs; low-quality evidence). There was no important heterogeneity between studies for any of the outcomes. Overall, we assessed the evidence as moderate to low quality, due to potential risk of bias from some studies contributing to the analysis and wide CIs.",
+                            "In people with drug-resistant focal epilepsy, rufinamide when used as an add-on treatment was effective in reducing seizure frequency. However, the trials reviewed were of relatively short duration and provided no evidence for the long-term use of rufinamide. In the short term, rufinamide as an add-on was associated with several adverse events. This review focused on the use of rufinamide in drug-resistant focal epilepsy and the results cannot be generalised to add-on treatment for generalised epilepsies. Likewise, no inference can be made about the effects of rufinamide when used as monotherapy."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Panebianco",
+                            "ForeName": "Mariangela",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Prabhakar",
+                            "ForeName": "Hemanshu",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Triazoles"
+                    },
+                    {
+                        "RegistryNumber": "WFW942PR79",
+                        "NameOfSubstance": "rufinamide"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child, Preschool",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Drug Resistant Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Drug Therapy, Combination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Triazoles",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Clin Epidemiol. 2000 Nov;53(11):1119-29",
+                                "ArticleIdList": [
+                                    "11106885"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2001 Feb;43(2):115-24",
+                                "ArticleIdList": [
+                                    "11164700"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2006 Jul;47(7):1153-9",
+                                "ArticleIdList": [
+                                    "16886978"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2008 May 20;70(21):1950-8",
+                                "ArticleIdList": [
+                                    "18401024"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Apr 26;336(7650):924-6",
+                                "ArticleIdList": [
+                                    "18436948"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuropsychiatr Dis Treat. 2007 Feb;3(1):3-11",
+                                "ArticleIdList": [
+                                    "19300535"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2009 Aug;50(8):1899-909",
+                                "ArticleIdList": [
+                                    "19490053"
+                                ]
+                            },
+                            {
+                                "Citation": "Expert Rev Neurother. 2009 Dec;9(12):1791-802",
+                                "ArticleIdList": [
+                                    "19951138"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Neurol. 2009 Dec;24(12):1520-5",
+                                "ArticleIdList": [
+                                    "19955344"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2010 Feb;88(2-3):255-63",
+                                "ArticleIdList": [
+                                    "20061123"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Curr. 2010 Jan;10(1):1-6",
+                                "ArticleIdList": [
+                                    "20126329"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacoeconomics. 2010;28(3):185-99",
+                                "ArticleIdList": [
+                                    "20151724"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2011 Feb;52(2):234-42",
+                                "ArticleIdList": [
+                                    "20887365"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuropsychiatr Dis Treat. 2011;7:399-407",
+                                "ArticleIdList": [
+                                    "21792306"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2012 May;21(4):288-91",
+                                "ArticleIdList": [
+                                    "22421185"
+                                ]
+                            },
+                            {
+                                "Citation": "Ther Adv Neurol Disord. 2013 May;6(3):189-98",
+                                "ArticleIdList": [
+                                    "23634191"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2014 Nov;108(9):1627-36",
+                                "ArticleIdList": [
+                                    "25219353"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Apr 03;(4):CD002896",
+                                "ArticleIdList": [
+                                    "25835947"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Drug Metab Pharmacokinet. 2016 Oct;41(5):541-8",
+                                "ArticleIdList": [
+                                    "26294172"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Paediatr Neurol. 2016 May;20(3):393-402",
+                                "ArticleIdList": [
+                                    "26805435"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2016 Mar;121:1-7",
+                                "ArticleIdList": [
+                                    "26827266"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Ther. 2016 Jun;5(1):35-43",
+                                "ArticleIdList": [
+                                    "26861566"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2016 Nov;57(11):1834-1842",
+                                "ArticleIdList": [
+                                    "27615012"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 Jul-Aug;34(4):592-6",
+                                "ArticleIdList": [
+                                    "8330566"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "4",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "5",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "4",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29691835",
+                    "10.1002/14651858.CD011772.pub2",
+                    "PMC6494418"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1002/14651858.CD011772.pub2)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD011772.pub2%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD011772.pub2%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045893949"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045893949?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045893949&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045893949&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045893949",
+                        "dc:identifier": "SCOPUS_ID:85045893949",
+                        "eid": "2-s2.0-85045893949",
+                        "dc:title": "Rufinamide add-on therapy for refractory epilepsy",
+                        "dc:creator": "Panebianco M.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2018",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-04-25",
+                        "prism:coverDisplayDate": "25 April 2018",
+                        "prism:doi": "10.1002/14651858.CD011772.pub2",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29691835",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD011772",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "3U3EQB8M.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29691835"
+            }
+        },
+        "title": "Rufinamide add-on therapy for refractory epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Panebianco M",
+                "family": "Panebianco",
+                "given": "Mariangela",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Prabhakar H",
+                "family": "Prabhakar",
+                "given": "Hemanshu",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Panebianco M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Child, Preschool",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Resistant Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Therapy, Combination",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Triazoles",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "4",
+            "issue": ""
+        },
+        "abstract": "['Epilepsy is a central nervous system disorder (neurological disorder). Epileptic seizures are the result of excessive and abnormal cortical nerve cell electrical activity in the brain. Despite the development of more than 10 new antiepileptic drugs (AEDs) since the early 2000s, approximately a third of people with epilepsy remain resistant to pharmacotherapy, often requiring treatment with a combination of AEDs. In this review, we summarised the current evidence regarding rufinamide, a novel anticonvulsant medication, which, as a triazole derivative, is structurally unrelated to any other currently used anticonvulsant medication, when used as an add-on treatment for refractory epilepsy. In January 2009, rufinamide was approved by the US Food and Drug Administration for treatment of children four years of age and older with Lennox-Gastaut syndrome. It is also approved as an add-on treatment for adults and adolescents with focal seizures.', 'To evaluate the efficacy and tolerability of rufinamide when used as an add-on treatment in people with refractory epilepsy.', 'On 2 October 2017, we searched the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO), MEDLINE (Ovid, 1946), ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We also contacted the manufacturers of rufinamide and authors in the field to identify any relevant unpublished studies.', 'Randomised, double-blind, placebo-controlled, add-on trials of rufinamide, recruiting people (of any age or gender) with refractory epilepsy.', \"Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: 50% or greater reduction in seizure frequency (primary outcomes); seizure freedom; treatment withdrawal; and adverse effects (secondary outcomes). Primary analyses were intention-to-treat (ITT) and we presented summary risk ratios (RR) with 95% confidence intervals (CI). We evaluated dose response in regression models. We carried out a risk of bias assessment for each included study using the Cochrane 'Risk of bias' tool and assessed the overall quality of evidence using the GRADE approach, which we presented in a 'Summary of findings' table.\", 'The review included six trials, representing 1759 participants. Four trials (1563 participants) included people with uncontrolled focal seizures. Two trials (196 participants) included established Lennox-Gastaut syndrome. Overall, the age of the adults ranged from 18 to 80 years and the age of the infants ranged from four to 16 years. Baseline phase ranged from 28 to 56 days and double-blind phases from 84 to 96 days. Five of the six included trials described adequate methods of concealment of randomisation and only three described adequate blinding. All analyses were by ITT. Overall, five studies were at low risk of bias, and one had unclear risk of bias due to lack of reported information around study design. All trials were sponsored by the manufacturer of rufinamide, and therefore, were at high risk of funding bias.The overall RR for 50% or greater reduction in seizure frequency was 1.79 (95% CI 1.44 to 2.22; 6 RCTs; moderate-quality evidence) indicating that rufinamide (plus conventional AED) was significantly more effective than placebo (plus conventional AED) in reducing seizure frequency by at least 50%, when added to conventionally used AEDs in people with refractory focal epilepsy. The overall RR for treatment withdrawal (for any reason and due to AED) was 1.83 (95% CI 1.45 to 2.31; 6 RCTs; moderate-quality evidence) showing that rufinamide was significantly more likely to be withdrawn than placebo. In respect of adverse effects, most were significantly more likely to occur in the rufinamide-treated group. The adverse events significantly associated with rufinamide were: headache, dizziness, somnolence, vomiting, nausea, fatigue and diplopia. The RRs of these adverse effects were: headache 1.36 (95% Cl 1.08 to 1.69; 3 RCTs; high-quality evidence); dizziness 2.52 (95% Cl 1.90 to 3.34; 3 RCTs; moderate-quality evidence); somnolence 1.94 (95% Cl 1.44 to 2.61; 6 RCTs; moderate-quality evidence); vomiting 2.95 (95% Cl 1.80 to 4.82; 4 RCTs; low-quality evidence); nausea 1.87 (95% Cl 1.33 to 2.64; 3 RCTs; moderate-quality evidence); fatigue 1.46 (95% Cl 1.08 to 1.97; 3 RCTs; moderate-quality evidence); and diplopia 4.60 (95% Cl 2.53 to 8.38; 3 RCTs; low-quality evidence). There was no important heterogeneity between studies for any of the outcomes. Overall, we assessed the evidence as moderate to low quality, due to potential risk of bias from some studies contributing to the analysis and wide CIs.', 'In people with drug-resistant focal epilepsy, rufinamide when used as an add-on treatment was effective in reducing seizure frequency. However, the trials reviewed were of relatively short duration and provided no evidence for the long-term use of rufinamide. In the short term, rufinamide as an add-on was associated with several adverse events. This review focused on the use of rufinamide in drug-resistant focal epilepsy and the results cannot be generalised to add-on treatment for generalised epilepsies. Likewise, no inference can be made about the effects of rufinamide when used as monotherapy.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

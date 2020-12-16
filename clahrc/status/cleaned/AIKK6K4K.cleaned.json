@@ -1,0 +1,1235 @@
+{
+    "IDs": {
+        "zotero": "AIKK6K4K",
+        "DOI": "10.1111/hex.12940",
+        "DOI_filename": "f0c3604388174fb77ef938a501faeb04",
+        "PMID": "31355516",
+        "scopus": "2-s2.0-85072058633",
+        "hash": "c357bc709f1c259c7ced7d48736e215c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "AIKK6K4K",
+            "version": 134,
+            "itemType": "journalArticle",
+            "title": "Public involvement in the dissemination of the North West Coast Household Health Survey: Experiences and lessons of co\u2010producing research together",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Terence",
+                    "lastName": "Comerford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Alfirevic"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health Expectations",
+            "volume": "22",
+            "issue": "4",
+            "pages": "643-649",
+            "date": "08/2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Expect",
+            "language": "en",
+            "DOI": "10.1111/hex.12940",
+            "ISSN": "1369-6513, 1369-7625",
+            "shortTitle": "Public involvement in the dissemination of the North West Coast Household Health Survey",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/hex.12940",
+            "accessDate": "2020-09-10T17:09:12Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31355516",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:12Z",
+            "dateModified": "2020-09-11T15:05:28Z",
+            "pmid": "31355516"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ],
+                "date-time": "2020-08-18T12:29:49Z",
+                "timestamp": 1597753789146
+            },
+            "reference-count": 21,
+            "publisher": "Wiley",
+            "issue": "4",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                7,
+                                29
+                            ]
+                        ],
+                        "date-time": "2019-07-29T00:00:00Z",
+                        "timestamp": 1564358400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                7,
+                                29
+                            ]
+                        ],
+                        "date-time": "2019-07-29T00:00:00Z",
+                        "timestamp": 1564358400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "CLAHRC NWC"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/100004440",
+                    "name": "Wellcome Trust",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "Public Engagement Award"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        8
+                    ]
+                ]
+            },
+            "DOI": "10.1111/hex.12940",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        29
+                    ]
+                ],
+                "date-time": "2019-07-29T12:15:50Z",
+                "timestamp": 1564402550000
+            },
+            "page": "643-649",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Public involvement in the dissemination of the North West Coast Household Health Survey: Experiences and lessons of co\u2010producing research together",
+            "prefix": "10.1111",
+            "volume": "22",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Shaima",
+                    "family": "Hassan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jason C",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Natural Sciences and Psychology Liverpool John Moore's University Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        },
+                        {
+                            "name": "Institute of Translational Medicine University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Terence",
+                    "family": "Comerford",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ana",
+                    "family": "Alfirevic",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast Liverpool UK"
+                        },
+                        {
+                            "name": "Institute of Translational Medicine University of Liverpool Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_8_2_1",
+                    "author": "INVOLVE",
+                    "year": "2015",
+                    "volume-title": "Public Involvement in Research: Values and Principles Framework"
+                },
+                {
+                    "key": "e_1_2_8_3_1",
+                    "DOI": "10.1093/ageing/afv143",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_4_1",
+                    "DOI": "10.1002/gps.4868",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_5_1",
+                    "DOI": "10.1111/j.1369-7625.2012.00795.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_6_1",
+                    "DOI": "10.1177/1471301216687698",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_7_1",
+                    "DOI": "10.1111/hex.12479",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_8_1",
+                    "DOI": "10.1177/1744629517723485",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_9_1",
+                    "author": "Department for Communities and Local Government",
+                    "year": "2015",
+                    "volume-title": "The English Indices of Deprivation 2015: Technical Report"
+                },
+                {
+                    "key": "e_1_2_8_10_1",
+                    "DOI": "10.1016/j.healthpol.2010.08.010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_11_1",
+                    "DOI": "10.1186/s12888-017-1474-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_12_1",
+                    "DOI": "10.1136/bmjopen-2018-022820",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_13_1",
+                    "DOI": "10.1186/s12913-018-3197-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_14_1",
+                    "DOI": "10.3310/hsdr03380",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_15_1",
+                    "DOI": "10.1111/hex.12836",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_16_1",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_17_1",
+                    "DOI": "10.1017/S1463423609990405",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_18_1",
+                    "DOI": "10.1177/1471301216674559",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_19_1",
+                    "DOI": "10.1111/hex.12684",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_20_1",
+                    "DOI": "10.1136/bmjopen-2014-004943",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_21_1",
+                    "DOI": "10.1191/1740774505cn065oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_22_1",
+                    "DOI": "10.1017/S0266462307051677",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Health Expectations",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fhex.12940",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.12940",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/hex.12940",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.12940",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        23
+                    ]
+                ],
+                "date-time": "2019-09-23T07:41:11Z",
+                "timestamp": 1569224471000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "references-count": 21,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2019,
+                            6,
+                            11
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            8
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1111/hex.12940"
+            ],
+            "URL": "http://dx.doi.org/10.1111/hex.12940",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1369-6513",
+                "1369-7625"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "Health Expect",
+            "assertion": [
+                {
+                    "value": "2018-11-16",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-06-20",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2019-07-29",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "co-production",
+                        "dissemination",
+                        "health",
+                        "health inequalities",
+                        "public involvement",
+                        "survey"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31355516",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "14"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "14"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1111/hex.12940"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "07",
+                            "Day": "29"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1369-7625",
+                        "JournalIssue": {
+                            "Volume": "22",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "08"
+                            }
+                        },
+                        "Title": "Health expectations : an international journal of public participation in health care and health policy",
+                        "ISOAbbreviation": "Health Expect"
+                    },
+                    "ArticleTitle": "Public involvement in the dissemination of the North West Coast Household Health Survey: Experiences and lessons of co-producing research together.",
+                    "Pagination": {
+                        "MedlinePgn": "643-649"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Engaging with the public is a key element of health research; however, little work has examined experiences of public involvement in research dissemination. The aim of this paper was to assess the extent of public involvement, experiences of public advisers and resulting changes in the dissemination of the North West Coast Household Health Survey (HHS).",
+                            "Three writing groups allowed public advisers to contribute to the dissemination of the HHS. A public workshop was set up to aid the co-production of the research evidence and discuss the experiences of public advisers involved with the survey in March 2018. A focus group with public advisers was conducted in August 2018 to understand their experiences of involvement. Data were analysed using thematic analysis and coded by two researchers. Writing groups are still on-going.",
+                            "Fourteen public advisers contributed via three face-to-face writing groups, by actively interpreting findings and helping in the write-up of research articles and by presenting talks at the public workshop. At the workshop, seven public advisors contributed to setting priorities for data analysis from the HHS. Five public advisers took part in the focus group, which highlighted that whilst public advisers were generally satisfied with their involvement, they would like to be involved in more activities.",
+                            "Members of the public shaped the dissemination of evidence and provided guidance for future steps. Public advisers were mostly positive about their involvement in the dissemination of the HHS, but highlighted the need for more transparency and support from researchers."
+                        ],
+                        "CopyrightInformation": "\u00a9 2019 The Authors Health Expectations Published by John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Natural Sciences and Psychology, Liverpool John Moore's University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Comerford",
+                            "ForeName": "Terence",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alfirevic",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L006758/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "Public Engagement Award",
+                            "Acronym": "WT_",
+                            "Agency": "Wellcome Trust",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "CLAHRC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": "International"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Expect",
+                    "NlmUniqueID": "9815926",
+                    "ISSNLinking": "1369-6513"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Community Participation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Focus Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Surveys",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Information Dissemination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2018 Jul;33(7):900-906",
+                                "ArticleIdList": [
+                                    "29468724"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2015 Nov;44(6):985-93",
+                                "ArticleIdList": [
+                                    "26504119"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2018 May 31;18(1):394",
+                                "ArticleIdList": [
+                                    "29855365"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2019 Oct-Nov;18(7-8):3165-3172",
+                                "ArticleIdList": [
+                                    "27753612"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2019 Oct-Nov;18(7-8):3173-3186",
+                                "ArticleIdList": [
+                                    "28073297"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 2011 Feb;99(2):174-82",
+                                "ArticleIdList": [
+                                    "20822823"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Technol Assess Health Care. 2007 Winter;23(1):131-7",
+                                "ArticleIdList": [
+                                    "17234027"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2017 Jun;20(3):519-528",
+                                "ArticleIdList": [
+                                    "27338242"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Trials. 2005;2(1):80-7",
+                                "ArticleIdList": [
+                                    "16279582"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2014 Jun 17;4(6):e004943",
+                                "ArticleIdList": [
+                                    "24939808"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jan 6;9(1):e022820",
+                                "ArticleIdList": [
+                                    "30613026"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Psychiatry. 2017 Aug 30;17(1):316",
+                                "ArticleIdList": [
+                                    "28854922"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2018 Oct;21(5):899-908",
+                                "ArticleIdList": [
+                                    "29654644"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2014 Oct;17(5):637-50",
+                                "ArticleIdList": [
+                                    "22809132"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2018 Oct;21(5):823",
+                                "ArticleIdList": [
+                                    "30318856"
+                                ]
+                            },
+                            {
+                                "Citation": "J Intellect Disabil. 2019 Mar;23(1):78-96",
+                                "ArticleIdList": [
+                                    "28812949"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "16"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "06",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "06",
+                        "Day": "20"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "7",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "15",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "7",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31355516",
+                    "10.1111/hex.12940",
+                    "PMC6737839"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31355516)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831355516%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831355516%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072058633"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072058633?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072058633&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072058633&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072058633",
+                        "dc:identifier": "SCOPUS_ID:85072058633",
+                        "eid": "2-s2.0-85072058633",
+                        "dc:title": "Public involvement in the dissemination of the North West Coast Household Health Survey: Experiences and lessons of co-producing research together",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "Health Expectations",
+                        "prism:issn": "13696513",
+                        "prism:eIssn": "13697625",
+                        "prism:volume": "22",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "643-649",
+                        "prism:coverDate": "2019-08-01",
+                        "prism:coverDisplayDate": "1 August 2019",
+                        "prism:doi": "10.1111/hex.12940",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31355516",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20885",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "AIKK6K4K.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31355516"
+            }
+        },
+        "title": "Public involvement in the dissemination of the North West Coast Household Health Survey: Experiences and lessons of co-producing research together.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C",
+                "affiliation": {
+                    "name": "School of Natural Sciences and Psychology, Liverpool John Moore's University, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Comerford T",
+                "family": "Comerford",
+                "given": "Terence",
+                "affiliation": {
+                    "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Alfirevic A",
+                "family": "Alfirevic",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "Collaboration for Leadership in Applied Health Research and Care North West Coast, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Community Participation",
+                    "major": "N"
+                },
+                {
+                    "term": "Focus Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status",
+                    "major": "Y"
+                },
+                {
+                    "term": "Health Surveys",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Information Dissemination",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Health Expect",
+            "volume": "22",
+            "issue": "4"
+        },
+        "abstract": "['Engaging with the public is a key element of health research; however, little work has examined experiences of public involvement in research dissemination. The aim of this paper was to assess the extent of public involvement, experiences of public advisers and resulting changes in the dissemination of the North West Coast Household Health Survey (HHS).', 'Three writing groups allowed public advisers to contribute to the dissemination of the HHS. A public workshop was set up to aid the co-production of the research evidence and discuss the experiences of public advisers involved with the survey in March 2018. A focus group with public advisers was conducted in August 2018 to understand their experiences of involvement. Data were analysed using thematic analysis and coded by two researchers. Writing groups are still on-going.', 'Fourteen public advisers contributed via three face-to-face writing groups, by actively interpreting findings and helping in the write-up of research articles and by presenting talks at the public workshop. At the workshop, seven public advisors contributed to setting priorities for data analysis from the HHS. Five public advisers took part in the focus group, which highlighted that whilst public advisers were generally satisfied with their involvement, they would like to be involved in more activities.', 'Members of the public shaped the dissemination of evidence and provided guidance for future steps. Public advisers were mostly positive about their involvement in the dissemination of the HHS, but highlighted the need for more transparency and support from researchers.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

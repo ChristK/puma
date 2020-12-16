@@ -1,0 +1,898 @@
+{
+    "IDs": {
+        "zotero": "TT5EFS4K",
+        "DOI": "10.1212/WNL.0000000000006564",
+        "DOI_filename": "f4e7e930fcb9bf488a65d5d8636a9b41",
+        "PMID": "30389894",
+        "scopus": "2-s2.0-85057150260",
+        "hash": "b7c26eb8213d8bdece20272d97f94826"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "TT5EFS4K",
+            "version": 183,
+            "itemType": "journalArticle",
+            "title": "Identification of patients who will not achieve seizure remission within 5 years on AEDs",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "David M.",
+                    "lastName": "Hughes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laura J.",
+                    "lastName": "Bonnett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gabriela",
+                    "lastName": "Czanner"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Arno\u0161t",
+                    "lastName": "Kom\u00e1rek"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G.",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marta",
+                    "lastName": "Garc\u00eda-Fi\u00f1ana"
+                }
+            ],
+            "abstractNote": "Objective\n              To identify people with epilepsy who will not achieve a 12-month seizure remission within 5 years of starting treatment.\n            \n            \n              Methods\n              The Standard and New Antiepileptic Drug (SANAD) study is the largest prospective study in patients with epilepsy to date. We applied a recently developed multivariable approach to the SANAD dataset that takes into account not only baseline covariates describing a patient's history before diagnosis but also follow-up data as predictor variables.\n            \n            \n              Results\n              Changes in number of seizures and treatment history were the most informative time-dependent predictors and were associated with history of neurologic insult, epilepsy type, age at start of treatment, sex, and having a first-degree relative with epilepsy. Our model classified 95% of patients. Of those classified, 95% of patients observed not to achieve remission at 5 years were correctly classified (95% confidence interval [CI] 89.5%\u2013100%), with 51% identified by 3 years and 90% within 4 years of follow-up. Ninety-seven percent (95% CI 93.3%\u201398.8%) of patients observed to achieve a remission within 5 years were correctly classified. Of those predicted not to achieve remission, 76% (95% CI 58.5%\u201388.2%) truly did not achieve remission (positive predictive value). The predictive model achieved similar accuracy levels via external validation in 2 independent United Kingdom\u2013based datasets.\n            \n            \n              Conclusion\n              Our approach generates up-to-date predictions of the patient's risk of not achieving seizure remission whenever new clinical information becomes available that could influence patient counseling and management decisions.",
+            "publicationTitle": "Neurology",
+            "volume": "91",
+            "issue": "22",
+            "pages": "e2035-e2044",
+            "date": "2018-11-27",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Neurology",
+            "language": "en",
+            "DOI": "10.1212/WNL.0000000000006564",
+            "ISSN": "0028-3878, 1526-632X",
+            "shortTitle": "",
+            "url": "http://www.neurology.org/lookup/doi/10.1212/WNL.0000000000006564",
+            "accessDate": "2020-09-10T17:09:43Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30389894",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:43Z",
+            "dateModified": "2020-09-15T14:28:25Z",
+            "pmid": "30389894"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        9
+                    ]
+                ],
+                "date-time": "2020-07-09T21:04:33Z",
+                "timestamp": 1594328673716
+            },
+            "reference-count": 26,
+            "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+            "issue": "22",
+            "content-domain": {
+                "domain": [
+                    "neurology.org"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        27
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>To identify people with epilepsy who will not achieve a 12-month seizure remission within 5 years of starting treatment.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>The Standard and New Antiepileptic Drug (SANAD) study is the largest prospective study in patients with epilepsy to date. We applied a recently developed multivariable approach to the SANAD dataset that takes into account not only baseline covariates describing a patient's history before diagnosis but also follow-up data as predictor variables.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Changes in number of seizures and treatment history were the most informative time-dependent predictors and were associated with history of neurologic insult, epilepsy type, age at start of treatment, sex, and having a first-degree relative with epilepsy. Our model classified 95% of patients. Of those classified, 95% of patients observed not to achieve remission at 5 years were correctly classified (95% confidence interval [CI] 89.5%\u2013100%), with 51% identified by 3 years and 90% within 4 years of follow-up. Ninety-seven percent (95% CI 93.3%\u201398.8%) of patients observed to achieve a remission within 5 years were correctly classified. Of those predicted not to achieve remission, 76% (95% CI 58.5%\u201388.2%) truly did not achieve remission (positive predictive value). The predictive model achieved similar accuracy levels via external validation in 2 independent United Kingdom\u2013based datasets.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Our approach generates up-to-date predictions of the patient's risk of not achieving seizure remission whenever new clinical information becomes available that could influence patient counseling and management decisions.</jats:p></jats:sec>",
+            "DOI": "10.1212/wnl.0000000000006564",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        2
+                    ]
+                ],
+                "date-time": "2018-11-02T19:55:17Z",
+                "timestamp": 1541188517000
+            },
+            "page": "e2035-e2044",
+            "update-policy": "http://dx.doi.org/10.1212/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 9,
+            "title": "Identification of patients who will not achieve seizure remission within 5 years on AEDs",
+            "prefix": "10.1212",
+            "volume": "91",
+            "author": [
+                {
+                    "given": "David M.",
+                    "family": "Hughes",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Laura J.",
+                    "family": "Bonnett",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gabriela",
+                    "family": "Czanner",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Arno\u0161t",
+                    "family": "Kom\u00e1rek",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anthony G.",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Marta",
+                    "family": "Garc\u00eda-Fi\u00f1ana",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "276",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        2
+                    ]
+                ]
+            },
+            "container-title": "Neurology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1212/WNL.0000000000006564",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2020-02-14T00:43:55Z",
+                "timestamp": 1581641035000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        11,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 26,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            11,
+                            26
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            11,
+                            27
+                        ]
+                    ]
+                },
+                "issue": "22"
+            },
+            "alternative-id": [
+                "10.1212/WNL.0000000000006564"
+            ],
+            "URL": "http://dx.doi.org/10.1212/WNL.0000000000006564",
+            "relation": {},
+            "ISSN": [
+                "0028-3878",
+                "1526-632X"
+            ],
+            "subject": [
+                "Clinical Neurology"
+            ],
+            "container-title-short": "Neurology"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30389894",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "08",
+                    "Day": "29"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "09"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1212/WNL.0000000000006564"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "11",
+                            "Day": "02"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1526-632X",
+                        "JournalIssue": {
+                            "Volume": "91",
+                            "Issue": "22",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "11",
+                                "Day": "27"
+                            }
+                        },
+                        "Title": "Neurology",
+                        "ISOAbbreviation": "Neurology"
+                    },
+                    "ArticleTitle": "Identification of patients who will not achieve seizure remission within 5 years on AEDs.",
+                    "Pagination": {
+                        "MedlinePgn": "e2035-e2044"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To identify people with epilepsy who will not achieve a 12-month seizure remission within 5 years of starting treatment.",
+                            "The Standard and New Antiepileptic Drug (SANAD) study is the largest prospective study in patients with epilepsy to date. We applied a recently developed multivariable approach to the SANAD dataset that takes into account not only baseline covariates describing a patient's history before diagnosis but also follow-up data as predictor variables.",
+                            "Changes in number of seizures and treatment history were the most informative time-dependent predictors and were associated with history of neurologic insult, epilepsy type, age at start of treatment, sex, and having a first-degree relative with epilepsy. Our model classified 95% of patients. Of those classified, 95% of patients observed not to achieve remission at 5 years were correctly classified (95% confidence interval [CI] 89.5%-100%), with 51% identified by 3 years and 90% within 4 years of follow-up. Ninety-seven percent (95% CI 93.3%-98.8%) of patients observed to achieve a remission within 5 years were correctly classified. Of those predicted not to achieve remission, 76% (95% CI 58.5%-88.2%) truly did not achieve remission (positive predictive value). The predictive model achieved similar accuracy levels via external validation in 2 independent United Kingdom-based datasets.",
+                            "Our approach generates up-to-date predictions of the patient's risk of not achieving seizure remission whenever new clinical information becomes available that could influence patient counseling and management decisions."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hughes",
+                            "ForeName": "David M",
+                            "Initials": "DM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bonnett",
+                            "ForeName": "Laura J",
+                            "Initials": "LJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Czanner",
+                            "ForeName": "Gabriela",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kom\u00e1rek",
+                            "ForeName": "Arno\u0161t",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic. martaf@liv.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Garc\u00eda-Fi\u00f1ana",
+                            "ForeName": "Marta",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L010909/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/R024847/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "PDF-2015-08-044",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Multicenter Study",
+                        "Randomized Controlled Trial",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Neurology",
+                    "NlmUniqueID": "0401060",
+                    "ISSNLinking": "0028-3878"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Neurology. 2018 Nov 27;91(22):989-990",
+                        "PMID": "30389895"
+                    },
+                    {
+                        "RefSource": "Epilepsy Curr. 2019 Sep;19(5):299-301",
+                        "PMID": "31409152"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Drug Resistant Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Multivariate Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "PLoS One. 2014 Jun 11;9(6):e99063",
+                                "ArticleIdList": [
+                                    "24919184"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain. 2009 Apr;132(Pt 4):989-98",
+                                "ArticleIdList": [
+                                    "19153149"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1000-15",
+                                "ArticleIdList": [
+                                    "17382827"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuroepidemiology. 1989;8(5):221-7",
+                                "ArticleIdList": [
+                                    "2812180"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2006 Apr;5(4):317-22",
+                                "ArticleIdList": [
+                                    "16545748"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2013 Oct;106(3):301-10",
+                                "ArticleIdList": [
+                                    "23880113"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2007 Mar 24;369(9566):1016-26",
+                                "ArticleIdList": [
+                                    "17382828"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2005 Jun 11-17;365(9476):2007-13",
+                                "ArticleIdList": [
+                                    "15950714"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2011 Nov;97(1-2):20-9",
+                                "ArticleIdList": [
+                                    "22000868"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2017 Oct 30;36(24):3858-3874",
+                                "ArticleIdList": [
+                                    "28762546"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain. 2004 Aug;127(Pt 8):1774-84",
+                                "ArticleIdList": [
+                                    "15201192"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2007 Jul;75(2-3):192-6",
+                                "ArticleIdList": [
+                                    "17628429"
+                                ]
+                            },
+                            {
+                                "Citation": "Biostatistics. 2008 Jul;9(3):523-39",
+                                "ArticleIdList": [
+                                    "18209015"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2017 Jan;44:211-216",
+                                "ArticleIdList": [
+                                    "27646715"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2017 May;70(Pt A):253-258",
+                                "ArticleIdList": [
+                                    "28412154"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2014 Aug;37:282-6",
+                                "ArticleIdList": [
+                                    "25128686"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Methods Med Res. 2018 Jul;27(7):2060-2080",
+                                "ArticleIdList": [
+                                    "27789653"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2012 Apr;11(4):331-40",
+                                "ArticleIdList": [
+                                    "22377180"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2014 Jun;85(6):603-10",
+                                "ArticleIdList": [
+                                    "24292995"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 Jun;51(6):1069-77",
+                                "ArticleIdList": [
+                                    "19889013"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2011 Sep 8;365(10):919-26",
+                                "ArticleIdList": [
+                                    "21899452"
+                                ]
+                            },
+                            {
+                                "Citation": "Expert Rev Neurother. 2011 Jun;11(6):877-85; quiz 886",
+                                "ArticleIdList": [
+                                    "21651334"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2000 Feb 3;342(5):314-9",
+                                "ArticleIdList": [
+                                    "10660394"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "08",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "11",
+                        "Day": "4",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30389894",
+                    "WNL.0000000000006564",
+                    "10.1212/WNL.0000000000006564",
+                    "PMC6282237"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30389894)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830389894%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830389894%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057150260"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057150260?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057150260&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057150260&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057150260",
+                        "dc:identifier": "SCOPUS_ID:85057150260",
+                        "eid": "2-s2.0-85057150260",
+                        "dc:title": "Identification of patients who will not achieve seizure remission within 5 years on AEDs",
+                        "dc:creator": "Hughes D.",
+                        "prism:publicationName": "Neurology",
+                        "prism:issn": "00283878",
+                        "prism:eIssn": "1526632X",
+                        "prism:volume": "91",
+                        "prism:issueIdentifier": "22",
+                        "prism:pageRange": "E2035-E2044",
+                        "prism:coverDate": "2018-01-01",
+                        "prism:coverDisplayDate": "2018",
+                        "prism:doi": "10.1212/WNL.0000000000006564",
+                        "citedby-count": "8",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Institute of Translational Medicine",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30389894",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "17952",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "TT5EFS4K.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30389894"
+            }
+        },
+        "title": "Identification of patients who will not achieve seizure remission within 5 years on AEDs.",
+        "full_author_list": [
+            {
+                "clean": "Hughes D",
+                "family": "Hughes",
+                "given": "David M",
+                "affiliation": {
+                    "name": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                }
+            },
+            {
+                "clean": "Bonnett L",
+                "family": "Bonnett",
+                "given": "Laura J",
+                "affiliation": {
+                    "name": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                }
+            },
+            {
+                "clean": "Czanner G",
+                "family": "Czanner",
+                "given": "Gabriela",
+                "affiliation": {
+                    "name": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                }
+            },
+            {
+                "clean": "Kom\u00e1rek A",
+                "family": "Kom\u00e1rek",
+                "given": "Arno\u0161t",
+                "affiliation": {
+                    "name": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic."
+                }
+            },
+            {
+                "clean": "Garc\u00eda-Fi\u00f1ana M",
+                "family": "Garc\u00eda-Fi\u00f1ana",
+                "given": "Marta",
+                "affiliation": {
+                    "name": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic. martaf@liv.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Hughes D",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Resistant Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Multivariate Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Prospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Neurology",
+            "volume": "91",
+            "issue": "22"
+        },
+        "abstract": "['To identify people with epilepsy who will not achieve a 12-month seizure remission within 5 years of starting treatment.', \"The Standard and New Antiepileptic Drug (SANAD) study is the largest prospective study in patients with epilepsy to date. We applied a recently developed multivariable approach to the SANAD dataset that takes into account not only baseline covariates describing a patient's history before diagnosis but also follow-up data as predictor variables.\", 'Changes in number of seizures and treatment history were the most informative time-dependent predictors and were associated with history of neurologic insult, epilepsy type, age at start of treatment, sex, and having a first-degree relative with epilepsy. Our model classified 95% of patients. Of those classified, 95% of patients observed not to achieve remission at 5 years were correctly classified (95% confidence interval [CI] 89.5%-100%), with 51% identified by 3 years and 90% within 4 years of follow-up. Ninety-seven percent (95% CI 93.3%-98.8%) of patients observed to achieve a remission within 5 years were correctly classified. Of those predicted not to achieve remission, 76% (95% CI 58.5%-88.2%) truly did not achieve remission (positive predictive value). The predictive model achieved similar accuracy levels via external validation in 2 independent United Kingdom-based datasets.', \"Our approach generates up-to-date predictions of the patient's risk of not achieving seizure remission whenever new clinical information becomes available that could influence patient counseling and management decisions.\"]",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "8"
+            }
+        },
+        "location": {
+            "candidate_institute": "From the Departments of Biostatistics (D.M.H., L.J.B., G.C., M.G.-F.) and Molecular and Clinical Pharmacology (A.G.M.), Institute of Translational Medicine, and Department of Eye and Vision Science (G.C.), Institute of Ageing & Chronic Disease, University of Liverpool, UK; and Department of Probability and Mathematical Statistics (A.K.), Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

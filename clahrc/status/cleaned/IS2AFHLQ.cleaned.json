@@ -1,0 +1,605 @@
+{
+    "IDs": {
+        "zotero": "IS2AFHLQ",
+        "DOI": "10.1001/jama.2017.14485",
+        "DOI_filename": "712799f285ff927b8cfc7036ee92ab16",
+        "PMID": "29114815",
+        "scopus": "2-s2.0-85034644112",
+        "hash": "8a9c70fb02c1f3fdd45c0b09734f2329"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "IS2AFHLQ",
+            "version": 155,
+            "itemType": "journalArticle",
+            "title": "Maternal Use of Antiepileptic Agents During Pregnancy and Major Congenital Malformations in Children",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca L.",
+                    "lastName": "Bromley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Weston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G.",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "JAMA",
+            "volume": "318",
+            "issue": "17",
+            "pages": "1700",
+            "date": "2017-11-07",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "JAMA",
+            "language": "en",
+            "DOI": "10.1001/jama.2017.14485",
+            "ISSN": "0098-7484",
+            "shortTitle": "",
+            "url": "http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2017.14485",
+            "accessDate": "2020-09-10T17:09:32Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29114815",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:32Z",
+            "dateModified": "2020-09-15T12:59:11Z",
+            "pmid": "29114815"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        20
+                    ]
+                ],
+                "date-time": "2020-06-20T22:43:28Z",
+                "timestamp": 1592693008591
+            },
+            "reference-count": 0,
+            "publisher": "American Medical Association (AMA)",
+            "issue": "17",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        7
+                    ]
+                ]
+            },
+            "DOI": "10.1001/jama.2017.14485",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        7
+                    ]
+                ],
+                "date-time": "2017-11-07T20:31:34Z",
+                "timestamp": 1510086694000
+            },
+            "page": "1700",
+            "source": "Crossref",
+            "is-referenced-by-count": 22,
+            "title": "Maternal Use of Antiepileptic Agents During Pregnancy and Major Congenital Malformations in Children",
+            "prefix": "10.1001",
+            "volume": "318",
+            "author": [
+                {
+                    "given": "Rebecca L.",
+                    "family": "Bromley",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Division of Evolution and Genomic Science, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, England2Royal Manchester Children\u2019s Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester, England"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Weston",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychology, Faculty of Arts and Sciences, Edge Hill University, Ormskirk, England"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G.",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, England5Walton Centre NHS Foundation Trust, Liverpool, England"
+                        }
+                    ]
+                }
+            ],
+            "member": "10",
+            "container-title": "JAMA",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2017.14485",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        7
+                    ]
+                ],
+                "date-time": "2017-11-07T20:31:35Z",
+                "timestamp": 1510086695000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        11,
+                        7
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            11,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "17"
+            },
+            "URL": "http://dx.doi.org/10.1001/jama.2017.14485",
+            "relation": {},
+            "ISSN": [
+                "0098-7484"
+            ],
+            "container-title-short": "JAMA"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29114815",
+                "DateCompleted": {
+                    "Year": "2017",
+                    "Month": "11",
+                    "Day": "16"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "06"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1001/jama.2017.14485"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1538-3598",
+                        "JournalIssue": {
+                            "Volume": "318",
+                            "Issue": "17",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Nov",
+                                "Day": "07"
+                            }
+                        },
+                        "Title": "JAMA",
+                        "ISOAbbreviation": "JAMA"
+                    },
+                    "ArticleTitle": "Maternal Use of Antiepileptic Agents During Pregnancy and Major Congenital Malformations in Children.",
+                    "Pagination": {
+                        "MedlinePgn": "1700-1701"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Is maternal use of antiepileptic drugs during pregnancy associated with major congenital malformations in children?",
+                            "Certain antiepileptic drugs were associated with increased rates of congenital malformations (eg, spina bifida, cardiac anomalies). Lamotrigine (2.31% in 4195 pregnancies) and levetiracetam (1.77% in 817 pregnancies) were associated with the lowest risk and valproate was associated with the highest risk (10.93% in 2565 pregnancies) compared with the offspring of women without epilepsy (2.51% in 2154 pregnancies)."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Evolution and Genomic Science, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, England."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Royal Manchester Children's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bromley",
+                            "ForeName": "Rebecca L",
+                            "Initials": "RL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychology, Faculty of Arts and Sciences, Edge Hill University, Ormskirk, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Weston",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, England."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Walton Centre NHS Foundation Trust, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "PDF-2013-06-041",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "JAMA",
+                    "NlmUniqueID": "7501160",
+                    "ISSNLinking": "0098-7484"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Abnormalities, Drug-Induced",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant, Newborn",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Pregnancy Complications",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Review Literature as Topic",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "29114815",
+                    "2661561",
+                    "10.1001/jama.2017.14485"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29114815)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829114815%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829114815%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034644112"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034644112?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034644112&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034644112&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034644112",
+                        "dc:identifier": "SCOPUS_ID:85034644112",
+                        "eid": "2-s2.0-85034644112",
+                        "dc:title": "Maternal use of antiepileptic agents during pregnancy and major congenital malformations in children",
+                        "dc:creator": "Bromley R.L.",
+                        "prism:publicationName": "JAMA - Journal of the American Medical Association",
+                        "prism:issn": "00987484",
+                        "prism:eIssn": "15383598",
+                        "prism:volume": "318",
+                        "prism:issueIdentifier": "17",
+                        "prism:pageRange": "1700-1701",
+                        "prism:coverDate": "2017-11-07",
+                        "prism:coverDisplayDate": "7 November 2017",
+                        "prism:doi": "10.1001/jama.2017.14485",
+                        "citedby-count": "22",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Health Innovation Manchester",
+                                "affiliation-city": "Manchester",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Royal Manchester Children's Hospital",
+                                "affiliation-city": "Manchester",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29114815",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "sh",
+                        "subtypeDescription": "Short Survey",
+                        "source-id": "85291",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "IS2AFHLQ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29114815"
+            }
+        },
+        "title": "Maternal Use of Antiepileptic Agents During Pregnancy and Major Congenital Malformations in Children.",
+        "full_author_list": [
+            {
+                "clean": "Bromley R",
+                "family": "Bromley",
+                "given": "Rebecca L",
+                "affiliation": {
+                    "name": "Division of Evolution and Genomic Science, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, England."
+                }
+            },
+            {
+                "clean": "Weston J",
+                "family": "Weston",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Department of Psychology, Faculty of Arts and Sciences, Edge Hill University, Ormskirk, England."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, England."
+                }
+            }
+        ],
+        "first_author": "Bromley R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Abnormalities, Drug-Induced",
+                    "major": "Y"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant, Newborn",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy Complications",
+                    "major": "N"
+                },
+                {
+                    "term": "Review Literature as Topic",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "JAMA",
+            "volume": "318",
+            "issue": "17"
+        },
+        "abstract": "['Is maternal use of antiepileptic drugs during pregnancy associated with major congenital malformations in children?', 'Certain antiepileptic drugs were associated with increased rates of congenital malformations (eg, spina bifida, cardiac anomalies). Lamotrigine (2.31% in 4195 pregnancies) and levetiracetam (1.77% in 817 pregnancies) were associated with the lowest risk and valproate was associated with the highest risk (10.93% in 2565 pregnancies) compared with the offspring of women without epilepsy (2.51% in 2154 pregnancies).']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "22"
+            }
+        },
+        "location": {
+            "candidate_institute": "Division of Evolution and Genomic Science, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, England.",
+            "clean_institute": "University of Manchester",
+            "latitude": "53.466666666667",
+            "longitude": "-2.2333333333333",
+            "country": "United Kingdom",
+            "postal_town": "Manchester"
+        }
+    }
+}

@@ -1,0 +1,1383 @@
+{
+    "IDs": {
+        "zotero": "4GL3R66S",
+        "DOI": "10.1002/14651858.CD009472.pub4",
+        "DOI_filename": "db83fe27e024527c13de325bbdd229e4",
+        "PMID": "31453633",
+        "scopus": "2-s2.0-85071628222",
+        "hash": "041749f5c877d66e742a96cc253dae74"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "4GL3R66S",
+            "version": 115,
+            "itemType": "journalArticle",
+            "title": "Sulthiame add-on therapy for epilepsy",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca",
+                    "lastName": "Bresnahan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kirsty J",
+                    "lastName": "Martin-McGill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Philip",
+                    "lastName": "Milburn-McNulty"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham",
+                    "lastName": "Powell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graeme J",
+                    "lastName": "Sills"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2019-08-27",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD009472.pub4",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD009472.pub4",
+            "accessDate": "2020-09-10T17:09:33Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 31453633",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:33Z",
+            "dateModified": "2020-09-11T13:20:19Z",
+            "pmid": "31453633"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        23
+                    ]
+                ],
+                "date-time": "2020-08-23T04:11:57Z",
+                "timestamp": 1598155917553
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2019,
+                                8,
+                                27
+                            ]
+                        ],
+                        "date-time": "2019-08-27T00:00:00Z",
+                        "timestamp": 1566864000000
+                    },
+                    "DOI": "10.1002/14651858.cd009472.pub3",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 48,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd009472.pub4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        27
+                    ]
+                ],
+                "date-time": "2019-08-27T11:56:36Z",
+                "timestamp": 1566906996000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Sulthiame add-on therapy for epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Rebecca",
+                    "family": "Bresnahan",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Lower Lane Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Kirsty J",
+                    "family": "Martin-McGill",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Lower Lane Liverpool UK L9 7LJ"
+                        },
+                        {
+                            "name": "University of Chester; Department of Clinical Sciences and Nutrition; Faculty of Medicine, Dentistry and Life Sciences Chester UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Philip",
+                    "family": "Milburn-McNulty",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Lower Lane Fazakerley Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Graham",
+                    "family": "Powell",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Lower Lane Fazakerley Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Graeme J",
+                    "family": "Sills",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Glasgow; School of Life Sciences; Glasgow UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Lower Lane Liverpool UK L9 7LJ"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Lower Lane Fazakerley Liverpool UK L9 7LJ"
+                        },
+                        {
+                            "name": "Liverpool Health Partners; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        27
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "103",
+                    "DOI": "10.1111/j.0013-9580.2004.19003.x",
+                    "article-title": "Sulthiame in the primary therapy of West syndrome: a randomized, double-blind placebo-controlled add-on trial on baseline pyridoxine medication",
+                    "volume": "45",
+                    "author": "Debus",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0002|cit2",
+                    "first-page": "59",
+                    "article-title": "The risk of second seizure in children with benign childhood epilepsy with centrotemporal spikes without treatment - a prospective study",
+                    "volume": "59",
+                    "author": "Basnec",
+                    "year": "2005",
+                    "journal-title": "Acta Medica Croatica"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "215",
+                    "DOI": "10.1046/j.1528-1157.2003.51001.x",
+                    "article-title": "The influence of sulthiame on EEG in children with benign childhood epilepsy with centrotemporal spikes (BECTs)",
+                    "volume": "44",
+                    "author": "Bast",
+                    "year": "2003",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "507",
+                    "DOI": "10.1016/j.ejpn.2013.03.014",
+                    "article-title": "Levetiracetam vs. sulthiame in benign epilepsy with centrotemporal spikes in childhood: a double-blinded, randomized, controlled trial (German HEAD Study)",
+                    "volume": "17",
+                    "author": "Borggraefe",
+                    "year": "2013",
+                    "journal-title": "European Journal of Paediatric Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0005|cit5",
+                    "first-page": "278",
+                    "article-title": "A double-blinded, randomized evaluation of neuropsychological and behavioral changes in children with benign epilepsy with centrotemporal spikes treated either with levetiracetam or sulthiame",
+                    "volume": "15",
+                    "author": "Borggraefe",
+                    "year": "2015",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0006|cit6",
+                    "unstructured": "ISRCTN97864911 HEAD-to-head evaluation of the antiepileptic drugs, levetiracetam versus sulthiame in a German multicentre, double-blind, controlled trial in children with benign epilepsy with centrotemporal spikes apps.who.int/trialsearch/Trial.aspx?TrialID=ISRCTN97864911 10.1186/ISRCTN97864911"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0009|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e97, Abstract n",
+                    "DOI": "10.1016/j.ejpn.2017.04.733",
+                    "article-title": "EEG changes in rolandic epilepsy under treatment with Levetiracetam and Sulthiame",
+                    "volume": "21",
+                    "author": "Tacke",
+                    "year": "2017",
+                    "journal-title": "European Journal of Paediatric Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0007|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "115",
+                    "DOI": "10.1016/j.seizure.2018.01.015",
+                    "article-title": "Effects of Levetiracetam and Sulthiame on EEG in benign epilepsy with centrotemporal spikes: A randomized controlled trial",
+                    "volume": "56",
+                    "author": "Tacke",
+                    "year": "2018",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0008|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "874",
+                    "DOI": "10.1016/j.ejpn.2016.07.015",
+                    "article-title": "Effect of anticonvulsive treatment on neuropsychological performance in children with BECTS",
+                    "volume": "20",
+                    "author": "Tacke",
+                    "year": "2016",
+                    "journal-title": "European Journal of Paediatric Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "261",
+                    "DOI": "10.1192/bjp.110.465.261",
+                    "article-title": "Ospolot - a clinical trial of a new anticonvulsant",
+                    "volume": "110",
+                    "author": "Griffiths",
+                    "year": "1964",
+                    "journal-title": "British Journal of Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0011|cit11",
+                    "first-page": "313",
+                    "article-title": "Clinical trial of Ospolot in epilepsy",
+                    "volume": "5",
+                    "author": "Ingram",
+                    "year": "1963",
+                    "journal-title": "Developmental Medicine & Child Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0012|cit12",
+                    "unstructured": "ISRCTN66730162 Investigating the relationship between sleep disturbance and learning in children with benign epilepsy of childhood with centrotemporal spikes (BECCTS): a randomised double blind placebo controlled crossover trial http://apps.who.int/trialsearch/Trial.aspx?TrialID=ISRCTN66730162"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0013|cit13",
+                    "unstructured": "ISRCTN66730162 Sleep and learning in children with a benign focal epilepsy of childhood www.isrctn.com/ISRCTN66730162 10.1186/ISRCTN66730162"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0014|cit14",
+                    "first-page": "345",
+                    "article-title": "A randomized controlled multicenter clinical study on sulthiame in the treatment of GTCS",
+                    "volume": "13",
+                    "author": "Li",
+                    "year": "2000",
+                    "journal-title": "Journal of Clinical Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0015|cit15",
+                    "first-page": "259",
+                    "article-title": "Ospolot (sulthiame) in epilepsy",
+                    "volume": "28",
+                    "author": "Livingston",
+                    "year": "1967",
+                    "journal-title": "Diseases of the Nervous System"
+                },
+                {
+                    "issue": "541",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "673",
+                    "DOI": "10.1192/bjp.117.541.673",
+                    "article-title": "The use of sulthiame with disturbed mentally subnormal patients",
+                    "volume": "117",
+                    "author": "Moffatt",
+                    "year": "1970",
+                    "journal-title": "British Journal of Psychiatry"
+                },
+                {
+                    "issue": "(Suppl 2)",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0018|cit17",
+                    "first-page": "163",
+                    "article-title": "Sulthiame vs placebo in the treatment of benign epilepsy with centrotemporal spikes (\"Rolandic\" Epilepsy)",
+                    "volume": "40",
+                    "author": "Rating",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0017|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1284",
+                    "DOI": "10.1111/j.1528-1157.2000.tb04606.x",
+                    "article-title": "Sulthiame as monotherapy in children with benign childhood epilepsy with centrotemporal spikes: a 6-month randomized, double-blind, placebo-controlled study",
+                    "volume": "41",
+                    "author": "Rating",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "(Suppl 3)",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0019|cit19",
+                    "first-page": "123",
+                    "article-title": "Reduction of motor cortex excitability by the anticonvulsant drug sulthiame: a TMS study",
+                    "volume": "47",
+                    "author": "Groppa",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1016/j.eplepsyres.2006.07.001",
+                    "article-title": "A single dose of sulthiame induces a selective increase in resting motor threshold in human motor cortex: a transcranial magnetic stimulation study",
+                    "volume": "72",
+                    "author": "Siniatchkin",
+                    "year": "2006",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "521",
+                    "DOI": "10.1111/j.1442-200x.2004.01954.x",
+                    "article-title": "Sulthiame in childhood epilepsy",
+                    "volume": "46",
+                    "author": "Ben-Zeev",
+                    "year": "2004",
+                    "journal-title": "Paediatrics International"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "168",
+                    "DOI": "10.1056/NEJM199601183340308",
+                    "article-title": "Antiepileptic drugs",
+                    "volume": "334",
+                    "author": "Brodie",
+                    "year": "1996",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "55",
+                    "DOI": "10.1016/j.seizure.2018.09.019",
+                    "article-title": "Sulthiame add-on therapy in children with Lennox-Gastaut syndrome: a study of 44 patients",
+                    "volume": "62",
+                    "author": "Caraballo",
+                    "year": "2018",
+                    "journal-title": "Seizure: European Journal of Epilepsy"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1407",
+                    "DOI": "10.1007/s00115-007-2302-4",
+                    "article-title": "Treatment of epilepsy with third-line antiepileptic drugs. Felbamate, tiagabine, and sulthiame",
+                    "volume": "78",
+                    "author": "Chahem",
+                    "year": "2007",
+                    "journal-title": "Der Nervenarzt"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "105",
+                    "DOI": "10.1055/s-2003-39606",
+                    "article-title": "Treatment with sulthiame (Ospolot) in benign partial epilepsy of childhood and related syndromes: an open clinical and EEG study",
+                    "volume": "34",
+                    "author": "Engler",
+                    "year": "2003",
+                    "journal-title": "Neuropediatrics"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "113",
+                    "DOI": "10.1016/j.pediatrneurol.2004.09.001",
+                    "article-title": "Effect of antiepileptic drug polytherapy on crystalluria",
+                    "volume": "32",
+                    "author": "Go",
+                    "year": "2005",
+                    "journal-title": "Pediatric Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0027|cit27",
+                    "unstructured": "McMaster University (developed by Evidence Prime, Inc) GRADEpro GDT 2015"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1174",
+                    "DOI": "10.1007/s001120170041",
+                    "article-title": "Current treatment strategies for seizures and in epilepsy in children",
+                    "volume": "149",
+                    "author": "Gross-Selbeck",
+                    "year": "2001",
+                    "journal-title": "Monatsschrift fur Kinderheilkunde"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0029|cit29",
+                    "unstructured": "Higgins JPT, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "212",
+                    "DOI": "10.1111/j.1528-1157.1991.tb05246.x",
+                    "article-title": "A retrospective study of spontaneous remission and long term outcome in patients with infantile spasms",
+                    "volume": "32",
+                    "author": "Hrachovy",
+                    "year": "1991",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "614",
+                    "DOI": "10.1111/j.1528-1157.1997.tb01148.x",
+                    "article-title": "ILAE Commission Report. The epidemiology of the epilepsies: future directions",
+                    "volume": "38",
+                    "author": "International League Against Epilepsy",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "277",
+                    "DOI": "10.1016/S0920-1211(02)00054-2",
+                    "article-title": "Sulthiame in adults with refractory epilepsy and learning disability: an open trial",
+                    "volume": "50",
+                    "author": "Koepp",
+                    "year": "2002",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1069",
+                    "DOI": "10.1111/j.1528-1167.2009.02397.x",
+                    "article-title": "Definition of drug resistant epilepsy: Consensus proposal by the ad hoc Task Force of the ILAE Commission on Therapeutic Strategies",
+                    "volume": "51",
+                    "author": "Kwan",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0034|cit34",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011).The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "469",
+                    "DOI": "10.1046/j.1528-1157.2002.32601.x",
+                    "article-title": "Carbonic anhydrase inhibitor sulthiame reduces intracellular pH and epileptiform activity of hippocampal CA3 neurons",
+                    "volume": "43",
+                    "author": "Leniger",
+                    "year": "2002",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0036|cit36",
+                    "first-page": "17",
+                    "article-title": "Sulthiame treatment for patients with intractable epilepsy",
+                    "volume": "41",
+                    "author": "Miyajima",
+                    "year": "2009",
+                    "journal-title": "No To Hattatsu"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0037|cit37",
+                    "unstructured": "Nordic Cochrane Centre, The Cochrane Collaboration Review Manager 5 (RevMan 5) 2014"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1007",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02126.x",
+                    "article-title": "Some aspects of prognosis in the epilepsies: a review",
+                    "volume": "34",
+                    "author": "Sander",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "194",
+                    "DOI": "10.2165/00023210-199503030-00005",
+                    "article-title": "Monotherapy versus polytherapy in epilepsy: a reappraisal",
+                    "volume": "3",
+                    "author": "Schmidt",
+                    "year": "1995",
+                    "journal-title": "CNS Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0040|cit40",
+                    "unstructured": "Sch\u00fcnemann H Bro\u017cek J Guyatt G Oxman A editor(s) Handbook for grading the quality of evidence and the strength of recommendations using the GRADE approach (updated October 2013). GRADE Working Group, 2013 Available from gdt.guidelinedevelopment.org/app/handbook/handbook.html"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0041|cit41",
+                    "unstructured": "Sterne JAC Egger M Moher D Chapter 10: Addressing reporting biases. In: Higgins JPT, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "805",
+                    "DOI": "10.1016/j.seizure.2011.08.006",
+                    "article-title": "Sulthiame in refractory paediatric epilepsies: an experience of an 'old' antiepileptic drug in a tertiary paediatric neurology unit",
+                    "volume": "20",
+                    "author": "Swiderska",
+                    "year": "2011",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "752",
+                    "DOI": "10.1097/PEC.0b013e3181f39b4b",
+                    "article-title": "Respiratory alkalosis and metabolic acidosis in a child treated with sulthiame",
+                    "volume": "26",
+                    "author": "Weissbach",
+                    "year": "2010",
+                    "journal-title": "Pediatric Emergency Care"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0044|cit44",
+                    "unstructured": "World Health Organization (WHO) Epilepsy www.who.int/news-room/fact-sheets/detail/epilepsy"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "14",
+                    "DOI": "10.1177/0883073807307082",
+                    "article-title": "Deterioration in cognitive function in children with benign epilepsy of childhood with central temporal spikes treated with sulthiame",
+                    "volume": "23",
+                    "author": "Wirrel",
+                    "year": "2008",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0046|cit46",
+                    "author": "Milburn-McNulty",
+                    "issue": "12",
+                    "year": "2011",
+                    "article-title": "Sulthiame add-on therapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD009472",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0047|cit47",
+                    "author": "Milburn-McNulty",
+                    "issue": "3",
+                    "year": "2013",
+                    "article-title": "Sulthiame add-on therapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD009472.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD009472.pub4-BIB0048|cit48",
+                    "author": "Milburn-McNulty",
+                    "issue": "10",
+                    "year": "2015",
+                    "article-title": "Sulthiame add-on therapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD009472.pub3",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        23
+                    ]
+                ],
+                "date-time": "2020-08-23T03:54:10Z",
+                "timestamp": 1598154850000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        27
+                    ]
+                ]
+            },
+            "references-count": 48,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD009472.pub4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "31453633",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "09",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "08",
+                    "Day": "27"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD009472.pub4"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "08",
+                            "Day": "27"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "8",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "08",
+                                "Day": "27"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Sulthiame add-on therapy for epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD009472"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the Cochrane Review previously published in the Cochrane Database of Systematic Reviews 2015, Issue 10. Epilepsy is a common neurological condition, characterised by recurrent seizures. Most people respond to conventional antiepileptic drugs, however, around 30% will continue to experience seizures, despite treatment with multiple antiepileptic drugs. Sulthiame, also known as sultiame, is a widely used antiepileptic drug in Europe and Israel. We present a summary of the evidence for the use of sulthiame as add-on therapy in epilepsy.",
+                            "To assess the efficacy and tolerability of sulthiame as add-on therapy for people with epilepsy of any aetiology compared with placebo or another antiepileptic drug.",
+                            "For the latest update, we searched the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group's Specialized Register and CENTRAL (17 January 2019), MEDLINE Ovid (1946 to January 16, 2019), ClinicalTrials.gov and the WHO ICTRP Search Portal (17 January 2019). We imposed no language restrictions. We contacted the manufacturers of sulthiame, and researchers in the field to seek any ongoing or unpublished studies.",
+                            "Randomised controlled trials of add-on sulthiame, with any level of blinding (single, double or unblinded) in people of any age, with epilepsy of any aetiology.",
+                            "Two review authors independently selected trials for inclusion, and extracted relevant data. We assessed these outcomes: (1) 50% or greater reduction in seizure frequency between baseline and end of follow-up; (2) complete cessation of seizures during follow-up; (3) mean seizure frequency; (4) time-to-treatment withdrawal; (5) adverse effects; and (6) quality of life. We used intention-to-treat for primary analyses. We presented results as risk ratios (RR) with 95% confidence intervals (CIs). However, due to the paucity of trials, we mainly conducted a narrative analysis.",
+                            "We included one placebo-controlled trial that recruited 37 infants with newly diagnosed West syndrome. This trial was funded by DESITIN Pharma, Germany. During the study, sulthiame was given as an add-on therapy to pyridoxine. No data were reported for the outcomes: 50% or greater reduction in seizure frequency between baseline and end of follow-up; mean seizure frequency; or quality of life. For complete cessation of seizures during a nine-day follow-up period for add-on sulthiame versus placebo, the RR was 11.14 (95% CI 0.67 to 184.47; very low-certainty evidence), however, this difference was not shown to be statistically significant (P = 0.09). The number of infants experiencing one or more adverse events was not significantly different between the two treatment groups (RR 0.85, 95% CI 0.44 to 1.64; very low-certainty evidence; P = 0.63). Somnolence was more prevalent amongst infants randomised to add-on sulthiame compared to placebo, but again, the difference was not statistically significant (RR 3.40, 95% CI 0.42 to 27.59; very low-certainty evidence; P = 0.25). We were unable to conduct meaningful analysis of time-to-treatment withdrawal and adverse effects due to incomplete data.",
+                            "Sulthiame may lead to a cessation of seizures when used as an add-on therapy to pyridoxine in infants with West syndrome, however, we are very uncertain about the reliability of this finding. The included study was small and had a significant risk of bias, largely due to the lack of details regarding blinding and the incomplete reporting of outcomes. Both issues negatively impacted the certainty of the evidence. No conclusions can be drawn about the occurrence of adverse effects, change in quality of life, or mean reduction in seizure frequency. No evidence exists for the use of sulthiame as an add-on therapy in people with epilepsy outside West syndrome.Large, multi-centre randomised controlled trials are needed to inform clinical practice, if sulthiame is to be used as an add-on therapy for epilepsy."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Lower Lane, Liverpool, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bresnahan",
+                            "ForeName": "Rebecca",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Martin-McGill",
+                            "ForeName": "Kirsty J",
+                            "Initials": "KJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Milburn-McNulty",
+                            "ForeName": "Philip",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Powell",
+                            "ForeName": "Graham",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Sills",
+                            "ForeName": "Graeme J",
+                            "Initials": "GJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "SRP/16/114/26",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Thiazines"
+                    },
+                    {
+                        "RegistryNumber": "I00Q766CZ2",
+                        "NameOfSubstance": "sulthiame"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2015 Oct 28;(10):CD009472",
+                        "PMID": "26510094"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Drug Therapy, Combination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Infant",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Thiazines",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Br J Psychiatry. 1964 Mar;110:261-6",
+                                "ArticleIdList": [
+                                    "14130479"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatr Int. 2004 Oct;46(5):521-4",
+                                "ArticleIdList": [
+                                    "15491376"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2006 Nov;72(1):18-24",
+                                "ArticleIdList": [
+                                    "16930943"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 Nov-Dec;34(6):1007-16",
+                                "ArticleIdList": [
+                                    "8243349"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000 Oct;41(10):1284-8",
+                                "ArticleIdList": [
+                                    "11051123"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Neurol. 2008 Jan;23(1):14-21",
+                                "ArticleIdList": [
+                                    "18184938"
+                                ]
+                            },
+                            {
+                                "Citation": "No To Hattatsu. 2009 Jan;41(1):17-20",
+                                "ArticleIdList": [
+                                    "19172811"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004 Feb;45(2):103-8",
+                                "ArticleIdList": [
+                                    "14738417"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2002 May;43(5):469-74",
+                                "ArticleIdList": [
+                                    "12027906"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Paediatr Neurol. 2013 Sep;17(5):507-14",
+                                "ArticleIdList": [
+                                    "23642492"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 1970 Dec;117(541):673-8",
+                                "ArticleIdList": [
+                                    "4395345"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1991 Mar-Apr;32(2):212-4",
+                                "ArticleIdList": [
+                                    "1848513"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Paediatr Neurol. 2017 Nov;21(6):e1",
+                                "ArticleIdList": [
+                                    "28797736"
+                                ]
+                            },
+                            {
+                                "Citation": "Nervenarzt. 2007 Dec;78(12):1407-12",
+                                "ArticleIdList": [
+                                    "17604973"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009472",
+                                "ArticleIdList": [
+                                    "23543577"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1996 Jan 18;334(3):168-75",
+                                "ArticleIdList": [
+                                    "8531974"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2018 Nov;62:55-58",
+                                "ArticleIdList": [
+                                    "30286409"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Oct 28;(10):CD009472",
+                                "ArticleIdList": [
+                                    "26510094"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2011 Dec;20(10):805-8",
+                                "ArticleIdList": [
+                                    "21924927"
+                                ]
+                            },
+                            {
+                                "Citation": "Dis Nerv Syst. 1967 Apr;28(4):259-63",
+                                "ArticleIdList": [
+                                    "4381572"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Med Croatica. 2005;59(1):59-62",
+                                "ArticleIdList": [
+                                    "15813357"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1997 May;38(5):614-8",
+                                "ArticleIdList": [
+                                    "9184609"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2018 Mar;56:115-120",
+                                "ArticleIdList": [
+                                    "29475094"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatr Neurol. 2005 Feb;32(2):113-5",
+                                "ArticleIdList": [
+                                    "15664771"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Paediatr Neurol. 2016 Nov;20(6):874-879",
+                                "ArticleIdList": [
+                                    "27553576"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2003 Feb;44(2):215-20",
+                                "ArticleIdList": [
+                                    "12558577"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 Jun;51(6):1069-77",
+                                "ArticleIdList": [
+                                    "19889013"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuropediatrics. 2003 Apr;34(2):105-9",
+                                "ArticleIdList": [
+                                    "12776234"
+                                ]
+                            },
+                            {
+                                "Citation": "Pediatr Emerg Care. 2010 Oct;26(10):752-3",
+                                "ArticleIdList": [
+                                    "20930598"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2002 Aug;50(3):277-82",
+                                "ArticleIdList": [
+                                    "12200218"
+                                ]
+                            },
+                            {
+                                "Citation": "Dev Med Child Neurol. 1963 Jun;5:313-5",
+                                "ArticleIdList": [
+                                    "13956541"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "9",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "8",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "31453633",
+                    "10.1002/14651858.CD009472.pub4",
+                    "PMC6710989"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31453633)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831453633%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831453633%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071628222"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071628222?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071628222&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071628222&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071628222",
+                        "dc:identifier": "SCOPUS_ID:85071628222",
+                        "eid": "2-s2.0-85071628222",
+                        "dc:title": "Sulthiame add-on therapy for epilepsy",
+                        "dc:creator": "Bresnahan R.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2019",
+                        "prism:issueIdentifier": "8",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-08-27",
+                        "prism:coverDisplayDate": "27 August 2019",
+                        "prism:doi": "10.1002/14651858.CD009472.pub4",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31453633",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD009472",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "4GL3R66S.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31453633"
+            }
+        },
+        "title": "Sulthiame add-on therapy for epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Bresnahan R",
+                "family": "Bresnahan",
+                "given": "Rebecca",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Lower Lane, Liverpool, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Martin-McGill K",
+                "family": "Martin-McGill",
+                "given": "Kirsty J",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Milburn-McNulty P",
+                "family": "Milburn-McNulty",
+                "given": "Philip",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Powell G",
+                "family": "Powell",
+                "given": "Graham",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Sills G",
+                "family": "Sills",
+                "given": "Graeme J",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Bresnahan R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Therapy, Combination",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Infant",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Thiazines",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "8",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the Cochrane Review previously published in the Cochrane Database of Systematic Reviews 2015, Issue 10. Epilepsy is a common neurological condition, characterised by recurrent seizures. Most people respond to conventional antiepileptic drugs, however, around 30% will continue to experience seizures, despite treatment with multiple antiepileptic drugs. Sulthiame, also known as sultiame, is a widely used antiepileptic drug in Europe and Israel. We present a summary of the evidence for the use of sulthiame as add-on therapy in epilepsy.', 'To assess the efficacy and tolerability of sulthiame as add-on therapy for people with epilepsy of any aetiology compared with placebo or another antiepileptic drug.', \"For the latest update, we searched the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group's Specialized Register and CENTRAL (17 January 2019), MEDLINE Ovid (1946 to January 16, 2019), ClinicalTrials.gov and the WHO ICTRP Search Portal (17 January 2019). We imposed no language restrictions. We contacted the manufacturers of sulthiame, and researchers in the field to seek any ongoing or unpublished studies.\", 'Randomised controlled trials of add-on sulthiame, with any level of blinding (single, double or unblinded) in people of any age, with epilepsy of any aetiology.', 'Two review authors independently selected trials for inclusion, and extracted relevant data. We assessed these outcomes: (1) 50% or greater reduction in seizure frequency between baseline and end of follow-up; (2) complete cessation of seizures during follow-up; (3) mean seizure frequency; (4) time-to-treatment withdrawal; (5) adverse effects; and (6) quality of life. We used intention-to-treat for primary analyses. We presented results as risk ratios (RR) with 95% confidence intervals (CIs). However, due to the paucity of trials, we mainly conducted a narrative analysis.', 'We included one placebo-controlled trial that recruited 37 infants with newly diagnosed West syndrome. This trial was funded by DESITIN Pharma, Germany. During the study, sulthiame was given as an add-on therapy to pyridoxine. No data were reported for the outcomes: 50% or greater reduction in seizure frequency between baseline and end of follow-up; mean seizure frequency; or quality of life. For complete cessation of seizures during a nine-day follow-up period for add-on sulthiame versus placebo, the RR was 11.14 (95% CI 0.67 to 184.47; very low-certainty evidence), however, this difference was not shown to be statistically significant (P = 0.09). The number of infants experiencing one or more adverse events was not significantly different between the two treatment groups (RR 0.85, 95% CI 0.44 to 1.64; very low-certainty evidence; P = 0.63). Somnolence was more prevalent amongst infants randomised to add-on sulthiame compared to placebo, but again, the difference was not statistically significant (RR 3.40, 95% CI 0.42 to 27.59; very low-certainty evidence; P = 0.25). We were unable to conduct meaningful analysis of time-to-treatment withdrawal and adverse effects due to incomplete data.', 'Sulthiame may lead to a cessation of seizures when used as an add-on therapy to pyridoxine in infants with West syndrome, however, we are very uncertain about the reliability of this finding. The included study was small and had a significant risk of bias, largely due to the lack of details regarding blinding and the incomplete reporting of outcomes. Both issues negatively impacted the certainty of the evidence. No conclusions can be drawn about the occurrence of adverse effects, change in quality of life, or mean reduction in seizure frequency. No evidence exists for the use of sulthiame as an add-on therapy in people with epilepsy outside West syndrome.Large, multi-centre randomised controlled trials are needed to inform clinical practice, if sulthiame is to be used as an add-on therapy for epilepsy.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Lower Lane, Liverpool, UK, L9 7LJ.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

@@ -1,0 +1,1255 @@
+{
+    "IDs": {
+        "zotero": "RBP95KZC",
+        "DOI": "10.1136/bmjopen-2017-019282",
+        "DOI_filename": "d5b1832b0f6d4287f20c96fb33c27e69",
+        "PMID": "29247113",
+        "scopus": "2-s2.0-85050880450",
+        "hash": "4a96f19dd3a7f695928f15154adeea08"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "RBP95KZC",
+            "version": 177,
+            "itemType": "journalArticle",
+            "title": "Outcomes of specialist discharge coordination and intermediate care schemes for patients who are homeless: analysis protocol for a population-based historical cohort",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ruth M",
+                    "lastName": "Blackburn"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Hayward"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Cornes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Martin",
+                    "lastName": "McKee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dan",
+                    "lastName": "Lewer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Martin",
+                    "lastName": "Whiteford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dee",
+                    "lastName": "Menezes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Serena",
+                    "lastName": "Luchenski"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alistair",
+                    "lastName": "Story"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Spiros",
+                    "lastName": "Denaxas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michela",
+                    "lastName": "Tinelli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fatima B",
+                    "lastName": "Wurie"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Byng"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael C",
+                    "lastName": "Clark"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Fuller"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nigel",
+                    "lastName": "Hewett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alan",
+                    "lastName": "Kilmister"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jill",
+                    "lastName": "Manthorpe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanne",
+                    "lastName": "Neale"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Robert W",
+                    "lastName": "Aldridge"
+                }
+            ],
+            "abstractNote": "Introduction\n              People who are homeless often experience poor hospital discharge arrangements, reflecting ongoing care and housing needs. Specialist integrated homeless health and care provision (SIHHC) schemes have been developed and implemented to facilitate the safe and timely discharge of homeless patients from hospital. Our study aims to investigate the health outcomes of patients who were homeless and seen by a selection of SIHHC services.\n            \n            \n              Methods and analysis\n              Our study will employ a historical population-based cohort in England. We will examine health outcomes among three groups of adults: (1) homeless patients seen by specialist discharge schemes during their hospital admission; (2) homeless patients not seen by a specialist scheme and (3) admitted patients who live in deprived neighbourhoods and were not recorded as being homeless. Primary outcomes will be: time from discharge to next hospital inpatient admission; time from discharge to next accident and emergency attendance and 28-day emergency readmission. Outcome data will be generated through linkage to hospital admissions data (Hospital Episode Statistics) and mortality data for November 2013 to November 2016. Multivariable regression will be used to model the relationship between the study comparison groups and each of the outcomes.\n            \n            \n              Ethics and dissemination\n              Approval has been obtained from the National Health Service (NHS) Confidentiality Advisory Group (reference 16/CAG/0021) to undertake this work using unconsented identifiable data. Health Research Authority Research Ethics approval (REC 16/EE/0018) has been obtained in addition to local research and development approvals for data collection at NHS sites. We will feedback the results of our study to our advisory group of people who have lived experience of homelessness and seek their suggestions on ways to improve or take this work further for their benefit. We will disseminate our findings to SIHHC schemes through a series of regional workshops.",
+            "publicationTitle": "BMJ Open",
+            "volume": "7",
+            "issue": "12",
+            "pages": "e019282",
+            "date": "12/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2017-019282",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Outcomes of specialist discharge coordination and intermediate care schemes for patients who are homeless",
+            "url": "http://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2017-019282",
+            "accessDate": "2020-09-10T17:09:03Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 29247113",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:03Z",
+            "dateModified": "2020-09-15T14:20:41Z",
+            "pmid": "29247113"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        4
+                    ]
+                ],
+                "date-time": "2020-09-04T12:07:29Z",
+                "timestamp": 1599221249900
+            },
+            "reference-count": 0,
+            "publisher": "BMJ",
+            "issue": "12",
+            "funder": [
+                {
+                    "DOI": "10.13039/501100002001",
+                    "name": "Health Services and Delivery Research Programme",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Introduction</jats:title><jats:p>People who are homeless often experience poor hospital discharge arrangements, reflecting ongoing care and housing needs. Specialist integrated homeless health and care provision (SIHHC) schemes have been developed and implemented to facilitate the safe and timely discharge of homeless patients from hospital. Our study aims to investigate the health outcomes of patients who were homeless and seen by a selection of SIHHC services.</jats:p></jats:sec><jats:sec><jats:title>Methods and analysis</jats:title><jats:p>Our study will employ a historical population-based cohort in England. We will examine health outcomes among three groups of adults: (1) homeless patients seen by specialist discharge schemes during their hospital admission; (2) homeless patients not seen by a specialist scheme and (3) admitted patients who live in deprived neighbourhoods and were not recorded as being homeless. Primary outcomes will be: time from discharge to next hospital inpatient admission; time from discharge to next accident and emergency attendance and 28-day emergency readmission. Outcome data will be generated through linkage to hospital admissions data (Hospital Episode Statistics) and mortality data for November 2013 to November 2016. Multivariable regression will be used to model the relationship between the study comparison groups and each of the outcomes.</jats:p></jats:sec><jats:sec><jats:title>Ethics and dissemination</jats:title><jats:p>Approval has been obtained from the National Health Service (NHS) Confidentiality Advisory Group (reference 16/CAG/0021) to undertake this work using unconsented identifiable data. Health Research Authority Research Ethics approval (REC 16/EE/0018) has been obtained in addition to local research and development approvals for data collection at NHS sites. We will feedback the results of our study to our advisory group of people who have lived experience of homelessness and seek their suggestions on ways to improve or take this work further for their benefit. We will disseminate our findings to SIHHC schemes through a series of regional workshops.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2017-019282",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        15
+                    ]
+                ],
+                "date-time": "2017-12-15T04:58:20Z",
+                "timestamp": 1513313900000
+            },
+            "page": "e019282",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Outcomes of specialist discharge coordination and intermediate care schemes for patients who are homeless: analysis protocol for a population-based historical cohort",
+            "prefix": "10.1136",
+            "volume": "7",
+            "author": [
+                {
+                    "given": "Ruth M",
+                    "family": "Blackburn",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Hayward",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michelle",
+                    "family": "Cornes",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Martin",
+                    "family": "McKee",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Dan",
+                    "family": "Lewer",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Martin",
+                    "family": "Whiteford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Dee",
+                    "family": "Menezes",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Serena",
+                    "family": "Luchenski",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alistair",
+                    "family": "Story",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Spiros",
+                    "family": "Denaxas",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michela",
+                    "family": "Tinelli",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4802-2308",
+                    "authenticated-orcid": false,
+                    "given": "Fatima B",
+                    "family": "Wurie",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Richard",
+                    "family": "Byng",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Michael C",
+                    "family": "Clark",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "James",
+                    "family": "Fuller",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nigel",
+                    "family": "Hewett",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alan",
+                    "family": "Kilmister",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jill",
+                    "family": "Manthorpe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Joanne",
+                    "family": "Neale",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Robert W",
+                    "family": "Aldridge",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        12,
+                        14
+                    ]
+                ]
+            },
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2017-019282",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        11
+                    ]
+                ],
+                "date-time": "2018-12-11T18:36:39Z",
+                "timestamp": 1544553399000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12,
+                            19
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "12"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2017-019282"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2017-019282",
+            "relation": {},
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "homelessness",
+                        "hospital discharge",
+                        "intermediate care",
+                        "medical respite"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "29247113",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "08",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "03",
+                    "Day": "10"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2017-019282"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "12",
+                            "Day": "14"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "Issue": "12",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Dec",
+                                "Day": "14"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Outcomes of specialist discharge coordination and intermediate care schemes for patients who are homeless: analysis protocol for a population-based historical cohort.",
+                    "Pagination": {
+                        "MedlinePgn": "e019282"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "People who are homeless often experience poor hospital discharge arrangements, reflecting ongoing care and housing needs. Specialist integrated homeless health and care provision (SIHHC) schemes have been developed and implemented to facilitate the safe and timely discharge of homeless patients from hospital. Our study aims to investigate the health outcomes of patients who were homeless and seen by a selection of SIHHC services.",
+                            "Our study will employ a historical population-based cohort in England. We will examine health outcomes among three groups of adults: (1) homeless patients seen by specialist discharge schemes during their hospital admission; (2) homeless patients not seen by a specialist scheme and (3) admitted patients who live in deprived neighbourhoods and were not recorded as being homeless. Primary outcomes will be: time from discharge to next hospital inpatient admission; time from discharge to next accident and emergency attendance and 28-day emergency readmission. Outcome data will be generated through linkage to hospital admissions data (Hospital Episode Statistics) and mortality data for November 2013 to November 2016. Multivariable regression will be used to model the relationship between the study comparison groups and each of the outcomes.",
+                            "Approval has been obtained from the National Health Service (NHS) Confidentiality Advisory Group (reference 16/CAG/0021) to undertake this work using unconsented identifiable data. Health Research Authority Research Ethics approval (REC 16/EE/0018) has been obtained in addition to local research and development approvals for data collection at NHS sites. We will feedback the results of our study to our advisory group of people who have lived experience of homelessness and seek their suggestions on ways to improve or take this work further for their benefit. We will disseminate our findings to SIHHC schemes through a series of regional workshops."
+                        ],
+                        "CopyrightInformation": "\u00a9 Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2017. All rights reserved. No commercial use is permitted unless otherwise expressly granted."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Blackburn",
+                            "ForeName": "Ruth M",
+                            "Initials": "RM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hayward",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social Care Workforce Research Unit, King's College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cornes",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research & Policy, London School of Hygiene and Tropical Medicine, London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McKee",
+                            "ForeName": "Martin",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lewer",
+                            "ForeName": "Dan",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whiteford",
+                            "ForeName": "Martin",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Menezes",
+                            "ForeName": "Dee",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Luchenski",
+                            "ForeName": "Serena",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University College London Hospitals, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Story",
+                            "ForeName": "Alistair",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Denaxas",
+                            "ForeName": "Spiros",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Personal Social Services Research Unit (PSSRU), London School of Economics and Political Science, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tinelli",
+                            "ForeName": "Michela",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-4802-2308"
+                            ],
+                            "LastName": "Wurie",
+                            "ForeName": "Fatima B",
+                            "Initials": "FB"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Community and Primary Care Research Group, Plymouth University Peninsula Schools of Medicine and Dentistry, PLYMOUTH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Byng",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Personal Social Services Research Unit (PSSRU), London School of Economics and Political Science, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clark",
+                            "ForeName": "Michael C",
+                            "Initials": "MC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social Care Workforce Research Unit, King's College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Fuller",
+                            "ForeName": "James",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Pathway Charity, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hewett",
+                            "ForeName": "Nigel",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social Care Workforce Research Unit, King's College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kilmister",
+                            "ForeName": "Alan",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social Care Workforce Research Unit, King's College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Manthorpe",
+                            "ForeName": "Jill",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Addiction Centre, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Neale",
+                            "ForeName": "Joanne",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Farr Institute of Health Informatics Research, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Aldridge",
+                            "ForeName": "Robert W",
+                            "Initials": "RW"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Acronym": "WT_",
+                            "Agency": "Wellcome Trust",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "HS&DR/13/156/10",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/K006584/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Homeless Persons",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Housing",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Information Storage and Retrieval",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Discharge",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Outcome Assessment",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Readmission",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Research Design",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: ACH is a trustee of the Pathway: Healthcare for homeless people charity. AS is Clinical Lead and Manager for Find and Treat. NH is Medical Director of Pathway Charity, London, a charity that trains and supports Pathway care coordination teams in hospital."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Lancet. 2015 Dec 5;386(10010):2257-74",
+                                "ArticleIdList": [
+                                    "26382241"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Med (Lond). 2016 Jun;16(3):223-9",
+                                "ArticleIdList": [
+                                    "27251910"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2015 Oct 06;12(10):e1001885",
+                                "ArticleIdList": [
+                                    "26440803"
+                                ]
+                            },
+                            {
+                                "Citation": "Can J Public Health. 2002 Nov-Dec;93(6):407-10",
+                                "ArticleIdList": [
+                                    "12448860"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2014 Jan 16;14:44",
+                                "ArticleIdList": [
+                                    "24433371"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2012 Sep 28;345:e5999",
+                                "ArticleIdList": [
+                                    "23045316"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "12",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "29247113",
+                    "bmjopen-2017-019282",
+                    "10.1136/bmjopen-2017-019282",
+                    "PMC5736042"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(29247113)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829247113%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829247113%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050880450"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050880450?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050880450&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050880450&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050880450",
+                        "dc:identifier": "SCOPUS_ID:85050880450",
+                        "eid": "2-s2.0-85050880450",
+                        "dc:title": "Outcomes of specialist discharge coordination and intermediate care schemes for patients who are homeless: Analysis protocol for a population-based historical cohort",
+                        "dc:creator": "Blackburn R.M.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "12",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-12-01",
+                        "prism:coverDisplayDate": "1 December 2017",
+                        "prism:doi": "10.1136/bmjopen-2017-019282",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University College London",
+                                "affiliation-city": "London",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "29247113",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e019282",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "RBP95KZC.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "29247113"
+            }
+        },
+        "title": "Outcomes of specialist discharge coordination and intermediate care schemes for patients who are homeless: analysis protocol for a population-based historical cohort.",
+        "full_author_list": [
+            {
+                "clean": "Blackburn R",
+                "family": "Blackburn",
+                "given": "Ruth M",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Hayward A",
+                "family": "Hayward",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Cornes M",
+                "family": "Cornes",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "Social Care Workforce Research Unit, King's College London, London, UK."
+                }
+            },
+            {
+                "clean": "McKee M",
+                "family": "McKee",
+                "given": "Martin",
+                "affiliation": {
+                    "name": "Department of Health Services Research & Policy, London School of Hygiene and Tropical Medicine, London, London, UK."
+                }
+            },
+            {
+                "clean": "Lewer D",
+                "family": "Lewer",
+                "given": "Dan",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Whiteford M",
+                "family": "Whiteford",
+                "given": "Martin",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Menezes D",
+                "family": "Menezes",
+                "given": "Dee",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Luchenski S",
+                "family": "Luchenski",
+                "given": "Serena",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Story A",
+                "family": "Story",
+                "given": "Alistair",
+                "affiliation": {
+                    "name": "University College London Hospitals, London, UK."
+                }
+            },
+            {
+                "clean": "Denaxas S",
+                "family": "Denaxas",
+                "given": "Spiros",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Tinelli M",
+                "family": "Tinelli",
+                "given": "Michela",
+                "affiliation": {
+                    "name": "Personal Social Services Research Unit (PSSRU), London School of Economics and Political Science, London, UK."
+                }
+            },
+            {
+                "clean": "Wurie F",
+                "family": "Wurie",
+                "given": "Fatima B",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Byng R",
+                "family": "Byng",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "Community and Primary Care Research Group, Plymouth University Peninsula Schools of Medicine and Dentistry, PLYMOUTH, UK."
+                }
+            },
+            {
+                "clean": "Clark M",
+                "family": "Clark",
+                "given": "Michael C",
+                "affiliation": {
+                    "name": "Personal Social Services Research Unit (PSSRU), London School of Economics and Political Science, London, UK."
+                }
+            },
+            {
+                "clean": "Fuller J",
+                "family": "Fuller",
+                "given": "James",
+                "affiliation": {
+                    "name": "Social Care Workforce Research Unit, King's College London, London, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hewett N",
+                "family": "Hewett",
+                "given": "Nigel",
+                "affiliation": {
+                    "name": "Pathway Charity, London, UK."
+                }
+            },
+            {
+                "clean": "Kilmister A",
+                "family": "Kilmister",
+                "given": "Alan",
+                "affiliation": {
+                    "name": "Social Care Workforce Research Unit, King's College London, London, UK."
+                }
+            },
+            {
+                "clean": "Manthorpe J",
+                "family": "Manthorpe",
+                "given": "Jill",
+                "affiliation": {
+                    "name": "Social Care Workforce Research Unit, King's College London, London, UK."
+                }
+            },
+            {
+                "clean": "Neale J",
+                "family": "Neale",
+                "given": "Joanne",
+                "affiliation": {
+                    "name": "National Addiction Centre, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK."
+                }
+            },
+            {
+                "clean": "Aldridge R",
+                "family": "Aldridge",
+                "given": "Robert W",
+                "affiliation": {
+                    "name": "Institute of Health Informatics, University College London, London, UK."
+                }
+            }
+        ],
+        "first_author": "Blackburn R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Homeless Persons",
+                    "major": "Y"
+                },
+                {
+                    "term": "Housing",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Information Storage and Retrieval",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Discharge",
+                    "major": "Y"
+                },
+                {
+                    "term": "Patient Outcome Assessment",
+                    "major": "Y"
+                },
+                {
+                    "term": "Patient Readmission",
+                    "major": "Y"
+                },
+                {
+                    "term": "Research Design",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "7",
+            "issue": "12"
+        },
+        "abstract": "['People who are homeless often experience poor hospital discharge arrangements, reflecting ongoing care and housing needs. Specialist integrated homeless health and care provision (SIHHC) schemes have been developed and implemented to facilitate the safe and timely discharge of homeless patients from hospital. Our study aims to investigate the health outcomes of patients who were homeless and seen by a selection of SIHHC services.', 'Our study will employ a historical population-based cohort in England. We will examine health outcomes among three groups of adults: (1) homeless patients seen by specialist discharge schemes during their hospital admission; (2) homeless patients not seen by a specialist scheme and (3) admitted patients who live in deprived neighbourhoods and were not recorded as being homeless. Primary outcomes will be: time from discharge to next hospital inpatient admission; time from discharge to next accident and emergency attendance and 28-day emergency readmission. Outcome data will be generated through linkage to hospital admissions data (Hospital Episode Statistics) and mortality data for November 2013 to November 2016. Multivariable regression will be used to model the relationship between the study comparison groups and each of the outcomes.', 'Approval has been obtained from the National Health Service (NHS) Confidentiality Advisory Group (reference 16/CAG/0021) to undertake this work using unconsented identifiable data. Health Research Authority Research Ethics approval (REC 16/EE/0018) has been obtained in addition to local research and development approvals for data collection at NHS sites. We will feedback the results of our study to our advisory group of people who have lived experience of homelessness and seek their suggestions on ways to improve or take this work further for their benefit. We will disseminate our findings to SIHHC schemes through a series of regional workshops.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Health Informatics, University College London, London, UK.",
+            "clean_institute": "University College London",
+            "latitude": "51.5245592",
+            "longitude": "-0.1340401",
+            "country": "United Kingdom",
+            "postal_town": "London Borough of Camden"
+        }
+    }
+}

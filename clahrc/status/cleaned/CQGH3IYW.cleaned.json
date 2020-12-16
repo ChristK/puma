@@ -1,0 +1,104 @@
+{
+    "IDs": {
+        "zotero": "CQGH3IYW",
+        "DOI": "",
+        "DOI_filename": "",
+        "PMID": "",
+        "scopus": "",
+        "hash": "14223ad5c412ceb0bd47377c7bac6d87"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "CQGH3IYW",
+            "version": 88,
+            "itemType": "book",
+            "title": "Health, Culture and Society: Conceptual Legacies and Contemporary Applications",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Elizabeth",
+                    "lastName": "Ettorre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ellen",
+                    "lastName": "Annandale"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vanessa M.",
+                    "lastName": "Hildebrand"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Porroche-Escudero"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Barbara Katz",
+                    "lastName": "Rothman"
+                }
+            ],
+            "abstractNote": "",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Cham",
+            "publisher": "Springer International Publishing",
+            "date": "2017",
+            "numPages": "",
+            "language": "en",
+            "ISBN": "978-3-319-60785-6 978-3-319-60786-3",
+            "shortTitle": "Health, Culture and Society",
+            "url": "http://link.springer.com/10.1007/978-3-319-60786-3",
+            "accessDate": "2020-09-10T17:09:00Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "DOI: 10.1007/978-3-319-60786-3",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:00Z",
+            "dateModified": "2020-09-10T17:09:00Z"
+        },
+        "doi_data": {},
+        "pmid_data": {},
+        "scopus_data": {}
+    },
+    "filename": "CQGH3IYW.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "DOI": "10.1007/978-3-319-60786-3"
+            }
+        },
+        "title": "Health, Culture and Society: Conceptual Legacies and Contemporary Applications",
+        "full_author_list": [],
+        "first_author": "",
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {}
+        },
+        "location": {}
+    }
+}

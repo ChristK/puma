@@ -1,0 +1,1679 @@
+{
+    "IDs": {
+        "zotero": "EXH4W4ED",
+        "DOI": "10.1093/schbul/sbx110",
+        "DOI_filename": "d263cbe37dae3652598ae961a32244ee",
+        "PMID": "28981888",
+        "scopus": "2-s2.0-85045131023",
+        "hash": "3d8eb7c7f822f104943abf72f1dfff3a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "EXH4W4ED",
+            "version": 144,
+            "itemType": "journalArticle",
+            "title": "Social Identity and Psychosis: Associations and Psychological Mechanisms",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sophie",
+                    "lastName": "Wickham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard P",
+                    "lastName": "Bentall"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Schizophrenia Bulletin",
+            "volume": "44",
+            "issue": "3",
+            "pages": "681-690",
+            "date": "2018-04-06",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1093/schbul/sbx110",
+            "ISSN": "0586-7614, 1745-1701",
+            "shortTitle": "Social Identity and Psychosis",
+            "url": "https://academic.oup.com/schizophreniabulletin/article/44/3/681/4095705",
+            "accessDate": "2020-09-10T17:08:42Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28981888",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:42Z",
+            "dateModified": "2020-09-15T12:17:09Z",
+            "pmid": "28981888"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        19
+                    ]
+                ],
+                "date-time": "2020-02-19T00:43:44Z",
+                "timestamp": 1582073024604
+            },
+            "reference-count": 67,
+            "publisher": "Oxford University Press (OUP)",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                8,
+                                26
+                            ]
+                        ],
+                        "date-time": "2017-08-26T00:00:00Z",
+                        "timestamp": 1503705600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        6
+                    ]
+                ]
+            },
+            "DOI": "10.1093/schbul/sbx110",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2017-08-02T03:11:44Z",
+                "timestamp": 1501643504000
+            },
+            "page": "681-690",
+            "source": "Crossref",
+            "is-referenced-by-count": 15,
+            "title": "Social Identity and Psychosis: Associations and Psychological Mechanisms",
+            "prefix": "10.1093",
+            "volume": "44",
+            "author": [
+                {
+                    "given": "Jason C",
+                    "family": "McIntyre",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sophie",
+                    "family": "Wickham",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The Farr Institute @ HeRC, University of Liverpool, Waterhouse Building, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard P",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychology, The University of Sheffield, Sheffield, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        26
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0001",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "497",
+                    "DOI": "10.1037/0033-2909.117.3.497",
+                    "article-title": "The need to belong: desire for interpersonal attachments as a fundamental human motivation",
+                    "volume": "117",
+                    "author": "Baumeister",
+                    "year": "1995",
+                    "journal-title": "Psychol Bull"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0002",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1111/j.1464-0597.2008.00379.x",
+                    "article-title": "Social identity, health and well\u2010being: an emerging agenda for applied psychology",
+                    "volume": "58",
+                    "author": "Haslam",
+                    "year": "2009",
+                    "journal-title": "Appl Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0003",
+                    "author": "Jetten",
+                    "year": "2012",
+                    "volume-title": "The Social Cure: Identity, Health and Well-being"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0004",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "495",
+                    "DOI": "10.1080/13546800701566686",
+                    "article-title": "Persecutory delusions and the conditioned avoidance paradigm: towards an integration of the psychology and biology of paranoia",
+                    "volume": "12",
+                    "author": "Moutoussis",
+                    "year": "2007",
+                    "journal-title": "Cogn Neuropsychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0005",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "419",
+                    "DOI": "10.1192/bjp.bp.112.119032",
+                    "article-title": "The structure of paranoia in the general population",
+                    "volume": "202",
+                    "author": "Bebbington",
+                    "year": "2013",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0006",
+                    "author": "Elahi",
+                    "year": "2017",
+                    "article-title": "Does paranoia exist on a continuum? A comprehensive multi-method taxometric analysis",
+                    "journal-title": "Schizophr Res",
+                    "DOI": "10.1016/j.schres.2017.03.022",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0007",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "228",
+                    "DOI": "10.2307/2095107",
+                    "article-title": "Paranoia and the structure of powerlessness",
+                    "volume": "48",
+                    "author": "Mirowsky",
+                    "year": "1983",
+                    "journal-title": "Am Sociol Rev"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0008",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e105140",
+                    "DOI": "10.1371/journal.pone.0105140",
+                    "article-title": "The impact of social deprivation on paranoia, hallucinations, mania and depression: the role of discrimination social support, stress and trust",
+                    "volume": "9",
+                    "author": "Wickham",
+                    "year": "2014",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0009",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "71",
+                    "DOI": "10.1192/bjp.182.1.71",
+                    "article-title": "Discrimination and delusional ideation",
+                    "volume": "182",
+                    "author": "Janssen",
+                    "year": "2003",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "202",
+                    "DOI": "10.1016/j.psychres.2014.03.019",
+                    "article-title": "Associations between specific psychotic symptoms and specific childhood adversities are mediated by attachment styles: an analysis of the National Comorbidity Survey",
+                    "volume": "217",
+                    "author": "Sitko",
+                    "year": "2014",
+                    "journal-title": "Psychiatry Res"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0011",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "734",
+                    "DOI": "10.1093/schbul/sbs049",
+                    "article-title": "Do specific early-life adversities lead to specific symptoms of psychosis? A study from the 2007 the Adult Psychiatric Morbidity Survey",
+                    "volume": "38",
+                    "author": "Bentall",
+                    "year": "2012",
+                    "journal-title": "Schizophr Bull"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "206",
+                    "DOI": "10.1080/17522439.2014.980308",
+                    "article-title": "Specificity of association between adversities and the occurrence and co-occurrence paranoia and hallucinations: evaluating the stability of childhood risk in an adverse adult environment",
+                    "volume": "7",
+                    "author": "Shevlin",
+                    "year": "2015",
+                    "journal-title": "Psychosis"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0013",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1143",
+                    "DOI": "10.1016/S0272-7358(01)00106-4",
+                    "article-title": "Persecutory delusions: a review and theoretical integration",
+                    "volume": "21",
+                    "author": "Bentall",
+                    "year": "2001",
+                    "journal-title": "Clin Psychol Rev"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0014",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "331",
+                    "DOI": "10.1348/014466502760387461",
+                    "article-title": "A cognitive model of persecutory delusions",
+                    "volume": "41",
+                    "author": "Freeman",
+                    "year": "2002",
+                    "journal-title": "Br J Clin Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0015",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "236",
+                    "DOI": "10.1001/archgenpsychiatry.2009.1",
+                    "article-title": "The cognitive and affective structure of paranoid delusions: a transdiagnostic investigation of patients with schizophrenia spectrum disorders and depression",
+                    "volume": "66",
+                    "author": "Bentall",
+                    "year": "2009",
+                    "journal-title": "Arch Gen Psychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "415",
+                    "DOI": "10.1111/j.2044-8260.1998.tb01399.x",
+                    "article-title": "The London-East Anglia randomized controlled trial of cognitive-behaviour therapy for psychosis. IV: self-esteem and persecutory delusions",
+                    "volume": "37 (Pt 4)",
+                    "author": "Freeman",
+                    "year": "1998",
+                    "journal-title": "Br J Clin Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0017",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1037/0021-843X.117.1.143",
+                    "article-title": "Fluctuations in self-esteem and paranoia in the context of daily life",
+                    "volume": "117",
+                    "author": "Thewissen",
+                    "year": "2008",
+                    "journal-title": "J Abnorm Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0018",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1063",
+                    "DOI": "10.1093/schbul/sbr019",
+                    "article-title": "Negative cognition, depressed mood, and paranoia: a longitudinal pathway analysis using structural equation modeling",
+                    "volume": "38",
+                    "author": "Fowler",
+                    "year": "2012",
+                    "journal-title": "Schizophr Bull"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0019",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1495",
+                    "DOI": "10.1017/S0033291714002633",
+                    "article-title": "Insecure attachment is associated with paranoia but not hallucinations in psychotic patients: the mediating role of negative self-esteem",
+                    "volume": "45",
+                    "author": "Wickham",
+                    "year": "2015",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1212",
+                    "DOI": "10.1016/j.paid.2007.11.016",
+                    "article-title": "Insecure attachment predicts proneness to paranoia but not hallucinations",
+                    "volume": "44",
+                    "author": "Pickering",
+                    "year": "2008",
+                    "journal-title": "Pers Individ Dif"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0021",
+                    "author": "Turner",
+                    "year": "1987",
+                    "volume-title": "Rediscovering the Social Group: A Self-Categorization Theory"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0022",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0124609",
+                    "DOI": "10.1371/journal.pone.0124609",
+                    "article-title": "Having a lot of a good thing: multiple important group memberships as a source of self-esteem",
+                    "volume": "10",
+                    "author": "Jetten",
+                    "year": "2015",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0023",
+                    "author": "Tajfel",
+                    "volume": "33\u201347",
+                    "year": "1979",
+                    "article-title": "An integrative theory of intergroup conflict",
+                    "journal-title": "The Social Psychology of Intergroup Relations"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0024",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "135",
+                    "DOI": "10.1037/0022-3514.77.1.135",
+                    "article-title": "Perceiving pervasive discrimination among African Americans: implications for group identification and well-being",
+                    "volume": "77",
+                    "author": "Branscombe",
+                    "year": "1999",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0025",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "707",
+                    "DOI": "10.1348/014466608X397628",
+                    "article-title": "The more (and the more compatible) the merrier: multiple group memberships and identity compatibility as predictors of adjustment after life transitions",
+                    "volume": "48",
+                    "author": "Iyer",
+                    "year": "2009",
+                    "journal-title": "Br J Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0026",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1016/j.socscimed.2013.09.013",
+                    "article-title": "Social group memberships protect against future depression, alleviate depression symptoms and prevent depression relapse",
+                    "volume": "98",
+                    "author": "Cruwys",
+                    "year": "2013",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0027",
+                    "author": "Cruwys",
+                    "first-page": "1948550614543309",
+                    "year": "2014",
+                    "article-title": "Social identity reduces depression by fostering positive attributions",
+                    "journal-title": "Soc Psychol Personal Sci"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0028",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "619",
+                    "DOI": "10.1111/spc3.12273",
+                    "article-title": "Social identity and psychosis: explaining elevated rates of psychosis in migrant populations",
+                    "volume": "10",
+                    "author": "McIntyre",
+                    "year": "2016",
+                    "journal-title": "Soc Personal Psychol Compass"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0029",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "122",
+                    "DOI": "10.1016/j.jbtep.2016.10.004",
+                    "article-title": "Ethnic identity and paranoid thinking: implicit out-group preference and language dominance predict paranoia in Emirati women",
+                    "volume": "56",
+                    "author": "Thomas",
+                    "year": "2017",
+                    "journal-title": "J Behav Ther Exp Psychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0030",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "138",
+                    "DOI": "10.1016/j.cpr.2015.06.004",
+                    "article-title": "The relationship between dissociation and voices: a systematic literature review and meta-analysis",
+                    "volume": "40",
+                    "author": "Pilton",
+                    "year": "2015",
+                    "journal-title": "Clin Psychol Rev"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0031",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2465",
+                    "DOI": "10.1017/S0033291712002760",
+                    "article-title": "Externalizing biases and hallucinations in source-monitoring, self-monitoring and signal detection studies: a meta-analytic review",
+                    "volume": "43",
+                    "author": "Brookwell",
+                    "year": "2013",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0032",
+                    "author": "Cabinet Office",
+                    "year": "2014",
+                    "volume-title": "Community Life Survey"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0033",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1207/s15327957pspr0201_2",
+                    "article-title": "Multidimensional model of racial identity: a reconceptualization of African American racial identity",
+                    "volume": "2",
+                    "author": "Sellers",
+                    "year": "1998",
+                    "journal-title": "Pers Soc Psychol Rev"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0034",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "302",
+                    "DOI": "10.1177/0146167292183006",
+                    "article-title": "A collective self-esteem scale: self-evaluation of one\u2019s social identity",
+                    "volume": "18",
+                    "author": "Luhtanen",
+                    "year": "1992",
+                    "journal-title": "Pers Soc Psychol Bull"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0035",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "371",
+                    "DOI": "10.1002/(SICI)1099-0992(199903/05)29:2/3<371::AID-EJSP932>3.0.CO;2-U",
+                    "article-title": "Self\u2010categorisation, commitment to the group and group self\u2010esteem as related but distinct aspects of social identity",
+                    "volume": "29",
+                    "author": "Ellemers",
+                    "year": "1999",
+                    "journal-title": "Eur J Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0036",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "151",
+                    "DOI": "10.1177/0146167201272002",
+                    "article-title": "Measuring global self-esteem: construct validation of a single-item measure and the Rosenberg Self-Esteem Scale",
+                    "volume": "27",
+                    "author": "Robins",
+                    "year": "2001",
+                    "journal-title": "Pers Soc Psychol Bull"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0037",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1348/147608308X398337",
+                    "article-title": "The persecution and deservedness scale",
+                    "volume": "82",
+                    "author": "Melo",
+                    "year": "2009",
+                    "journal-title": "Psychol Psychother"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0038",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "363",
+                    "DOI": "10.1111/j.2044-8260.1989.tb00840.x",
+                    "article-title": "The multidimensional nature of schizotypal traits: a factor analytic study with normal subjects",
+                    "volume": "28 (Pt 4)",
+                    "author": "Bentall",
+                    "year": "1989",
+                    "journal-title": "Br J Clin Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0039",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "221",
+                    "DOI": "10.1016/0191-8869(81)90027-1",
+                    "article-title": "The measurement of hallucinatory predisposition in male and female prisoners",
+                    "volume": "2",
+                    "author": "Launay",
+                    "year": "1981",
+                    "journal-title": "Pers Individ Dif"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0040",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "67",
+                    "DOI": "10.1348/014466500163112",
+                    "article-title": "Cognitive factors in predisposition to auditory and visual hallucinations",
+                    "volume": "39 (Pt 1)",
+                    "author": "Morrison",
+                    "year": "2000",
+                    "journal-title": "Br J Clin Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0041",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "509",
+                    "DOI": "10.3928/0048-5713-20020901-06",
+                    "article-title": "The PHQ-9: a new depression diagnostic and severity measure",
+                    "volume": "32",
+                    "author": "Kroenke",
+                    "year": "2002",
+                    "journal-title": "Psychiatric Ann"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0042",
+                    "year": "2013",
+                    "volume-title": "IBM SPSS Statistics for Windows [computer program]"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0043",
+                    "year": "2015",
+                    "volume-title": "Stata Statistical Software: Release 14 [computer program]. Version"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0044",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "249",
+                    "DOI": "10.1207/S15327906MBR3602_06",
+                    "article-title": "Multilevel modeling of individual and group level mediated effects",
+                    "volume": "36",
+                    "author": "Krull",
+                    "year": "2001",
+                    "journal-title": "Multivariate Behav Res"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0045",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1541",
+                    "DOI": "10.1017/S0033291706008774",
+                    "article-title": "Incidence of schizophrenia and other psychoses in ethnic minority groups: results from the MRC AESOP Study",
+                    "volume": "36",
+                    "author": "Fearon",
+                    "year": "2006",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0046",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "12",
+                    "DOI": "10.1176/appi.ajp.162.1.12",
+                    "article-title": "Schizophrenia and migration: a meta-analysis and review",
+                    "volume": "162",
+                    "author": "Cantor-Graae",
+                    "year": "2005",
+                    "journal-title": "Am J Psychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0047",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "939",
+                    "DOI": "10.1007/s00127-004-0830-9",
+                    "article-title": "Risk factors and the prevalence of neurosis and psychosis in ethnic groups in Great Britain",
+                    "volume": "39",
+                    "author": "Brugha",
+                    "year": "2004",
+                    "journal-title": "Soc Psychiatry Psychiatr Epidemiol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0048",
+                    "first-page": "A1874",
+                    "article-title": "[Psychosis: from diagnosis to syndrome]",
+                    "volume": "154",
+                    "author": "van Os",
+                    "year": "2010",
+                    "journal-title": "Ned Tijdschr Geneeskd"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0049",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "383",
+                    "DOI": "10.1093/schbul/sbn135",
+                    "article-title": "Psychiatric comorbidities and schizophrenia",
+                    "volume": "35",
+                    "author": "Buckley",
+                    "year": "2009",
+                    "journal-title": "Schizophr Bull"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0050",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "717",
+                    "DOI": "10.3758/BF03206553",
+                    "article-title": "SPSS and SAS procedures for estimating indirect effects in simple mediation models",
+                    "volume": "36",
+                    "author": "Preacher",
+                    "year": "2004",
+                    "journal-title": "Behav Res Methods Instrum Comput"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0051",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1173",
+                    "DOI": "10.1037/0022-3514.51.6.1173",
+                    "article-title": "The moderator-mediator variable distinction in social psychological research: conceptual, strategic, and statistical considerations",
+                    "volume": "51",
+                    "author": "Baron",
+                    "year": "1986",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0052",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "422",
+                    "DOI": "10.1037/1082-989X.7.4.422",
+                    "article-title": "Mediation in experimental and nonexperimental studies: new procedures and recommendations",
+                    "volume": "7",
+                    "author": "Shrout",
+                    "year": "2002",
+                    "journal-title": "Psychol Methods"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0053",
+                    "year": "2015",
+                    "volume-title": "End of Cycle Report"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0054",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "135",
+                    "DOI": "10.1111/j.1600-0447.1994.tb01501.x",
+                    "article-title": "A typological model of schizophrenia based on age at onset, sex and familial morbidity",
+                    "volume": "89",
+                    "author": "Sham",
+                    "year": "1994",
+                    "journal-title": "Acta Psychiatr Scand"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0055",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "410",
+                    "DOI": "10.1006/jesp.1995.1018",
+                    "article-title": "Perceived intragroup variability as a function of group status and identification",
+                    "volume": "31",
+                    "author": "Doosje",
+                    "year": "1995",
+                    "journal-title": "J Exp Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0056",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "727",
+                    "DOI": "10.1097/00005053-198612000-00004",
+                    "article-title": "Development, reliability, and validity of a dissociation scale",
+                    "volume": "174",
+                    "author": "Bernstein",
+                    "year": "1986",
+                    "journal-title": "J Nerv Ment Dis"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0057",
+                    "author": "Hayes",
+                    "year": "2012",
+                    "volume-title": "PROCESS: A versatile computational tool for observed variable mediation, moderation, and conditional process modeling [White paper]"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0058",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "139",
+                    "DOI": "10.1016/j.jad.2014.02.019",
+                    "article-title": "Feeling connected again: interventions that increase social identification reduce depression symptoms in community and clinical settings",
+                    "volume": "159",
+                    "author": "Cruwys",
+                    "year": "2014",
+                    "journal-title": "J Affect Disord"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0059",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "213",
+                    "DOI": "10.1016/j.psychres.2015.03.030",
+                    "article-title": "Self esteem and self agency in first episode psychosis: ethnic variation and relationship with clinical presentation",
+                    "volume": "227",
+                    "author": "Ciufolini",
+                    "year": "2015",
+                    "journal-title": "Psychiatry Res"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0060",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "191",
+                    "DOI": "10.1111/j.2044-8341.1989.tb02826.x",
+                    "article-title": "Persecutory delusions and attributional style",
+                    "volume": "62 (Pt 2)",
+                    "author": "Kaney",
+                    "year": "1989",
+                    "journal-title": "Br J Med Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0061",
+                    "first-page": "297",
+                    "article-title": "Cognitive evaluation of action in chronic schizophrenia-Locus of control beliefs in an inpatient group",
+                    "volume": "39",
+                    "author": "Lasar",
+                    "year": "1997",
+                    "journal-title": "Psychologische Beitrage"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0062",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "539",
+                    "DOI": "10.1037/0022-3514.49.2.539",
+                    "article-title": "Personal efficacy, external locus of control, and perceived contingency of parental reinforcement among depressed, paranoid, and normal subjects",
+                    "volume": "49",
+                    "author": "Rosenbaum",
+                    "year": "1985",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0063",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "53",
+                    "DOI": "10.1037/pspi0000019",
+                    "article-title": "From \u201cwe\u201d to \u201cme\u201d: group identification enhances perceived personal control with consequences for health and well-being",
+                    "volume": "109",
+                    "author": "Greenaway",
+                    "year": "2015",
+                    "journal-title": "J Pers Soc Psychol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0064",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1155",
+                    "DOI": "10.1017/S0033291799002627",
+                    "article-title": "Social disability in schizophrenia: its development and prediction over 15 years in incidence cohorts in six European centres",
+                    "volume": "30",
+                    "author": "Wiersma",
+                    "year": "2000",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0065",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1001/archpsyc.62.3.247",
+                    "article-title": "The lifetime risk of suicide in schizophrenia: a reexamination",
+                    "volume": "62",
+                    "author": "Palmer",
+                    "year": "2005",
+                    "journal-title": "Arch Gen Psychiatry"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0066",
+                    "author": "Fineberg",
+                    "first-page": "0269881113495118",
+                    "year": "2013",
+                    "article-title": "The size, burden and cost of disorders of the brain in the UK",
+                    "journal-title": "J Psychopharmacol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180406155353_CIT0067",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "188",
+                    "DOI": "10.1016/j.jad.2016.01.010",
+                    "article-title": "Groups 4 Health: evidence that a social-identity intervention that builds and strengthens social group membership improves mental health",
+                    "volume": "194",
+                    "author": "Haslam",
+                    "year": "2016",
+                    "journal-title": "J Affect Disord"
+                }
+            ],
+            "container-title": "Schizophrenia Bulletin",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/schizophreniabulletin/article-pdf/44/3/681/24566234/sbx110.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        6
+                    ]
+                ],
+                "date-time": "2018-04-06T21:51:58Z",
+                "timestamp": 1523051518000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        8,
+                        26
+                    ]
+                ]
+            },
+            "references-count": 67,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            8,
+                            26
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            4,
+                            6
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "URL": "http://dx.doi.org/10.1093/schbul/sbx110",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0586-7614",
+                "1745-1701"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28981888",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "11"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "11"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1093/schbul/sbx110"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1745-1701",
+                        "JournalIssue": {
+                            "Volume": "44",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "04",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "Schizophrenia bulletin",
+                        "ISOAbbreviation": "Schizophr Bull"
+                    },
+                    "ArticleTitle": "Social Identity and Psychosis: Associations and Psychological Mechanisms.",
+                    "Pagination": {
+                        "MedlinePgn": "681-690"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Humans possess a basic need to belong and will join groups even when they provide no practical benefit. Paranoid symptoms imply a disruption of the processes involved in belonging and social trust. Past research suggests that joining social groups and incorporating those groups into one's identity (social identification) promotes positive self-views and better physical and mental health. However, no research has investigated whether social identity is associated with paranoia, nor the mechanisms by which this effect may emerge. Here, we examined the relationship between social identity and mental health (paranoia, auditory verbal hallucinations [AVHs], and depression), and tested the mediating role of self-esteem. In study 1, we analyzed data collected from 4319 UK residents as part of the NIHR CLAHRC NWC Household Health Survey. Study 2 comprised data collected from 1167 students attending a large UK university. The studies provided convergent evidence that social identification reduces symptoms of paranoia and depression by furnishing people with self-esteem. There was no consistent effect of social identification on AVHs. People developing mental health assessments, treatments, and policies are encouraged to consider the notion that joining and identifying with social groups may reduce people's risk of paranoia and depression."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Farr Institute @ HeRC, University of Liverpool, Waterhouse Building, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wickham",
+                            "ForeName": "Sophie",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychology, The University of Sheffield, Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bentall",
+                            "ForeName": "Richard P",
+                            "Initials": "RP"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Schizophr Bull",
+                    "NlmUniqueID": "0236760",
+                    "ISSNLinking": "0586-7614"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Depressive Disorder",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Hallucinations",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Paranoid Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Psychotic Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Self Concept",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Identification",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Clin Psychol Rev. 2001 Nov;21(8):1143-92",
+                                "ArticleIdList": [
+                                    "11702511"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2009 Mar;35(2):383-402",
+                                "ArticleIdList": [
+                                    "19011234"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Psychol. 1989 Nov;28 ( Pt 4):363-75",
+                                "ArticleIdList": [
+                                    "2605389"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Methods. 2002 Dec;7(4):422-45",
+                                "ArticleIdList": [
+                                    "12530702"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2015 May;45(7):1495-507",
+                                "ArticleIdList": [
+                                    "25388512"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gen Psychiatry. 2005 Mar;62(3):247-53",
+                                "ArticleIdList": [
+                                    "15753237"
+                                ]
+                            },
+                            {
+                                "Citation": "Ned Tijdschr Geneeskd. 2010;154:A1874",
+                                "ArticleIdList": [
+                                    "20456790"
+                                ]
+                            },
+                            {
+                                "Citation": "J Abnorm Psychol. 2008 Feb;117(1):143-53",
+                                "ArticleIdList": [
+                                    "18266492"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2000 Sep;30(5):1155-67",
+                                "ArticleIdList": [
+                                    "12027051"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Sociol Rev. 1983 Apr;48(2):228-39",
+                                "ArticleIdList": [
+                                    "6859680"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Psychiatry. 2005 Jan;162(1):12-24",
+                                "ArticleIdList": [
+                                    "15625195"
+                                ]
+                            },
+                            {
+                                "Citation": "Cogn Neuropsychiatry. 2007 Nov;12(6):495-510",
+                                "ArticleIdList": [
+                                    "17978936"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Psychol. 2000 Mar;39 ( Pt 1):67-78",
+                                "ArticleIdList": [
+                                    "10789029"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2015 May 27;10(5):e0124609",
+                                "ArticleIdList": [
+                                    "26017554"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2013 Dec;98:179-86",
+                                "ArticleIdList": [
+                                    "24331897"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Psychother. 2009 Sep;82(Pt 3):247-60",
+                                "ArticleIdList": [
+                                    "19426584"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Psychol. 2002 Nov;41(Pt 4):331-47",
+                                "ArticleIdList": [
+                                    "12437789"
+                                ]
+                            },
+                            {
+                                "Citation": "J Behav Ther Exp Psychiatry. 2017 Sep;56:122-128",
+                                "ArticleIdList": [
+                                    "28029348"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2012 Jun;38(4):734-40",
+                                "ArticleIdList": [
+                                    "22496540"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Bull. 1995 May;117(3):497-529",
+                                "ArticleIdList": [
+                                    "7777651"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychiatry Res. 2014 Jul 30;217(3):202-9",
+                                "ArticleIdList": [
+                                    "24726818"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2016 Apr;194:188-95",
+                                "ArticleIdList": [
+                                    "26828756"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pers Soc Psychol. 2015 Jul;109(1):53-74",
+                                "ArticleIdList": [
+                                    "25938701"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychiatry Res. 2015 Jun 30;227(2-3):213-8",
+                                "ArticleIdList": [
+                                    "25868868"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Psychol. 1998 Nov;37 ( Pt 4):415-30",
+                                "ArticleIdList": [
+                                    "9856295"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gen Psychiatry. 2009 Mar;66(3):236-47",
+                                "ArticleIdList": [
+                                    "19255373"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2013 Dec;43(12):2465-75",
+                                "ArticleIdList": [
+                                    "23282942"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Psychiatr Scand. 1994 Feb;89(2):135-41",
+                                "ArticleIdList": [
+                                    "8178665"
+                                ]
+                            },
+                            {
+                                "Citation": "Pers Soc Psychol Rev. 1998;2(1):18-39",
+                                "ArticleIdList": [
+                                    "15647149"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nerv Ment Dis. 1986 Dec;174(12):727-35",
+                                "ArticleIdList": [
+                                    "3783140"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pers Soc Psychol. 1985 Aug;49(2):539-47",
+                                "ArticleIdList": [
+                                    "4032231"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Psychiatry Psychiatr Epidemiol. 2004 Dec;39(12 ):939-46",
+                                "ArticleIdList": [
+                                    "15583900"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2012 Sep;38(5):1063-73",
+                                "ArticleIdList": [
+                                    "21474550"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Soc Psychol. 2009 Dec;48(Pt 4):707-33",
+                                "ArticleIdList": [
+                                    "19200408"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2014 Apr;159:139-46",
+                                "ArticleIdList": [
+                                    "24679402"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2013 Jun;202:419-27",
+                                "ArticleIdList": [
+                                    "23661767"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Aug 27;9(8):e105140",
+                                "ArticleIdList": [
+                                    "25162703"
+                                ]
+                            },
+                            {
+                                "Citation": "Behav Res Methods Instrum Comput. 2004 Nov;36(4):717-31",
+                                "ArticleIdList": [
+                                    "15641418"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Med Psychol. 1989 Jun;62 ( Pt 2):191-8",
+                                "ArticleIdList": [
+                                    "2751948"
+                                ]
+                            },
+                            {
+                                "Citation": "J Psychopharmacol. 2013 Sep;27(9):761-70",
+                                "ArticleIdList": [
+                                    "23884863"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2006 Nov;36(11):1541-50",
+                                "ArticleIdList": [
+                                    "16938150"
+                                ]
+                            },
+                            {
+                                "Citation": "J Pers Soc Psychol. 1986 Dec;51(6):1173-82",
+                                "ArticleIdList": [
+                                    "3806354"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2003 Jan;182:71-6",
+                                "ArticleIdList": [
+                                    "12509322"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Psychol Rev. 2015 Aug;40:138-55",
+                                "ArticleIdList": [
+                                    "26117061"
+                                ]
+                            },
+                            {
+                                "Citation": "Multivariate Behav Res. 2001 Apr 1;36(2):249-77",
+                                "ArticleIdList": [
+                                    "26822111"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "10",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "12",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "10",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28981888",
+                    "4095705",
+                    "10.1093/schbul/sbx110",
+                    "PMC5890464"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28981888)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828981888%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828981888%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045131023"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045131023?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045131023&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045131023&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045131023",
+                        "dc:identifier": "SCOPUS_ID:85045131023",
+                        "eid": "2-s2.0-85045131023",
+                        "dc:title": "Social Identity and Psychosis: Associations and Psychological Mechanisms",
+                        "dc:creator": "McIntyre J.",
+                        "prism:publicationName": "Schizophrenia Bulletin",
+                        "prism:issn": "05867614",
+                        "prism:eIssn": "17451701",
+                        "prism:volume": "44",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "681-690",
+                        "prism:coverDate": "2018-04-06",
+                        "prism:coverDisplayDate": "6 April 2018",
+                        "prism:doi": "10.1093/schbul/sbx110",
+                        "citedby-count": "18",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28981888",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19353",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "EXH4W4ED.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28981888"
+            }
+        },
+        "title": "Social Identity and Psychosis: Associations and Psychological Mechanisms.",
+        "full_author_list": [
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool."
+                }
+            },
+            {
+                "clean": "Wickham S",
+                "family": "Wickham",
+                "given": "Sophie",
+                "affiliation": {
+                    "name": "The Farr Institute @ HeRC, University of Liverpool, Waterhouse Building, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool."
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "Richard P",
+                "affiliation": {
+                    "name": "Department of Psychology, The University of Sheffield, Sheffield, UK."
+                }
+            }
+        ],
+        "first_author": "McIntyre J",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Depressive Disorder",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Hallucinations",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Paranoid Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Psychotic Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Self Concept",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Identification",
+                    "major": "Y"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Schizophr Bull",
+            "volume": "44",
+            "issue": "3"
+        },
+        "abstract": "[\"Humans possess a basic need to belong and will join groups even when they provide no practical benefit. Paranoid symptoms imply a disruption of the processes involved in belonging and social trust. Past research suggests that joining social groups and incorporating those groups into one's identity (social identification) promotes positive self-views and better physical and mental health. However, no research has investigated whether social identity is associated with paranoia, nor the mechanisms by which this effect may emerge. Here, we examined the relationship between social identity and mental health (paranoia, auditory verbal hallucinations [AVHs], and depression), and tested the mediating role of self-esteem. In study 1, we analyzed data collected from 4319 UK residents as part of the NIHR CLAHRC NWC Household Health Survey. Study 2 comprised data collected from 1167 students attending a large UK university. The studies provided convergent evidence that social identification reduces symptoms of paranoia and depression by furnishing people with self-esteem. There was no consistent effect of social identification on AVHs. People developing mental health assessments, treatments, and policies are encouraged to consider the notion that joining and identifying with social groups may reduce people's risk of paranoia and depression.\"]",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "18"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology, Health and Society, University of Liverpool.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

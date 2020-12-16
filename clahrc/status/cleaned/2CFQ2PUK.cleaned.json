@@ -1,0 +1,1352 @@
+{
+    "IDs": {
+        "zotero": "2CFQ2PUK",
+        "DOI": "10.1371/journal.pone.0202412",
+        "DOI_filename": "ebf304ef218f12fa26767784a7065c7a",
+        "PMID": "30114264",
+        "scopus": "2-s2.0-85053556444",
+        "hash": "399be417ced7296575fd8589228ec359"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "2CFQ2PUK",
+            "version": 109,
+            "itemType": "journalArticle",
+            "title": "Perceived neighbourhood affluence, mental health and wellbeing influence judgements of threat and trust on our streets: An urban walking study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosie",
+                    "lastName": "Mansfield"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christophe",
+                    "lastName": "de Bezenac"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ellen",
+                    "lastName": "Anderson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Katie",
+                    "lastName": "Overbury"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham",
+                    "lastName": "Marshall"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Rick K.",
+                    "lastName": "Wilson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "PLOS ONE",
+            "volume": "13",
+            "issue": "8",
+            "pages": "e0202412",
+            "date": "2018-8-16",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLoS ONE",
+            "language": "en",
+            "DOI": "10.1371/journal.pone.0202412",
+            "ISSN": "1932-6203",
+            "shortTitle": "Perceived neighbourhood affluence, mental health and wellbeing influence judgements of threat and trust on our streets",
+            "url": "https://dx.plos.org/10.1371/journal.pone.0202412",
+            "accessDate": "2020-09-10T17:08:31Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30114264",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:08:31Z",
+            "dateModified": "2020-09-11T13:15:51Z",
+            "pmid": "30114264"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        11
+                    ]
+                ],
+                "date-time": "2020-03-11T08:43:24Z",
+                "timestamp": 1583916204725
+            },
+            "reference-count": 40,
+            "publisher": "Public Library of Science (PLoS)",
+            "issue": "8",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                8,
+                                16
+                            ]
+                        ],
+                        "date-time": "2018-08-16T00:00:00Z",
+                        "timestamp": 1534377600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "Liverpool Health Inequalities Research Institute",
+                    "award": [
+                        "MBRP015"
+                    ]
+                },
+                {
+                    "name": "National Institute of Health Research Collaborative Leadership in Applied Health Reseach and Care North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.plosone.org"
+                ],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.1371/journal.pone.0202412",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        16
+                    ]
+                ],
+                "date-time": "2018-08-16T17:41:36Z",
+                "timestamp": 1534441296000
+            },
+            "page": "e0202412",
+            "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Perceived neighbourhood affluence, mental health and wellbeing influence judgements of threat and trust on our streets: An urban walking study",
+            "prefix": "10.1371",
+            "volume": "13",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8900-9199",
+                    "authenticated-orcid": true,
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rosie",
+                    "family": "Mansfield",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christophe",
+                    "family": "de Bezenac",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ellen",
+                    "family": "Anderson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Katie",
+                    "family": "Overbury",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Graham",
+                    "family": "Marshall",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "340",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        16
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "ref1",
+                    "author": "T Cresswell",
+                    "year": "2004",
+                    "article-title": "Place: A short Introduction"
+                },
+                {
+                    "key": "ref2",
+                    "author": "R.E.L. Faris",
+                    "year": "1939",
+                    "article-title": "Mental disorders in urban areas: an ecological study of schizophrenia and other psychoses"
+                },
+                {
+                    "key": "ref3",
+                    "first-page": "293",
+                    "article-title": "Urbanization and incidence of psychosis and depression: follow-up study of 4.4 million women and men in Sweden",
+                    "volume": "184",
+                    "author": "K. Sundquist",
+                    "year": "2004",
+                    "journal-title": "British Journal of Psychiatry 2004"
+                },
+                {
+                    "key": "ref4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "84",
+                    "DOI": "10.1111/j.1600-0447.2009.01438.x",
+                    "article-title": "The current status of urban-rural differences in psychiatric disorders",
+                    "volume": "121",
+                    "author": "J. Peen",
+                    "year": "2010",
+                    "journal-title": "Acta Psychiatrica Scandinavica"
+                },
+                {
+                    "key": "ref5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1118",
+                    "DOI": "10.1093/schbul/sbs096",
+                    "article-title": "Meta-analysis of the association of urbanicity with schizophrenia",
+                    "volume": "38",
+                    "author": "E. Vassos",
+                    "year": "2012",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "key": "ref6",
+                    "author": "R.E. Clark",
+                    "first-page": "433",
+                    "year": "1949",
+                    "article-title": "Psychoses, income, and occupational prestige",
+                    "journal-title": "American Journal of Sociology",
+                    "DOI": "10.1086/220397",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "ref7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2299",
+                    "DOI": "10.1080/00420980120087171",
+                    "article-title": "Perceptions of place and health in socially contrasting neighbourhoods",
+                    "volume": "38",
+                    "author": "A. Ellaway",
+                    "year": "2001",
+                    "journal-title": "Urban Studies"
+                },
+                {
+                    "key": "ref8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "428",
+                    "DOI": "10.1192/bjp.180.5.428",
+                    "article-title": "Mental health and the built environment: cross-sectional survey of individual and contextual risk factors for depression",
+                    "volume": "180",
+                    "author": "S. Weich",
+                    "year": "2002",
+                    "journal-title": "British Journal of Psychiatry"
+                },
+                {
+                    "key": "ref9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "822",
+                    "DOI": "10.1136/jech.2005.033084",
+                    "article-title": "Urban built environment and depression: a multilevel analysis",
+                    "volume": "59",
+                    "author": "S. Galea",
+                    "year": "2005",
+                    "journal-title": "Journal of Epidemiology and Community Health"
+                },
+                {
+                    "key": "ref10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "708",
+                    "DOI": "10.1016/j.puhe.2009.09.019",
+                    "article-title": "Associations between health and different types of environmental incivility: a Scotland wide study",
+                    "volume": "123",
+                    "author": "A. Ellaway",
+                    "year": "2009",
+                    "journal-title": "Public Health"
+                },
+                {
+                    "key": "ref11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1019",
+                    "DOI": "10.1016/j.jad.2013.05.032",
+                    "article-title": "Do urban environments increase the risk of anxiety, depression and psychosis? An epidemiological study",
+                    "volume": "150",
+                    "author": "K. McKenzie",
+                    "year": "2013",
+                    "journal-title": "Journal of Affective Disorders"
+                },
+                {
+                    "key": "ref12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "48",
+                    "DOI": "10.1016/j.envint.2016.08.019",
+                    "article-title": "(2016). A systematic review of the relationship between objective measurements of the urban environment and psychological distress",
+                    "volume": "96",
+                    "author": "Y. Gong",
+                    "year": "2016",
+                    "journal-title": "Environment International"
+                },
+                {
+                    "key": "ref13",
+                    "unstructured": "Department of Communities and Local Government. Regeneration to enable growth. What Government is doing to support community-led regeneration. 2011. Available from <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://webarchive.nationalarchives.gov.uk/20120919132719/http:/www.communities.gov.uk/documents/regeneration/pdf/1830137.pdf\" xlink:type=\"simple\">http://webarchive.nationalarchives.gov.uk/20120919132719/http:/www.communities.gov.uk/documents/regeneration/pdf/1830137.pdf</ext-link>."
+                },
+                {
+                    "key": "ref14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2076",
+                    "DOI": "10.2105/AJPH.2006.097154",
+                    "article-title": "Association between fear of crime and mental health and physical functioning",
+                    "volume": "97",
+                    "author": "M. Stafford",
+                    "year": "2007",
+                    "journal-title": "American Journal of Public Health"
+                },
+                {
+                    "key": "ref15",
+                    "author": "J.B. Kirkbride",
+                    "volume": "151",
+                    "year": "2012",
+                    "article-title": "Social deprivation, inequality and the neighbourhood-level incidence of psychotic syndromes in East London",
+                    "journal-title": "Schizophrenia Bulletin"
+                },
+                {
+                    "key": "ref16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "715",
+                    "DOI": "10.1080/00224545.1989.9713793",
+                    "article-title": "Urban-nonurban differences in social cognition: locus of control and perceptions of a just world",
+                    "volume": "129",
+                    "author": "L.A. Witt",
+                    "year": "1989",
+                    "journal-title": "The Journal of Social Psychology"
+                },
+                {
+                    "key": "ref17",
+                    "author": "E. Chen",
+                    "volume": "25",
+                    "first-page": "704",
+                    "article-title": "Neighbourhood, family and subjective socioeconomic status. How do they relate to adolescent health?",
+                    "journal-title": "Health Psychology 200",
+                    "DOI": "10.1037/0278-6133.25.6.704",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "ref18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "49",
+                    "DOI": "10.1177/002214650905000104",
+                    "article-title": "Neighbourhood disorder, subjective alienation, and distress",
+                    "volume": "50",
+                    "author": "C.E. Ross",
+                    "year": "2009",
+                    "journal-title": "Journal of Health and Social Behaviour"
+                },
+                {
+                    "key": "ref19",
+                    "first-page": "215824401770700",
+                    "article-title": "Places Change Minds: Exploring the Psychology of Urbanicity Using a Brief Contemplation Method",
+                    "volume": "7",
+                    "author": "R. Corcoran",
+                    "year": "2017",
+                    "journal-title": "SAGEOpen"
+                },
+                {
+                    "key": "ref20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1109",
+                    "DOI": "10.1017/S003329170600794X",
+                    "article-title": "Reasoning under uncertainty: heuristic judgments in patients with persecutory delusions or depression",
+                    "volume": "36",
+                    "author": "R. Corcoran",
+                    "year": "2006",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "key": "ref21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "495",
+                    "DOI": "10.1080/13546800701566686",
+                    "article-title": "Persecutory delusions and the conditioned avoidance paradigm: towards an integration of the psychology and biology of paranoia",
+                    "volume": "12",
+                    "author": "M. Moutoussis",
+                    "year": "2007",
+                    "journal-title": "Cognitive Neuropsychiatry"
+                },
+                {
+                    "key": "ref22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1121",
+                    "DOI": "10.1017/S0033291708003589",
+                    "article-title": "What makes one person paranoid and another person anxious? The differential prediction of social anxiety and persecutory ideation in an experimental situation",
+                    "volume": "38",
+                    "author": "D. Freeman",
+                    "year": "2008",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "key": "ref23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1017/S0033291708003814",
+                    "article-title": "A systematic review and meta-analysis of the psychosis continuum: evidence for a psychosis proneness persistence-impairment model of psychotic disorder",
+                    "volume": "39",
+                    "author": "J. Van Os",
+                    "year": "2009",
+                    "journal-title": "Psychological Medicine"
+                },
+                {
+                    "key": "ref24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "227",
+                    "DOI": "10.1080/17522431003592649",
+                    "article-title": "Biases in everyday reasoning: associations with sub-clinical anxiety, depression and paranoia",
+                    "volume": "2",
+                    "author": "K. Bennett",
+                    "year": "2010",
+                    "journal-title": "Psychosis"
+                },
+                {
+                    "key": "ref25",
+                    "author": "J. Hill",
+                    "volume": "2",
+                    "first-page": "287",
+                    "year": "2014",
+                    "article-title": "Disorder affects judgements about a neighbourhood: police presence does not"
+                },
+                {
+                    "key": "ref26",
+                    "author": "S. Cote",
+                    "year": "2001",
+                    "article-title": "The well-being of nations: the role of human and social capital"
+                },
+                {
+                    "key": "ref27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1546",
+                    "DOI": "10.2105/AJPH.93.9.1546",
+                    "article-title": "Social capital and the built environment: the importance of walkable neighbourhoods",
+                    "volume": "93",
+                    "author": "K.M. Leyden",
+                    "year": "2003",
+                    "journal-title": "American Journal of Public Health"
+                },
+                {
+                    "key": "ref28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "190",
+                    "DOI": "10.1016/j.evolhumbehav.2008.12.002",
+                    "article-title": "Human prosociality from an evolutionary perspective: variation and correlations at a city-wide scale",
+                    "volume": "30",
+                    "author": "D.S. Wilson",
+                    "year": "2009",
+                    "journal-title": "Evolution and Human Behaviour"
+                },
+                {
+                    "key": "ref29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "26922",
+                    "DOI": "10.1371/journal.pone.0026922",
+                    "article-title": "Variation in cooperative behaviour within a single city",
+                    "volume": "6",
+                    "author": "D. Nettle",
+                    "year": "2011",
+                    "journal-title": "PLOS ONE"
+                },
+                {
+                    "key": "ref30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "631",
+                    "DOI": "10.1007/s11205-016-1264-y",
+                    "article-title": "Losing Wallets, Retaining Trust? The Relationship Between Ethnic Heterogeneity and Trusting Coethinic and Non-coethnic Neighbours and Non-neighbours to Return a Lost Wallet",
+                    "volume": "131",
+                    "author": "J. Tolsma",
+                    "year": "2017",
+                    "journal-title": "Social Indicators Research"
+                },
+                {
+                    "key": "ref31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1681",
+                    "DOI": "10.1126/science.1161405",
+                    "article-title": "The spreading of disorder",
+                    "volume": "322",
+                    "author": "K. Keizer",
+                    "year": "2008",
+                    "journal-title": "Science"
+                },
+                {
+                    "key": "ref32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "77",
+                    "DOI": "10.1016/j.schres.2007.10.027",
+                    "article-title": "The psychological effect of an urban environment on individuals with persecutory delusions: the Camberwell walk study",
+                    "volume": "99",
+                    "author": "L. Ellett",
+                    "year": "2008",
+                    "journal-title": "Schizophrenia Research"
+                },
+                {
+                    "key": "ref33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "236",
+                    "DOI": "10.7717/peerj.236",
+                    "article-title": "Being there: a brief visit to a neighbourhood induces the social attitudes of that neighbourhood",
+                    "volume": "2",
+                    "author": "D. Nettle",
+                    "year": "2014",
+                    "journal-title": "PeerJ"
+                },
+                {
+                    "key": "ref34",
+                    "author": "K. Lynch",
+                    "year": "1960"
+                },
+                {
+                    "key": "ref35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1203",
+                    "DOI": "10.1016/j.socscimed.2010.01.002",
+                    "article-title": "P. Green space as a buffer between stressful life events and health",
+                    "volume": "70",
+                    "author": "A.E. Van den Berg",
+                    "year": "2010",
+                    "journal-title": "Social Science & Medicine"
+                },
+                {
+                    "key": "ref36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1348/147608308X398337",
+                    "article-title": "The persecution and deservedness scale",
+                    "volume": "82",
+                    "author": "S. Melo",
+                    "year": "2009",
+                    "journal-title": "Psychology and Psychotherapy: Theory, Research and Practice"
+                },
+                {
+                    "key": "ref37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "227",
+                    "DOI": "10.1348/014466505X29657",
+                    "article-title": "The short-form version of the depression anxiety stress scales (DASS-21): construct validity and normative data in a large non-clinical sample",
+                    "volume": "44",
+                    "author": "J.D. Henry",
+                    "year": "2005",
+                    "journal-title": "British Journal of Clinical Psychology"
+                },
+                {
+                    "key": "ref38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "194",
+                    "DOI": "10.1080/10705500802222972",
+                    "article-title": "The Brief Resilience Scale: Assessing the ability to bounce back",
+                    "volume": "15",
+                    "author": "B.W. Smith",
+                    "year": "2008",
+                    "journal-title": "International Journal of Behavioral Medicine"
+                },
+                {
+                    "key": "ref39",
+                    "unstructured": "Adler, N., &amp; Stewart, J. The MacArthur scale of subjective social Status. 2007. Available from <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.macses.ucsf.edu/\" xlink:type=\"simple\">http://www.macses.ucsf.edu/</ext-link>."
+                },
+                {
+                    "key": "ref40",
+                    "author": "R. Corcoran",
+                    "first-page": "1",
+                    "year": "2017",
+                    "article-title": "The Psychological Benefits of Cooperative Place-making: a mixed methods analyses of co-design workshops",
+                    "journal-title": "CoDesign",
+                    "DOI": "10.1080/15710882.2017.1340484",
+                    "doi-asserted-by": "crossref"
+                }
+            ],
+            "container-title": "PLOS ONE",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://dx.plos.org/10.1371/journal.pone.0202412",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        24
+                    ]
+                ],
+                "date-time": "2018-10-24T04:09:49Z",
+                "timestamp": 1540354189000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "given": "Rick K.",
+                    "family": "Wilson",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        16
+                    ]
+                ]
+            },
+            "references-count": 40,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2018,
+                            8,
+                            16
+                        ]
+                    ]
+                },
+                "issue": "8"
+            },
+            "URL": "http://dx.doi.org/10.1371/journal.pone.0202412",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1932-6203"
+            ],
+            "container-title-short": "PLoS ONE"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30114264",
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "11"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "02",
+                    "Day": "15"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1371/journal.pone.0202412"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "08",
+                            "Day": "16"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1932-6203",
+                        "JournalIssue": {
+                            "Volume": "13",
+                            "Issue": "8",
+                            "PubDate": {
+                                "Year": "2018"
+                            }
+                        },
+                        "Title": "PloS one",
+                        "ISOAbbreviation": "PLoS ONE"
+                    },
+                    "ArticleTitle": "Perceived neighbourhood affluence, mental health and wellbeing influence judgements of threat and trust on our streets: An urban walking study.",
+                    "Pagination": {
+                        "MedlinePgn": "e0202412"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This study aimed to understand how people respond to different urban neighbourhoods. We explored whether participants' mental health and wellbeing, judgements of resident wealth, family SES and sentiments reflected in descriptions of place features predicted in situ sense of threat and trust. Forty-six student participants walked in groups through 2 urban neighbourhoods, separated by a park, in the North West of England, noting responses at pre-determined stops. Significant differences existed in participants' sense of trust and threat between the 2 neighbourhoods along with differences in perceived resident wealth and sentiments expressed. Participants' levels of persecutory ideas and their sense of residents' wealth predicted in situ trust in both neighbourhoods while level of personal resilience predicted the extent of threat felt in the more deprived neighbourhood. Demonstrating the value of the method, these findings have implications for the governance of urban neighbourhoods whereby obvious cues signalling a harsh environment need to be minimised to create more positive psychological responses to places."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-8900-9199"
+                            ],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Education, University of Manchester, Greater Manchester, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Mansfield",
+                            "ForeName": "Rosie",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "de Bezenac",
+                            "ForeName": "Christophe",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Greater Manchester Mental Health Trust, Greater Manchester, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Anderson",
+                            "ForeName": "Ellen",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Greater Manchester Mental Health Trust, Greater Manchester, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Overbury",
+                            "ForeName": "Katie",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Director, Prosocial Place, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marshall",
+                            "ForeName": "Graham",
+                            "Initials": "G"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "PLoS One",
+                    "NlmUniqueID": "101285081",
+                    "ISSNLinking": "1932-6203"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Crime",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Judgment",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Perception",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Residence Characteristics",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Class",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Stress, Psychological",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Trust",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Urban Population",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Walking",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "The authors have declared that no competing interests exist."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Science. 2008 Dec 12;322(5908):1681-5",
+                                "ArticleIdList": [
+                                    "19023045"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2013 Sep 25;150(3):1019-24",
+                                "ArticleIdList": [
+                                    "23742829"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2009 Feb;39(2):179-95",
+                                "ArticleIdList": [
+                                    "18606047"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Indic Res. 2017;131(2):631-658",
+                                "ArticleIdList": [
+                                    "28366976"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2007 Nov;97(11):2076-81",
+                                "ArticleIdList": [
+                                    "17901443"
+                                ]
+                            },
+                            {
+                                "Citation": "Cogn Neuropsychiatry. 2007 Nov;12(6):495-510",
+                                "ArticleIdList": [
+                                    "17978936"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2008 Aug;38(8):1121-32",
+                                "ArticleIdList": [
+                                    "18533055"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Psychother. 2009 Sep;82(Pt 3):247-60",
+                                "ArticleIdList": [
+                                    "19426584"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2005 Oct;59(10):822-7",
+                                "ArticleIdList": [
+                                    "16166352"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2003 Sep;93(9):1546-51",
+                                "ArticleIdList": [
+                                    "12948978"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2012 Nov;38(6):1118-23",
+                                "ArticleIdList": [
+                                    "23015685"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Psychol. 2006 Nov;25(6):704-14",
+                                "ArticleIdList": [
+                                    "17100499"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2006 Aug;36(8):1109-18",
+                                "ArticleIdList": [
+                                    "16734944"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Behav Med. 2008;15(3):194-200",
+                                "ArticleIdList": [
+                                    "18696313"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Soc Behav. 2009 Mar;50(1):49-64",
+                                "ArticleIdList": [
+                                    "19413134"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2011;6(10):e26922",
+                                "ArticleIdList": [
+                                    "22046411"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2002 May;180:428-33",
+                                "ArticleIdList": [
+                                    "11983640"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Psychiatr Scand. 2010 Feb;121(2):84-93",
+                                "ArticleIdList": [
+                                    "19624573"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health. 2009 Nov;123(11):708-13",
+                                "ArticleIdList": [
+                                    "19883927"
+                                ]
+                            },
+                            {
+                                "Citation": "Environ Int. 2016 Nov;96:48-57",
+                                "ArticleIdList": [
+                                    "27599349"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2004 Apr;184:293-8",
+                                "ArticleIdList": [
+                                    "15056572"
+                                ]
+                            },
+                            {
+                                "Citation": "PeerJ. 2014 Jan 14;2:e236",
+                                "ArticleIdList": [
+                                    "24482758"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Sociol. 1949 Mar;54(5):433-40",
+                                "ArticleIdList": [
+                                    "18117774"
+                                ]
+                            },
+                            {
+                                "Citation": "PeerJ. 2014 Mar 04;2:e287",
+                                "ArticleIdList": [
+                                    "24688864"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2010 Apr;70(8):1203-10",
+                                "ArticleIdList": [
+                                    "20163905"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Res. 2008 Feb;99(1-3):77-84",
+                                "ArticleIdList": [
+                                    "18061407"
+                                ]
+                            },
+                            {
+                                "Citation": "Schizophr Bull. 2014 Jan;40(1):169-80",
+                                "ArticleIdList": [
+                                    "23236081"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Psychol. 2005 Jun;44(Pt 2):227-39",
+                                "ArticleIdList": [
+                                    "16004657"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "01",
+                        "Day": "11"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "08",
+                        "Day": "02"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "8",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "2",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "30114264",
+                    "10.1371/journal.pone.0202412",
+                    "PONE-D-18-01119",
+                    "PMC6095595"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30114264)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830114264%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830114264%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053556444"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053556444?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053556444&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053556444&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053556444",
+                        "dc:identifier": "SCOPUS_ID:85053556444",
+                        "eid": "2-s2.0-85053556444",
+                        "dc:title": "Perceived neighbourhood affluence, mental health and wellbeing influence judgements of threat and trust on our streets: An urban walking study",
+                        "dc:creator": "Corcoran R.",
+                        "prism:publicationName": "PLoS ONE",
+                        "prism:eIssn": "19326203",
+                        "prism:volume": "13",
+                        "prism:issueIdentifier": "8",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2018-08-01",
+                        "prism:coverDisplayDate": "August 2018",
+                        "prism:doi": "10.1371/journal.pone.0202412",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30114264",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e0202412",
+                        "source-id": "10600153309",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "2CFQ2PUK.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30114264"
+            }
+        },
+        "title": "Perceived neighbourhood affluence, mental health and wellbeing influence judgements of threat and trust on our streets: An urban walking study.",
+        "full_author_list": [
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Mansfield R",
+                "family": "Mansfield",
+                "given": "Rosie",
+                "affiliation": {
+                    "name": "School of Education, University of Manchester, Greater Manchester, United Kingdom."
+                }
+            },
+            {
+                "clean": "de Bezenac C",
+                "family": "de Bezenac",
+                "given": "Christophe",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Anderson E",
+                "family": "Anderson",
+                "given": "Ellen",
+                "affiliation": {
+                    "name": "Greater Manchester Mental Health Trust, Greater Manchester, United Kingdom."
+                }
+            },
+            {
+                "clean": "Overbury K",
+                "family": "Overbury",
+                "given": "Katie",
+                "affiliation": {
+                    "name": "Greater Manchester Mental Health Trust, Greater Manchester, United Kingdom."
+                }
+            },
+            {
+                "clean": "Marshall G",
+                "family": "Marshall",
+                "given": "Graham",
+                "affiliation": {
+                    "name": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Corcoran R",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Crime",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Judgment",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Perception",
+                    "major": "N"
+                },
+                {
+                    "term": "Residence Characteristics",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Class",
+                    "major": "Y"
+                },
+                {
+                    "term": "Stress, Psychological",
+                    "major": "N"
+                },
+                {
+                    "term": "Trust",
+                    "major": "N"
+                },
+                {
+                    "term": "Urban Population",
+                    "major": "Y"
+                },
+                {
+                    "term": "Walking",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "PLoS ONE",
+            "volume": "13",
+            "issue": "8"
+        },
+        "abstract": "[\"This study aimed to understand how people respond to different urban neighbourhoods. We explored whether participants' mental health and wellbeing, judgements of resident wealth, family SES and sentiments reflected in descriptions of place features predicted in situ sense of threat and trust. Forty-six student participants walked in groups through 2 urban neighbourhoods, separated by a park, in the North West of England, noting responses at pre-determined stops. Significant differences existed in participants' sense of trust and threat between the 2 neighbourhoods along with differences in perceived resident wealth and sentiments expressed. Participants' levels of persecutory ideas and their sense of residents' wealth predicted in situ trust in both neighbourhoods while level of personal resilience predicted the extent of threat felt in the more deprived neighbourhood. Demonstrating the value of the method, these findings have implications for the governance of urban neighbourhoods whereby obvious cues signalling a harsh environment need to be minimised to create more positive psychological responses to places.\"]",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Psychology Health and Society, University of Liverpool, Liverpool, United Kingdom.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

@@ -1,0 +1,1235 @@
+{
+    "IDs": {
+        "zotero": "7CN7FRJZ",
+        "DOI": "10.1093/intqhc/mzx027",
+        "DOI_filename": "912131ae070994befe126013bcee8ac1",
+        "PMID": "28339923",
+        "scopus": "2-s2.0-85021387936",
+        "hash": "84da70371ee2e22af131003b084bca6c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "7CN7FRJZ",
+            "version": 124,
+            "itemType": "journalArticle",
+            "title": "Measuring patient experience: a systematic review to evaluate psychometric properties of patient reported experience measures (PREMs) for emergency care service provision",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Leanne",
+                    "lastName": "Male"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Adam",
+                    "lastName": "Noble"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jessica",
+                    "lastName": "Atkinson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tony",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "International Journal for Quality in Health Care",
+            "volume": "29",
+            "issue": "3",
+            "pages": "314-326",
+            "date": "2017-06-01",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1093/intqhc/mzx027",
+            "ISSN": "1353-4505, 1464-3677",
+            "shortTitle": "Measuring patient experience",
+            "url": "https://academic.oup.com/intqhc/article/29/3/314/3059849",
+            "accessDate": "2020-09-10T17:09:47Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28339923",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:47Z",
+            "dateModified": "2020-09-11T14:59:13Z",
+            "pmid": "28339923"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        25
+                    ]
+                ],
+                "date-time": "2020-08-25T18:24:32Z",
+                "timestamp": 1598379872802
+            },
+            "reference-count": 40,
+            "publisher": "Oxford University Press (OUP)",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                3,
+                                2
+                            ]
+                        ],
+                        "date-time": "2017-03-02T00:00:00Z",
+                        "timestamp": 1488412800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "name": "Collaboration for Leadership and Health Research and Care North West Coast",
+                    "award": []
+                },
+                {
+                    "name": "NIHR or the Department of Health",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1093/intqhc/mzx027",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        2,
+                        21
+                    ]
+                ],
+                "date-time": "2017-02-21T15:52:17Z",
+                "timestamp": 1487692337000
+            },
+            "page": "314-326",
+            "source": "Crossref",
+            "is-referenced-by-count": 22,
+            "title": "Measuring patient experience: a systematic review to evaluate psychometric properties of patient reported experience measures (PREMs) for emergency care service provision",
+            "prefix": "10.1093",
+            "volume": "29",
+            "author": [
+                {
+                    "given": "Leanne",
+                    "family": "Male",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Adam",
+                    "family": "Noble",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jessica",
+                    "family": "Atkinson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Tony",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust, Lower Lane, Liverpool L9 7LJ, UK"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust, Lower Lane, Liverpool L9 7LJ, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        3,
+                        2
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "24",
+                    "DOI": "10.7748/en1999.10.7.6.24.c1296",
+                    "article-title": "Older adults\u2019 experiences of A&E care",
+                    "volume": "7",
+                    "author": "Spilsbury",
+                    "year": "1999",
+                    "journal-title": "Emerg Nurse"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C2",
+                    "author": "National Patient Safety Agency",
+                    "volume-title": "Safer care for the acutely ill patient: learning from serious incidents"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "677",
+                    "DOI": "10.1111/j.1742-6723.2011.01467.x",
+                    "article-title": "Optimal management of mental health patients in Australian emergency departments: barriers and solutions",
+                    "volume": "23",
+                    "author": "Weiland",
+                    "year": "2011",
+                    "journal-title": "Emerg Med Australas"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "699",
+                    "DOI": "10.1136/emermed-2012-202080",
+                    "article-title": "Quality care for older people with urgent and emergency care needs in UK emergency departments",
+                    "volume": "30",
+                    "author": "Banerjee",
+                    "year": "2012",
+                    "journal-title": "Emerg Med J"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C5",
+                    "author": "Department of Health",
+                    "year": "2008"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C6",
+                    "author": "Kings Fund",
+                    "year": "2011"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e001570",
+                    "DOI": "10.1136/bmjopen-2012-001570",
+                    "article-title": "A systematic review of evidence on the links between patient experience and clinical safety and effectiveness",
+                    "volume": "3",
+                    "author": "Doyle",
+                    "year": "2013",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "191",
+                    "DOI": "10.1136/flgastro-2015-100574",
+                    "article-title": "What do patients want from their endoscopy experience? The importance of measuring and understanding patient attitudes to their care",
+                    "volume": "7",
+                    "author": "Tierney",
+                    "year": "2015",
+                    "journal-title": "Frontline Gastroenterol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "285",
+                    "DOI": "10.1108/CGIJ-03-2012-0008",
+                    "article-title": "Patient experience as an indicator of clinical quality in emergency care",
+                    "volume": "18",
+                    "author": "Shale",
+                    "year": "2013",
+                    "journal-title": "Clin Govern Int J"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "235",
+                    "DOI": "10.1007/s40271-014-0060-5",
+                    "article-title": "Measuring patient experience: concepts and methods",
+                    "volume": "7",
+                    "author": "Ahmed",
+                    "year": "2014",
+                    "journal-title": "Patient"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "201",
+                    "DOI": "10.1056/NEJMp1211775",
+                    "article-title": "The patient experience and health outcomes",
+                    "volume": "368",
+                    "author": "Manary",
+                    "year": "2013",
+                    "journal-title": "N Engl J Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C12",
+                    "author": "Goodrich",
+                    "year": "2008",
+                    "volume-title": "Seeing the Person in the Patient"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "a642",
+                    "DOI": "10.1136/bmj.a642",
+                    "article-title": "Darzi review: Reward hospitals for improving quality, Lord Darzi says",
+                    "volume": "337",
+                    "author": "Coombes",
+                    "year": "2008",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1199",
+                    "DOI": "10.1136/bmj.331.7526.1199",
+                    "article-title": "What do patients and the public want from primary care",
+                    "volume": "331",
+                    "author": "Coulter",
+                    "year": "2005",
+                    "journal-title": "Br Med J"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C15",
+                    "first-page": "84",
+                    "article-title": "Engaging patients to improve the healthcare experience",
+                    "volume": "66",
+                    "author": "White",
+                    "year": "2012",
+                    "journal-title": "Healthc Financ Manage"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C16",
+                    "first-page": "12",
+                    "article-title": "Capturing experiences of patients living with COPD",
+                    "volume": "110",
+                    "author": "Hodson",
+                    "year": "2014",
+                    "journal-title": "Nurs Times"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C17",
+                    "first-page": "29",
+                    "article-title": "Patient satisfaction: an emerging health policy issue",
+                    "volume": "9",
+                    "author": "Morris",
+                    "year": "2013",
+                    "journal-title": "Am Acad Orthop Surg"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "194",
+                    "DOI": "10.1097/00129234-200209000-00006",
+                    "article-title": "Patient satisfaction measurement: current issues and implications",
+                    "volume": "7",
+                    "author": "Urden",
+                    "year": "2002",
+                    "journal-title": "Lippincotts Case Manag"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "8",
+                    "DOI": "10.1108/17511870910927994",
+                    "article-title": "A critical review of patient satisfaction",
+                    "volume": "22",
+                    "author": "Gill",
+                    "year": "2009",
+                    "journal-title": "Leadersh Health Serv"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "271",
+                    "DOI": "10.2471/BLT.07.050401",
+                    "article-title": "How does satisfaction with the health-care system relate to patient experience",
+                    "volume": "87",
+                    "author": "Bleich",
+                    "year": "2009",
+                    "journal-title": "Bull World Health Organ"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C21",
+                    "first-page": "67",
+                    "article-title": "Importance of patient satisfaction measurement and electronic surveys: methodology and potential benefits",
+                    "volume": "1",
+                    "author": "Ilioudi",
+                    "year": "2013",
+                    "journal-title": "Int J Health Res Innov"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "97",
+                    "DOI": "10.1186/s13643-015-0089-0",
+                    "article-title": "Instruments to measure patient experience of healthcare quality in hospitals: a systematic review",
+                    "volume": "4",
+                    "author": "Beattie",
+                    "year": "2015",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "433",
+                    "DOI": "10.1136/qshc.2005.014423",
+                    "article-title": "The OutPatient Experiences Questionnaire (OPEQ): data quality, reliability, and validity in patients attending 52 Norwegian hospitals",
+                    "volume": "14",
+                    "author": "Garratt",
+                    "year": "2005",
+                    "journal-title": "Qual Saf Health Care"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "366",
+                    "DOI": "10.1034/j.1600-0447.2000.102005366.x",
+                    "article-title": "The perception of needs for care in staffand patients in community\u2010based mental health services",
+                    "volume": "102",
+                    "author": "Lasalvia",
+                    "year": "2000",
+                    "journal-title": "Acta Psychiatr Scand"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "101",
+                    "DOI": "10.1007/s10995-007-0213-4",
+                    "article-title": "\u2018They Can't Understand It\u2019: maternity health and care needs of immigrant muslim women in St. John's, Newfoundland",
+                    "volume": "12",
+                    "author": "Reitmanova",
+                    "year": "2008",
+                    "journal-title": "Matern Child Health J"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "369",
+                    "DOI": "10.1046/j.1442-2026.2003.00476.x",
+                    "article-title": "Giving a voice to the community: a qualitative study of consumer expectations for the emergency department",
+                    "volume": "15",
+                    "author": "Stuart",
+                    "year": "2003",
+                    "journal-title": "Emerg Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C27",
+                    "author": "Grant",
+                    "year": "2013"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1006",
+                    "DOI": "10.1016/j.jclinepi.2009.06.005",
+                    "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+                    "volume": "62",
+                    "author": "Moher",
+                    "year": "2009",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "663",
+                    "DOI": "10.1097/OPX.0b013e318141fe75",
+                    "article-title": "The development, assessment, and selection of questionnaires",
+                    "volume": "84",
+                    "author": "Pesudovs",
+                    "year": "2007",
+                    "journal-title": "Optom Vis Sci"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "14020",
+                    "DOI": "10.1038/npjpcrm.2014.20",
+                    "article-title": "Patient-reported outcome measures for asthma: a systematic review",
+                    "volume": "24",
+                    "author": "Worth",
+                    "year": "2014",
+                    "journal-title": "NPJ Prim Care Respir Med"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "834",
+                    "DOI": "10.1111/all.12427",
+                    "article-title": "Disease-specific health-related quality of life instruments for IgE-mediated food allergy",
+                    "volume": "69",
+                    "author": "Salvilla",
+                    "year": "2014",
+                    "journal-title": "Allergy"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1426",
+                    "DOI": "10.1111/hex.12123",
+                    "article-title": "The Consumer Quality Index in an accident and emergency department: internal consistency, validity and discriminative capacity",
+                    "volume": "18",
+                    "author": "Bos",
+                    "year": "2013",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "643",
+                    "DOI": "10.1111/j.1365-2648.2010.05472.x",
+                    "article-title": "Questionnaire for patient participation in emergency departments: development and psychometric testing",
+                    "volume": "67",
+                    "author": "Frank",
+                    "year": "2011",
+                    "journal-title": "J Adv Nurs"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "284",
+                    "DOI": "10.1186/1472-6963-12-284",
+                    "article-title": "The consumer quality index (CQ-index) in an accident and emergency department: development and first evaluation",
+                    "volume": "12",
+                    "author": "Bos",
+                    "year": "2012",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "139",
+                    "DOI": "10.1136/bmjqs-2012-001072",
+                    "article-title": "The accident and emergency department questionnaire: a measure for patients\u2019 experiences in the accident and emergency department",
+                    "volume": "22",
+                    "author": "Bos",
+                    "year": "2013",
+                    "journal-title": "BMJ Qual Saf"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "15",
+                    "DOI": "10.1016/j.ienj.2008.09.003",
+                    "article-title": "Patient participation in emergency care\u2014a phenomenographic study based on patients\u2019 lived experience",
+                    "volume": "17",
+                    "author": "Frank",
+                    "year": "2009",
+                    "journal-title": "Int Emerg Nurs"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "134",
+                    "DOI": "10.1136/bmjqs.2009.036574",
+                    "article-title": "Measuring patients\u2019 experiences and views of the emergency and urgent care system: psychometric testing of the urgent care system questionnaire",
+                    "volume": "20",
+                    "author": "O'Cathain",
+                    "year": "2011",
+                    "journal-title": "BMJ Qual Saf"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C38",
+                    "author": "Picker Institute Europe",
+                    "year": "2008",
+                    "volume-title": "Development of the Questionnaire for use in the NHS Emergency Department Survey 2008"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "19",
+                    "DOI": "10.1258/jhsrp.2007.007097",
+                    "article-title": "Characteristics of the emergency and urgent care system important to patients: a qualitative study",
+                    "volume": "13",
+                    "author": "O'Cathain",
+                    "year": "2008",
+                    "journal-title": "J Health Serv Res Policy"
+                },
+                {
+                    "key": "key\n\t\t\t\t20180328162801_mzx027C41",
+                    "author": "Health Foundation",
+                    "year": "2013"
+                }
+            ],
+            "container-title": "International Journal for Quality in Health Care",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/intqhc/article-pdf/29/3/314/24325352/mzx027.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2018-03-29T05:12:04Z",
+                "timestamp": 1522300324000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        3,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 40,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2017,
+                            3,
+                            2
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2017,
+                            6,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "URL": "http://dx.doi.org/10.1093/intqhc/mzx027",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1353-4505",
+                "1464-3677"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "PREM",
+                        "emergency department",
+                        "experience measure",
+                        "patient experience"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28339923",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "02",
+                    "Day": "20"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1093/intqhc/mzx027"
+                    ],
+                    "ArticleDate": [],
+                    "Journal": {
+                        "ISSN": "1464-3677",
+                        "JournalIssue": {
+                            "Volume": "29",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jun",
+                                "Day": "01"
+                            }
+                        },
+                        "Title": "International journal for quality in health care : journal of the International Society for Quality in Health Care",
+                        "ISOAbbreviation": "Int J Qual Health Care"
+                    },
+                    "ArticleTitle": "Measuring patient experience: a systematic review to evaluate psychometric properties of patient reported experience measures (PREMs) for emergency care service provision.",
+                    "Pagination": {
+                        "MedlinePgn": "314-326"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Knowledge about patient experience within emergency departments (EDs) allows services to develop and improve in line with patient needs. There is no standardized instrument to measure patient experience. The aim of this study is to identify patient reported experience measures (PREMs) for EDs, examine the rigour by which they were developed and their psychometric properties when judged against standard criteria.",
+                            "Medline, Scopus, CINAHL, PsycINFO, PubMed and Web of Science were searched from inception to May 2015.",
+                            "Studies were identified using specific search terms and inclusion criteria. A total of eight articles, reporting on four PREMs, were included.",
+                            "Data on the development and performance of the four PREMs were extracted from the articles. The measures were critiqued according to quality criteria previously described by\u00a0Pesudovs K, Burr JM, Harley C, et al. (The development, assessment, and selection of questionnaires. Optom Vis Sci 2007;84:663-74.).",
+                            "There was significant variation in the quality of development and reporting of psychometric properties. For all four PREMs, initial development work included the ascertainment of patient experiences using qualitative interviews. However, instrument performance was poorly assessed. Validity and reliability were measured in some studies; however responsiveness, an important aspect on survey development, was not measured in any of the included studies.",
+                            "PREMS currently available for use in the ED have uncertain validity, reliability and responsiveness. Further validation work is required to assess their acceptability to patients and their usefulness in clinical practice."
+                        ],
+                        "CopyrightInformation": "\u00a9 The Author 2017. Published by Oxford University Press in association with the International Society for Quality in Health Care."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Male",
+                            "ForeName": "Leanne",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Noble",
+                            "ForeName": "Adam",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Atkinson",
+                            "ForeName": "Jessica",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Lower Lane, Liverpool L9 7LJ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Tony",
+                            "Initials": "T"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Qual Health Care",
+                    "NlmUniqueID": "9434628",
+                    "ISSNLinking": "1353-4505"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Satisfaction",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Psychometrics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Reproducibility of Results",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Surveys and Questionnaires",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Health Serv Res. 2012 Aug 28;12:284",
+                                "ArticleIdList": [
+                                    "22929061"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Emerg Nurs. 2009 Jan;17(1):15-22",
+                                "ArticleIdList": [
+                                    "19135011"
+                                ]
+                            },
+                            {
+                                "Citation": "Bull World Health Organ. 2009 Apr;87(4):271-8",
+                                "ArticleIdList": [
+                                    "19551235"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2011 Feb;20(2):134-40",
+                                "ArticleIdList": [
+                                    "21209128"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2009 Oct;62(10):1006-12",
+                                "ArticleIdList": [
+                                    "19631508"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Psychiatr Scand. 2000 Nov;102(5):366-75",
+                                "ArticleIdList": [
+                                    "11098809"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2013 Jan 17;368(3):201-3",
+                                "ArticleIdList": [
+                                    "23268647"
+                                ]
+                            },
+                            {
+                                "Citation": "Allergy. 2014 Jul;69(7):834-44",
+                                "ArticleIdList": [
+                                    "24836207"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2013 Sep;30(9):699-700",
+                                "ArticleIdList": [
+                                    "23250895"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Saf Health Care. 2005 Dec;14(6):433-7",
+                                "ArticleIdList": [
+                                    "16326790"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Nurse. 1999 Oct;7(6):24-31",
+                                "ArticleIdList": [
+                                    "10614314"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurs Times. 2014 Apr 16-22;110(16):12-4",
+                                "ArticleIdList": [
+                                    "24834599"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2013 Feb;22(2):139-46",
+                                "ArticleIdList": [
+                                    "22942399"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med (Fremantle). 2003 Aug;15(4):369-75",
+                                "ArticleIdList": [
+                                    "14631705"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurse Educ Pract. 2008 Sep;8(5):299-301",
+                                "ArticleIdList": [
+                                    "18692016"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient. 2014;7(3):235-41",
+                                "ArticleIdList": [
+                                    "24831941"
+                                ]
+                            },
+                            {
+                                "Citation": "Healthc Financ Manage. 2012 Jul;66(7):84-8",
+                                "ArticleIdList": [
+                                    "22788042"
+                                ]
+                            },
+                            {
+                                "Citation": "Lippincotts Case Manag. 2002 Sep-Oct;7(5):194-200",
+                                "ArticleIdList": [
+                                    "12394558"
+                                ]
+                            },
+                            {
+                                "Citation": "Matern Child Health J. 2008 Jan;12(1):101-11",
+                                "ArticleIdList": [
+                                    "17592762"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2011 Mar;67(3):643-51",
+                                "ArticleIdList": [
+                                    "21166838"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 2008 Apr;13 Suppl 2:19-25",
+                                "ArticleIdList": [
+                                    "18416925"
+                                ]
+                            },
+                            {
+                                "Citation": "Frontline Gastroenterol. 2016 Jul;7(3):191-198",
+                                "ArticleIdList": [
+                                    "27429733"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2015 Jul 23;4:97",
+                                "ArticleIdList": [
+                                    "26202326"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2013 Jan 03;3(1):null",
+                                "ArticleIdList": [
+                                    "23293244"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2015 Oct;18(5):1426-38",
+                                "ArticleIdList": [
+                                    "24102915"
+                                ]
+                            },
+                            {
+                                "Citation": "Optom Vis Sci. 2007 Aug;84(8):663-74",
+                                "ArticleIdList": [
+                                    "17700331"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med Australas. 2011 Dec;23(6):677-88",
+                                "ArticleIdList": [
+                                    "22151666"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2005 Nov 19;331(7526):1199-201",
+                                "ArticleIdList": [
+                                    "16293845"
+                                ]
+                            },
+                            {
+                                "Citation": "NPJ Prim Care Respir Med. 2014 Jun 26;24:14020",
+                                "ArticleIdList": [
+                                    "24964767"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "04",
+                        "Day": "26"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "02",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "3",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "2",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "3",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28339923",
+                    "3059849",
+                    "10.1093/intqhc/mzx027",
+                    "PMC5890873"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28339923)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828339923%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828339923%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021387936"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021387936?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021387936&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021387936&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021387936",
+                        "dc:identifier": "SCOPUS_ID:85021387936",
+                        "eid": "2-s2.0-85021387936",
+                        "dc:title": "Measuring patient experience: A systematic review to evaluate psychometric properties of patient reported experience measures (PREMs) for emergency care service provision",
+                        "dc:creator": "Male L.",
+                        "prism:publicationName": "International Journal for Quality in Health Care",
+                        "prism:issn": "13534505",
+                        "prism:eIssn": "14643677",
+                        "prism:volume": "29",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "314-326",
+                        "prism:coverDate": "2017-06-01",
+                        "prism:coverDisplayDate": "1 June 2017",
+                        "prism:doi": "10.1093/intqhc/mzx027",
+                        "citedby-count": "22",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28339923",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "mzx027",
+                        "source-id": "14734",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "7CN7FRJZ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28339923"
+            }
+        },
+        "title": "Measuring patient experience: a systematic review to evaluate psychometric properties of patient reported experience measures (PREMs) for emergency care service provision.",
+        "full_author_list": [
+            {
+                "clean": "Male L",
+                "family": "Male",
+                "given": "Leanne",
+                "affiliation": {
+                    "name": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK."
+                }
+            },
+            {
+                "clean": "Noble A",
+                "family": "Noble",
+                "given": "Adam",
+                "affiliation": {
+                    "name": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK."
+                }
+            },
+            {
+                "clean": "Atkinson J",
+                "family": "Atkinson",
+                "given": "Jessica",
+                "affiliation": {
+                    "name": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK."
+                }
+            },
+            {
+                "clean": "Marson T",
+                "family": "Marson",
+                "given": "Tony",
+                "affiliation": {
+                    "name": "The Walton Centre NHS Foundation Trust, Lower Lane, Liverpool L9 7LJ, UK."
+                }
+            }
+        ],
+        "first_author": "Male L",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Satisfaction",
+                    "major": "Y"
+                },
+                {
+                    "term": "Psychometrics",
+                    "major": "N"
+                },
+                {
+                    "term": "Reproducibility of Results",
+                    "major": "N"
+                },
+                {
+                    "term": "Surveys and Questionnaires",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Int J Qual Health Care",
+            "volume": "29",
+            "issue": "3"
+        },
+        "abstract": "['Knowledge about patient experience within emergency departments (EDs) allows services to develop and improve in line with patient needs. There is no standardized instrument to measure patient experience. The aim of this study is to identify patient reported experience measures (PREMs) for EDs, examine the rigour by which they were developed and their psychometric properties when judged against standard criteria.', 'Medline, Scopus, CINAHL, PsycINFO, PubMed and Web of Science were searched from inception to May 2015.', 'Studies were identified using specific search terms and inclusion criteria. A total of eight articles, reporting on four PREMs, were included.', 'Data on the development and performance of the four PREMs were extracted from the articles. The measures were critiqued according to quality criteria previously described by\\xa0Pesudovs K, Burr JM, Harley C, et al. (The development, assessment, and selection of questionnaires. Optom Vis Sci 2007;84:663-74.).', 'There was significant variation in the quality of development and reporting of psychometric properties. For all four PREMs, initial development work included the ascertainment of patient experiences using qualitative interviews. However, instrument performance was poorly assessed. Validity and reliability were measured in some studies; however responsiveness, an important aspect on survey development, was not measured in any of the included studies.', 'PREMS currently available for use in the ED have uncertain validity, reliability and responsiveness. Further validation work is required to assess their acceptability to patients and their usefulness in clinical practice.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "22"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Liverpool, Room 2.29, Clinical Sciences Centre, Aintree University Hospital, Fazakerley L9 7LJ, UK.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

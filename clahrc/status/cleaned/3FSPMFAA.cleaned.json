@@ -1,0 +1,1314 @@
+{
+    "IDs": {
+        "zotero": "3FSPMFAA",
+        "DOI": "10.1002/14651858.CD011792.pub2",
+        "DOI_filename": "f61d4ddf8900af677f965a649ed70cf3",
+        "PMID": "27434597",
+        "scopus": "2-s2.0-84978641590",
+        "hash": "4479f684cb8cec9dc2f4b16c90065063"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "3FSPMFAA",
+            "version": 111,
+            "itemType": "journalArticle",
+            "title": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP)",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Melissa J",
+                    "lastName": "Maguire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cerian F",
+                    "lastName": "Jackson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2016-07-19",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD011792.pub2",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD011792.pub2",
+            "accessDate": "2020-09-10T17:09:46Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27434597",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:09:46Z",
+            "dateModified": "2020-09-11T13:18:05Z",
+            "pmid": "27434597"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        16
+                    ]
+                ],
+                "date-time": "2020-03-16T01:43:28Z",
+                "timestamp": 1584323008732
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2016,
+                                7,
+                                19
+                            ]
+                        ],
+                        "date-time": "2016-07-19T00:00:00Z",
+                        "timestamp": 1468886400000
+                    },
+                    "DOI": "10.1002/14651858.cd011792",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 42,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd011792.pub2",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        19
+                    ]
+                ],
+                "date-time": "2016-07-19T17:00:26Z",
+                "timestamp": 1468947626000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 12,
+            "title": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP)",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Melissa J",
+                    "family": "Maguire",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Leeds General Infirmary; Department of Neurology; Great George Street Leeds UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Cerian F",
+                    "family": "Jackson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Fazakerley Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Department of Biostatistics; Block F, Waterhouse Building 1-5 Brownlow Hill Liverpool UK L69 3GL"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        19
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1131",
+                    "DOI": "10.1212/01.WNL.0000156352.61328.CB",
+                    "article-title": "Case-control study of SUDEP",
+                    "volume": "64",
+                    "author": "Langan",
+                    "year": "2005",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "898",
+                    "DOI": "10.1590/S0004-282X2010000600013",
+                    "article-title": "Incidence of SUDEP in a cohort of patients with refractory epilepsy: the role of surgery and lesion localization",
+                    "volume": "68",
+                    "author": "Almeida",
+                    "year": "2010",
+                    "journal-title": "Arquivos de Neuro-Psiquiatria"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "206",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01360.x",
+                    "article-title": "Epilepsy, vagal nerve stimulation by the NCP system, mortality, and sudden, unexpected, unexplained death",
+                    "volume": "39",
+                    "author": "Annegers",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "549",
+                    "DOI": "10.1111/j.1528-1157.2000.tb00208.x",
+                    "article-title": "Epilepsy, vagal nerve stimulation by the NCP system, all-cause mortality, and sudden, unexpected, unexplained death",
+                    "volume": "41",
+                    "author": "Annegers",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2211",
+                    "DOI": "10.1111/j.1528-1167.2010.02594.x",
+                    "article-title": "Serotonin reuptake inhibitors are associated with reduced severity of ictal hypoxemia in medically refractory partial epilepsy",
+                    "volume": "51",
+                    "author": "Bateman",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e58",
+                    "DOI": "10.1111/epi.12120",
+                    "article-title": "Detection of generalized tonic-clonic seizures by a wireless wrist accelerometer: a prospective, multicenter study",
+                    "volume": "54",
+                    "author": "Beniczky",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0007|cit7",
+                    "first-page": "76, Abstract no",
+                    "article-title": "Do N-3 fatty acids improve risk factors associated with sudden death in epilepsy (SUDEP)? A pilot randomized crossover trial",
+                    "volume": "49",
+                    "author": "DeGiorgio",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "899",
+                    "DOI": "10.1111/j.1528-1167.2010.02536.x",
+                    "article-title": "Electrical stimulation of the anterior nucleus of thalamus for treatment of refractory epilepsy",
+                    "volume": "51",
+                    "author": "Fisher",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "172",
+                    "DOI": "10.1016/j.yebeh.2013.04.017",
+                    "article-title": "Assessment of a quasi-piezoelectric mattress monitor as a detection system for generalized convulsions",
+                    "volume": "28",
+                    "author": "Narechania",
+                    "year": "2013",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0010|cit10",
+                    "unstructured": "NCT00101933 SANTE - Stimulation of the Anterior Nucleus of the Thalamus for Epilepsy http://ClinicalTrials.gov/show/NCT00101933"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0011|cit11",
+                    "unstructured": "NCT00986310 Efficacy of fluoxetine in reducing ictal hypoventilation in patients with partial epilepsy http://clinicaltrials.gov/show/NCT00986310"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "667",
+                    "DOI": "10.1046/j.1528-1157.2001.22000.x",
+                    "article-title": "Antiepileptic drug therapy and its management in sudden unexpected death in epilepsy: a case-control study",
+                    "volume": "42",
+                    "author": "Nilsson",
+                    "year": "2001",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "961",
+                    "DOI": "10.1016/S1474-4422(11)70193-4",
+                    "article-title": "Risk of sudden unexpected death in epilepsy in patients given adjunctive antiepileptic treatment for refractory seizures: a meta-analysis of placebo-controlled randomised trials",
+                    "volume": "10",
+                    "author": "Ryvlin",
+                    "year": "2011",
+                    "journal-title": "The Lancet Neurology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "377",
+                    "DOI": "10.1111/j.1528-1167.2012.03691.x",
+                    "article-title": "Impact of peri-ictal interventions on respiratory dysfunction, postictal EEG suppression, and postictal immobility",
+                    "volume": "54",
+                    "author": "Seyal",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "267",
+                    "DOI": "10.1111/j.1528-1167.2011.03343.x",
+                    "article-title": "Mortality after temporal lobe epilepsy surgery",
+                    "volume": "53",
+                    "author": "Seymour",
+                    "year": "2012",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1434",
+                    "DOI": "10.1177/0883073812471858",
+                    "article-title": "Prospective study of the Emfit movement monitor",
+                    "volume": "28",
+                    "author": "Poppel",
+                    "year": "2013",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0017|cit17",
+                    "unstructured": "NCT00736424 Brain stimulation for epilepsy long term follow-up (SUDEP) http://clinicaltrials.gov/show/NCT00736424"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0018|cit18",
+                    "unstructured": "Sterne JAC Higgins JPT Reeves BC on behalf of the development group for ACROBAT-NRSI A Cochrane Risk Of Bias Assessment Tool: for Non-Randomized Studies of Interventions (ACROBAT-NRSI), Version 1.0.0, 24 September 2014 Available from http://www.riskofbias.info"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "216",
+                    "DOI": "10.1097/00004691-199104000-00010",
+                    "article-title": "Sudden unexpected death in epilepsy: a series from an epilepsy surgery program and speculation on the relationship to sudden cardiac death",
+                    "volume": "8",
+                    "author": "Dasheiff",
+                    "year": "1991",
+                    "journal-title": "Journal of Clinical Neurophysiology"
+                },
+                {
+                    "issue": "19",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1801",
+                    "DOI": "10.1056/NEJMra1010481",
+                    "article-title": "Sudden, unexpected death in epilepsy",
+                    "volume": "365",
+                    "author": "Devinsky",
+                    "year": "2012",
+                    "journal-title": "The New England Journal of Medicine"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1926",
+                    "DOI": "10.1212/WNL.45.10.1926",
+                    "article-title": "Anticonvulsant effect of fluoxetine in humans",
+                    "volume": "45",
+                    "author": "Favale",
+                    "year": "1995",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "316",
+                    "DOI": "10.1016/S1059-1311(02)00315-1",
+                    "article-title": "The anticonvulsant effect of citalopram as an indirect evidence of serotonergic impairment in human epileptogenesis",
+                    "volume": "12",
+                    "author": "Favale",
+                    "year": "2003",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "7650",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "924",
+                    "DOI": "10.1136/bmj.39489.470347.AD",
+                    "article-title": "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+                    "volume": "336",
+                    "author": "Guyatt",
+                    "year": "2008",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1150",
+                    "DOI": "10.1111/j.1528-1167.2010.02952.x",
+                    "article-title": "Combined analysis of risk factors for SUDEP",
+                    "volume": "52",
+                    "author": "Hesdorffer",
+                    "year": "2011",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "249",
+                    "DOI": "10.1111/j.1528-1167.2011.03354.x",
+                    "article-title": "Do antiepileptic drugs or generalized tonic-clonic seizure frequency increase SUDEP risk? A combined analysis",
+                    "volume": "53",
+                    "author": "Hesdorffer",
+                    "year": "2012",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0026|cit26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "d5928",
+                    "DOI": "10.1136/bmj.d5928",
+                    "article-title": "The Cochrane Collaboration\u2019s tool for assessing risk of bias in randomised trials",
+                    "volume": "343",
+                    "author": "Higgins",
+                    "year": "2011",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0027|cit27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "439",
+                    "DOI": "10.1136/jnnp.67.4.439",
+                    "article-title": "Sudden unexpected death in epilepsy (SUDEP): a clinical perspective and a search for risk factors",
+                    "volume": "67",
+                    "author": "Kloster",
+                    "year": "1999",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "211",
+                    "DOI": "10.1136/jnnp.68.2.211",
+                    "article-title": "Sudden unexpected death in epilepsy: a series of witnessed deaths",
+                    "volume": "68",
+                    "author": "Langan",
+                    "year": "2000",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0030|cit30",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from http://www.cochrane-handbook.org/"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "199",
+                    "DOI": "10.1136/jnnp.2005.066852",
+                    "article-title": "Sudden unexpected death in epilepsy (SUDEP): don't ask, don't tell?",
+                    "volume": "77",
+                    "author": "Morton",
+                    "year": "2006",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1063",
+                    "DOI": "10.1016/j.ncl.2009.08.003",
+                    "article-title": "Sudden unexpected death in epilepsy (SUDEP): update and reflections",
+                    "volume": "27",
+                    "author": "Nashef",
+                    "year": "2009",
+                    "journal-title": "Neurologic Clinics"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "194",
+                    "DOI": "10.1097/01.wco.0000218238.90711.f4",
+                    "article-title": "Sudden unexpected death in epilepsy: from mechanisms to prevention",
+                    "volume": "19",
+                    "author": "Ryvlin",
+                    "year": "2006",
+                    "journal-title": "Current Opinion in Neurology"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "966",
+                    "DOI": "10.1016/S1474-4422(13)70214-X",
+                    "article-title": "Incidence and mechanisms of cardiorespiratory arrests in epilepsy monitoring units (MORTEMUS): a retrospective study",
+                    "volume": "12",
+                    "author": "Ryvlin",
+                    "year": "2013",
+                    "journal-title": "The Lancet Neurology"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "23",
+                    "DOI": "10.1111/epi.12180",
+                    "article-title": "Prevention of sudden unexpected death in epilepsy: a realistic goal?",
+                    "volume": "54",
+                    "author": "Ryvlin",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "170",
+                    "DOI": "10.1111/j.1528-1167.2009.02168.x",
+                    "article-title": "Anoxia-ischemia: a mechanism of seizure termination in ictal asystole",
+                    "volume": "51",
+                    "author": "Schuele",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9808",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2028",
+                    "DOI": "10.1016/S0140-6736(11)60176-1",
+                    "article-title": "Sudden unexpected death in epilepsy",
+                    "volume": "378",
+                    "author": "Shorvon",
+                    "year": "2011",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "133",
+                    "DOI": "10.1097/00002826-200405000-00009",
+                    "article-title": "Citalopram as treatment of depression in patients with epilepsy",
+                    "volume": "27",
+                    "author": "Specchio",
+                    "year": "2004",
+                    "journal-title": "Clinical Neuropharmacology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "201",
+                    "DOI": "10.1111/j.1750-3639.2010.00438.x",
+                    "article-title": "Post-mortem review and genetic analysis of sudden unexpected death in epilepsy (SUDEP) cases",
+                    "volume": "21",
+                    "author": "Tu",
+                    "year": "2011",
+                    "journal-title": "Brain Pathology"
+                },
+                {
+                    "issue": "2-3",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "183",
+                    "DOI": "10.1016/j.eplepsyres.2009.11.004",
+                    "article-title": "Abnormal serotonin receptor expression in DBA/2 mice associated with susceptibility to sudden death due to respiratory arrest",
+                    "volume": "88",
+                    "author": "Uteshev",
+                    "year": "2010",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "993",
+                    "DOI": "10.1111/j.0013-9580.2004.02304.x",
+                    "article-title": "Oxygenation prevents sudden death in seizure-prone mice",
+                    "volume": "45",
+                    "author": "Venit",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD011792.pub2-BIB0042|cit42",
+                    "author": "Maguire",
+                    "issue": "7",
+                    "year": "2015",
+                    "article-title": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP)",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011792",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        13
+                    ]
+                ],
+                "date-time": "2019-12-13T16:35:23Z",
+                "timestamp": 1576254923000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        19
+                    ]
+                ]
+            },
+            "references-count": 42,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD011792.pub2",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27434597",
+                "DateCompleted": {
+                    "Year": "2016",
+                    "Month": "09",
+                    "Day": "21"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "04",
+                    "Day": "16"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD011792.pub2"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "07",
+                            "Day": "19"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "Jul",
+                                "Day": "19"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP).",
+                    "Pagination": {
+                        "MedlinePgn": "CD011792"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Sudden Unexpected Death in Epilepsy (SUDEP) is defined as sudden, unexpected, witnessed or unwitnessed, non-traumatic or non-drowning death of people with epilepsy, with or without evidence of a seizure, excluding documented status epilepticus and in whom postmortem examination does not reveal a structural or toxicological cause for death. SUDEP has a reported incidence of 1 to 2 per 1000 patient years and represents the most common epilepsy-related cause of death. The presence and frequency of generalised tonic-clonic seizures (GTCS), male sex, early age of seizure onset, duration of epilepsy, and polytherapy are all predictors of risk of SUDEP. The exact pathophysiology of SUDEP is currently unknown, although GTCS-induced cardiac, respiratory, and brainstem dysfunction appears likely. Appropriately chosen antiepileptic drug treatment can render around 70% of patients free of all seizures. However, around one-third will remain drug refractory despite polytherapy. Continuing seizures place patients at risk of SUDEP, depression, and reduced quality of life. Preventative strategies for SUDEP include reducing the occurrence of GTCS by timely referral for presurgical evaluation in people with lesional epilepsy and advice on lifestyle measures; detecting cardiorespiratory distress through clinical observation and seizure, respiratory, and heart rate monitoring devices; preventing airway obstruction through nocturnal supervision and safety pillows; reducing central hypoventilation through physical stimulation and enhancing serotonergic mechanisms of respiratory regulation using selective serotonin reuptake inhibitors (SSRIs); reducing adenosine and endogenous opioid-induced brain and brainstem depression.",
+                            "To assess the effectiveness of interventions in preventing SUDEP in people with epilepsy by synthesising evidence from randomised controlled trials of interventions and cohort and case-control non-randomised studies.",
+                            "We searched the following databases: Cochrane Epilepsy Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL, Issue 11, 2015) via the Cochrane Register of Studies Online (CRSO); MEDLINE (Ovid, 1946 onwards); SCOPUS (1823 onwards); PsycINFO (EBSCOhost, 1887 onwards); CINAHL Plus (EBSCOhost, 1937 onwards); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We used no language restrictions. The date of the last search was 12 November 2015. We checked the reference lists of retrieved studies for additional reports of relevant studies and contacted lead study authors for any relevant unpublished material. We identified duplicate studies by screening reports according to title, authors' names, location, and medical institute, omitting any duplicated studies. We identified any grey literature studies published in the last five years by searching: Zetoc database; ISI Proceedings; International Bureau for Epilepsy (IBE) congress proceedings database; International League Against Epilepsy (ILAE) congress proceedings database; abstract books of symposia and congresses, meeting abstracts, and research reports.",
+                            "We aimed to include randomised controlled trials (RCTs), quasi-RCTs, and cluster-RCTs; prospective non-randomised cohort controlled and uncontrolled studies; and case-control studies of adults and children with epilepsy receiving an intervention for the prevention of SUDEP. Types of interventions included: early versus delayed pre-surgical evaluation for lesional epilepsy; educational programmes; seizure-monitoring devices; safety pillows; nocturnal supervision; selective serotonin reuptake inhibitors (SSRIs); opiate antagonists; and adenosine antagonists.",
+                            "We aimed to collect data on study design factors and participant demographics for included studies. The primary outcome of interest was the number of deaths from SUDEP. Secondary outcomes included: number of other deaths (unrelated to SUDEP); change in mean depression and anxiety scores (as defined within the study); clinically important change in quality of life, that is any change in quality of life score (average and endpoint) according to validated quality of life scales; and number of hospital attendances for seizures.",
+                            "We identified 582 records from the databases and search strategies. We found 10 further records by searching other resources (handsearching). We removed 211 duplicate records and screened 381 records (title and abstract) for inclusion in the review. We excluded 364 records based on the title and abstract and assessed 17 full-text articles. We excluded 15 studies: eight studies did not assess interventions to prevent SUDEP; five studies measured sensitivity of devices to detect GTCS but did not directly measure SUDEP; and two studies assessed risk factors for SUDEP but not interventions for preventing SUDEP. One listed study is awaiting classification.We included one case-control study at serious risk of bias within a qualitative analysis in this review. This study of 154 cases of SUDEP and 616 controls ascertained a protective effect for the presence of nocturnal supervision (unadjusted odds ratio (OR) 0.34, 95% confidence interval (CI) 0.22 to 0.53) and when a supervising person shared the same bedroom or when special precautions, for example a listening device, were used (unadjusted OR 0.41, 95% CI 0.20 to 0.82). This effect was independent of seizure control. Non-SUDEP deaths; changes to anxiety, depression, and quality of life; and number of hospital attendances were not reported.",
+                            "We found very low-quality evidence of a preventative effect for nocturnal supervision against SUDEP. Further research is required to identify the effectiveness of other current interventions, for example seizure detection devices, safety pillows, SSRIs, early surgical evaluation, educational programmes, and opiate and adenosine antagonists in preventing SUDEP in people with epilepsy."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Neurology, Leeds General Infirmary, Great George Street, Leeds, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maguire",
+                            "ForeName": "Melissa J",
+                            "Initials": "MJ"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Jackson",
+                            "ForeName": "Cerian F",
+                            "Initials": "CF"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Nolan",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "10/4001/18",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2020 Apr 2;4:CD011792",
+                        "PMID": "32239759"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Case-Control Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "etiology",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Death, Sudden",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Epilepsy, Tonic-Clonic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Patient Safety",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Sleep",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1999 Oct;67(4):439-44",
+                                "ArticleIdList": [
+                                    "10486388"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2000 Feb;68(2):211-3",
+                                "ArticleIdList": [
+                                    "10644790"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000 May;41(5):549-53",
+                                "ArticleIdList": [
+                                    "10802760"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2001 May;42(5):667-73",
+                                "ArticleIdList": [
+                                    "11380576"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2003 Jul;12(5):316-8",
+                                "ArticleIdList": [
+                                    "12810346"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Neuropharmacol. 2004 May-Jun;27(3):133-6",
+                                "ArticleIdList": [
+                                    "15190237"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2004 Aug;45(8):993-6",
+                                "ArticleIdList": [
+                                    "15270769"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2005 Apr 12;64(7):1131-3",
+                                "ArticleIdList": [
+                                    "15824334"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 2006 Feb;77(2):199-202",
+                                "ArticleIdList": [
+                                    "16421121"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Opin Neurol. 2006 Apr;19(2):194-9",
+                                "ArticleIdList": [
+                                    "16538096"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Apr 26;336(7650):924-6",
+                                "ArticleIdList": [
+                                    "18436948"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 Jan;51(1):170-3",
+                                "ArticleIdList": [
+                                    "19490047"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Clin. 2009 Nov;27(4):1063-1074",
+                                "ArticleIdList": [
+                                    "19853224"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2010 Feb;88(2-3):183-8",
+                                "ArticleIdList": [
+                                    "20018491"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 May;51(5):899-908",
+                                "ArticleIdList": [
+                                    "20331461"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2010 Oct;51(10):2211-4",
+                                "ArticleIdList": [
+                                    "20491872"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurophysiol. 1991 Apr;8(2):216-22",
+                                "ArticleIdList": [
+                                    "2050822"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain Pathol. 2011 Mar;21(2):201-8",
+                                "ArticleIdList": [
+                                    "20875080"
+                                ]
+                            },
+                            {
+                                "Citation": "Arq Neuropsiquiatr. 2010 Dec;68(6):898-902",
+                                "ArticleIdList": [
+                                    "21243249"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2011 Jun;52(6):1150-9",
+                                "ArticleIdList": [
+                                    "21671925"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2011 Dec 10;378(9808):2028-2038",
+                                "ArticleIdList": [
+                                    "21737136"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2011 Nov;10(11):961-8",
+                                "ArticleIdList": [
+                                    "21937278"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2011 Oct 18;343:d5928",
+                                "ArticleIdList": [
+                                    "22008217"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2011 Nov 10;365(19):1801-11",
+                                "ArticleIdList": [
+                                    "22070477"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2012 Feb;53(2):267-71",
+                                "ArticleIdList": [
+                                    "22126418"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2012 Feb;53(2):249-52",
+                                "ArticleIdList": [
+                                    "22191685"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Feb;54(2):377-82",
+                                "ArticleIdList": [
+                                    "23016848"
+                                ]
+                            },
+                            {
+                                "Citation": "J Child Neurol. 2013 Nov;28(11):1434-1436",
+                                "ArticleIdList": [
+                                    "23364654"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Apr;54(4):e58-61",
+                                "ArticleIdList": [
+                                    "23398578"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 May;54 Suppl 2:23-8",
+                                "ArticleIdList": [
+                                    "23646967"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2013 Aug;28(2):172-6",
+                                "ArticleIdList": [
+                                    "23747502"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2013 Oct;12(10):966-77",
+                                "ArticleIdList": [
+                                    "24012372"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1995 Oct;45(10):1926-7",
+                                "ArticleIdList": [
+                                    "7477995"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1998 Feb;39(2):206-12",
+                                "ArticleIdList": [
+                                    "9578002"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "7",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "7",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "9",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27434597",
+                    "10.1002/14651858.CD011792.pub2",
+                    "PMC6458047"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27434597)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827434597%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827434597%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84978641590"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84978641590?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84978641590&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84978641590&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84978641590",
+                        "dc:identifier": "SCOPUS_ID:84978641590",
+                        "eid": "2-s2.0-84978641590",
+                        "dc:title": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP)",
+                        "dc:creator": "Maguire M.J.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2016",
+                        "prism:issueIdentifier": "7",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-07-19",
+                        "prism:coverDisplayDate": "19 July 2016",
+                        "prism:doi": "10.1002/14651858.CD011792.pub2",
+                        "citedby-count": "34",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Leeds General Infirmary",
+                                "affiliation-city": "Leeds",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27434597",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD011792",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "3FSPMFAA.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27434597"
+            }
+        },
+        "title": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP).",
+        "full_author_list": [
+            {
+                "clean": "Maguire M",
+                "family": "Maguire",
+                "given": "Melissa J",
+                "affiliation": {
+                    "name": "Department of Neurology, Leeds General Infirmary, Great George Street, Leeds, UK."
+                }
+            },
+            {
+                "clean": "Jackson C",
+                "family": "Jackson",
+                "given": "Cerian F",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Nolan S",
+                "family": "Nolan",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Maguire M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Case-Control Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Death, Sudden",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy, Tonic-Clonic",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Safety",
+                    "major": "Y"
+                },
+                {
+                    "term": "Sleep",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "7",
+            "issue": ""
+        },
+        "abstract": "['Sudden Unexpected Death in Epilepsy (SUDEP) is defined as sudden, unexpected, witnessed or unwitnessed, non-traumatic or non-drowning death of people with epilepsy, with or without evidence of a seizure, excluding documented status epilepticus and in whom postmortem examination does not reveal a structural or toxicological cause for death. SUDEP has a reported incidence of 1 to 2 per 1000 patient years and represents the most common epilepsy-related cause of death. The presence and frequency of generalised tonic-clonic seizures (GTCS), male sex, early age of seizure onset, duration of epilepsy, and polytherapy are all predictors of risk of SUDEP. The exact pathophysiology of SUDEP is currently unknown, although GTCS-induced cardiac, respiratory, and brainstem dysfunction appears likely. Appropriately chosen antiepileptic drug treatment can render around 70% of patients free of all seizures. However, around one-third will remain drug refractory despite polytherapy. Continuing seizures place patients at risk of SUDEP, depression, and reduced quality of life. Preventative strategies for SUDEP include reducing the occurrence of GTCS by timely referral for presurgical evaluation in people with lesional epilepsy and advice on lifestyle measures; detecting cardiorespiratory distress through clinical observation and seizure, respiratory, and heart rate monitoring devices; preventing airway obstruction through nocturnal supervision and safety pillows; reducing central hypoventilation through physical stimulation and enhancing serotonergic mechanisms of respiratory regulation using selective serotonin reuptake inhibitors (SSRIs); reducing adenosine and endogenous opioid-induced brain and brainstem depression.', 'To assess the effectiveness of interventions in preventing SUDEP in people with epilepsy by synthesising evidence from randomised controlled trials of interventions and cohort and case-control non-randomised studies.', \"We searched the following databases: Cochrane Epilepsy Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL, Issue 11, 2015) via the Cochrane Register of Studies Online (CRSO); MEDLINE (Ovid, 1946 onwards); SCOPUS (1823 onwards); PsycINFO (EBSCOhost, 1887 onwards); CINAHL Plus (EBSCOhost, 1937 onwards); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We used no language restrictions. The date of the last search was 12 November 2015. We checked the reference lists of retrieved studies for additional reports of relevant studies and contacted lead study authors for any relevant unpublished material. We identified duplicate studies by screening reports according to title, authors' names, location, and medical institute, omitting any duplicated studies. We identified any grey literature studies published in the last five years by searching: Zetoc database; ISI Proceedings; International Bureau for Epilepsy (IBE) congress proceedings database; International League Against Epilepsy (ILAE) congress proceedings database; abstract books of symposia and congresses, meeting abstracts, and research reports.\", 'We aimed to include randomised controlled trials (RCTs), quasi-RCTs, and cluster-RCTs; prospective non-randomised cohort controlled and uncontrolled studies; and case-control studies of adults and children with epilepsy receiving an intervention for the prevention of SUDEP. Types of interventions included: early versus delayed pre-surgical evaluation for lesional epilepsy; educational programmes; seizure-monitoring devices; safety pillows; nocturnal supervision; selective serotonin reuptake inhibitors (SSRIs); opiate antagonists; and adenosine antagonists.', 'We aimed to collect data on study design factors and participant demographics for included studies. The primary outcome of interest was the number of deaths from SUDEP. Secondary outcomes included: number of other deaths (unrelated to SUDEP); change in mean depression and anxiety scores (as defined within the study); clinically important change in quality of life, that is any change in quality of life score (average and endpoint) according to validated quality of life scales; and number of hospital attendances for seizures.', 'We identified 582 records from the databases and search strategies. We found 10 further records by searching other resources (handsearching). We removed 211 duplicate records and screened 381 records (title and abstract) for inclusion in the review. We excluded 364 records based on the title and abstract and assessed 17 full-text articles. We excluded 15 studies: eight studies did not assess interventions to prevent SUDEP; five studies measured sensitivity of devices to detect GTCS but did not directly measure SUDEP; and two studies assessed risk factors for SUDEP but not interventions for preventing SUDEP. One listed study is awaiting classification.We included one case-control study at serious risk of bias within a qualitative analysis in this review. This study of 154 cases of SUDEP and 616 controls ascertained a protective effect for the presence of nocturnal supervision (unadjusted odds ratio (OR) 0.34, 95% confidence interval (CI) 0.22 to 0.53) and when a supervising person shared the same bedroom or when special precautions, for example a listening device, were used (unadjusted OR 0.41, 95% CI 0.20 to 0.82). This effect was independent of seizure control. Non-SUDEP deaths; changes to anxiety, depression, and quality of life; and number of hospital attendances were not reported.', 'We found very low-quality evidence of a preventative effect for nocturnal supervision against SUDEP. Further research is required to identify the effectiveness of other current interventions, for example seizure detection devices, safety pillows, SSRIs, early surgical evaluation, educational programmes, and opiate and adenosine antagonists in preventing SUDEP in people with epilepsy.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "34"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Neurology, Leeds General Infirmary, Great George Street, Leeds, UK.",
+            "clean_institute": "Leeds General Infirmary",
+            "latitude": "53.8021",
+            "longitude": "-1.55083",
+            "country": "United Kingdom",
+            "postal_town": "Leeds"
+        }
+    }
+}

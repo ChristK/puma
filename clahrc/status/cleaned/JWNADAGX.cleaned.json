@@ -1,0 +1,1376 @@
+{
+    "IDs": {
+        "zotero": "JWNADAGX",
+        "DOI": "10.1186/s13643-016-0379-1",
+        "DOI_filename": "3e242178de06c3e5fbacfe69966019e7",
+        "PMID": "27894332",
+        "scopus": "2-s2.0-84999751950",
+        "hash": "488313fb0b782e8311f1064d7549b5dc"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JWNADAGX",
+            "version": 160,
+            "itemType": "journalArticle",
+            "title": "Consideration of health inequalities in systematic reviews: a mapping review of guidance",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle",
+                    "lastName": "Maden"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Systematic Reviews",
+            "volume": "5",
+            "issue": "1",
+            "pages": "202",
+            "date": "12/2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Syst Rev",
+            "language": "en",
+            "DOI": "10.1186/s13643-016-0379-1",
+            "ISSN": "2046-4053",
+            "shortTitle": "Consideration of health inequalities in systematic reviews",
+            "url": "http://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-016-0379-1",
+            "accessDate": "2020-09-10T17:10:14Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 27894332",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:14Z",
+            "dateModified": "2020-09-15T13:03:20Z",
+            "pmid": "27894332"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        14
+                    ]
+                ],
+                "date-time": "2020-03-14T12:24:30Z",
+                "timestamp": 1584188670690
+            },
+            "reference-count": 62,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://www.springer.com/tdm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2016,
+                                11,
+                                28
+                            ]
+                        ],
+                        "date-time": "2016-11-28T00:00:00Z",
+                        "timestamp": 1480291200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research (CLAHRC NWC)",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s13643-016-0379-1",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        28
+                    ]
+                ],
+                "date-time": "2016-11-28T12:08:30Z",
+                "timestamp": 1480334910000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 6,
+            "title": "Consideration of health inequalities in systematic reviews: a mapping review of guidance",
+            "prefix": "10.1186",
+            "volume": "5",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4419-6343",
+                    "authenticated-orcid": false,
+                    "given": "Michelle",
+                    "family": "Maden",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        28
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "6",
+                    "key": "379_CR1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "473",
+                    "DOI": "10.1136/jech.2005.037242",
+                    "volume": "61",
+                    "author": "M Whitehead",
+                    "year": "2007",
+                    "unstructured": "Whitehead M. A typology of actions to tackle social inequalities in health. J Epidemiol Community Health. 2007;61(6):473\u20138.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "issue": "2",
+                    "key": "379_CR2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "93",
+                    "DOI": "10.1177/135581969600100207",
+                    "volume": "1",
+                    "author": "L Arblaster",
+                    "year": "1996",
+                    "unstructured": "Arblaster L, Lambert M, Entwistle V, Forster M, Fullerton D, Sheldon T, Watt I. A systematic review of the effectiveness of health service interventions aimed at reducing health inequalities in health. J Health Serv Res Policy. 1996;1(2):93\u2013103.",
+                    "journal-title": "J Health Serv Res Policy"
+                },
+                {
+                    "key": "379_CR3",
+                    "unstructured": "Blaxter M. Evidence for the effect on inequalities in health of interventions designed to change behaviour. Bristol: Department of Social Medicine, University of Bristol. NICE BC 6-5; 2007."
+                },
+                {
+                    "key": "379_CR4",
+                    "unstructured": "Lorenc T, Petticrew M, Welch V, Tugwell P. What types of interventions generate inequalities? Evidence from systematic reviews. J Epidemiol Community Health. Online First: 8 August 2012. http://jech.bmj.com/content/early/2012/08/07/jech-2012-201257.full"
+                },
+                {
+                    "issue": "1",
+                    "key": "379_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "43",
+                    "DOI": "10.1159/000324552",
+                    "volume": "4",
+                    "author": "S Plachta-Danielzik",
+                    "year": "2011",
+                    "unstructured": "Plachta-Danielzik S, Landsberg B, Lange D, Seiberl J, Muller MJ. Eight-year follow-up of school-based intervention on childhood overweight - the Kiel obesity prevention study. Obes Facts. 2011;4(1):43.",
+                    "journal-title": "Obes Facts"
+                },
+                {
+                    "key": "379_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1128",
+                    "DOI": "10.1016/S0140-6736(06)68490-0",
+                    "volume": "367",
+                    "author": "P Tugwell",
+                    "year": "2006",
+                    "unstructured": "Tugwell P, Petticrew M, Robinson V, Kristjansson E, Maxwell L for the Cochrane Equity Field Editorial Team. Cochrane and Campbell Collaborations and health equity. The Lancet. 2006;367:1128\u201330.",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "379_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "291",
+                    "DOI": "10.1136/jech-2013-203400",
+                    "volume": "68",
+                    "author": "M Petticrew",
+                    "year": "2014",
+                    "unstructured": "Petticrew M, Welch V, Tugwell P. \u2018It is surely a great criticism of our profession\u2026\u2019 The next 20 years of equity-focused systematic reviews. J Epidemiol Community Health. 2014;68(4):291\u20132. doi: 10.1136/jech-2013-203400 .",
+                    "journal-title": "J Epidemiol Community Health."
+                },
+                {
+                    "key": "379_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "811",
+                    "DOI": "10.1136/jech.2003.015289",
+                    "volume": "58",
+                    "author": "M Petticrew",
+                    "year": "2004",
+                    "unstructured": "Petticrew M, Whitehead M, Macintyre SJ, Graham H, Egan M. Evidence for public policy on inequalitites: 1: the reality according to policymakers. J Epidemiol Community Health. 2004;58:811\u20136.",
+                    "journal-title": "J Epidemiol Community Health."
+                },
+                {
+                    "key": "379_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1251",
+                    "DOI": "10.1016/j.jclinepi.2013.06.017",
+                    "volume": "66",
+                    "author": "B Burford",
+                    "year": "2013",
+                    "unstructured": "Burford B, Lewin S, Welch V, Rehfuess E, Waters E. Assessing applicability in systematic reviews of complex interventions. J Clin Epidemiol. 2013;66:1251\u2013126.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "key": "379_CR10",
+                    "first-page": "21",
+                    "volume": "1",
+                    "author": "JN Lavis",
+                    "year": "2006",
+                    "unstructured": "Lavis JN, Davies HTO, Gruen RL. Working within and beyond the Cochrane Collaboration to make systematic reviews more useful to healthcare managers and policy makers. Healthc Policy. 2006;1:21\u201333.",
+                    "journal-title": "Healthc Policy."
+                },
+                {
+                    "key": "379_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1215",
+                    "DOI": "10.1016/j.jclinepi.2013.05.013",
+                    "volume": "66",
+                    "author": "JE Squires",
+                    "year": "2013",
+                    "unstructured": "Squires JE, Valentine JC, Grimshaw JM. Systematic reviews of complex interventions: framing the review question. J Clin Epidemiol. 2013;66:1215\u201322.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "key": "379_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "56",
+                    "DOI": "10.1016/j.jclinepi.2013.08.005",
+                    "volume": "67",
+                    "author": "J O'Neill",
+                    "year": "2014",
+                    "unstructured": "O'Neill J, Tabish H, Welch V, Petticrew M, Pottie K, Clarke M, Evans T, Pardo Pardo J, Waters E, White H, Tugwell P. Applying an equity lens to interventions: using PROGRESS ensures consideration of socially stratifying factors to illuminate inequities in health. J Clin Epidemiol. 2014;67:56\u201364. doi: 10.1016/j.jclinepi.2013.08.005 .",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "issue": "3",
+                    "key": "379_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "429",
+                    "DOI": "10.2190/986L-LHQ6-2VTE-YRRN",
+                    "volume": "22",
+                    "author": "M Whitehead",
+                    "year": "1992",
+                    "unstructured": "Whitehead M. The concepts and principles of equity and health. Int J Health Serv. 1992;22(3):429\u201345.",
+                    "journal-title": "Int J Health Serv"
+                },
+                {
+                    "key": "379_CR14",
+                    "unstructured": "Welch V. What is the role of systematic reviews in tackling health inequity? University of Ottawa; 2010. PhD Thesis."
+                },
+                {
+                    "key": "379_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "284",
+                    "DOI": "10.1136/jech.2008.082743",
+                    "volume": "64",
+                    "author": "C Bambra",
+                    "year": "2010",
+                    "unstructured": "Bambra C, Gibson M, Sowden A, Wright K, Whitehead M, Petticrew M. Tackling the wider social determinants of health and health inequalities: evidence from systematic reviews. J Epidemiol Community Health. 2010;64:284\u201391.",
+                    "journal-title": "J Epidemiol Community Health."
+                },
+                {
+                    "key": "379_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "178",
+                    "DOI": "10.1186/1471-2458-8-178",
+                    "volume": "8",
+                    "author": "C Main",
+                    "year": "2008",
+                    "unstructured": "Main C, Thomas S, Ogilvie D, Stirk L, Petticrew M, Whitehead M, Sowden A. Population tobacco control interventions and their effects on social inequalities in smoking: placing an equity lens on existing systematic reviews. BMC Public Health. 2008;8:178.",
+                    "journal-title": "BMC Public Health."
+                },
+                {
+                    "issue": "3",
+                    "key": "379_CR17",
+                    "doi-asserted-by": "publisher",
+                    "DOI": "10.1371/journal.pone.0031360",
+                    "volume": "7",
+                    "author": "V Welch",
+                    "year": "2012",
+                    "unstructured": "Welch V, Petticrew M, Ueffing E, Benkhalti Jandu M, Brand K, Dhaliwal B, Kristjansson E, Smylie J, Wells GA, Tugwell P. Does consideration and assessment of effects on health equity affect the conclusions of systematic reviews? A methodology study. PLoS ONE. 2012;7(3), e31360.",
+                    "journal-title": "PLoS ONE"
+                },
+                {
+                    "key": "379_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "355",
+                    "DOI": "10.1111/j.1467-789X.2007.00409.x",
+                    "volume": "9",
+                    "author": "V Paul-Ebhohimhen",
+                    "year": "2008",
+                    "unstructured": "Paul-Ebhohimhen V, Avenell A. Systematic review of the use of financial incentives in treatments for obesity and overweight. Obes Rev. 2008;9:355\u201367.",
+                    "journal-title": "Obes Rev."
+                },
+                {
+                    "issue": "1",
+                    "key": "379_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "175",
+                    "DOI": "10.1016/j.healthplace.2010.09.011",
+                    "volume": "17",
+                    "author": "M Gibson",
+                    "year": "2011",
+                    "unstructured": "Gibson M, Petticrew M, Bambra C, Sowden AJ, Wright KE, Whitehead M. Housing and health inequalities: a synthesis of systematic reviews of interventions aimed at different pathways linking housing and health. Health Place. 2011;17(1):175\u201384.",
+                    "journal-title": "Health Place"
+                },
+                {
+                    "key": "379_CR20",
+                    "author": "A Booth",
+                    "year": "2016",
+                    "edition": "2",
+                    "unstructured": "Booth A, Sutton A, Papaioannou D. Systematic approaches to a successful literature review. 2nd ed. London: SAGE Publications Ltd; 2016.",
+                    "volume-title": "Systematic approaches to a successful literature review"
+                },
+                {
+                    "key": "379_CR21",
+                    "unstructured": "Welch V, Tugwell P, Petticrew M, de Morntigny J, Ueffing E, Kristjansson E, McGowan J, Benkhalti J,M, Wells G,A, Brand K, Smylie J. How effects of health equity are assessed in systematic reviews of interventions. Cochrane Database of Systematic Reviews. 2010, Issue 12. Art No: MR000028.",
+                    "DOI": "10.1002/14651858.MR000028.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "379_CR22",
+                    "author": "M Doull",
+                    "year": "2014",
+                    "unstructured": "Doull M, Welch V, Puil L, Runnels V, Coen SE, Shea B, O'Neill J, Borkhoff C, Tudiver S, Boscoe M. Development and evaluation of 'briefing notes' as a novel knowledge translation tool to aid the implementation of sex/gender analysis in systematic reviews: a pilot study. PLOS One. 2014. doi: 10.1371/journal.pone.0110786 .",
+                    "journal-title": "PLOS One",
+                    "DOI": "10.1371/journal.pone.0110786",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "379_CR23",
+                    "unstructured": "Welch V, Puil L, Shea B, Runnels V, Doull M, Tudiver S, Boscoe M, for the Sex/Gender Methods Group. Addressing sex/gender in systematic reviews: Cochrane Musculoskeletal Group briefing note. Version 2014-01. Accessed at: http://methods.cochrane.org/sites/methods.cochrane.org.equity/files/public/uploads/EquityChecklist2012.pdf"
+                },
+                {
+                    "key": "379_CR24",
+                    "unstructured": "Puil L, Doull M, Runnels V, Welch V, Shea B, Tudiver S, Boscoe M, for the Sex/Gender Methods Group. Addressing sex/gender in systematic reviews: Cochrane Hypertension Group briefing note. Version 2014-01. Accessed at: http://equity.cochrane.org/sex-and-gender-analysis"
+                },
+                {
+                    "key": "379_CR25",
+                    "unstructured": "Doull M, Shea B, Puil L, Runnels V, Welch V, Tudiver S, Boscoe M, for the Sex/Gender Methods Group. Addressing sex/gender in systematic reviews: Cochrane HIV/AIDS Group briefing note. Version 2014-01. Accessed at: http://equity.cochrane.org/sex-and-gender-analysis"
+                },
+                {
+                    "key": "379_CR26",
+                    "unstructured": "NIHR CLAHRC North West Coast. Health inequalities assessment toolkit (HIAT); 2015. http://www.hiat.org.uk/ Accessed 1 Feb 2016."
+                },
+                {
+                    "key": "379_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "511",
+                    "DOI": "10.1016/j.jclinepi.2012.11.013",
+                    "volume": "66",
+                    "author": "M Nasser",
+                    "year": "2013",
+                    "unstructured": "Nasser M, Ueffing E, Welch V, Tugwell P. An equity lens can ensure an equity-oriented approach to agenda setting and priority setting of Cochrane Reviews. J Clin Epidemiol. 2013;66:511\u201321.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "379_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "S10",
+                    "DOI": "10.1186/1478-4505-7-S1-S10",
+                    "volume": "7",
+                    "author": "AD Oxman",
+                    "year": "2009",
+                    "unstructured": "Oxman AD, Lavis JN, Lewin S, Fretheim A. SUPPORT Tools for evidence-informed health Policymaking (STP). 10. Taking equity into consideration when assessing the findings of a systematic review. Health Res Policy Syst. 2009;7 Suppl 1:S10.",
+                    "journal-title": "Health Res Policy Syst"
+                },
+                {
+                    "key": "379_CR29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "c4739",
+                    "DOI": "10.1136/bmj.c4739",
+                    "volume": "341",
+                    "author": "P Tugwell",
+                    "year": "2010",
+                    "unstructured": "Tugwell P, Petticrew M, Kristjansson E, Welch V, Ueffing E, Waters E, Bonnefoy J, Morgan A, Doohan E, Kelly M. Assessing equity in systematic reviews: realising the recommendations of the Commission on Social Determinants of Health. BMJ. 2010;341:c4739.",
+                    "journal-title": "BMJ."
+                },
+                {
+                    "key": "379_CR30",
+                    "unstructured": "Ueffing E, Tugwell P, Welch V, Petticrew M, Kristjansson E for the Campbell and Cochrane Equity Methods Group. Equity checklist for systematic review authors. Version 2012-10-02. Accessed at http://methods.cochrane.org/sites/methods.cochrane.org.equity/files/public/uploads/EquityChecklist2012.pdf on 30 Jan 2016."
+                },
+                {
+                    "issue": "8",
+                    "key": "379_CR31",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "643",
+                    "DOI": "10.2471/BLT.05.026658",
+                    "volume": "84",
+                    "author": "P Tugwell",
+                    "year": "2006",
+                    "unstructured": "Tugwell P, Robinson V, Grimshaw J, Santesso N. Systematic reviews and knowledge translation. Bull World Health Organ. 2006;84(8):643\u201351.",
+                    "journal-title": "Bull World Health Organ"
+                },
+                {
+                    "issue": "10",
+                    "key": "379_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e1001333",
+                    "DOI": "10.1371/journal.pmed.1001333",
+                    "volume": "9",
+                    "author": "V Welch",
+                    "year": "2012",
+                    "unstructured": "Welch V, Petticrew M, Tugwell P, Moher D, O\u2019Neill J, Waters E, White H, PRISMA-Equity Bellagio group. PRISMA-Equity 2012 Extension: Reporting Guidelines for Systematic Reviews with a Focus on Health Equity. PLoS Med. 2012;9(10):e1001333. doi: 10.1371/journal.pmed.1001333 .",
+                    "journal-title": "PLoS Med"
+                },
+                {
+                    "key": "379_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "68",
+                    "DOI": "10.1016/j.jclinepi.2015.09.001",
+                    "volume": "70",
+                    "author": "V Welch",
+                    "year": "2016",
+                    "unstructured": "Welch V, Petticrew M, Petkovic J, Moher D, Waters E, White H, Tugwell P, PRISMA-Equity Bellagio group. Extending the PRISMA statement to equity-focused systematic reviews (PRISMA-E 2012): explanation and elaboration. J Clin Epidemiol. 2016;70:68\u201389.",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "379_CR34",
+                    "author": "BJ Burford",
+                    "volume": "8",
+                    "year": "2013",
+                    "unstructured": "Burford BJ, Welch V, Waters E, et al. Testing the PRISMA-equity 2012 reporting guideline: the perspectives of systematic review authors. PLoS ONE. 2013;8, e75122.",
+                    "journal-title": "PLoS ONE.",
+                    "DOI": "10.1371/journal.pone.0075122",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "379_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "187",
+                    "DOI": "10.1186/1471-2288-12-187",
+                    "volume": "12",
+                    "author": "V Welch",
+                    "year": "2012",
+                    "unstructured": "Welch V, Brand K, Kristjansson E, Smylie J, Wells G, Tugwell P. Systematic reviews need to consider applicability to disadvantaged populations: inter-rater agreement for a health equity plausibility algorithm. BMC Med Res Methodol. 2012;12:187.",
+                    "journal-title": "BMC Med Res Methodol."
+                },
+                {
+                    "key": "379_CR36",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "43",
+                    "DOI": "10.1186/2046-4053-2-43",
+                    "volume": "2",
+                    "author": "VA Welch",
+                    "year": "2013",
+                    "unstructured": "Welch VA, Petticrew M, O'Neill J, Waters E, Armstrong R, Bhutta ZA, Francis D, Perez Koehlmoos T, Kristjansson E, Pantoja T, Tugwell P. Health equity: evidence synthesis and knowledge translation methods. Syst Rev. 2013;2:43. doi: 10.1186/2046-4053-2-43 .",
+                    "journal-title": "Syst Rev."
+                },
+                {
+                    "key": "379_CR37",
+                    "unstructured": "Armstrong R, Waters E, Doyle J (editors). Chapter 21: Reviews in health promotion and public health. In Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011. Available from www.cochrane-handbook.org"
+                },
+                {
+                    "key": "379_CR38",
+                    "unstructured": "Armstrong R, Waters E, on behalf of the Guidelines for Systematic Reviews in Health Promotion and Public Health Taskforce. Systematic reviews of health promotion and public health Interventions. July, 2007. http://ph.cochrane.org/sites/ph.cochrane.org/files/uploads/Guidelines%20HP_PH%20reviews.pdf"
+                },
+                {
+                    "issue": "1",
+                    "key": "379_CR39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "32",
+                    "DOI": "10.1186/2046-4053-1-32",
+                    "volume": "9",
+                    "author": "D Chambers",
+                    "year": "2012",
+                    "unstructured": "Chambers D, Wilson P. A framework for production of systematic review based briefings to support evidence-informed decision-making. Syst Rev. 2012;9(1):32.",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "key": "379_CR40",
+                    "author": "Centre for Reviews and Dissemination (CRD)",
+                    "year": "2009",
+                    "unstructured": "Centre for Reviews and Dissemination (CRD). Systematic reviews. CRD\u2019s guidance for undertaking reviews in health care. University of York: Centre for Reviews and Dissemination; 2009.",
+                    "volume-title": "Systematic reviews. CRD\u2019s guidance for undertaking reviews in health care"
+                },
+                {
+                    "key": "379_CR41",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "647",
+                    "DOI": "10.1136/jech.56.9.647",
+                    "volume": "56",
+                    "author": "I Kawachi",
+                    "year": "2002",
+                    "unstructured": "Kawachi I, Subramanian SV, Almeida-Filho N. A glossary for health inequalities. J Epidemiology Community Health. 2002;56:647\u201352.",
+                    "journal-title": "J Epidemiology Community Health."
+                },
+                {
+                    "key": "379_CR42",
+                    "unstructured": "WHO. Health impact assessment, glossary of terms. World Health Organization. http://www.who.int/hia/about/glos/en/"
+                },
+                {
+                    "issue": "3",
+                    "key": "379_CR43",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "217",
+                    "DOI": "10.1093/heapro/6.3.217",
+                    "volume": "6",
+                    "author": "M Whitehead",
+                    "year": "1991",
+                    "unstructured": "Whitehead M. The concepts and principles of equity and health. Health Promot Int. 1991;6(3):217\u201328.",
+                    "journal-title": "Health Promot Int"
+                },
+                {
+                    "key": "379_CR44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "254",
+                    "DOI": "10.1136/jech.57.4.254",
+                    "volume": "57",
+                    "author": "P Braveman",
+                    "year": "2003",
+                    "unstructured": "Braveman P, Gruskin S. Defining equity in health. J Epidemiol Community Health. 2003;57:254\u20138.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "379_CR45",
+                    "author": "Commission on Social Determinants of Health",
+                    "year": "2008",
+                    "unstructured": "Commission on Social Determinants of Health. Closing the gap in a generation: health equity through action on the social determinants of health. Final Report of the Commission on Social Determinants of Health. Geneva: World Health Organization; 2008.",
+                    "volume-title": "Closing the gap in a generation: health equity through action on the social determinants of health. Final Report of the Commission on Social Determinants of Health"
+                },
+                {
+                    "key": "379_CR46",
+                    "author": "Institute of Medicine",
+                    "year": "2002",
+                    "unstructured": "Institute of Medicine. Unequal treatment: confronting racial and ethnic disparities in health care. Washington, DC: National Academy Press; 2002.",
+                    "volume-title": "Unequal treatment: confronting racial and ethnic disparities in health care"
+                },
+                {
+                    "key": "379_CR47",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1186/1475-9276-1-1",
+                    "volume": "1",
+                    "author": "JA Macinko",
+                    "year": "2002",
+                    "unstructured": "Macinko JA, Starfield B. Annotated bibliography on equity in health, 1980-2001. Int J Equity Health. 2002;1:1.",
+                    "journal-title": "Int J Equity Health"
+                },
+                {
+                    "key": "379_CR48",
+                    "unstructured": "Solar O, Irwin A. Towards a conceptual framework for analysis and action on the social determinants of health. WHO, Commission on Social Determinants of Health, 2007"
+                },
+                {
+                    "key": "379_CR49",
+                    "unstructured": "The Campbell and Cochrane Equity Methods Group. Resources for review authors. http://equity.cochrane.org/resources-review-authors"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "379_CR50",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "11",
+                    "DOI": "10.1076/icsp.10.1.11.14117",
+                    "volume": "10",
+                    "author": "T Evans",
+                    "year": "2003",
+                    "unstructured": "Evans T, Brown H. Road traffic crashes: operationalizing equity in the context of health sector reform. Inj Control Saf Promot. 2003;10(1-2):11\u20132.",
+                    "journal-title": "Inj Control Saf Promot"
+                },
+                {
+                    "key": "379_CR51",
+                    "author": "DB Dutton",
+                    "year": "1989",
+                    "unstructured": "Dutton DB, Levine S. Overview, methodological critique, and reformulation. In: Bunker JP, Gomby DS, Kehrer BH, editors. Pathways to health (pp 26-69). Menlo Park: The Henry J Kaiser Family Foundation; 1989.",
+                    "volume-title": "Pathways to health (pp 26-69)"
+                },
+                {
+                    "issue": "1",
+                    "key": "379_CR52",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "15",
+                    "DOI": "10.1037/0003-066X.49.1.15",
+                    "volume": "49",
+                    "author": "NE Adler",
+                    "year": "1994",
+                    "unstructured": "Adler NE, Boyce T, Chesney MA, Cohen S, Folkman S, Kahn RL, Syme SL. Socioeconomic status and health. The challenge of the gradient. Am Psychol. 1994;49(1):15\u201324.",
+                    "journal-title": "Am Psychol"
+                },
+                {
+                    "key": "379_CR53",
+                    "year": "2009",
+                    "edition": "2",
+                    "unstructured": "Graham H, editor. Understanding health inequalities. 2nd ed. Maidenhead: Open University Press; 2009.",
+                    "volume-title": "Understanding health inequalities"
+                },
+                {
+                    "key": "379_CR54",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "33",
+                    "DOI": "10.1186/2046-4053-3-33",
+                    "volume": "3",
+                    "author": "V Runnels",
+                    "year": "2014",
+                    "unstructured": "Runnels V, Tudiver S, Doull M, Boscoe M. The challenges of including sex/gender analysis in systematic reviews: a qualitative survey. Syst Rev. 2014;3:33. doi: 10.1186/2046-4053-3-33 .",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "key": "379_CR55",
+                    "unstructured": "Guise JM, Chang C, Viswanathan M, Glick S, Treadwell J, Umscheid C, Whitlock E, Fu R, Berliner E, Paynter R, Anderson J, Motu\u2019apuaka M, Trikalinos T. Systematic reviews of complex multicomponent health care interventions. Research white paper. AHRQ Publication No. 14-EHC003-EF. Rockville: Agency for Healthcare Research and Quality; 2014. http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=1878 ."
+                },
+                {
+                    "key": "379_CR56",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1209",
+                    "DOI": "10.1016/j.jclinepi.2013.06.004",
+                    "volume": "66",
+                    "author": "M Petticrew",
+                    "year": "2013",
+                    "unstructured": "Petticrew M, Anderson L, Elder R, Grimshaw J, Hopkins D, Hahn R, et al. Complex interventions and their implications for systematic reviews: a pragmatic approach. J Clin Epidemiol. 2013;66:1209\u201314.",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "key": "379_CR57",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1223",
+                    "DOI": "10.1016/j.jclinepi.2013.06.014",
+                    "volume": "66",
+                    "author": "L Anderson",
+                    "year": "2013",
+                    "unstructured": "Anderson L, Oliver S, Michie S, Rehfuess E, Noyes J, Shemilt I. Investigating complexity in systematic reviews of interventions using a spectrum of methods. J Clin Epidemiol. 2013;66:1223\u20139.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "key": "379_CR58",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1230",
+                    "DOI": "10.1016/j.jclinepi.2013.06.005",
+                    "volume": "66",
+                    "author": "M Petticrew",
+                    "year": "2013",
+                    "unstructured": "Petticrew M, Rehfuess E, Noyes J, Higgins JPT, Mayhew A, Pantoja T, et al. Synthesising evidence on complex interventions: the contribution of meta-analytic, qualitative and mixed-method approaches. J Clin Epidemiol. 2013;66:1230\u201343.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "key": "379_CR59",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1244",
+                    "DOI": "10.1016/j.jclinepi.2013.06.013",
+                    "volume": "66",
+                    "author": "T Pigott",
+                    "year": "2013",
+                    "unstructured": "Pigott T, Sheppard S. Identifying, documenting and examining heterogeneity in systematic reviews of complex interventions. J Clin Epidemiol. 2013;66:1244\u201350.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "key": "379_CR60",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1262",
+                    "DOI": "10.1016/j.jclinepi.2013.07.003",
+                    "volume": "66",
+                    "author": "J Noyes",
+                    "year": "2013",
+                    "unstructured": "Noyes J, Gough D, Lewin S, Mayhew A, Michie S, Pantoja T, et al. Systematic reviews that ask complex questions about complex interventions: a research and development agenda. J Clin Epidemiol. 2013;66:1262\u201370.",
+                    "journal-title": "J Clin Epidemiol."
+                },
+                {
+                    "issue": "3",
+                    "key": "379_CR61",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "388",
+                    "DOI": "10.1080/19439342.2012.709875",
+                    "volume": "4",
+                    "author": "B Snilstveit",
+                    "year": "2012",
+                    "unstructured": "Snilstveit B. Systematic reviews: from \u2018bare bones\u2019 reviews to policy relevance. J Dev Effect. 2012;4(3):388\u2013408.",
+                    "journal-title": "J Dev Effect"
+                },
+                {
+                    "key": "379_CR62",
+                    "author": "N Bruce",
+                    "year": "2008",
+                    "edition": "1",
+                    "unstructured": "Bruce N, Pope D, Stanistreet D. Quantitative methods for health research: a practical guide to epidemiology and statistics. 1st ed. Chichester: Wiley-Interscience; 2008.",
+                    "volume-title": "Quantitative methods for health research: a practical guide to epidemiology and statistics",
+                    "DOI": "10.1002/9780470725337",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s13643-016-0379-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s13643-016-0379-1/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s13643-016-0379-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        16
+                    ]
+                ],
+                "date-time": "2019-09-16T01:07:43Z",
+                "timestamp": 1568596063000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        11,
+                        28
+                    ]
+                ]
+            },
+            "references-count": 62,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2016,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "379"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s13643-016-0379-1",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2046-4053"
+            ],
+            "container-title-short": "Syst Rev",
+            "article-number": "202"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Guidance",
+                        "Health equity",
+                        "Health inequalities",
+                        "Mapping review",
+                        "Systematic reviews"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "27894332",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "03",
+                    "Day": "12"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "21"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [],
+                    "ArticleDate": [
+                        {
+                            "Year": "2016",
+                            "Month": "11",
+                            "Day": "28"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2046-4053",
+                        "JournalIssue": {
+                            "Volume": "5",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2016",
+                                "Month": "11",
+                                "Day": "28"
+                            }
+                        },
+                        "Title": "Systematic reviews",
+                        "ISOAbbreviation": "Syst Rev"
+                    },
+                    "ArticleTitle": "Consideration of health inequalities in systematic reviews: a mapping review of guidance.",
+                    "Pagination": {
+                        "MedlinePgn": "202"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Given that we know that interventions shown to be effective in improving the health of a population may actually widen the health inequalities gap while others reduce it, it is imperative that all systematic reviewers consider how the findings of their reviews may impact (reduce or increase) on the health inequality gap. This study reviewed existing guidance on incorporating considerations of health inequalities in systematic reviews in order to examine the extent to which they can help reviewers to incorporate such issues.",
+                            "A mapping review was undertaken to identify guidance documents that purported to inform reviewers on whether and how to incorporate considerations of health inequalities. Searches were undertaken in Medline, CINAHL and The Cochrane Library Methodology Register. Review guidance manuals prepared by international organisations engaged in undertaking systematic reviews, and their associated websites were scanned. Studies were included if they provided an overview or discussed the development and testing of guidance for dealing with the incorporation of considerations of health inequalities in evidence synthesis. Results are summarised in narrative and tabular forms.",
+                            "Twenty guidance documents published between 2009 and 2016 were included. Guidance has been produced to inform considerations of health inequalities at different stages of the systematic review process. The Campbell and Cochrane Equity Group have been instrumental in developing and promoting such guidance. Definitions of health inequalities and guidance differed across the included studies. All but one guidance document were transparent in their method of production. Formal methods of evaluation were reported for six guidance documents. Most of the guidance was operationalised in the form of examples taken from published systematic reviews. The number of guidance items to operationalise ranges from 3 up to 26 with a considerable overlap noted.",
+                            "Adhering to the guidance will require more work for the reviewers. It requires a deeper understanding of how reviewers can operationalise the guidance taking into consideration the barriers and facilitators involved. This has implications not only for understanding the usefulness and burden of the guidance but also for the uptake of guidance and its ultimate goal of improving health inequalities considerations in systematic reviews."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, University of Liverpool, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK. michelle.maden@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-4419-6343"
+                            ],
+                            "LastName": "Maden",
+                            "ForeName": "Michelle",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Syst Rev",
+                    "NlmUniqueID": "101580575",
+                    "ISSNLinking": "2046-4053"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Databases, Factual",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Evidence-Based Medicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Guidelines as Topic",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Research Design",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Systematic Reviews as Topic",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "PLoS One. 2012;7(3):e31360",
+                                "ArticleIdList": [
+                                    "22427804"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2012 Dec 19;12:187",
+                                "ArticleIdList": [
+                                    "23253632"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2010 Dec 08;(12):MR000028",
+                                "ArticleIdList": [
+                                    "21154402"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 May;66(5):511-21",
+                                "ArticleIdList": [
+                                    "23477991"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2003 Apr;57(4):254-8",
+                                "ArticleIdList": [
+                                    "12646539"
+                                ]
+                            },
+                            {
+                                "Citation": "Obes Rev. 2008 Jul;9(4):355-67",
+                                "ArticleIdList": [
+                                    "17956546"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1215-22",
+                                "ArticleIdList": [
+                                    "23953086"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2012;9(10):e1001333",
+                                "ArticleIdList": [
+                                    "23222917"
+                                ]
+                            },
+                            {
+                                "Citation": "Obes Facts. 2011;4(1):35-43",
+                                "ArticleIdList": [
+                                    "21372609"
+                                ]
+                            },
+                            {
+                                "Citation": "Bull World Health Organ. 2006 Aug;84(8):643-51",
+                                "ArticleIdList": [
+                                    "16917652"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2004 Oct;58(10 ):811-6",
+                                "ArticleIdList": [
+                                    "15365104"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2013 Feb;67(2):190-3",
+                                "ArticleIdList": [
+                                    "22875078"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Res Policy Syst. 2009 Dec 16;7 Suppl 1:S10",
+                                "ArticleIdList": [
+                                    "20018100"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2014 Apr 10;3:33",
+                                "ArticleIdList": [
+                                    "24720875"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1230-43",
+                                "ArticleIdList": [
+                                    "23953082"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2007 Jun;61(6):473-8",
+                                "ArticleIdList": [
+                                    "17496254"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1223-9",
+                                "ArticleIdList": [
+                                    "23953087"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Equity Health. 2002 Apr 22;1(1):1",
+                                "ArticleIdList": [
+                                    "12234390"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Psychol. 1994 Jan;49(1):15-24",
+                                "ArticleIdList": [
+                                    "8122813"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2012 Jul 09;1:32",
+                                "ArticleIdList": [
+                                    "22775986"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2014 Apr;68(4):291-2",
+                                "ArticleIdList": [
+                                    "24285823"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2013 Oct 10;8(10):e75122",
+                                "ArticleIdList": [
+                                    "24130684"
+                                ]
+                            },
+                            {
+                                "Citation": "Syst Rev. 2013 Jun 22;2:43",
+                                "ArticleIdList": [
+                                    "23799964"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2010 Apr;64(4):284-91",
+                                "ArticleIdList": [
+                                    "19692738"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2014 Jan;67(1):56-64",
+                                "ArticleIdList": [
+                                    "24189091"
+                                ]
+                            },
+                            {
+                                "Citation": "Healthc Policy. 2006 Jan;1(2):21-33",
+                                "ArticleIdList": [
+                                    "19305650"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1244-50",
+                                "ArticleIdList": [
+                                    "23953079"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2016 Feb;70:68-89",
+                                "ArticleIdList": [
+                                    "26348799"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 1996 Apr;1(2):93-103",
+                                "ArticleIdList": [
+                                    "10180855"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2014 Nov 05;9(11):e110786",
+                                "ArticleIdList": [
+                                    "25372876"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1209-14",
+                                "ArticleIdList": [
+                                    "23953085"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2006 Apr 8;367(9517):1128-30",
+                                "ArticleIdList": [
+                                    "16616547"
+                                ]
+                            },
+                            {
+                                "Citation": "Inj Control Saf Promot. 2003 Mar-Jun;10(1-2):11-2",
+                                "ArticleIdList": [
+                                    "12772480"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1262-70",
+                                "ArticleIdList": [
+                                    "23953084"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2002 Sep;56(9):647-52",
+                                "ArticleIdList": [
+                                    "12177079"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Sep 13;341:c4739",
+                                "ArticleIdList": [
+                                    "20837575"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2013 Nov;66(11):1251-61",
+                                "ArticleIdList": [
+                                    "23953081"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2008 May 27;8:178",
+                                "ArticleIdList": [
+                                    "18505545"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Place. 2011 Jan;17(1):175-84",
+                                "ArticleIdList": [
+                                    "21159542"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Health Serv. 1992;22(3):429-45",
+                                "ArticleIdList": [
+                                    "1644507"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2016",
+                        "Month": "04",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "11",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "11",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2016",
+                        "Month": "11",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "3",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "27894332",
+                    "10.1186/s13643-016-0379-1",
+                    "10.1186/s13643-016-0379-1",
+                    "PMC5127052"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(27894332)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827894332%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2827894332%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84999751950"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84999751950?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84999751950&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84999751950&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84999751950",
+                        "dc:identifier": "SCOPUS_ID:84999751950",
+                        "eid": "2-s2.0-84999751950",
+                        "dc:title": "Consideration of health inequalities in systematic reviews: A mapping review of guidance",
+                        "dc:creator": "Maden M.",
+                        "prism:publicationName": "Systematic Reviews",
+                        "prism:eIssn": "20464053",
+                        "prism:volume": "5",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2016-11-28",
+                        "prism:coverDisplayDate": "28 November 2016",
+                        "prism:doi": "10.1186/s13643-016-0379-1",
+                        "citedby-count": "7",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "27894332",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "202",
+                        "source-id": "21100237425",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JWNADAGX.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "27894332"
+            }
+        },
+        "title": "Consideration of health inequalities in systematic reviews: a mapping review of guidance.",
+        "full_author_list": [
+            {
+                "clean": "Maden M",
+                "family": "Maden",
+                "given": "Michelle",
+                "affiliation": {
+                    "name": "Department of Health Services Research, University of Liverpool, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK. michelle.maden@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Maden M",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Databases, Factual",
+                    "major": "N"
+                },
+                {
+                    "term": "Evidence-Based Medicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Guidelines as Topic",
+                    "major": "Y"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Research Design",
+                    "major": "Y"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Systematic Reviews as Topic",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Syst Rev",
+            "volume": "5",
+            "issue": "1"
+        },
+        "abstract": "['Given that we know that interventions shown to be effective in improving the health of a population may actually widen the health inequalities gap while others reduce it, it is imperative that all systematic reviewers consider how the findings of their reviews may impact (reduce or increase) on the health inequality gap. This study reviewed existing guidance on incorporating considerations of health inequalities in systematic reviews in order to examine the extent to which they can help reviewers to incorporate such issues.', 'A mapping review was undertaken to identify guidance documents that purported to inform reviewers on whether and how to incorporate considerations of health inequalities. Searches were undertaken in Medline, CINAHL and The Cochrane Library Methodology Register. Review guidance manuals prepared by international organisations engaged in undertaking systematic reviews, and their associated websites were scanned. Studies were included if they provided an overview or discussed the development and testing of guidance for dealing with the incorporation of considerations of health inequalities in evidence synthesis. Results are summarised in narrative and tabular forms.', 'Twenty guidance documents published between 2009 and 2016 were included. Guidance has been produced to inform considerations of health inequalities at different stages of the systematic review process. The Campbell and Cochrane Equity Group have been instrumental in developing and promoting such guidance. Definitions of health inequalities and guidance differed across the included studies. All but one guidance document were transparent in their method of production. Formal methods of evaluation were reported for six guidance documents. Most of the guidance was operationalised in the form of examples taken from published systematic reviews. The number of guidance items to operationalise ranges from 3 up to 26 with a considerable overlap noted.', 'Adhering to the guidance will require more work for the reviewers. It requires a deeper understanding of how reviewers can operationalise the guidance taking into consideration the barriers and facilitators involved. This has implications not only for understanding the usefulness and burden of the guidance but also for the uptake of guidance and its ultimate goal of improving health inequalities considerations in systematic reviews.']",
+        "clean_date": {
+            "year": "2016"
+        },
+        "year_published": "2016",
+        "citations": {
+            "scopus": {
+                "count": "7"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Services Research, University of Liverpool, Liverpool Reviews and Implementation Group (LRIG), Second Floor, Whelan Building, The Quadrangle, Brownlow Hill, Liverpool, L69 3GB, UK. michelle.maden@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

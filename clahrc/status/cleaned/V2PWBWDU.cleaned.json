@@ -1,0 +1,813 @@
+{
+    "IDs": {
+        "zotero": "V2PWBWDU",
+        "DOI": "10.1016/j.critrevonc.2018.07.012",
+        "DOI_filename": "423af4b1c70cd63ed3f631eb03ef3c42",
+        "PMID": "30196916",
+        "scopus": "2-s2.0-85052478063",
+        "hash": "d2667f3840d62bef362b928ced49bfef"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "V2PWBWDU",
+            "version": 187,
+            "itemType": "journalArticle",
+            "title": "Trastuzumab uptake in HER2-positive breast cancer patients: a systematic review and meta-analysis of observational studies",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Antony P.",
+                    "lastName": "Martin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Madeleine",
+                    "lastName": "Cochrane"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Brendan",
+                    "lastName": "Collins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Francis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alan",
+                    "lastName": "Haycox"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Alfirevic"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Critical Reviews in Oncology/Hematology",
+            "volume": "130",
+            "issue": "",
+            "pages": "92-107",
+            "date": "10/2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Critical Reviews in Oncology/Hematology",
+            "language": "en",
+            "DOI": "10.1016/j.critrevonc.2018.07.012",
+            "ISSN": "10408428",
+            "shortTitle": "Trastuzumab uptake in HER2-positive breast cancer patients",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S1040842818300957",
+            "accessDate": "2020-09-10T17:10:26Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 30196916",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:26Z",
+            "dateModified": "2020-09-15T14:31:37Z",
+            "pmid": "30196916"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        15
+                    ]
+                ],
+                "date-time": "2020-05-15T08:30:23Z",
+                "timestamp": 1589531423050
+            },
+            "reference-count": 98,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                10,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-10-01T00:00:00Z",
+                        "timestamp": 1538352000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC)",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "croh-online.com",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        10
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.critrevonc.2018.07.012",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        3
+                    ]
+                ],
+                "date-time": "2018-08-03T17:03:35Z",
+                "timestamp": 1533315815000
+            },
+            "page": "92-107",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Trastuzumab uptake in HER2-positive breast cancer patients: a systematic review and meta-analysis of observational studies",
+            "prefix": "10.1016",
+            "volume": "130",
+            "author": [
+                {
+                    "given": "Antony P.",
+                    "family": "Martin",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Madeleine",
+                    "family": "Cochrane",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Brendan",
+                    "family": "Collins",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Francis",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alan",
+                    "family": "Haycox",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ana",
+                    "family": "Alfirevic",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Critical Reviews in Oncology/Hematology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S1040842818300957?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S1040842818300957?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        21
+                    ]
+                ],
+                "date-time": "2019-10-21T20:38:38Z",
+                "timestamp": 1571690318000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        10
+                    ]
+                ]
+            },
+            "references-count": 98,
+            "alternative-id": [
+                "S1040842818300957"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.critrevonc.2018.07.012",
+            "relation": {},
+            "ISSN": [
+                "1040-8428"
+            ],
+            "subject": [
+                "Oncology",
+                "Geriatrics and Gerontology",
+                "Hematology",
+                "General Medicine"
+            ],
+            "container-title-short": "Critical Reviews in Oncology/Hematology",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Trastuzumab uptake in HER2-positive breast cancer patients: a systematic review and meta-analysis of observational studies",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Critical Reviews in Oncology/Hematology",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.critrevonc.2018.07.012",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2018 Elsevier B.V. All rights reserved.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [
+                    [
+                        "Breast cancer",
+                        "Disparity",
+                        "HER2-positive",
+                        "Trastuzumab",
+                        "Uptake"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "30196916",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "10",
+                    "Day": "12"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "10",
+                    "Day": "08"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S1040-8428(18)30095-7",
+                        "10.1016/j.critrevonc.2018.07.012"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2018",
+                            "Month": "08",
+                            "Day": "03"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1879-0461",
+                        "JournalIssue": {
+                            "Volume": "130",
+                            "PubDate": {
+                                "Year": "2018",
+                                "Month": "Oct"
+                            }
+                        },
+                        "Title": "Critical reviews in oncology/hematology",
+                        "ISOAbbreviation": "Crit. Rev. Oncol. Hematol."
+                    },
+                    "ArticleTitle": "Trastuzumab uptake in HER2-positive breast cancer patients: a systematic review and meta-analysis of observational studies.",
+                    "Pagination": {
+                        "MedlinePgn": "92-107"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Overexpression of the HER2 gene is predictive of treatment benefit with trastuzumab therapy for breast cancer (BC) patients. The study objective was to investigate whether all eligible patients with HER2-positive BC initiated trastuzumab therapy. A systematic search was conducted through PubMed, Web of Science PsycINFO, Cumulative Index to Nursing and Allied Health Literature (CINAHL) and Cochrane Library. From 2651 studies identified, 107 observational studies were included for full text review, of which 26 met the inclusion criteria and an additional 7 studies were identified through citation searching. Two independent reviewers extracted data for accuracy and completeness. From 33 observational studies, 14,644 patients were exposed to trastuzumab therapy. Age range varied across studies; the youngest cohort had a median age of 50 and the oldest had a median age of 84. Sample sizes ranged from 11 to 1928 and included patients from 10 countries. Studies were heterogenous and few studies accounted for confounders. We identified large variability in uptake of trastuzumab in HER2-positive early BC patients (9.1-100%) and metastatic BC patients (50.8-84.0%). The pooled uptake was 71.3% (95% CI 64.6-77.9%), with high heterogeneity (I<sup>2</sup>\u2009=\u200999.05%). The most conservative predictors of higher uptake included younger age (OR 2.09; 95% CI 1.36-3.20) and lower Charlson Comorbidity Index of patients (OR 1.62; 95% CI 1.32-1.99). In addition, tumour characteristics including higher tumour grade (OR 1.73; 95% CI 1.23-2.45), larger tumour size (OR 1.80; 95% CI 1.54-2.10), advanced tumour stage (OR 2.07; 95% CI 1.44-2.96) and hormone receptor negative tumor (OR 1.54; 95% CI 1.35-1.77) were associated with higher uptake. The uptake of trastuzumab therapy varied widely between studies and across subgroups suggesting that there may be some inequalities in the use of this agent. However, our findings should be interpreted with caution due to study heterogeneity and potential confounding, and thus additional studies of individual level data which control for confounders are needed to understand more about inequalities in uptake."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2018 Elsevier B.V. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom. Electronic address: apmartin@liv.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Martin",
+                            "ForeName": "Antony P",
+                            "Initials": "AP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Institute for Sport and Exercise Sciences (RISES), Liverpool John Moores University, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cochrane",
+                            "ForeName": "Madeleine",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health & Policy, University of Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Collins",
+                            "ForeName": "Brendan",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Francis",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Health Economics, University of Liverpool Management School, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Haycox",
+                            "ForeName": "Alan",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alfirevic",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MR/L006758/1",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Review",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Netherlands",
+                    "MedlineTA": "Crit Rev Oncol Hematol",
+                    "NlmUniqueID": "8916049",
+                    "ISSNLinking": "1040-8428"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Antineoplastic Agents, Immunological"
+                    },
+                    {
+                        "RegistryNumber": "P188ANX8CK",
+                        "NameOfSubstance": "Trastuzumab"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Antineoplastic Agents, Immunological",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "metabolism",
+                            "pathology"
+                        ],
+                        "DescriptorName": "Breast Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Observational Studies as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Trastuzumab",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2018",
+                        "Month": "02",
+                        "Day": "23"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "07",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "07",
+                        "Day": "31"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "9",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "10",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "30196916",
+                    "S1040-8428(18)30095-7",
+                    "10.1016/j.critrevonc.2018.07.012"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(30196916)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830196916%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2830196916%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052478063"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052478063?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052478063&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052478063&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1040842818300957"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052478063",
+                        "dc:identifier": "SCOPUS_ID:85052478063",
+                        "eid": "2-s2.0-85052478063",
+                        "dc:title": "Trastuzumab uptake in HER2-positive breast cancer patients: a systematic review and meta-analysis of observational studies",
+                        "dc:creator": "Martin A.P.",
+                        "prism:publicationName": "Critical Reviews in Oncology/Hematology",
+                        "prism:issn": "10408428",
+                        "prism:eIssn": "18790461",
+                        "prism:volume": "130",
+                        "prism:pageRange": "92-107",
+                        "prism:coverDate": "2018-10-01",
+                        "prism:coverDisplayDate": "October 2018",
+                        "prism:doi": "10.1016/j.critrevonc.2018.07.012",
+                        "pii": "S1040842818300957",
+                        "citedby-count": "6",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "National Institute for Health Research",
+                                "affiliation-city": "Birmingham",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "30196916",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "29309",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "V2PWBWDU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "30196916"
+            }
+        },
+        "title": "Trastuzumab uptake in HER2-positive breast cancer patients: a systematic review and meta-analysis of observational studies.",
+        "full_author_list": [
+            {
+                "clean": "Martin A",
+                "family": "Martin",
+                "given": "Antony P",
+                "affiliation": {
+                    "name": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom. Electronic address: apmartin@liv.ac.uk."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Cochrane M",
+                "family": "Cochrane",
+                "given": "Madeleine",
+                "affiliation": {
+                    "name": "Research Institute for Sport and Exercise Sciences (RISES), Liverpool John Moores University, United Kingdom."
+                }
+            },
+            {
+                "clean": "Collins B",
+                "family": "Collins",
+                "given": "Brendan",
+                "affiliation": {
+                    "name": "Department of Public Health & Policy, University of Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Francis B",
+                "family": "Francis",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Haycox A",
+                "family": "Haycox",
+                "given": "Alan",
+                "affiliation": {
+                    "name": "Liverpool Health Economics, University of Liverpool Management School, United Kingdom."
+                }
+            },
+            {
+                "clean": "Alfirevic A",
+                "family": "Alfirevic",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Martin A",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Antineoplastic Agents, Immunological",
+                    "major": "N"
+                },
+                {
+                    "term": "Breast Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Observational Studies as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Trastuzumab",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Crit. Rev. Oncol. Hematol.",
+            "volume": "130",
+            "issue": ""
+        },
+        "abstract": "['Overexpression of the HER2 gene is predictive of treatment benefit with trastuzumab therapy for breast cancer (BC) patients. The study objective was to investigate whether all eligible patients with HER2-positive BC initiated trastuzumab therapy. A systematic search was conducted through PubMed, Web of Science PsycINFO, Cumulative Index to Nursing and Allied Health Literature (CINAHL) and Cochrane Library. From 2651 studies identified, 107 observational studies were included for full text review, of which 26 met the inclusion criteria and an additional 7 studies were identified through citation searching. Two independent reviewers extracted data for accuracy and completeness. From 33 observational studies, 14,644 patients were exposed to trastuzumab therapy. Age range varied across studies; the youngest cohort had a median age of 50 and the oldest had a median age of 84. Sample sizes ranged from 11 to 1928 and included patients from 10 countries. Studies were heterogenous and few studies accounted for confounders. We identified large variability in uptake of trastuzumab in HER2-positive early BC patients (9.1-100%) and metastatic BC patients (50.8-84.0%). The pooled uptake was 71.3% (95% CI 64.6-77.9%), with high heterogeneity (I<sup>2</sup>\\u2009=\\u200999.05%). The most conservative predictors of higher uptake included younger age (OR 2.09; 95% CI 1.36-3.20) and lower Charlson Comorbidity Index of patients (OR 1.62; 95% CI 1.32-1.99). In addition, tumour characteristics including higher tumour grade (OR 1.73; 95% CI 1.23-2.45), larger tumour size (OR 1.80; 95% CI 1.54-2.10), advanced tumour stage (OR 2.07; 95% CI 1.44-2.96) and hormone receptor negative tumor (OR 1.54; 95% CI 1.35-1.77) were associated with higher uptake. The uptake of trastuzumab therapy varied widely between studies and across subgroups suggesting that there may be some inequalities in the use of this agent. However, our findings should be interpreted with caution due to study heterogeneity and potential confounding, and thus additional studies of individual level data which control for confounders are needed to understand more about inequalities in uptake.']",
+        "clean_date": {
+            "year": "2018"
+        },
+        "year_published": "2018",
+        "citations": {
+            "scopus": {
+                "count": "6"
+            }
+        },
+        "location": {
+            "candidate_institute": "National Institute for Health Research, Collaborations for Leadership in Applied Health Research and Care, North West Coast (NIHR CLAHRC NWC), United Kingdom; Wolfson Centre for Personalised Medicine, University of Liverpool, United Kingdom. Electronic address: apmartin@liv.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}

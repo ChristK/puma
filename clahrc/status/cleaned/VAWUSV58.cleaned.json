@@ -1,0 +1,753 @@
+{
+    "IDs": {
+        "zotero": "VAWUSV58",
+        "DOI": "10.1016/j.seizure.2017.05.002",
+        "DOI_filename": "f2a989f1fc53ebbcfdb81a1176be07bf",
+        "PMID": "28601689",
+        "scopus": "2-s2.0-85020286401",
+        "hash": "aac89c8eae31e1c4c0d4b39b4cc581a5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "VAWUSV58",
+            "version": 189,
+            "itemType": "journalArticle",
+            "title": "Epilepsy management in older people: Lessons from National Audit of Seizure management in Hospitals (NASH)",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "B.",
+                    "lastName": "Ziso"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.A.",
+                    "lastName": "Dixon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A.G.",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Seizure",
+            "volume": "50",
+            "issue": "",
+            "pages": "33-37",
+            "date": "08/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Seizure",
+            "language": "en",
+            "DOI": "10.1016/j.seizure.2017.05.002",
+            "ISSN": "10591311",
+            "shortTitle": "Epilepsy management in older people",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S1059131117300742",
+            "accessDate": "2020-09-10T17:10:06Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 28601689",
+            "tags": [],
+            "collections": [
+                "FUHRUXBN"
+            ],
+            "relations": {},
+            "dateAdded": "2020-09-10T17:10:06Z",
+            "dateModified": "2020-09-15T14:32:51Z",
+            "pmid": "28601689"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        4
+                    ]
+                ],
+                "date-time": "2020-09-04T13:44:37Z",
+                "timestamp": 1599227077182
+            },
+            "reference-count": 39,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2017,
+                                8,
+                                1
+                            ]
+                        ],
+                        "date-time": "2017-08-01T00:00:00Z",
+                        "timestamp": 1501545600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "https://www.elsevier.com/open-access/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                8,
+                                1
+                            ]
+                        ],
+                        "date-time": "2018-08-01T00:00:00Z",
+                        "timestamp": 1533081600000
+                    },
+                    "delay-in-days": 365,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100015661",
+                    "name": "UCB Pharma",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/100004330",
+                    "name": "GlaxoSmithKline",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "name": "Eisai Ltd",
+                    "award": []
+                },
+                {
+                    "name": "ViroPharma Ltd",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "clinicalkey.es",
+                    "seizure-journal.com",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        8
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.seizure.2017.05.002",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        31
+                    ]
+                ],
+                "date-time": "2017-05-31T17:04:35Z",
+                "timestamp": 1496250275000
+            },
+            "page": "33-37",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 6,
+            "title": "Epilepsy management in older people: Lessons from National Audit of Seizure management in Hospitals (NASH)",
+            "prefix": "10.1016",
+            "volume": "50",
+            "author": [
+                {
+                    "given": "B.",
+                    "family": "Ziso",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "P.A.",
+                    "family": "Dixon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "A.G.",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "container-title": "Seizure",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S1059131117300742?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S1059131117300742?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2020-05-17T23:16:46Z",
+                "timestamp": 1589757406000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        8
+                    ]
+                ]
+            },
+            "references-count": 39,
+            "alternative-id": [
+                "S1059131117300742"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.seizure.2017.05.002",
+            "relation": {},
+            "ISSN": [
+                "1059-1311"
+            ],
+            "subject": [
+                "Neurology",
+                "Clinical Neurology",
+                "General Medicine"
+            ],
+            "container-title-short": "Seizure",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Epilepsy management in older people: Lessons from National Audit of Seizure management in Hospitals (NASH)",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Seizure",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.seizure.2017.05.002",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "Crown Copyright \u00a9 2017 Published by Elsevier Ltd on behalf of British Epilepsy Association.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherID": [],
+                "PMID": "28601689",
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "01",
+                    "Day": "10"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "01",
+                    "Day": "10"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "S1059-1311(17)30074-2",
+                        "10.1016/j.seizure.2017.05.002"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2017",
+                            "Month": "05",
+                            "Day": "30"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-2688",
+                        "JournalIssue": {
+                            "Volume": "50",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Aug"
+                            }
+                        },
+                        "Title": "Seizure",
+                        "ISOAbbreviation": "Seizure"
+                    },
+                    "ArticleTitle": "Epilepsy management in older people: Lessons from National Audit of Seizure management in Hospitals (NASH).",
+                    "Pagination": {
+                        "MedlinePgn": "33-37"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Epilepsy is the third most common diagnosis in older people, however management in this group remains variable. National Audit of Seizure management in Hospitals (NASH) set out to assess care provided to patients attending hospitals in England following a seizure.",
+                            "154 Emergency Departments (EDs) across the UK took part. 1256 patients aged 60 years or over were included for analysis (median age 74 years, 54% men). 51% were known to have epilepsy, 17% had history of previous seizure or blackout and 32% presented with a suspected first seizure.",
+                            "14% of older patients with epilepsy were not on treatment, 59% were on monotherapy. Sodium valproate was the most commonly used antiepileptic, 28%. 35% of patients with epilepsy, aged 60 and over, had a CT during admission compared to only 17% of those under 60. 80% of patients aged 60 and over presenting with a likely first seizure were admitted to hospital, compared to 65% of those under 60. 34% of those with suspected first seizure were referred to a neurologist on discharge compared to 68% of patients under the age of 60. 52% of 60-69year olds with a suspected first seizure were referred to neurology compared to 25% of patients aged 80-89.",
+                            "Older patients presenting with seizures are more likely to be admitted to hospital and have imaging. They are less likely to be referred to specialist services on discharge. There appears to be significant disparity in patient age and rate of referral."
+                        ],
+                        "CopyrightInformation": "Crown Copyright \u00a9 2017. Published by Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: b.ziso@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ziso",
+                            "ForeName": "B",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: p.dixon@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dixon",
+                            "ForeName": "P A",
+                            "Initials": "PA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: a.g.marson@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "A G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Seizure",
+                    "NlmUniqueID": "9306979",
+                    "ISSNLinking": "1059-1311"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Age Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnostic imaging",
+                            "drug therapy",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Hospitalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Neuroimaging",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnostic imaging",
+                            "drug therapy",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2017",
+                        "Month": "02",
+                        "Day": "09"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "04",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "05",
+                        "Day": "03"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2018",
+                        "Month": "1",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2017",
+                        "Month": "6",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "28601689",
+                    "S1059-1311(17)30074-2",
+                    "10.1016/j.seizure.2017.05.002"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(28601689)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828601689%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828601689%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020286401"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020286401?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85020286401&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85020286401&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1059131117300742"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85020286401",
+                        "dc:identifier": "SCOPUS_ID:85020286401",
+                        "eid": "2-s2.0-85020286401",
+                        "dc:title": "Epilepsy management in older people: Lessons from National Audit of Seizure management in Hospitals (NASH)",
+                        "dc:creator": "Ziso B.",
+                        "prism:publicationName": "Seizure",
+                        "prism:issn": "10591311",
+                        "prism:eIssn": "15322688",
+                        "prism:volume": "50",
+                        "prism:pageRange": "33-37",
+                        "prism:coverDate": "2017-08-01",
+                        "prism:coverDisplayDate": "August 2017",
+                        "prism:doi": "10.1016/j.seizure.2017.05.002",
+                        "pii": "S1059131117300742",
+                        "citedby-count": "8",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "28601689",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19380",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "VAWUSV58.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "28601689"
+            }
+        },
+        "title": "Epilepsy management in older people: Lessons from National Audit of Seizure management in Hospitals (NASH).",
+        "full_author_list": [
+            {
+                "clean": "Ziso B",
+                "family": "Ziso",
+                "given": "B",
+                "affiliation": {
+                    "name": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: b.ziso@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Dixon P",
+                "family": "Dixon",
+                "given": "P A",
+                "affiliation": {
+                    "name": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: p.dixon@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "A G",
+                "affiliation": {
+                    "name": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: a.g.marson@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Ziso B",
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Age Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Hospitalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Neuroimaging",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Seizure",
+            "volume": "50",
+            "issue": ""
+        },
+        "abstract": "['Epilepsy is the third most common diagnosis in older people, however management in this group remains variable. National Audit of Seizure management in Hospitals (NASH) set out to assess care provided to patients attending hospitals in England following a seizure.', '154 Emergency Departments (EDs) across the UK took part. 1256 patients aged 60 years or over were included for analysis (median age 74 years, 54% men). 51% were known to have epilepsy, 17% had history of previous seizure or blackout and 32% presented with a suspected first seizure.', '14% of older patients with epilepsy were not on treatment, 59% were on monotherapy. Sodium valproate was the most commonly used antiepileptic, 28%. 35% of patients with epilepsy, aged 60 and over, had a CT during admission compared to only 17% of those under 60. 80% of patients aged 60 and over presenting with a likely first seizure were admitted to hospital, compared to 65% of those under 60. 34% of those with suspected first seizure were referred to a neurologist on discharge compared to 68% of patients under the age of 60. 52% of 60-69year olds with a suspected first seizure were referred to neurology compared to 25% of patients aged 80-89.', 'Older patients presenting with seizures are more likely to be admitted to hospital and have imaging. They are less likely to be referred to specialist services on discharge. There appears to be significant disparity in patient age and rate of referral.']",
+        "clean_date": {
+            "year": "2017"
+        },
+        "year_published": "2017",
+        "citations": {
+            "scopus": {
+                "count": "8"
+            }
+        },
+        "location": {
+            "candidate_institute": "Dept. of Molecular and Clinical Pharmacology, University of Liverpool, Clinical Sciences Centre, Lower Lane, Fazakerley, L9 7LJ, United Kingdom. Electronic address: b.ziso@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "latitude": "53.406",
+            "longitude": "-2.967",
+            "country": "United Kingdom",
+            "postal_town": "Liverpool"
+        }
+    }
+}
