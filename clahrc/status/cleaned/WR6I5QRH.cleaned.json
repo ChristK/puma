@@ -614,7 +614,7 @@
                         "prism:coverDisplayDate": "December 2017",
                         "prism:doi": "10.1016/j.schres.2017.03.022",
                         "pii": "S0920996417301421",
-                        "citedby-count": "33",
+                        "citedby-count": "35",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -755,7 +755,7 @@
         "year_published": "2017",
         "citations": {
             "scopus": {
-                "count": "33"
+                "count": "35"
             }
         },
         "location": {
