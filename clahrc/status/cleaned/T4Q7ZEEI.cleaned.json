@@ -526,7 +526,7 @@
                         "prism:coverDate": "2018-12-01",
                         "prism:coverDisplayDate": "1 December 2018",
                         "prism:doi": "10.1097/SPC.0000000000000391",
-                        "citedby-count": "1",
+                        "citedby-count": "2",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -643,7 +643,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "1"
+                "count": "2"
             }
         },
         "location": {
