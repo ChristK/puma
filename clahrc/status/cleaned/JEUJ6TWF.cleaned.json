@@ -1513,7 +1513,7 @@
                         "prism:coverDate": "2018-10-23",
                         "prism:coverDisplayDate": "23 October 2018",
                         "prism:doi": "10.1002/14651858.CD003615.pub4",
-                        "citedby-count": "3",
+                        "citedby-count": "4",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1627,7 +1627,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "3"
+                "count": "4"
             }
         },
         "location": {
