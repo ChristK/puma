@@ -657,9 +657,11 @@
                         "prism:publicationName": "Journal of Mental Health",
                         "prism:issn": "09638237",
                         "prism:eIssn": "13600567",
-                        "prism:pageRange": "1-8",
-                        "prism:coverDate": "2017-07-06",
-                        "prism:coverDisplayDate": "6 July 2017",
+                        "prism:volume": "29",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": "657-664",
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
                         "prism:doi": "10.1080/09638237.2017.1340620",
                         "citedby-count": "2",
                         "affiliation": [
@@ -671,8 +673,8 @@
                             }
                         ],
                         "prism:aggregationType": "Journal",
-                        "subtype": "undefined",
-                        "subtypeDescription": null,
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
                         "source-id": "16727",
                         "openaccess": "0",
                         "openaccessFlag": false
