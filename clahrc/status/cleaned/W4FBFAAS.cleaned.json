@@ -998,7 +998,36 @@
                         "subtypeDescription": "Article",
                         "source-id": "22428",
                         "openaccess": "1",
-                        "openaccessFlag": true
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
                     }
                 ]
             }

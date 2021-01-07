@@ -744,7 +744,33 @@
                         "subtypeDescription": "Article",
                         "source-id": "13214",
                         "openaccess": "1",
-                        "openaccessFlag": true
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfree2read"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Bronze"
+                                }
+                            ]
+                        }
                     }
                 ]
             }
