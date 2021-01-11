@@ -2106,7 +2106,7 @@
                         "prism:coverDate": "2018-08-09",
                         "prism:coverDisplayDate": "9 August 2018",
                         "prism:doi": "10.1002/14651858.CD001769.pub4",
-                        "citedby-count": "10",
+                        "citedby-count": "11",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -2122,7 +2122,30 @@
                         "article-number": "CD001769",
                         "source-id": "29775",
                         "openaccess": "0",
-                        "openaccessFlag": false
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
                     }
                 ]
             }
@@ -2224,7 +2247,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "10"
+                "count": "11"
             }
         },
         "location": {

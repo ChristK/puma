@@ -3351,7 +3351,7 @@
                         "prism:coverDate": "2016-11-07",
                         "prism:coverDisplayDate": "7 November 2016",
                         "prism:doi": "10.1002/14651858.CD010224.pub2",
-                        "citedby-count": "118",
+                        "citedby-count": "119",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -3367,7 +3367,30 @@
                         "article-number": "CD010224",
                         "source-id": "29775",
                         "openaccess": "0",
-                        "openaccessFlag": false
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
                     }
                 ]
             }
@@ -3529,7 +3552,7 @@
         "year_published": "2016",
         "citations": {
             "scopus": {
-                "count": "118"
+                "count": "119"
             }
         },
         "location": {
