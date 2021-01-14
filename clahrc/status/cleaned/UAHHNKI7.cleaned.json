@@ -607,20 +607,20 @@
                 "opensearch:itemsPerPage": "1",
                 "opensearch:Query": {
                     "@role": "request",
-                    "@searchTerms": "DOI(10.1080/09638237.2017.1340620)",
+                    "@searchTerms": "PMID(28686477)",
                     "@startPage": "0"
                 },
                 "link": [
                     {
                         "@_fa": "true",
                         "@ref": "self",
-                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F09638237.2017.1340620%29",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828686477%29",
                         "@type": "application/json"
                     },
                     {
                         "@_fa": "true",
                         "@ref": "first",
-                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F09638237.2017.1340620%29",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2828686477%29",
                         "@type": "application/json"
                     }
                 ],
@@ -672,6 +672,7 @@
                                 "affiliation-country": "United Kingdom"
                             }
                         ],
+                        "pubmed-id": "28686477",
                         "prism:aggregationType": "Journal",
                         "subtype": "ar",
                         "subtypeDescription": "Article",

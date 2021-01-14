@@ -1434,7 +1434,7 @@
                         "prism:coverDate": "2018-04-01",
                         "prism:coverDisplayDate": "April 2018",
                         "prism:doi": "10.1002/cpt.1004",
-                        "citedby-count": "67",
+                        "citedby-count": "68",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1449,7 +1449,36 @@
                         "subtypeDescription": "Article",
                         "source-id": "20626",
                         "openaccess": "1",
-                        "openaccessFlag": true
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfree2read"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Bronze"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
                     }
                 ]
             }
@@ -1623,7 +1652,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "67"
+                "count": "68"
             }
         },
         "location": {
