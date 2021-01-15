@@ -1087,7 +1087,7 @@
                         "prism:coverDate": "2019-05-06",
                         "prism:coverDisplayDate": "6 May 2019",
                         "prism:doi": "10.1186/s12884-019-2302-y",
-                        "citedby-count": "3",
+                        "citedby-count": "4",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1241,7 +1241,7 @@
         "year_published": "2019",
         "citations": {
             "scopus": {
-                "count": "3"
+                "count": "4"
             }
         },
         "location": {
