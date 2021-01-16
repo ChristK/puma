@@ -404,20 +404,20 @@
                 "opensearch:itemsPerPage": "1",
                 "opensearch:Query": {
                     "@role": "request",
-                    "@searchTerms": "PMID(29920541)",
+                    "@searchTerms": "DOI(10.1371/journal.pone.0199514)",
                     "@startPage": "0"
                 },
                 "link": [
                     {
                         "@_fa": "true",
                         "@ref": "self",
-                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829920541%29",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1371%2Fjournal.pone.0199514%29",
                         "@type": "application/json"
                     },
                     {
                         "@_fa": "true",
                         "@ref": "first",
-                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2829920541%29",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1371%2Fjournal.pone.0199514%29",
                         "@type": "application/json"
                     }
                 ],
