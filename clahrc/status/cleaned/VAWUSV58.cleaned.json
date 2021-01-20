@@ -605,7 +605,7 @@
                         "prism:coverDisplayDate": "August 2017",
                         "prism:doi": "10.1016/j.seizure.2017.05.002",
                         "pii": "S1059131117300742",
-                        "citedby-count": "8",
+                        "citedby-count": "9",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -758,7 +758,7 @@
         "year_published": "2017",
         "citations": {
             "scopus": {
-                "count": "8"
+                "count": "9"
             }
         },
         "location": {
