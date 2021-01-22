@@ -342,7 +342,7 @@
                         "prism:coverDate": "2018-01-01",
                         "prism:coverDisplayDate": "2018",
                         "prism:doi": "10.1108/MHSI-10-2017-0043",
-                        "citedby-count": "1",
+                        "citedby-count": "2",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -425,7 +425,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "1"
+                "count": "2"
             }
         },
         "location": {
