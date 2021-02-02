@@ -798,7 +798,7 @@
                         "prism:coverDate": "2016-01-01",
                         "prism:coverDisplayDate": "2016",
                         "prism:doi": "10.1136/bmjopen-2015-010100",
-                        "citedby-count": "6",
+                        "citedby-count": "7",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1013,7 +1013,7 @@
         "year_published": "2016",
         "citations": {
             "scopus": {
-                "count": "6"
+                "count": "7"
             }
         },
         "location": {
