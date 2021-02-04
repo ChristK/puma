@@ -1686,7 +1686,7 @@
                         "prism:coverDate": "2018-07-01",
                         "prism:coverDisplayDate": "1 July 2018",
                         "prism:doi": "10.1136/bmjopen-2017-020892",
-                        "citedby-count": "10",
+                        "citedby-count": "11",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1920,7 +1920,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "10"
+                "count": "11"
             }
         },
         "location": {
