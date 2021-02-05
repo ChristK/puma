@@ -929,7 +929,7 @@
                         "prism:coverDate": "2018-09-01",
                         "prism:coverDisplayDate": "1 September 2018",
                         "prism:doi": "10.1177/1367493517753330",
-                        "citedby-count": "9",
+                        "citedby-count": "10",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1081,7 +1081,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "9"
+                "count": "10"
             }
         },
         "location": {

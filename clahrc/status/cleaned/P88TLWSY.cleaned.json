@@ -1922,7 +1922,6 @@
                         "dc:identifier": "SCOPUS_ID:84964584572",
                         "eid": "2-s2.0-84964584572",
                         "dc:title": "Phenytoin versus valproate monotherapy for partial onset seizures and generalised onset tonic-clonic seizures: An individual participant data review",
-                        "dc:creator": "Nolan S.",
                         "prism:publicationName": "Cochrane Database of Systematic Reviews",
                         "prism:issn": "1469493X",
                         "prism:eIssn": "13616137",
@@ -1933,14 +1932,6 @@
                         "prism:coverDisplayDate": "28 April 2016",
                         "prism:doi": "10.1002/14651858.CD001769.pub3",
                         "citedby-count": "7",
-                        "affiliation": [
-                            {
-                                "@_fa": "true",
-                                "affilname": "University of Liverpool",
-                                "affiliation-city": "Liverpool",
-                                "affiliation-country": "United Kingdom"
-                            }
-                        ],
                         "pubmed-id": "27123830",
                         "prism:aggregationType": "Journal",
                         "subtype": "re",
