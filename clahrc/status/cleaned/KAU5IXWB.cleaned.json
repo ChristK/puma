@@ -574,7 +574,7 @@
                         "prism:coverDisplayDate": "March 2019",
                         "prism:doi": "10.1016/j.addbeh.2018.11.048",
                         "pii": "S0306460318311444",
-                        "citedby-count": "20",
+                        "citedby-count": "21",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -703,7 +703,7 @@
         "year_published": "2019",
         "citations": {
             "scopus": {
-                "count": "20"
+                "count": "21"
             }
         },
         "location": {
