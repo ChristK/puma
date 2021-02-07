@@ -743,7 +743,7 @@
                         "prism:coverDate": "2020-06-01",
                         "prism:coverDisplayDate": "1 June 2020",
                         "prism:doi": "10.1177/1744629518773938",
-                        "citedby-count": "3",
+                        "citedby-count": "4",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -846,7 +846,7 @@
         "year_published": "2020",
         "citations": {
             "scopus": {
-                "count": "3"
+                "count": "4"
             }
         },
         "location": {
