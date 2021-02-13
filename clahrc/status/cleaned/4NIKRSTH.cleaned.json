@@ -1491,7 +1491,12 @@
             }
         },
         "location": {
-            "candidate_institute": "Department of Community Medicine, School of Medicine, Iranian Center of Excellence in Health Management, Tabriz University of Medical Sciences, Tabriz, Iran."
+            "candidate_institute": "Department of Community Medicine, School of Medicine, Iranian Center of Excellence in Health Management, Tabriz University of Medical Sciences, Tabriz, Iran.",
+            "clean_institute": "Tabriz University of Medical Sciences",
+            "country": "Iran",
+            "postal_town": "Tabriz",
+            "latitude": "38.0561",
+            "longitude": "46.3253"
         }
     }
 }

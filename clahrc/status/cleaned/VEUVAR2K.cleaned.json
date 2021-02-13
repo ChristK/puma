@@ -968,7 +968,10 @@
             }
         },
         "location": {
-            "candidate_institute": "a Assistant Professor, Social Welfare Management Research Centre , Department of Social Welfare , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Email address: hassan441015@gmail.com."
+            "candidate_institute": "a Assistant Professor, Social Welfare Management Research Centre , Department of Social Welfare , University of Social Welfare and Rehabilitation Sciences , Tehran , Iran . Email address: hassan441015@gmail.com.",
+            "clean_institute": "University of Social Welfare and Rehabilitation Sciences",
+            "country": "Iran",
+            "postal_town": "Tehran"
         }
     }
 }
