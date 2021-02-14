@@ -842,10 +842,10 @@
         "location": {
             "candidate_institute": "Queen Elizabeth Hospital, Woolwich, London, UK. Electronic address: christopher.rao@nhs.net.",
             "clean_institute": "Queen Elizabeth Hospital, London",
-            "country": "United Kingdom",
-            "postal_town": "London",
             "latitude": "51.478889",
-            "longitude": "0.051111"
+            "longitude": "0.051111",
+            "country": "United Kingdom",
+            "postal_town": "London"
         }
     }
 }

@@ -2246,10 +2246,10 @@
         "location": {
             "candidate_institute": "Department of Epidemiology, School of Health, Arak University of Medical Sciences, Arak, Iran.",
             "clean_institute": "Arak University of Medical Sciences",
-            "country": "Iran",
-            "postal_town": "Arak",
             "latitude": "34.08",
-            "longitude": "49.7"
+            "longitude": "49.7",
+            "country": "Iran",
+            "postal_town": "Arak"
         }
     }
 }

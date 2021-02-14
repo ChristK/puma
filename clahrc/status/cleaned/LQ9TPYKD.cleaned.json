@@ -1143,10 +1143,10 @@
         "location": {
             "candidate_institute": "Public Health Wales, Cardiff, UK.",
             "clean_institute": "Public Health Wales",
-            "country": "United Kingdom",
-            "postal_town": "City and County of Cardiff",
             "latitude": "51.47695",
-            "longitude": "-3.166712"
+            "longitude": "-3.166712",
+            "country": "United Kingdom",
+            "postal_town": "City and County of Cardiff"
         }
     }
 }
