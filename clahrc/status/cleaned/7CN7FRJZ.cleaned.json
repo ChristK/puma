@@ -1114,7 +1114,7 @@
                         "prism:coverDate": "2017-06-01",
                         "prism:coverDisplayDate": "1 June 2017",
                         "prism:doi": "10.1093/intqhc/mzx027",
-                        "citedby-count": "22",
+                        "citedby-count": "23",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1249,7 +1249,7 @@
         "year_published": "2017",
         "citations": {
             "scopus": {
-                "count": "22"
+                "count": "23"
             }
         },
         "location": {
