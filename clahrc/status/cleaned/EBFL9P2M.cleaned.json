@@ -431,7 +431,6 @@
                         "dc:identifier": "SCOPUS_ID:84990935756",
                         "eid": "2-s2.0-84990935756",
                         "dc:title": "There is still a perception that homelessness is a housing problem\": Devolution, homelessness and health in the UK",
-                        "dc:creator": "Whiteford M.",
                         "prism:publicationName": "Housing, Care and Support",
                         "prism:issn": "14608790",
                         "prism:volume": "19",
@@ -441,14 +440,6 @@
                         "prism:coverDisplayDate": "2016",
                         "prism:doi": "10.1108/HCS-06-2016-0003",
                         "citedby-count": "2",
-                        "affiliation": [
-                            {
-                                "@_fa": "true",
-                                "affilname": "University of Liverpool",
-                                "affiliation-city": "Liverpool",
-                                "affiliation-country": "United Kingdom"
-                            }
-                        ],
                         "prism:aggregationType": "Journal",
                         "subtype": "ar",
                         "subtypeDescription": "Article",
@@ -503,13 +494,6 @@
                 "count": "2"
             }
         },
-        "location": {
-            "candidate_institute": "University of Liverpool",
-            "clean_institute": "University of Liverpool",
-            "latitude": "53.406",
-            "longitude": "-2.967",
-            "country": "United Kingdom",
-            "postal_town": "Liverpool"
-        }
+        "location": {}
     }
 }
