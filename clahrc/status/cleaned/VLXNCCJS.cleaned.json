@@ -595,7 +595,7 @@
                         "prism:coverDisplayDate": "November 2018",
                         "prism:doi": "10.1016/j.healthplace.2018.08.019",
                         "pii": "S1353829218303563",
-                        "citedby-count": "15",
+                        "citedby-count": "16",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -744,7 +744,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "15"
+                "count": "16"
             }
         },
         "location": {
