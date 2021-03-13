@@ -481,9 +481,6 @@
                                 },
                                 {
                                     "$": "repositoryvor"
-                                },
-                                {
-                                    "$": "repositoryam"
                                 }
                             ]
                         },
