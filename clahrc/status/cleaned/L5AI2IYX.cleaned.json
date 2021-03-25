@@ -3351,7 +3351,7 @@
                         "prism:coverDate": "2016-11-07",
                         "prism:coverDisplayDate": "7 November 2016",
                         "prism:doi": "10.1002/14651858.CD010224.pub2",
-                        "citedby-count": "123",
+                        "citedby-count": "124",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -3552,7 +3552,7 @@
         "year_published": "2016",
         "citations": {
             "scopus": {
-                "count": "123"
+                "count": "124"
             }
         },
         "location": {
