@@ -4,7 +4,7 @@
         "DOI": "10.1002/14651858.CD011412.pub3",
         "DOI_filename": "1bd2e7acf281fb0560f2fb1c2dcda541",
         "PMID": "29243813",
-        "scopus": "",
+        "scopus": "2-s2.0-85038075855",
         "hash": "331a88ee951f89a90ccb73d420f2349c"
     },
     "raw": {
@@ -4299,7 +4299,79 @@
                 ]
             }
         },
-        "scopus_data": null
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1002/14651858.CD011412.pub3)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD011412.pub3%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD011412.pub3%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038075855"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038075855?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85038075855&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85038075855&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85038075855",
+                        "dc:identifier": "SCOPUS_ID:85038075855",
+                        "eid": "2-s2.0-85038075855",
+                        "dc:title": "Antiepileptic drug monotherapy for epilepsy: A network meta-analysis of individual participant data",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2017",
+                        "prism:issueIdentifier": "12",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2017-12-15",
+                        "prism:coverDisplayDate": "15 December 2017",
+                        "prism:doi": "10.1002/14651858.CD011412.pub3",
+                        "citedby-count": "0",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD011412",
+                        "source-id": "29775",
+                        "openaccess": "1",
+                        "openaccessFlag": true
+                    }
+                ]
+            }
+        }
     },
     "filename": "VRX9H6DK.merged",
     "clean": {
@@ -4472,7 +4544,9 @@
         },
         "year_published": "2017",
         "citations": {
-            "scopus": {}
+            "scopus": {
+                "count": "0"
+            }
         },
         "location": {
             "candidate_institute": "Department of Biostatistics, University of Liverpool, Block F, Waterhouse Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL.",

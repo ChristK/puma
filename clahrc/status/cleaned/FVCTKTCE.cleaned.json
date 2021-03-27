@@ -1284,7 +1284,7 @@
                         "prism:coverDate": "2016-11-14",
                         "prism:coverDisplayDate": "14 November 2016",
                         "prism:doi": "10.1002/14651858.CD001031.pub3",
-                        "citedby-count": "25",
+                        "citedby-count": "26",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1385,7 +1385,7 @@
         "year_published": "2016",
         "citations": {
             "scopus": {
-                "count": "25"
+                "count": "26"
             }
         },
         "location": {
