@@ -643,30 +643,7 @@
                         "subtypeDescription": "Review",
                         "source-id": "19384",
                         "openaccess": "0",
-                        "openaccessFlag": false,
-                        "freetoread": {
-                            "value": [
-                                {
-                                    "$": "all"
-                                },
-                                {
-                                    "$": "repository"
-                                },
-                                {
-                                    "$": "repositoryam"
-                                }
-                            ]
-                        },
-                        "freetoreadLabel": {
-                            "value": [
-                                {
-                                    "$": "All Open Access"
-                                },
-                                {
-                                    "$": "Green"
-                                }
-                            ]
-                        }
+                        "openaccessFlag": false
                     }
                 ]
             }

@@ -775,6 +775,9 @@
                                 },
                                 {
                                     "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
                                 }
                             ]
                         },
