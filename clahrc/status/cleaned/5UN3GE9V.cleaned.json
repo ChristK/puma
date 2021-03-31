@@ -1420,9 +1420,6 @@
                                 },
                                 {
                                     "$": "repositoryvor"
-                                },
-                                {
-                                    "$": "repositoryam"
                                 }
                             ]
                         },
