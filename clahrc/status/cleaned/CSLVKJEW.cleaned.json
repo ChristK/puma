@@ -1489,7 +1489,7 @@
                         "prism:coverDate": "2018-01-01",
                         "prism:coverDisplayDate": "January 2018",
                         "prism:doi": "10.1111/jar.12367",
-                        "citedby-count": "11",
+                        "citedby-count": "12",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1632,7 +1632,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "11"
+                "count": "12"
             }
         },
         "location": {

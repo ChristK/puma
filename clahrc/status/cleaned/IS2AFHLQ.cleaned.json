@@ -475,7 +475,7 @@
                         "prism:coverDate": "2017-11-07",
                         "prism:coverDisplayDate": "7 November 2017",
                         "prism:doi": "10.1001/jama.2017.14485",
-                        "citedby-count": "24",
+                        "citedby-count": "25",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -613,7 +613,7 @@
         "year_published": "2017",
         "citations": {
             "scopus": {
-                "count": "24"
+                "count": "25"
             }
         },
         "location": {

@@ -648,12 +648,6 @@
                                 },
                                 {
                                     "$": "publisherfree2read"
-                                },
-                                {
-                                    "$": "repository"
-                                },
-                                {
-                                    "$": "repositoryam"
                                 }
                             ]
                         },
@@ -664,9 +658,6 @@
                                 },
                                 {
                                     "$": "Bronze"
-                                },
-                                {
-                                    "$": "Green"
                                 }
                             ]
                         }

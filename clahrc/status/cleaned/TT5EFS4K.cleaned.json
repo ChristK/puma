@@ -746,7 +746,7 @@
                         "prism:coverDate": "2018-01-01",
                         "prism:coverDisplayDate": "2018",
                         "prism:doi": "10.1212/WNL.0000000000006564",
-                        "citedby-count": "9",
+                        "citedby-count": "10",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -915,7 +915,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "9"
+                "count": "10"
             }
         },
         "location": {
