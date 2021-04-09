@@ -607,7 +607,7 @@
                         "prism:coverDate": "2016-10-01",
                         "prism:coverDisplayDate": "1 October 2016",
                         "prism:doi": "10.1093/fampra/cmw050",
-                        "citedby-count": "0",
+                        "citedby-count": "1",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -745,7 +745,7 @@
         "year_published": "2016",
         "citations": {
             "scopus": {
-                "count": "0"
+                "count": "1"
             }
         },
         "location": {
