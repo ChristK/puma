@@ -861,7 +861,7 @@
                         "prism:coverDate": "2017-12-04",
                         "prism:coverDisplayDate": "4 December 2017",
                         "prism:doi": "10.1080/09638288.2016.1231846",
-                        "citedby-count": "12",
+                        "citedby-count": "13",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -970,7 +970,7 @@
         "year_published": "2017",
         "citations": {
             "scopus": {
-                "count": "12"
+                "count": "13"
             }
         },
         "location": {
