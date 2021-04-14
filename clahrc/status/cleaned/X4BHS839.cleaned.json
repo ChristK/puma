@@ -625,7 +625,7 @@
                         "prism:coverDisplayDate": "1 September 2016",
                         "prism:doi": "10.1017/S1463423616000074",
                         "pii": "S1463423616000074",
-                        "citedby-count": "6",
+                        "citedby-count": "7",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -758,7 +758,7 @@
         "year_published": "2016",
         "citations": {
             "scopus": {
-                "count": "6"
+                "count": "7"
             }
         },
         "location": {

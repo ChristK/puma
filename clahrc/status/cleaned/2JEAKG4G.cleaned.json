@@ -601,15 +601,12 @@
                         "subtype": "ar",
                         "subtypeDescription": "Article",
                         "source-id": "20530",
-                        "openaccess": "1",
-                        "openaccessFlag": true,
+                        "openaccess": "0",
+                        "openaccessFlag": false,
                         "freetoread": {
                             "value": [
                                 {
                                     "$": "all"
-                                },
-                                {
-                                    "$": "publisherfree2read"
                                 },
                                 {
                                     "$": "repository"
@@ -623,9 +620,6 @@
                             "value": [
                                 {
                                     "$": "All Open Access"
-                                },
-                                {
-                                    "$": "Bronze"
                                 },
                                 {
                                     "$": "Green"
