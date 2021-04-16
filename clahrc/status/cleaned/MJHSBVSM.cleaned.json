@@ -608,7 +608,7 @@
                         "prism:coverDate": "2015-09-01",
                         "prism:coverDisplayDate": "September 2015",
                         "prism:doi": "10.1177/0004867415591827",
-                        "citedby-count": "1",
+                        "citedby-count": "2",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -750,7 +750,7 @@
         "year_published": "2015",
         "citations": {
             "scopus": {
-                "count": "1"
+                "count": "2"
             }
         },
         "location": {
