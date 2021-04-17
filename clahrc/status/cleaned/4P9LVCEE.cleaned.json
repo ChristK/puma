@@ -528,6 +528,9 @@
                                     "$": "repository"
                                 },
                                 {
+                                    "$": "repositoryvor"
+                                },
+                                {
                                     "$": "repositoryam"
                                 }
                             ]
