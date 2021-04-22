@@ -1519,7 +1519,7 @@
                         "prism:coverDate": "2018-04-06",
                         "prism:coverDisplayDate": "6 April 2018",
                         "prism:doi": "10.1093/schbul/sbx110",
-                        "citedby-count": "24",
+                        "citedby-count": "25",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -1696,7 +1696,7 @@
         "year_published": "2018",
         "citations": {
             "scopus": {
-                "count": "24"
+                "count": "25"
             }
         },
         "location": {
