@@ -1177,11 +1177,8 @@
         },
         "location": {
             "candidate_institute": "The Walton Centre for Neurology & Neurosurgery NHS Foundation Trust, Lower Lane, Fazakerley, Liverpool, UK, L9 7LJ.",
-            "clean_institute": "Walton Centre",
-            "latitude": "53.46654",
-            "longitude": "-2.931",
-            "country": "United Kingdom",
-            "postal_town": "Liverpool"
+            "clean_institute": "The Walton Centre NHS Foundation Trust",
+            "country": "United Kingdom"
         }
     }
 }
