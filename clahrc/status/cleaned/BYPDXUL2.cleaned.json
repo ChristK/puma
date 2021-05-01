@@ -604,7 +604,7 @@
                         "prism:coverDate": "2017-01-01",
                         "prism:coverDisplayDate": "2017",
                         "prism:doi": "10.1136/bmj.j3310",
-                        "citedby-count": "41",
+                        "citedby-count": "42",
                         "affiliation": [
                             {
                                 "@_fa": "true",
@@ -751,7 +751,7 @@
         "year_published": "2017",
         "citations": {
             "scopus": {
-                "count": "41"
+                "count": "42"
             }
         },
         "location": {
